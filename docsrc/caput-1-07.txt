@@ -1,0 +1,43 @@
+DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA         15
+
+ter theoriam illam empiristicam, sed propter modernas
+theorias, quae ex his difficultatibus originem habent. Hae
+enim theoriae theorias classicas ex integro rejiciunt et eo
+ipso convictionem saecularem, quam genus humanum de
+valore scientiae geometricae habebat, penitus evertunt.
+Urget igitur sine ullo dubio officium examinandi haec pro-
+blemata.
+
+§ 3. DUPLEX PROBLEMA FUNDAMENTALE.
+
+Ecce duo problemata. Prius est hoc : Data sensibili-
+tatis, i. e. ea quae a sensibus cognoscuntur et in quantum
+ita tantum cognoscuntur, sunt de se contingentia ; sensus
+tantum facta referunt ; sed iudicia mathematicae sese prae-
+sentant ut absolute necessaria, tum in arithmetica tum in
+geometria. Si illa iudicia ex datis sensitivis oriri debent,
+unde provenit illa necessitas ?
+Hoc problema invenitur, uti dictum est, tum in geome-
+tria tum in arithmetica. Sed sola geometria alterum pro-
+blema secum fert : data sensuum relate ad continuum
+intuitionis imaginativae, et relate ad perceptiones sensuum
+externorum — etiam adhibitis instrumentis perfectis —,
+non sunt exacta. Sensus non percipiunt puncta sine exten-
+sione, sed tantum parva corpuscula, quae non sunt puncta ;
+similiter nec lineas percipere possunt sed tantum corpora
+longa, quorum latitudo non est nulla. Sensus non possunt
+distinguere inter lineam rectam et aliam, quae est paululum
+tantum incurvata; non possunt decidere utrum tres lineae
+fere vel omnino exacte sint concurrentes; nec imaginatio
+haec omnia distinguere potest. Pro omni cognitione sensi-
+tiva adest « limen exactitudinis » quod sensus pertransire
+non possunt. Et tamen geometria de talibus iudicia absolute
+exacta proferre se contendit. Tres lineas medianas in trian-
+gulo omnino — « infinite » — exacte concurrere docet. Unde
+haec exactitudo ? In arithmetica hoc problema non adest,
+sensus perfecte percipere et decidere possunt utrum tria
+vel quinque obiecta adsint et quid ex harum multitudinum
+additione resultet; ibi exactitudo in datis sensitivis non
+deest.
+Non omnes alterum hoc problema bene describunt ;
+Kant videtur omnino non ad id attendisse ; in problematica

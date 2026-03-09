@@ -1,0 +1,43 @@
+DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA         21
+
+« Decisiva ad diiudicandum statum rerum nobis videtur esse cir-
+cumstantia, quod geometriam ab analysi revera independentem,
+quam ideale antiquum proprie postularet, somnium esse patet » 13.
+
+Sed gravior etiam fit difficultas, si examen ulterius
+docet geometriam hanc classicam nec ex analysi et depen-
+denter ab illa construi posse. Nam in tali casu mathematici
+maximi ingenii usque ad medium saeculum praecedens non
+tantum in methodo, sed etiam in iis quae se invenisse puta-
+bant, errassent.
+Et revera, in casu quem supponimus, res ita sese habere
+videtur. Utique, si agitur de applicatione approximativa
+(Approximationsmathematik iuxta F. Klein) non est magna
+difficultas ; nam haec tantum agit de rebus extensis experi-
+mentalibus, prout a sensibus ope perceptionis sensitivae
+inexactae cognoscuntur. Sed si agitur de proprietatibus
+extensionis abstractae, extensi ut extensi, de quibus geome-
+tria classica arguebat, haec non poterit, ut nobis videtur,
+deduci ex analysi, quin in ipsa hac applicatione omnes dif-
+ficultates eaedem iterum appareant. Et ita nihil profecimus.
+Si id verum est, nonne debemus affirmare, intellectum
+humanum nec hanc extensionem perfecte cognoscere, id
+quod genus humanum hucusque semper credidit ? Quid in
+specie dicendum de theoria cognitionis Aristotelicae, quae
+firmiter putabat, hanc scientiam ex datis sensitivis oriri ?
+Accedit aliud quid. Paulo post initium huius saeculi
+in ipsa hac superba analysi arithmetica difficultates ortae
+sunt, quae secundum quosdam (ita Weyl, Brouwer et alii)
+ad veri nominis « crisin » in mathematica ducunt. Et est
+unus vel alter (v. g. cl. O. Hölder) qui putet difficultates
+solvi non posse nisi per reditum ad considerationem conti-
+nui intuitivi; id quod nobis verum esse videtur. Eo magis
+urget munus inquirendi in modum superandi inexactitu-
+dinem datorum sensitivorum; id quod in sequentiibus
+facere conabimur.
+
+13 « Ausschlaggebend für die Beurtheilung der Sachlage scheint
+uns der Umstand zu sein, dass eine von der Analysis wirklich unab-
+hängige Geometrie, wie das antike Ideal sie eigentlich verlangen würde,
+sich als eine Utopie herausgestellt hat ». Sublineatio est ipsius cl.
+Study.
