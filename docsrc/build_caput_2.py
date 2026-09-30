@@ -21,9 +21,12 @@ fn_map = {
     30: '16 In editione'
 }
 
+chapter2_dir = os.path.join(root, 'chapter-02')
+
 pages_lines = []
 for p in range(1, 39):
-    fname = os.path.join(docsrc, f'caput-2-{p:02d}.txt')
+    book_p = p + 26
+    fname = os.path.join(chapter2_dir, f'page-{book_p:03d}.txt')
     with open(fname) as f:
         text = f.read().rstrip()
     if p in fn_map:

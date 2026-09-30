@@ -1,0 +1,44 @@
+DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA         23
+
+postulato V non erant contenti, geometriam Euclidicam ut
+unicam necessariam agnoscebant; si est error, quomodo
+explicandus ; si non est error, quid de severa critica moder-
+na dicendum ? Clarum est : iterum agitur de problemate
+gravi, quod in theoria generali cognitionis momentum ha-
+bet. Nonne Aristoteles et S. Thomas, quando thesin absolute
+certam tanquam exemplum proponere volunt, eligunt theo-
+remata ex geometria Euclidica ?
+
+§ 6. DE AXIOMATICA QUAE DICITUR.
+
+Ex hac critica sese evolvit integra scientia, pars « logi-
+cae iudicativae », quam Axiomaticam vocant. Supra sermo
+erat de intrinseca necessitate et immunitate a contradic-
+tione intrinseca, quae singulis systematibus geometricis,
+etiam non-Euclidiċis, competit. Ut de his proprietatibus
+constet, revera prima principia talis scientiae debent enun-
+tiari, singula et omnia. Hoc facto, unum systema v. g. geo-
+metria Euclidica enuntiari potest ut ingens propositio con-
+ditionalis. Indicemus principia litteris A, B ... et F, dein
+conclusiones litteris P, Q, R ... Integra geometria nunc ita
+enuntiari potest : Si A et B ... et F, tunc P et Q et R
+et ... Haec propositio, ut vere conditionalis, enuntiat intrin-
+secam necessitatem. Et haec scientia erit : hypothetico-deduc-
+tiva. Multi axiomatici volunt geometriam puram non esse
+nisi tale systema hypothetico-deductivum. Hypothesis fun-
+damentalis i. e. series axiomatum A, B ... F, non amplius
+relate ad valorem realem propositionum examinatur ;
+immo secundum axiomaticos extremos, ne relate ad earum
+sensum quidem. Notissima sunt verba quibus cl. Hilbert
+in capite primo libri Die Grundlagen der Geometrie exposi-
+tionem incipit :
+
+« Cogitamus tria diversa systemata rerum : res p r i m i systema-
+tis vocamus puncta easque indicamus litteris A, B, C, ... ; res s e -
+c u n d i systematis vocamus (lineas) rectas easque indicamus litteris
+a, b, c, ... ; res t e r t i i systematis vocamus (superficies) planas
+easque indicamus litteris α, β, γ, » 14.
+
+14 « Wir denken uns drei verschiedene Systeme von Dingen : die
+Dinge des e r s t e n Systems nennen wir Punkte und bezeichnen sie
+mit A, B, C, ... ; die Dinge des z w e i t e n Systems nennen wir

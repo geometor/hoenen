@@ -85,13 +85,16 @@ hoenen/
 ├── preface/
 │   ├── title.jpg
 │   ├── preface-1.png .. preface-3.png    (Original scans)
-│   └── page-005.png .. page-007.png     (Standardized pages)
+│   ├── page-005.png .. page-007.png     (Standardized pages)
+│   └── page-005.txt .. page-007.txt     (Transcribed text)
 ├── chapter-01/
 │   ├── caput-1-01.png .. caput-1-17.png  (Original scans)
-│   └── page-009.png .. page-025.png     (Standardized pages)
+│   ├── page-009.png .. page-025.png     (Standardized pages)
+│   └── page-009.txt .. page-025.txt     (Transcribed text)
 ├── chapter-02/
 │   ├── chapter-2.pdf                    (Source PDF)
-│   └── page-027.png .. page-064.png
+│   ├── page-027.png .. page-064.png     (Standardized pages)
+│   └── page-027.txt .. page-064.txt     (Transcribed text)
 ├── chapter-03/
 │   ├── chapter-3.pdf, page-fills.pdf    (Source PDFs)
 │   └── page-065.png .. page-094.png

@@ -1,0 +1,46 @@
+DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA         17
+
+Haec evolutio moderna secundum duplicem praesertim
+viam progressa est; et utraque respicit problema transitus
+ex inexactitudine sensationis ad exactitudinem intellectus
+mathematici. Prior via ducit ad arithmetizationem continui,
+quae dicitur, altera ad doctrinas, quae ex critica postulati V
+Euclidis ortum habent. Videamus breviter hanc evolutio-
+nem 5.
+
+§ 4. DE ARITHMETIZATIONE CONTINUI.
+
+Graeci numeros deducebant ex consideratione continui
+intuitivi. Aristoteles, uti notissimum est, distinguebat quan-
+titatem continuam et quantitatem discretam, quae ex divi-
+sione prioris ortum habet. Multitudo oritur ex divisione,
+multitudo mensurata per unum est numerus, numerus inte-
+ger, numerus naturalis.
+Quomodo ex eadem divisione notio numeri fractionalis
+orta sit, hic explicatione non indiget. Graeci, ut videtur,
+non volebant considerare fractiones ut numeros ; ubi Aegyp-
+tii (et moderni) fractionem considerant et quidem ut nu-
+merum, Graeci admittebant proportiones inter continua,
+lineas, quae sese habent ut numeri ; ita : si lineae diversae
+longitudinis per multiplicationem ope numerorum diverso-
+rum ad aequalitatem evehi possunt, tunc earum proportio
+est inversa proportioni horum numerorum.
+Sed etiam iam detexerunt dari lineas (v. g. latus et dia-
+gonalem quadrati) quae nullam proportionem numeralem
+admittebant, quae erant incommensurabiles, irrationales.
+Difficultates quae ex his proportionibus irrationalibus (sed
+realibus) oriebantur, Eudoxus per suam theoriam propor-
+tionum (quae in libro V Elementorum Euclidis describitur)
+splendide solvit 6.
+Moderniores, certe inde a Cartesio, has proportiones
+omnes ut numeros considerabant et, sicut Graeci habebant
+« continuum proportionum » quod est « insieme » omnium
+
+5 Vide Cosmologiam nostram ed. 4 not. III pagg. 446-455, VII
+pagg. 471-482.
+6 Vide H. HASSE und H. SCHOLZ, Die Grundlagenkrisis der Grie-
+chischen Mathematik in Kantstudien (1928) pagg. 4-34; H. SCHOLZ,
+Warum haben die Griechen die Irrazionalzahlen nich aufgebaut ? ibid.
+pagg. 35-72.
+
+2 — P. HOENEN, S. I. - De Noetica Geometriae
