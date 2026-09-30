@@ -273,7 +273,10 @@ def run_all():
     shutil.copy(fills_pdf, ch4_dir / "page-fills.pdf")
     print("\n--- Processing Chapter 4 ---")
     process_spread(c4_pdf, 1, ch4_dir, left_page_num=None, right_page_num=95)
-    for p in range(2, 6):
+    process_spread(c4_pdf, 2, ch4_dir, left_page_num=96, right_page_num=97)
+    # spread 3 replaced by page-fills p. 3 (98-99) to avoid top margin cropping
+    process_spread(fills_pdf, 3, ch4_dir, left_page_num=98, right_page_num=99)
+    for p in range(4, 6):
         lp = 96 + (p - 2) * 2
         rp = lp + 1
         process_spread(c4_pdf, p, ch4_dir, left_page_num=lp, right_page_num=rp)

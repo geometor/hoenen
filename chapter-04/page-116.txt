@@ -1,0 +1,42 @@
+tionis supprimi nequit ; nec tantum post longam geometriae
+evolutionem exsurgit. Hanc notionem realizari quoque in
+geometria exacta, in quantum lineas sine latitudine, veras
+lineas, considerat, statim clarum est ; sub aliis respectibus
+etiam ad exactitudinem iustificatam evolvi potest, ut statim
+videbimus ; prius propria quaedam examinanda sunt huius
+notionis.
+Diversitas directionum linearum relate ad invicem in
+puncto P per quod transeunt, importat divergentiam vel
+deviationem unius relate ad alteram in extenso in quo P
+situm est ; haec distinguenda est ab ipsa directione, sicut
+effectus a causa. Haec divergentia iam accuratius examinan-
+da est. Sit, in eadem superficie, tertia linea c quae per idem
+punctum P transit ; haec, sicut b, habet divergentiam relate
+ad a. Statim patet : haec divergentia potest esse maior vel
+minor, quam ea quam habet b ; hoc sensu : incipit continere
+maiorem vel minorem partem superficiei prope punctum P.
+Aliud proprium est : potest dari, relate ad a, deviatio in
+uno vel in alio sensu ; sensus distingui possunt v. g. verbis
+« a dextro » et « a sinistro », vel aliis verbis quae similem
+oppositionem relate ad invicem supponunt. Fac c habere
+maiorem divergentiam relate ad a quam b ; divergentia
+quam c habet, considerari potest ut summa divergentiarum
+duarum : b relate ad a et c relate ad b ; divergentiae addi
+et subtrahi possunt ; (hoc iam non valet si non eadem est
+superficies in qua tres lineae sitae sunt).
+Aliud proprium est valde curiosum. Divergentia in
+uno sensu potest fieri maior (in sensu opposito tunc fit
+minor), sed non ultra omnes limites crescere potest ; nam
+in fine divergentia fit nulla, directiones duarum linearum in
+vel per punctum P sunt eaedem. Ita haec deviatio direc-
+tionis, quae mensuram admittit, non, sicut ipsum extensum
+et multae figurae in illo, in infinitum crescere potest ; ideo
+nec additio divergentiarum in infinitum repeti potest ;
+saltem sensu proprio. Haec ergo notio directionis et notio
+eius divergentiae — quae postea ad notionem exactam
+anguli ducent — pertinent revera ad notiones primas,
+earum propria ad ea quae statim manifesta sunt. Haec
+omnia leguntur in phantasmate tanquam necessaria, pro-
+fluentia ex natura linearum in superficie sitarum ; sine in-
+tuitione phantasmatis non possunt plene intelligi, nec quoad
+sensum notionum nec quoad iudicia quae his notionibus

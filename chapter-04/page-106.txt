@@ -1,0 +1,44 @@
+Alter respectus secundum quem ad eam pertinet est
+hic : motus essentialiter habet « directionem ». Considere-
+mus motum puncti secundum lineam determinatam AB.
+Alius realiter est motus ab A ad B, alius motus inversus.
+Insuper : punctum illud in plano moveri potest, dicamus
+per punctum P, secundum diversas lineas quae per illud
+punctum duci possunt ; et in singulis casibus motus sunt
+diversi. Haec diversitas resultat ex dato pure geometrico,
+ex directione diversa linearum in plano relate ad invicem.
+Haec igitur notio « directionis » negligi non potest, si exten-
+sum ut tale plene intelligere volumus ; insuper pertinet ad
+primas notiones quas de extenso habemus. Ideo haec notio
+diligentius examinanda erit ; id postea faciemus ; nunc ad
+duo attendamus.
+Primo : directio est quid qualitativi ; non est quidem
+intensiva sed nec pure quantitativa. Id quod statim ex eo
+patet, quod differentia duarum quantitatum praedicamenta-
+lium est quantitas eiusdem generis ; differentia duarum lon-
+gitudinum est longitudo. Sed differentia duarum directio-
+num non est directio. Pertinet quidem ad quantitatem ; nam
+ex illa differentia statim aliquid quantitativi resultat, quod
+dein evolvi poterit ita, ut ad notionem anguli perveniamus ;
+et anguli ad invicem addi et subtrahi possunt ; differentia
+angulorum est angulus. Aliud nunc observare velim : etiam
+velocitas habet « directionem » ; non est pura intensitas,
+sed est id quod in physica vocatur : vector.
+Aristoteles in tractatu de tempore (Phys. IV 11, 219 a 10-18) iam
+accurate explicat directionem temporis, simul cum continuitate, oriri
+ex directione motus et — id quod ad rem nostram pertinet — hanc
+ex directione (θέσει) et continuitate in magnitudine. Ait :
+ἐπεὶ δὲ τὸ κινούμενον κινεῖται ἔκ τινος εἴς τι καὶ πᾶν μέγεθος συνεχές,
+ἀκολουθεῖ τῷ μεγέθει ἡ κίνησις· διὰ γὰρ τὸ τὸ μέγεθος εἶναι συνεχὲς καὶ
+ἡ κίνησίς ἐστιν συνεχής ...
+
+tio » movent, non evitare applicationem principii individuationis, sed
+id implicite supponere. Nam ut hae figurae moveri possint, praesup-
+ponitur extensum (spatium) in quo moventur, talem habere struc-
+turam, ut illae figurae diversis partibus « spatii » applicari possint,
+et quidem modo continue variabili. In illo « spatio » tales limites par-
+tium (lineae) ut possibiles, mathematice existentes, praesupponuntur.
+Possibilitas motus corporis rigidi praesupponit spatium et eius pro-
+prietates, non vice versa. Et ex principio individuationis plura deri-
+vari possunt quam ex solo principio liberi motus corporum rigido-
+rum. Cfr. Gregorianum 1951 pagg. 449 sq.

@@ -1,0 +1,44 @@
+sensus quidam logicus et ex eo diversi sensus reales derivari
+possunt ; sed nullus est inter eos qui eam aequiparare posset
+geometriae Euclidicae. Nunc ostendendum est, quos errores
+nos non committamus in asserenda necessitate unicae geome-
+triae Euclidicae, tanquam scientiae de extenso, ut est ex-
+tensum, quae erat conclusio ex supra expositis.
+
+*
+*    *
+
+Observamus primo. Error qui saepe tribuitur eis qui
+asserunt necessitatem geometriae Euclidicae, hic est : co-
+nantur demonstrare postulatum V ex (solis) aliis axiomati-
+bus quae Euclides, sive explicite sive implicite, admittit.
+Nescio utrum revera existat aliquis qui hoc facere conatus
+sit ; si existit, certo errat. Demonstratum est enim a mathe-
+maticis, alia illa axiomata, unita cum certa propositione
+negante postulatum V, non posse ad contradictionem du-
+cere. Hic est proprie ille sensus primarius, pure logicus,
+geometriae non-Euclidicae. Inde certum est, postulatum V
+esse omnino independens a ceteris illis axiomatibus, ideo-
+que ex eis solis demonstrari non posse. Nos in supra exposi-
+tis non conabamur hoc facere ; postulatum quidem stabili-
+vimus, sed adhibitis aliis mediis, intuitionibus primitivis,
+praeter cetera axiomata Euclidis.
+Ex quo etiam statim patet, nos non committere alium
+errorem qui saepe eis tribuitur, qui geometriae Euclidicae
+positionem unicam vindicant. Non dicimus ipsum postu-
+latum V esse immediate evidens. De hoc puncto quaedam
+hic adumbranda saltem sunt.
+Quaenam erat in decursu historiae difficultas quae
+contra postulatum V, tanquam principium primum propo-
+situm, moveri poterat ? Est haec : postulatum affirmat,
+duas rectas in uno plano incidentes in tertiam in ea parte
+plani, per hanc tertiam divisi, concurrere, ubi summa angu-
+lorum internorum quos cum tertia efficiunt, est infra duos
+angulos rectos. Haec propositio inspicienti figuram in qua
+haec summa est multo infra hunc valorem, utique statim
+clara est. Sed si est paululum tantum infra hunc valorem —
+et, propter continuitatem, differentia in infinitum usque ad
+zero decrescere potest — propter inexactitudinem sensuum
+iam non potest statim intellective legi in figura ; adde quod
+punctum per quod una ex duabus rectis fere parallela ad
+alteram pertransit, multum distare potest ab alia ; et haec

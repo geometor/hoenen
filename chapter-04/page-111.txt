@@ -1,0 +1,42 @@
+Singula elementa quibus usi sumus, inveniuntur in
+demonstratione Euclidis ; translatio tamen nulla adhibita
+est ; theorema sequitur ex principio individuationis, quod
+exprimit propriam passionem extensionis. Atque hoc prin-
+cipium videtur semper adhiberi in simili argumentatione,
+tanquam iudicium virtuale. Quod ope huius principii, cuius
+intuitus operationibus mentis nostrae semper et naturaliter
+miscetur, transcendere valemus inexactitudinem sensibi-
+litatis, in decursu demonstrationis apparet. Quia autem non
+explicite affirmatur, nec mentaliter, id ibi tanquam iudi-
+cium virtuale adesse, quod analysi detegitur et in iudicium
+formale transit, dicendum est. Alii quoque intuitus adsunt ;
+v. g. illi propter quos unicum tantum punctum, unicam
+lineam, unicum segmentum adesse affirmabamus. Et ideo
+analysis talis demonstrationis utilis et necessaria est ad
+detegendum modum quo mens humana in geometricis ope-
+ratur, ad constituendam igitur doctrinam de cognitione
+nostra geometrica.
+Post ea quae videbamus relate ad demonstrationem hanc Eucli-
+dis, forte ulterius progrediendum est et dicendum : etiam ipse Eucli-
+des in sua demonstratione non intendit applicare translationem figu-
+rae (trianguli) sed tantum adhibere principium individuationis, ut
+nos fecimus. Scimus utique historicos non ita interpretari Euclidem ;
+nobis tamen videtur eius expositionem hanc interpretationem admittere.
+Nam ubi loquitur de « applicatione » trianguli ABC ad DEZ (ἐφαρ-
+μοζομένου τοῦ τριγώνου) et de « positione » puncti A ad D (τιθεμένου
+τοῦ σημείου), eius verba ita intelligere possumus, ut non transferatur
+triangulus ABC, sed ut triangulus ei congruens, qui iuxta principium
+individuationis in omni positione existat, in novo situ (DEZ) de novo
+ex suis elementis construatur, actuetur ; et possibilitas actuationis
+singulorum elementorum iterum ex eodem principio constat. Haec
+interpretatio videtur esse possibilis ; si est vera, etiam in ipsa demons-
+tratione Euclidis non adhibetur translatio ut medium demonstrationis.
+Et iterum apparet translationem figurae invariabilis ut medium de-
+monstrationis aequivalere suo fundamento, quod exprimitur principio
+individuationis.
+Concludere possumus : sicut in abstrahendis notioni-
+bus exactis superficiei, lineae, puncti (tanquam indivisi-
+bilium omnino vel sub certo respectu) ex datis inexactis
+sensitivis, mens nostra, ex intellecta natura extensionis,
+non solum notiones exactas concipit, sed ea obiecta mathe-
+matice existere intelligit (III § 2 n. 2), ita etiam in casu con-

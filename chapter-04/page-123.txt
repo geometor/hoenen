@@ -1,0 +1,44 @@
+Praecipua quae inquirenda sunt, ut ex supra dictis
+sequitur, haec fere sunt : Utrum in lineis distantibus quae
+sensibiliter similem directionem habere possunt, haec simi-
+litudo exacte existere possit ; utrum in extenso directio
+constans, consequenter 13 linea recta quae sensibiliter existit,
+etiam exacte detur ; utrum superficiebus sensibiliter planis
+etiam correspondeant plana exacta, in quibus omnis recta
+exacta cuius duo puncta in eis sita sunt, integra in eis conti-
+neatur ; utrum planum tale sit, ut circa singula eius puncta
+continua directionum inveniantur quae inter se solo numero
+differant.
+Supra dictum est, definitionem lineae rectae quae ab Euclide
+ponitur, non sine probabilitate significare eius directionem constan-
+tem. Similiter non est improbabile, ut nobis videtur, propria superfi-
+ciei planae quae supra inventa sunt, intendi (tanquam exacta utique)
+in eius definitione plani , quae aliter obscurissima esset. En eius de-
+finitio (Def. VII, in ed. Heiberg pagg. 2 et 3) : « ἐπίπεδος ἐπιφάνειά
+ἐστιν, ἥτις ἐξ ἴσου ταῖς ἐφ' ἑαυτῆς εὐθείαις κεῖται, Plana superficies
+est, quaecumque ex aequo rectis in ea sitis iacet ».
+
+6. De existentia rectae et plani.
+Iam inquirendum est, utrum figurae exactae, in primis
+recta et superficies plana, quarum notiones ex datis sensibi-
+libus inexactis hauriebamus, etiam revera mathematice
+existant ; utrum in extenso ut tali, uniformi, in « spatio »,
+
+13 Dicimus « consequenter » ; nam, ut ex dictis manifestum est,
+« directio » non definitur ope notionis lineae rectae, sed, vice versa,
+« directio constans » est differentia specifica quae rectam a curva dis-
+tinguit ; notio autem « directionis », modo supra indicato immediate
+hauritur ex experientia et est notio primitiva; est « modus transeundi
+per punctum » cuiusvis lineae. Notio directionis constantis habetur
+ex eadem experientia, quae directiones sensibiliter constantes revelat.
+In ulteriori investigatione iam non agitur de notione sed de quaes-
+tione utrum existat, de quaestione « an est ». Et agitur unice de pro-
+blemate exactitudinis. Perperam igitur dicit Helmholtz (Schriften
+zur Erkenntnistheorie ed. P. Hertz et M. Schlick 1921 pag. 141) :
+« Wie soll man aber Richtung definieren ; doch wieder nur durch die
+gerade Linie. Hier bewegen wir uns in einem Circulus vitiosus » (« Quo-
+modo definienda est directio ; tantum utique ope lineae rectae. Hic
+movemur in circulo vitioso »). Ex supra dictis clare sequitur : directio
+est idea primitiva quae non definitur technice, sed statim ex experien-
+tia hauritur. Ad hanc difficultatem postea redibimus ; ab aliis maiori
+cum profunditate proponitur.

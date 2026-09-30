@@ -1,0 +1,43 @@
+illorum circulorum, talia sunt principia quae nec demonstrari
+possunt nec demonstratione indigent. Sed praesertim est
+quaestio de aliis principiis geometricis, quae quidem probari
+possunt, sed in ipsa geometria non probantur sed suppo-
+nuntur. Quomodo haec noetice differunt a conclusionibus
+geometricis, i. e. ab eis propositionibus ipsius geometriae
+quae in ipsa quidem demonstrantur ? Ut hanc differentiam
+detegamus, quaedam praelibanda sunt quae spectant di-
+versitatem, quam Aristoteles et scholastici statuere solent,
+inter scientiam stricte dictam, quae est habitus conclusio-
+num, et intellectum stricte dictum, qui est habitus princi-
+piorum immediate evidentium. Scientia stricte dicta, ope
+syllogismi, ex praemissis conclusiones deducit ; utitur ter-
+mino qui est medius inter terminos extremos conclusionis ;
+intellectus stricte dictus intelligit sine medio inter extrema
+principii. Ut syllogismus sit vere demonstratio, requiritur,
+ut praemissae sint necessariae et ut forma syllogismi sit
+recta, i. e. requiritur necessitas connexionis, ope termini
+medii, inter praemissas ; requiritur tum necessitas materiae,
+quae est necessitas principiorum, tum necessitas ipsius formae
+syllogismi, necessitas consequentiae.
+Sed bene attendenti utrique necessitati, sese manifestat
+mira quaedam diversitas, quae non solet examinari et ta-
+men est maximi momenti. Possumus enim exprimere sin-
+gulas propositiones, ut solam earum formam urgeamus, ope
+symbolorum v. g. litterarum ; tunc utimur « terminis trans-
+cendentibus » ut ait S. Albertus Magnus 29 ; ita iam faciebat
+Aristoteles et inde ab eo hic usus factus est universalis. Ita
+syllogismum exprimere possumus : omne S est M, omne M
+est P, ergo omne S est P. Haec formula exprimit necessi-
+tatem connexionis quae est inter conclusionem et praemissas
+simul sumptas, et ideo inter S et P, ope medii M. Necessitas
+formae, sive consequentiae syllogismi, ita exprimitur.
+
+29 S. ALBERTUS MAGNUS, Anal. Prior. I tract. I cap. 9 (in ed.
+Jammy, 1651, I pag. 298 a) : « terminis utimur transcendentibus, nihil
+et omnia significantibus. Nihil dico : quia nullam determinatam ma-
+teriam. Omnia vero dico significantibus : quia omnibus materiis sunt
+applicabiles, sicut sunt a, b, c ».
+Etiam pseudo-Thomas in opere Summa totius logicae utitur locu-
+tione « termini transcendentes » quibus opponuntur « termini signi-
+ficativi » ; op. cit. tract. VII cap. 2 et 6 (in editione Mandonnet pagg.
+102-104, pag. 111).

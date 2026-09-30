@@ -1,0 +1,42 @@
+in initiis geometriae ponitur : postulatum V vel eius aequi-
+valens. Atque ex nostra analysi stabilitum est, hoc axioma
+sustineri debere ; aliae geometriae, in quantum sunt vere
+geometriae, scientiae de ente extenso ut tali, non sunt ae-
+quiparandae geometriae Euclidicae, sunt vere eius partes,
+sequuntur igitur ex postulato V, si termini in sensu suo
+naturali sumuntur. Ponimus igitur, in initiis geometriae,
+veritatem quandam quae non est immediate evidens, quae
+iustificari potest et debet per operationes mentales quae
+ante ipsa initia geometriae instituuntur.
+Proprie loquendo plus quam unam veritatem huius
+generis invenimus. Ad idem genus pertinent : axioma quod
+statuit, duo puncta semper unam rectam determinare (et
+haec recta si est « terminata », « in directum educi in conti-
+nuum » potest) item : axioma quod statuit, in plano ex « quo-
+vis centro radioque circulum describi » posse ; et haec tria
+sunt prima « postulata » Euclidis. Etiam quartum eius pos-
+tulatum quod affirmat, « omnes rectos angulos inter se aequa-
+les esse », eiusdem est indolis ; aliquid simile huic postulato
+invenimus in monstrando, aequales angulos corresponden-
+tes oriri in omni parte cuiusvis plani, si recta incidit in alias
+rectas, inter se parallelas. Etiam existentia mathematica
+— non ipsae notiones — rectae et plani ad has veritates
+pertinent. Haec omnia spectant problema exactitudinis et
+quidem praesertim eius partem alteram. Ex axiomatibus
+quae in geometria adhibentur, quaedam tantum, pertinentia
+ad « ordinem » et ad « connexionem », sicut quae notionem
+« inter » et situm puncti in linea spectant, sunt immediate
+evidentia ; et haec usque ad saeculum praecedens non sole-
+bant explicite enuntiari.
+Manifestum igitur est, in geometria classica quasdam
+veritates ut « principia prima » adhiberi, quae non sunt im-
+mediate evidentia, quae deductione indigent et deduci pos-
+sunt. Id animadvertentes, meminimus eorum quae antea
+(§ 1) ab Aristotele edocti sumus. Resumamus ea secundum
+explicationem S. Thomae. In Anal. Post. I 2 et 10 Aristo-
+teles distinguit « axiomata » (dignitates) ab « hypothesibus »
+(suppositionibus) et « aitematibus » (petitionibus sive postu-
+latis). Ad primam classem pertinent ea principia quae hoc
+habent proprium, « quod non solum necesse est ea per se
+vera esse sed etiam necesse est videri quod per se sint vera.
+Nullus enim potest opinari contraria eorum » (S. Th. lect.

@@ -1,0 +1,42 @@
+« gaussianam » « valoris zero » habent, quae ideo ad planum
+applicari possunt, sed quae tamen habent « curvaturam in-
+tuitivam » et veram (superficies cylindricae et conicae).
+
+§ 5. De geometria Euclidica et non-Euclidica.
+
+Ex analysi nostra sequitur geometria Euclidica, et
+quidem tanquam necessario unica ; id quod nostris tempori-
+bus haberi potest pro defectu, immo pro errore. Nam prae-
+ter geometriam Euclidicam, etiam non-Euclidica, et quidem
+plus quam una, admittenda est ut vera. Hae quidem inter-
+dum a mathematicis — ita saltem fit in Neerlandia — vo-
+cantur « geometriae pathologicae » ; sed haec « pathologia »
+non spectat mentes geometrarum qui eas colunt, sed po-
+tius obiecta de quibus agunt. Et haec forte potius iocose
+dicuntur ; nam mathematici solent geometriae non-Eucli-
+dicae eundem valorem tribuere quam Euclidicae. Immo
+eum qui geometriam Euclidicam unice necessariam vocet,
+iam non legendum esse dicunt. Ait cl. F. Hausdorf :
+« Mathematicae iam licet, omnem constructionem a priori quae
+spatium Euclidicum cum eius propriis specialibus, ut necessarium, sine
+praesuppositis arbitrariis, deducere contendit, sine examine ad acta
+deponere » 21.
+Haec anno 1904 conscripta sunt ; sed etiam postea
+similia proferuntur. Attamen hodie germana indoles geome-
+triae non-Euclidicae melius nota est et etiam nos, post de-
+ductionem nostram, geometriae non-Euclidicae verum et
+realem sensum tribuimus, immo sensum qui latius patet,
+quam is quem auctor laudatus ei tantum vindicat. Tantum
+non poterimus eundem valorem realisticum tribuere geo-
+metriae utrique : Euclidicae et non-Euclidicae ; idque non
+tantum in ordine practico (ut Poincaré faciebat) sed praeser-
+tim in ordine theoretico et relate ad theoriam cognitionis
+mentis humanae. (Vide infra VI § 1).
+Geometria non-Euclidica habet quidem sensum verum
+et realem, immo plures sensus habet. Primus inter eos est
+
+21 F. HAUSDORF, Das Raumproblem in Annalen der Naturphilo-
+sophie III (1904) pag. 3 : « Die Mathematik darf jede aprioristische
+Konstruktion, die den euklidischen Raum mit seinen speziellen Eigen-
+tümlichkeiten, als Denknotwendigkeit, willkürfrei und voraussetzungs-
+los zu deduzieren behauptet, ungeprüft ad Acta legen ».

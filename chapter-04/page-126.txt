@@ -1,0 +1,42 @@
+quae prima divisione extensi, nobis originaliter dati, (quod
+dein sese revelabat ut extensum trium dimensionum), oriun-
+tur. Haec figura iam statim agnoscebatur ut exacta in hoc
+sensu, quod secundum unam dimensionem quae in extenso
+originali adest, est indivisibilis, permittens transitum in
+indivisibili ex una parte in alteram (III § 2, n. 2, A). Haec
+figura quoad alia elementa exactitudinis examinanda est,
+et quidem specialiter, utrum superficies plana, cuius notio
+iam stabilita est, etiam mathematice existat ; utrum post
+« quid est » huius proprii superficierum (scilicet « planitu-
+dinis ») etiam constare possit de « an est ».
+In superficie sensibiliter et clare incurvata haec obser-
+vantur : non aequaliter respicit duas partes extensi, inter
+quas est limes ; versus unam partem est concava, versus
+alteram eo ipso est convexa. E contra superficies sensibiliter
+plana eodem modo respicit utramque partem ; ex eo dato
+oritur conceptus superficiei exacte planae. Eam existere
+statim intelligimus ex uniformitate extensi ut talis, « spa-
+tii » ; iterum quia huius partes ab invicem nulla nisi distinc-
+tione numerica distinguuntur, ideo potest dari limes inter
+duas partes qui perfecte eodem modo eas respicit. Et qui-
+dem secundum duplicem respectum : 1º ita ut hoc verifi-
+cetur in una parte superficiei quam consideramus et 2º ita
+ut idem eodem modo verificari possit in singulis aliis parti-
+bus quae ita nonnisi numerice ab invicem distinguuntur.
+Primum verificatur quoque in partibus infinitesimalibus
+sphaerae, alterum non.
+Sed haec diversitas et identitas respectuum versus
+unam et aliam partem spatii magis determinari potest,
+etiam in geometria exacta. Singula puncta superficiei sunt,
+ut supra dictum est, apices continui directionum quae
+circa illa puncta in superficie inveniuntur. Prout punctum
+situm est in spatio, quod per superficiem dividitur, est apex
+continui directionum tridimensionalis, quod per superfi-
+ciem in duas partes scinditur (praeter eas directiones quae
+in ipsa superficie adsunt). Omnes hae directiones per super-
+ficiem transeunt, sed una classis superficiem penetrat, dica-
+mus a sinistra versus dexteram, altera continet directiones
+inversas quae transeunt a dextera versus sinistram. (Lineae
+quae per idem punctum penetrant singulae secundum unam
+directionem in ipsa linea pertinent ad unam classem, se-
+cundum oppositam directionem ad alteram). Haec quoque

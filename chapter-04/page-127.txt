@@ -1,0 +1,42 @@
+conservantur in geometria exacta, quae etiam considerare
+potest directiones quarum transitus sensibiliter observari
+non potest. Ope horum conceptuum possumus magis deter-
+minare illam diversitatem et identitatem respectuum.
+Sit superficies sensibiliter incurvata, cuius facies con-
+cava respicit partem dexteram, facies convexa igitur partem
+sinistram spatii ; sit linea sensibiliter recta (quae potest
+esse exacte recta, nam eam existere iam novimus) et verti-
+calis. Haec, in directione quae sursum tendit, primo pene-
+trat superficiem a sinistra versus dextram, dein, in maiori
+altitudine, a parte dextra versus sinistram. Eadem igitur
+directio in una linea modo inverso se habet relate ad super-
+ficiem in uno et in alio puncto ipsius. Hoc est quod diceba-
+mus : superficies non eodem modo respicit unam et alteram
+partem spatii ; et hoc verum manet in geometria exacta :
+relate ad directiones easdem (huius lineae rectae) superfi-
+cies in diversis punctis se habet modo opposito.
+Superficies igitur plana, quae eodem modo respicit
+utramque partem spatii quod dividit, erit ea quae relate
+ad directiones exacte similes eodem modo se habet. Et
+propter uniformitatem extensi ut talis, spatii, talis super-
+ficies etiam in geometria exacta existit. In tali superficie
+eaedem directiones per eam transeunt ex una parte in aliam,
+eaedem modo inverso, eaedem in ipsa sitae sunt ; et quidem
+in singulis punctis.
+
+7. De connexionibus rectae et plani 15.
+Quae ultimo loco dicta sunt, respiciunt connexiones
+inter rectam exactam et planum exactum et statim ducunt
+ad diversa axiomata. Quaedam tantum hic exponenda sunt.
+
+15 In operis Quaestioni riguardanti le matematiche elementari,
+quod edidit F. Enriques, volumine I (ed. 3) legitur sectio quam scripsit
+U. Amaldi « sui concetti di retta e di piano ». Hic bene exponuntur
+difficultates quae surgunt in accurate stabiliendis his connexionibus ;
+non sunt paucae nec leves. Auctor, uti mos est apud mathematicos,
+notione directionis uti non vult ; inde difficultates augentur. Facile
+utique esset, « postulare » axiomata connexionis. Sed in hoc casu pro-
+blema nostrum noeticum, quod sane dignissimum est quod examine-
+tur, ex integro negligitur. Iam axioma simplex quod affirmat, rectam
+per duo puncto determinari, non potest directe ex experientia hauriri,
+propter problema exactitudinis, et exigit analysin noeticam.

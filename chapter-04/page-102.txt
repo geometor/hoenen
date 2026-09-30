@@ -1,0 +1,40 @@
+ad affirmationem congruentiae in hoc casu realisatae, ex
+illa perceptione sola manet illegitimus. Ut transitus ad af-
+firmationem possibilitatis congruentiae sit legitimus, requi-
+ritur et sufficit intuitus intellectivus, ex intellectu naturae
+extensionis profluens, qui extensionem agnoscit ut princi-
+pium individuationis in geometricis. Et hic intuitus sine
+ullo dubio naturaliter in mente humana aderat, dum geo-
+metriam classicam construebat, sicut aderat intuitus punc-
+torum, linearum, superficierum per quem iam transcendebat
+cognitionem sensitivam ; aderant ut iudicia virtualia.
+Sed ex hucusque dictis nondum possumus scire, quae-
+nam figurae exactae sint possibiles, utrum lineae perfecte
+rectae, circuli perfecti etc. mathematice existant. Id quod
+hucusque constat est tantum hoc : si in una parte extensi
+possibiles sunt, et in alia. Tamen id iam sufficit, ut diversas
+theses geometricas relate ad congruentiam exactam dedu-
+camus, ut statim exemplo monstrabimus.
+Prius autem aliud considerandum est. Geometrae saepe
+utuntur « motu » figurarum, ut tales theses probent ; Eucli-
+des id iam fecit in prima thesi quam de hac materia de-
+monstrat. Quia difficultates fiunt contra hunc modum pro-
+cedendi et in genere contra usum notionis « motus » in geo-
+metria, haec notio quae intime cohaeret cum natura extensi,
+ut est principium individuationis, prius dilucidanda est.
+§ 2. DE MOTU IN GEOMETRICIS.
+Euclides motum figurarum adhibet in primo theore-
+mate quod de congruentia figurarum demonstrat (I th. 4 ;
+ed. Heiberg pagg. 16-19) ; ita saltem ab interpretibus in-
+telligi solet, quamquam, ut videbimus, alia interpretatio
+est possibilis. Ibi probat congruentiam duorum triangulo-
+rum ABC et DEZ quae habent duo latera aequalia (AB =
+DE et AC = DZ) et angulos inter ea, A et D, etiam aequa-
+les ; possibilitas horum datorum iam dependet a principio
+individuationis. Ut thesin demonstret, transfert, aiunt, pri-
+mum triangulum et applicat eum ad alterum : A ad D,
+AB ad DE ; eo ipso, propter data, B cadet in E, AC appli-
+cabitur ad DZ et punctum C ad Z. Quia inter E et Z existit
+tantum unica recta (nam « duae rectae non possunt com-
+prehendere spatium ») BC cadet in EZ ; et inde ipsi toti
+trianguli coincidunt.

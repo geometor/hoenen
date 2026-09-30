@@ -1,0 +1,42 @@
+Euclides igitur in argumento applicat translationem,
+motum ergo, figurarum ; id quod rarissime facit (praeter
+hunc locum citantur I 8 et III 24) ; hanc autem methodum
+quidam moderni vehementer carpunt. Statim videbimus
+methodum hanc evitari posse ita ut structura argumenti
+vix mutetur ; tamen eius legitimitas omnino sustinenda est.
+Nemo Euclidem vehementius carpit quam B. Russell 3 :
+Argumentum Euclidis « nullum habet valorem logicum et omnem
+puerum intelligentem pungit tanquam praestigia » 4.
+Experientia tamen nostra testari videtur argumentum
+Euclidis pueris intelligentibus non minus convincere quam
+alia quaevis, in hac et in alia materia. Sed audiamus primam
+rationem quam Russell profert. Ait :
+« Primo, notio motus implicat, nostros triangulos non esse spa-
+tiales sed materiales. Nam punctum spatii est positio, nec magis
+quoad positionem variari potest quam leopardus quoad maculas suas ...
+motus, sensu consueto, tantum possibilis est materiae non spatio » 5.
+Ceterae rationes praesertim respiciunt notionem « cor-
+poris rigidi » i. e. figurae invariabilis in translatione et sta-
+tim a nobis, etiam secundum alios auctores modernos, con-
+siderabuntur. Haec prima ratio est maxime fundamentalis,
+quia respicit ipsam notionem « motus in geometricis » ; et
+ideo magis examinanda est.
+Dicit igitur Russell, motum pertinere ad corpora, non
+ad spatium, quod a geometria consideratur, cuius puncta
+sunt positiones, quae ipsae moveri non possunt. Sed errat
+Russell ; geometria est utique scientia de extenso ut est
+extensum (non v. g. ut est coloratum) ; id saepe exprimunt
+dicendo : geometria est scientia « spatii » ; id quod admitti
+potest, si vox « spatii » hic significat : extensum ut tale ;
+sed id falsum est, si vox sumitur pro « spatio imaginario »,
+quod est receptaculum fictitium corporum. Geometria uti-
+
+3 B. RUSSELL, Principles of Mathematics 1903, ed. 2 1937, n. 390
+sq., pagg. 405-407.
+4 « It has no logical validity, and strikes every intelligent child
+as a juggle » (loc. cit.).
+5 « In the first place, to speak of motion implies that our triangles
+are not spatial but material. For a point of space is a position, and
+can no more change its position than the leopard can change its spots
+... motion, in the ordinary sense, is only possible to matter, not to
+space » (loc. cit.).

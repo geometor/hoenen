@@ -1,0 +1,40 @@
+rando duo parva segmenta linearum (etiam sensibiliter
+curvarum) quae, in puncto P intersecantes, per illud punc-
+tum transeunt, secundum diversas directiones. Haec seg-
+menta minora sumi possunt, sunt enim divisibilia. Si prius
+considerabantur segmenta PA et PB, nunc sumi possunt
+PC et PD, in quibus C est inter P et A, D inter P et B ;
+et hic processus iterari potest, et quidem in infinitum, et
+quidem in utraque parte lineae, transeuntis per P. Ita autem
+procedentes iam accedimus ad exactiorem considerationem
+intellectivam directionis linearum in puncto P i. e. modi
+quo per illud punctum transeunt. Ut considerationem omni-
+no exactam habeamus, cuius possibilitas menti nostrae intui-
+tive manifesta est, debemus limitem considerare i. e. modum
+quo puncta mobilia C et D, in lineis PA et PB, cum P coin-
+cidunt. Et haec « diversitas in modo coincidendi » pro punc-
+tis mobilibus est vera et exacta diversitas directionum utrius-
+que lineae in puncto P, modi quo per illud punctum trans-
+eunt.
+Haec directio in calculo infinitesimali consideratur, et
+ibi patet, etiam lineam rectam et lineam curvam eodem
+modo, i. e. secundum eandem directionem, pertransire posse.
+Nec mirum est eundem modum procedendi ibi adhiberi,
+ubi sermo est de velocitate mobilis, qua per punctum P
+transit (quae in mechanica consideratur) et ubi sermo est
+de contactu inter diversas curvas sive de determinanda
+directione tangentis ad curvam ; non mirum, dicimus, ibi
+eundem modum procedendi, differentiationem vel modum
+aequivalentem adhiberi ; directio enim motus sive veloci-
+tatis, ut est vector, originem suam habet ex directione geo-
+metrica lineae.
+Notio accurata directionis in infinitesimalibus atten-
+tionem nostram dirigit in aliam notionem, quam ita analysi
+exactae subpicere possumus : duae lineae per idem punctum
+P transire possunt eodem modo, secundum eandem direc-
+tionem (ita diversae curvae et recta quae in P habent punc-
+tum contactus) ; in P, vel per P, eandem habent directionem,
+sed dein in aliis punctis diversas directiones habebunt.
+Haec dein notio ad duplicem alium gressum faciendum invi-
+tat : ad comparandum directiones linearum in diversis
+punctis, et etiam partes unius lineae ad invicem.

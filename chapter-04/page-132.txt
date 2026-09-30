@@ -1,0 +1,43 @@
+Haec optime et verissime dicuntur in suppositione illius
+propositionis tanquam definitionis ; si autem est propositio
+quae sequitur ex notione exacta directionis, aliunde stabi-
+lita, iam non vera sunt. Nam ex hac sequitur propositio uni-
+versalis : quaevis recta cum duabus rectis eiusdem direc-
+tionis facit angulos correspondentes aequales.
+Et ideo praesertim hunc auctorem et eius difficultatem
+tam late exponimus, quia ex ea melius intelligitur, in modo
+nostro procedendi — qui genetice invenit etiam existen-
+tiam (quoad « an est ») notionum exactarum : directionis,
+rectae ut lineae directionis constantis, plani ut principii
+individuationis, anguli ut mensurae diversitatis directionis
+— nos statim pervenire ad propositionem universalem :
+quaevis linea recta cum duabus rectis eiusdem directionis
+(parallelis) aequales facit angulos correspondentes ; sicut
+sequitur universaliter propositio inversa : si una recta cum
+duabus aliis, in eodem plano sitis, facit aequales angulos
+correspondentes, hae rectae sunt parallelae.
+Et de toto hoc processu dici potest : haec ex experien-
+tia quidem patent modo approximativo, sed ex adhibitis
+mediis perveniendi ad cognitionem exactam intellectivam,
+patet eam esse exactam et necessariam. Ultimum medium
+attingendi exactitudinem est intuitus extensi ut est princi-
+pium individuationis. Hoc principium importat non tantum
+idem specifice continuum directionum in singulis punctis,
+sed insuper aequalitatem angulorum, qui ex eadem specifice
+differentia directionum resultant. Huius principii casus spe-
+cialis est postulatum IV Euclidis de aequalitate angulorum
+rectorum. Et omnia media adhibita exigunt quidem, ut
+explicite detegantur, analysin philosophicam accuratam,
+sed haec ipsa media in construenda geometria classica ad-
+hibebantur implicite et naturaliter, ut iudicia virtualia.
+Ideo haec analysis manifestat modum procedendi mentis
+humanae, le cheminement de la pensée 20.
+
+Winkel bilden, auch von jeder Geraden unter gleichen Winkeln geschnit-
+ten werden » (loc. cit.). Hanc ideam mutuat ex Gauss ad quem remit-
+tit. Gauss' Werke IV S. 365. Similem ideam invenimus apud cl. Hölder,
+Die mathematische Methode pag. 120, vide Cosmologiam nostram pag.
+455.
+20 Difficultas quam ex cl. Killing exponebamus, etiam invenitur
+apud cl. U. Amaldi quem supra laudavimus (op. cit. § 3 pag. 46) ;
+post supra dicta non opus est ut ad eam redeamus.

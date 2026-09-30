@@ -1,0 +1,42 @@
+inter alias quae in eadem superficie constructae sunt, sita
+esse potest. Hae notiones et haec propria, ut in capite III
+vidimus, in geometria exacta, quae veras superficies et lineas
+et vera puncta indivisibilia invenit, conservantur et ibi ad
+propositiones quae in ea tantum verificantur, ducunt v. g. :
+inter duo puncta in infinitum alia construi possunt (III
+§ 2 n. 6). Axiomata quae ad hanc partem pertinent duas
+constituunt series : axiomata connexionis (Verknüpfung) et
+axiomata ordinis (Anordnung).
+Hae notiones et haec axiomata conservantur quoque
+apud Hilbert, quamquam quis sit apud eum sensus horum
+verborum interrogari non potest. Nam sensus desumendus
+est ex intuitione, quam Hilbert quidem tanquam medium
+heuristicum admittit, quam tamen dein excludere vult,
+eo fine ut dein pure logice, per puros syllogismos, indepen-
+denter ab omni intuitione geometrica, procedere possit (I
+§ 5). Termini igitur et axiomata eius sunt symbola pura,
+sicut in logica minore, ubi de modis et figuris syllogismorum
+agitur, pro subiecto et praedicato symbola introducuntur.
+Sed bene advertendum est : Hilbert quidem admittit, sen-
+sum naturalem numerorum notum esse et adhiberi ; insuper
+notae supponuntur notiones ut haec : « operatio quae in
+infinitum repeti potest » ; et forte alia ; v. g. in § 3 incipit
+loqui de segmento (Strecke) et ad id introducendum utitur
+voce « systematis duorum punctorum » (das System beider
+Punkte), ubi vox « systema » videtur supponi nota.
+Hilbert quidem in eligendis (« creandis ») notionibus et
+axiomatibus intuitionem sequitur et plus quam alii in pro-
+pinquitate geometriae classicae manet, sed intuitione tan-
+quam fundamento uti non vult 11. Sed in his tres animadver-
+siones videntur esse alicuius vel etiam magni momenti.
+Primo : enuntiat tanquam notiones tantum, non tanquam
+axiomata, ea quae « propria » illa de quibus locuti sumus,
+exprimunt ; id facit in suis « declarationibus ». Haec tamen
+sunt vera iudicia ; v. g. relationes possibiles inter puncta
+et lineas exprimuntur verbis : « puncta sita sunt in linea »
+et ita porro. Sed hic adest iudicium, saltem virtuale, quod
+
+11 Ita optime cl. Hadamard (in Encyclopédie Française I 1937,
+I-52-10) : « Bien entendu, l'auteur des Grundlagen der Geometrie [Hil-
+bert] s'est, dans ce travail logique, laissé constamment guider par
+l'intuition géométrique ». Cfr. quoque quae dein sequuntur.

@@ -1,0 +1,42 @@
+extenso non simul verificatur positio Euclidis et positio haec
+altera ; nam sunt inter se contradictoria. Sed posset dari
+planum Euclidicum et alia, hoc sensu non-Euclidica. In
+hac suppositione patet quoque, posse dari diversa extensa
+huius secundi generis quae inter se ita se habent, ut prius
+vel posterius positio liminaris, in qua duae illae rectae iam
+non concurrunt, attingatur. Quare, si haec extensa existunt,
+constituunt integram classem quae infinite multas species
+continet, quae ab invicem per suam structuram differunt.
+Haec differentia exprimi potest quodam factore, in singulis
+speciebus constante, continue variabili in transitu ad aliam
+speciem ; si hic factor est sat parvus, extensum ab eo de-
+terminatum sensibiliter non differt, in regione apte electa,
+ab extenso Euclidico ; haec est geometria quam Lobatcefsky
+invenit. Problema positum est iterum problema exactitu-
+dinis, et intuitio directa postulati V id solvere non potest.
+Dicebamus diversa extensa esse possibilia ; ex hucusque
+dictis tantum hoc sensu, ut constet de absentia contradic-
+tionis internae, sensu descripto, in illis extensis alterius ge-
+neris. Sed in hac suppositione intelligitur positio eorum ma-
+thematicorum qui, ut Gauss, experimento volebant deci-
+dere, utrum mundus realis esset Euclidicus vel forte non.
+Haec dicenda sunt si non adest aliud medium decidendi
+problema, si postulatum V non potest tanquam veritas
+necessaria deduci ex aliis, quae quidem sunt immediate
+evidentes. In decursu historiae diversa media proposita
+sunt ; et inde clarum est, saltem eos qui haec proponebant,
+non admisisse errorem prius memoratum ; non volebant de-
+monstrare postulatum ex solis aliis axiomatibus. Sed alius
+aderat error : media proposita eodem defectu laborabant
+quo ipsum postulatum ; nec haec media erant, propter ine-
+xactitudinem sensuum, sufficientia. Duo indicamus. Prius
+medium est propositio quae affirmat, existere triangulos
+non aequales quorum latera sunt proportionalia. Haec est
+vere aequivalens postulato V. Sed nec haec propositio est
+immediate evidens ; pro sensibus utique dari possunt tales
+trianguli ; sed inde, propter inexactitudinem sensibilitatis,
+non sequitur eam proportionalitatem exacte verificari. Alte-
+rum est, quod Clavio tribuitur ; tanquam definitio assumi-
+tur : locus punctorum aequidistantium a recta sit parallela.
+Hic locus est quidem sensibiliter linea recta ; sed eam esse
+exacte rectam, ex solo intuitu constare non potest ; iterum

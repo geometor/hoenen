@@ -1,0 +1,43 @@
+19 n. 2 ; Aristoteles habet 76 b 23 : ὃ ἀνάγκη εἶναι δι’ αὑτὸ
+καὶ δοκεῖν ἀνάγκη). Suppositiones et postulata hoc com-
+mune habent, « quod cum sint demonstrabilia, tamen de-
+monstrator accipit ea non demonstrans, et praecipue quia
+non sunt demonstrabilia per suam scientiam, sed per aliam »
+(ibid. lect. 19 n. 4 ; Aristoteles 76 b 27 : δεικτὰ ὄντα λαμβά-
+νει αὐτὸς μὴ δείξας). Inter se autem differunt « quia si
+quidem talis propositio sit probabilis addiscenti, cui fit
+demonstratio, dicitur suppositio ... Si vero ille nec sit eius-
+dem opinionis, neque contrariae, oportet quod demonstrator
+hoc ab eo petat, et tunc dicitur petitio. Si autem sit contra-
+riae opinionis, tunc erit quaestio » (S. Th. ibid. ; Aristoteles
+ibid. 28 : ταῦτ’, ἐὰν μὲν δοκοῦντα λαμβάνῃ τῷ μανθάνοντι, ὑπο-
+τίθεται... ἂν δὲ ἢ μηδεμιᾶς ἐνούσης δόξης ἢ καὶ ἐναντίας ἐνούσης
+λαμβάνῃ τὸ αὐτὸ, αἰτεῖται). Haec doctrina praesertim respicit
+magistrum docentem discipulum ; difficultates 27 et differen-
+tiam hic indicatam negligimus ; ceterum manifestum est
+hanc divisionem, in diversis casibus « discipulorum », ad di-
+versos exitus ducere. Sed in genere ita describuntur ea quae
+supra inveniebamus.
+
+*
+*    *
+
+Ad classem « dignitatum » pertinebunt ea quae divisi-
+bilitatem extensorum respiciunt, dein existentia indivisi-
+bilium, quaedam axiomata ordinis et connexionum, quae
+ideo antiquitus ne enuntiabantur quidem. Etiam Euclides
+ea non enuntiat et ideo a quibusdam acriter carpitur ; et
+quidem maxima ex parte immerito, immo erronee. Inter
+eos iterum eminet B. Russell, e cuius critica supra iam quae-
+dam vidimus. Relate ad ipsam primam propositionem Ele-
+mentorum ita scribit 28 :
+
+27 Cfr. v. g. TH. WAITZ in suo Commentario in Anal. Priora I
+23 ; in eius editione I pagg. 427-429.
+28 In eodem opere Principles of Mathematics pagg. 404 sq. :
+« There is no evidence whatever that the circles which we are told
+to construct intersect, and if they do not, the whole proposition fails.
+Euclid's problems are often regarded as existence-theorems, and from
+this point of view, it is plain, the assumption that the circles in ques-
+tion intersect is precisely the same as the assumption that there is an
+equilateral triangle on a given base ».

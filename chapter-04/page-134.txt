@@ -1,0 +1,43 @@
+in lineis ; et haec notio ad exactitudinem elaboratur aliis
+mediis quam per ambages definitionis et postulati Euclidis ;
+iam habetur ex eo quod extensum cognoscitur ut principium
+individuationis. Et hoc est principium quod utique non
+solet enuntiari sed quod semper adest in mente humana,
+dum propria extensi considerat. Unde qui examinat modum
+cognoscendi mentis humanae ea negligere non potest.
+Relate ad supra dicta duae animadversiones sequantur.
+Prima haec est : ex eis quae secundum logicam relationum
+dicebamus non sequitur, omnino inter se identificari rela-
+tiones aequalitatis quantitatum et parallelitatis directionis
+linearum. Exemplo sit alia relatio, quae suo quoque modo
+est transitiva, symmetrica et reflexiva, relatio scilicet per-
+fectae similitudinis inter obiecta qualitatum v. g. colorum.
+Ibi quoque valet : si a est simile b, et b simile c, a est simile
+c ; simul : si a est simile b, b est simile a ; et insuper dici potest
+a est simile sibimet ipsi. Quamvis igitur relatio aequalitatis
+quantitatum et perfectae similitudinis inter qualitates eas-
+dem tres proprietates habent, earum tamen fundamenta,
+quantitas et color, sunt diversa et nota ut diversa. Eodem
+modo fundamentum relationis parallelitatis, scilicet directio
+rectae, quae est characteristica pro geometria Euclidica,
+diversa est et ut diversa nobis nota, a fundamentis illarum
+aliarum relationum. Id quod quidam, applicantes doctrinam
+logicae relationum, interdum oblivisci videntur.
+Altera animadversio haec est. In theoria unicae paral-
+lelae redit notio intuitiva directionis, directionis constantis,
+rectae, quae hanc directionem ut proprium habet. Si igitur
+existit extensum, quod non admittit theoriam Euclidicam
+unicae parallelae, non admittit directionem constantem,
+non admittit lineas vere rectas ; erit igitur extensum quod
+sensu proprio et intuitivo est : incurvatum. Philosophi mathe-
+matici qui curvaturam (quae iuxta Gauss definitur) deter-
+minant per mensuras intrinsecas in extenso (v. g. in super-
+ficie) et non respiciunt ea quae extra id possunt esse, inter-
+dum dicunt, hanc curvaturam non esse veri nominis curva-
+turam, sensu intuitivo. Si mensurae sensu consueto et non
+mutato considerantur, errare videntur. Nam in extenso
+deest « rectitudo » quae directionem constantem importat ;
+est vere incurvatum. Et ita necessario supponit extensionem
+plurium dimensionum, in qua adsunt directiones deficientes
+in extenso quod mensuratur ; et hoc in illa sensu proprio
+incurvatur. Ceterum : dantur superficies, quae curvaturam

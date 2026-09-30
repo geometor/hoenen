@@ -1,0 +1,43 @@
+« Non datur ullum argumentum [« evidence »] demonstrans cir-
+culos quos iubemur describere, inter se secare, et si id non obtinet,
+tota propositio deficit. Problemata Euclidis saepe considerantur ut
+theoremata existentiae, et in hac suppositione manifestum est, as-
+sumptionem quae ponit circulos illos inter se secare, esse praecise
+eandem ac ea quae ponit existere triangulos aequilateros supra rec-
+tam datam ».
+Euclides carpitur ex eo quod sine argumento assumit,
+duos illos circulos inter se secare ; id quod manifeste facit,
+nam loquitur simpliciter de « puncto C, in quo circuli inter
+se secant ». Dein Russell (cum aliis multis) affirmat, Eucli-
+dem in hac propositione tantum velle demonstrare existen-
+tiam mathematicam trianguli aequilateri (supra rectam
+cuiusvis longitudinis in quovis situ, tanquam latus). Id veris-
+simum esse, nobis quoque videtur ; ceterum S. Thomas iam
+eodem modo intelligit intentionem Euclidis (vide Anal.
+Post. I lect. 2 n. 5). Et ideo Euclides dicitur, apud Russell,
+aequo iure (i. e. sine fundamento iustificante) potuisse sup-
+ponere existentiam huius trianguli directe, sine hac argu-
+mentatione vel constructione. Haec autem assertio est erro-
+nea, ignorat problema exactitudinis aut modum aptum id
+solvendi. Nam, ex sola intuitione trianguli sensibiliter aequi-
+lateri, non possumus iure affirmare, mathematice existere
+triangulum exacte aequilaterum ; hic transitus directus ad
+affirmationem exactitudinis est manifeste illegitimus. Sed
+illos circulos, illo modo constructos (quorum existentia ex
+
+Addimus verba Euclidis secundum versionem quam legimus
+apud Heiberg (pagg. 11 sq.) : « In data recta terminata triangulu
+aequilaterum construere.
+Sit data recta terminata AB oportet igitur in recta AB terminata
+triangulum aequilaterum construere.
+Centro A et radio AB circulus describatur BCD, et rursus centro
+B radio autem BA circulus describatur ACE, et a puncto C, in quo
+circuli inter se secant, ad puncta A, B ducantur rectae CA, CB. Iam
+quoniam punctum A centrum est circuli CDB, erit AC = AB, rursus
+quoniam B punctum centrum est circuli CAE, est BC = BA. sed
+demonstratum est etiam CA = AB. quare utraque CA, CB rectae
+AB aequalis est. quae autem eidem aequalia sunt, etiam inter se
+aequalia sunt [κ. ἔνν. 1] (i. e. secundum primam e « communibus
+animi conceptionibus »). itaque etiam CA = CB. itaque CA, AB,
+BC aequales sunt, quare triangulus ABC aequilaterus est ; et in data
+recta terminata AB constructus est. quod oportebat fieri ».

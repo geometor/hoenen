@@ -1,0 +1,42 @@
+plicite continentur. Nam intendebat agere de recta et plano
+sensu descripto ; et ea quae in geometriis novis his ter-
+minis describuntur, sunt alia obiecta.
+Sed 2°, iuxta supra exposita etiam plus dicendum est :
+haec alia obiecta a geometria classica non excluduntur. Nam
+ea obiecta, etiam ea quae sensibiliter sunt similia obiectis
+geometriae classicae (et de his agitur in problemate exacti-
+tudinis) non sunt nisi pars obiectorum geometriae classicae ;
+sunt revera obiecta incurvata in spatio altiori. Ideo verius
+dicendum est : in geometria classica non excludebantur,
+sed nondum examinabantur ; ideo potius pertinent ad ea,
+quae in decursu evolutionis geometriae nova inveniuntur ;
+eorum ignorantia praevia sane non constituit errorem.
+Sed inter obiecta noviter inventa, extensa non-Euclidica
+habent aliquid valde particulare ; et inde intelligitur origo
+nostrae difficultatis. Est autem hoc : proprietates extenso-
+rum non-Euclidicorum possunt deduci ex axiomatibus quae
+omnino eisdem terminis exprimuntur ac axiomata Eucli-
+dica rectae et plani, excepto solo postulato V, cuius loco
+Lobatcefsky aliud, ei contradicens, ponere potuit. Haec
+est proprietas valde mira, et eius inventio est opus maximi
+meriti. Inde etiam intelligitur, quare geometrae conati
+sint aequiparare novam geometriam geometriae Euclidicae ;
+inde provenit sententia quae difficultatem movet contra
+theorias classicas cognitionis, quae geometriam Euclidicam
+ut necessariam et unicam habent. Ita intelligitur, quare haec
+difficultas oriri possit, sed simul intelligitur eam non valere.
+Dicimus alia axiomata, ea scilicet quae praecedunt
+postulatum V, in utraque geometria eisdem omnino exprimi
+terminis. Inde, ut iam dictum est, non sequitur eos eundem
+sensum habere. Iam vidimus, geometriam classicam terminis
+« recta » et « planum » tribuere sensum exactum quem antea
+explicavimus ; hae autem voces non possunt eundem sen-
+sum retinere in novis geometriis. Nam ex his conceptibus
+exactis necessario profluit, ut monstratum est, postulatum
+V. Non ideo etiam dici potest, hoc postulatum logice, ope
+syllogismi, sequi ex aliis axiomatibus. Tantum dicendum
+est : haec alia axiomata nondum omnia propria « rectae »
+et « plani », quae intuitive novimus de his obiectis, expri-
+munt ; ut haec propria exprimantur indigemus postulato V,
+vel quodam aequivalenti ei. Hoc sensu, et hoc sensu tantum
+possumus approbare ea quae dicit Poincaré, scilicet postu-

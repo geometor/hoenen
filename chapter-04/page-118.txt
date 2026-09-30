@@ -1,0 +1,42 @@
+versis punctis ambientis coincidant. Post introductam com-
+parationem directionum per puncta distantia (n. 3) intelli-
+gimus, in secundo casu fieri posse, ut duae hae lineae habeant
+eandem specifice directionem per puncta ambientis occu-
+patis a duobus punctis homologis linearum. Tunc lineae
+dici possunt differre « sola positione », habere autem eandem
+« orientationem ».
+Si figurae congruentes compositae sunt ex multis lineis,
+haec applicari possunt ad lineas homologas in eis. Duplex
+etiam diversitas « in solo situ » in his figuris invenitur. Una,
+ubi duo puncta homologa coincidunt cum eodem puncto
+ambientis, vocari poterit diversitas in sola « orientatione »,
+alia erit diversitas in « positione » ; in casu generali duarum
+figurarum congruentium, utraque diversitas simul adest.
+
+3. De continuo directionum.
+Divergentia quae, iuxta supra dicta, mensuram admit-
+tit, potest esse tam parva, ut sensum lateat. Idem dicendum
+de diversitate directionum ; directiones transituum per unum
+punctum modo continuo variari possunt ; inde circa quodvis
+punctum datur integrum continuum directionum, fascis
+continuus, cuius apex est ipsum punctum. Sed ideo etiam,
+in consideranda divergentia eiusque mensura, possunt quae-
+dam inveniri quae de novo problema exactitudinis ponunt.
+Quod autem datur in singulis punctis continuum directio-
+num, ex dictis videtur constare.
+Etiam statim sine ulteriori examine intelligitur, circa
+quodlibet punctum superficiei non posse dari nisi continuum
+directionum, quod in extenso trium dimensionum in quo
+superficies est limes partium, iam invenitur ; non integrum
+hoc in superficie invenitur, sed tantum sectio eius ; eae di-
+rectiones quae per hunc limitem, superficiem scilicet, trans-
+eunt, non inveniuntur in superficie, ceterae quidem, saltem
+in ipso puncto P quod consideratur. Inde est quod in sin-
+gulis punctis extensi trium dimensionum dentur continua
+directionum tridimensionalia, in superficiebus bidimensio-
+nalia tantum. (Addendum est : fieri potest ut in uno puncto
+superficiei aliud continuum directionum e continuo tridi-
+mensionali conservetur, quam in alio ; ut statim magis
+exponetur).
+Nam etiam alio modo continuitas in hoc problemate
+consideranda est. Incipiebamus analysin nostram conside-

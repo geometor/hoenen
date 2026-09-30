@@ -1,0 +1,42 @@
+propter defectum exactitudinis in datis sensilibus, quae
+directe vinci non potest.
+Loco harum notionum usi sumus notione directionis ;
+sed et haec iam saepius ad decidendum nostrum problema
+introducta est ; inter philosophos v. g. a Renouvier. Et ibi
+quidem id est immediate evidens : per punctum extra rec-
+tam situm, unicam tantum eiusdem exacte directionis duci
+posse. Sed si haec notio non genetice explicatur et eius exis-
+tentia, simul cum existentia rectae et plani, et eorum con-
+nexionum, non intelligitur et ope principii individuationis
+examinatur, subiacet difficultatibus, quas antea a mathema-
+ticis prolatas audivimus. Inde hanc notionem et has exis-
+tentias omni cura examinabamus. Et in nostro modo evol-
+vendi notionem directionis exactae, illae difficultates, ut
+vidimus, non subsistunt ; et totus processus problema sol-
+vere videtur. Unde nec hunc tertium errorem commisimus ;
+non usi sumus, loco postulati V, alio, ei quidem aequiva-
+lenti, sed quod eodem defectu scilicet absentiae evidentiae
+immediatae laborat.
+Quid igitur dicendum de eis extensis, a Klein descrip-
+tis, quae sensibiliter Euclidica esse possunt, revera tamen,
+in sua structura interna et exacta, non sunt Euclidica ?
+Non sane negamus ea existere posse. Immo eorum existen-
+tia iam a Beltrami, in sua « pseudosphaera », inventa est et
+haec figura ab Helmholtz, ut exemplum geometriae non-
+Euclidicae, in qua non valet postulatum V, elaborata est ;
+si eius curvatura est sat parva, in parte finita apte electa,
+sensibiliter non potest distingui a plano Euclidico. Tamen
+haec geometria non est aequiparanda geometriae Euclidicae.
+Est casus specialis huius ipsius geometriae ; tale « planum »
+est superficies incurvata Euclidica ; et, ut supra iam demon-
+stratum est, haec curvatura est intelligenda sensu intuitivo ;
+supponit alias dimensiones, secundum quas figura est in-
+curvata. Id iam a pluribus dictum est ; sed ut plene demon-
+stretur, indigemus notione directionis exactae, plene ela-
+boratae. Inde haec notio, quam primitivam esse monstra-
+vimus, tanti momenti est 25.
+Unum breviter addimus : modo descripto geometria
+non-Euclidica duarum dimensionum est realis ; utrum simili
+
+25 Etiam notio rectae non-Euclidicae ideo non est omnino eadem
+ac notio rectae Euclidicae exactae.

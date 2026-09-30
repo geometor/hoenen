@@ -1,0 +1,44 @@
+distantia in infinitum crescere potest. Manifestum est : non
+potest in omni casu ex solo aspectu constare, illas duas rec-
+tas tantum non concurrere in casu in quo summa illa angu-
+lorum attingit duos rectos. Ex solo aspectu non constat illud
+non antea verificari. Propositio exacta quae hoc affirmat
+— et haec est postulatum V — non potest immediate per
+intuitionem abstractivam intelligi ut vera.
+Mirum est, tam paucos mathematicos, qui de postulato
+V agunt, hanc ipsam difficultatem accurate exponere. Solent
+adhibere locutiones ut est haec : postulatum V est minus
+evidens quam alia axiomata Euclidis 22. Dicere debebant : in
+sua exactitudine immediate est omnino non evidens. — Cete-
+rum, ut ex nostra expositione sequitur, idem dicendum est de
+axiomate unicae rectae per duo puncta ; haec quoque in sua
+exactitudine non immediate ex figura legi potest ; ut evidens
+fiat, indiget alio medio superandi inexactitudinem sensibilitatis.
+E contra celeberrimus F. Klein, ut facere solet, omnino
+clare exponit difficultatem 23 ; ex eo mutuavimus positio-
+nem problematis, sicut descriptum est.
+Ex eius expositione manifestum est : agitur de nostro
+problemate, de problemate exactitudinis geometricae, quae
+oritur ex datis sensibilibus. Inde clarum quoque est : di-
+recte per abstractionem intuitivam solvi non potest ; inde
+medium solutionis indirectae quaerendum est ; id quod su-
+pra facere conabamur.
+Si hoc medium non adesset vel non inveniretur, dicen-
+dum esset : non certum est, extensum (planum) ex natura
+sua esse Euclidicum ; fieri potest ut dentur extensa quae
+non sunt Euclidica, in quibus illae duae rectae iam non sunt
+amplius concurrentes, antequam valor illius summae duo-
+rum angulorum attingit duos rectos 24. In eodem utique
+
+22 Ita v. g. H. WEYL, Philosophie der Mathematik und Natur-
+wissenschaft (1927) pag. 18 ; J. HADAMARD, Encycl. Franç I (1937)
+I-52-7 ; H. REICHENBACH, Philos. der Raum-Zeit-Lehre (1928) pag. 10.
+Hic postulatum simul vocat « extraordinarie cogens » (auszerordentlich
+zwingend) (!) et tamen parum convincens (« etwas Unbefriedigendes »),
+quia de infinito aliquid asserit et ideo omnem experientiam possi-
+bilem transcendit.
+23 F. KLEIN, Elementarmathematik vom höheren Standpunkte aus
+(II ed. 3 1925) pagg. 189 sq.
+24 Cfr. eundem F. Klein (op. cit. pagg. 192-194) qui ibi iterum bene
+probat, hic agi de problemate exactitudinis sensu descripto et inde
+hanc possibilitatem deducit.

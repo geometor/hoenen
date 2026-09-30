@@ -1,0 +1,41 @@
+9. De directione apud Euclidem.
+Recte igitur dicitur, consequentiam quam supra ex
+notione elaborata et existentia mathematica directionis du-
+cebamus, continere theoriam Euclidicam parallelarum. Eu-
+clides ipse utique non utitur ea notione in sua theoria ; inde
+etiam ipsa eius definitio parallelarum est alia (Def. XXIII) :
+« parallelae sunt lineae quae in eodem plano positae et in
+utramque partem productae in infinitum in neutra parte
+concurrunt ». Utitur igitur notione quae ad connexiones
+pertinet (absentia concurrentiae) ad definitionem ; inde
+etiam famosum postulatum V aliquid de tali connexione
+enuntiat. Sed eadem theoria parallelarum inde deducitur.
+Inde mirum non est notionem directionis, et quidem
+directionis constantis, tanquam proprii rectae, immediate
+post adhibitum postulatum V inveniri (in propositione 30,
+immediate post 29, in qua prima et unica applicatio postu-
+lati invenitur). Haec enim propositio statuit : si recta a
+est parallela rectae b, et haec rectae c, etiam a et c sunt pa-
+rallelae. Ibi autem contineri notionem directionis (constan-
+tis) ut proprium rectae ita efficitur secundum logicam re-
+lationum. Haec relatio (parallelitatis) iuxta illam proposi-
+tionem, est transitiva. Sed de eadem relatione valent : si a
+est parallela b, et b erit parallela a ; est relatio symmetrica.
+Insuper : recta a dici potest sibimet ipsi parallela ; est relatio
+reflexiva. Parallelitas pertinet igitur ad idem genus rela-
+tionum ad quod pertinet relatio aequalitatis. Si enim in
+quantitatibus a = b et b = c, sequitur : a = c. Item : si
+a = b, sequitur : b = a. Item dici potest : a = a. Utraque
+ergo relatio, parallelitatis et aequalitatis, est transitiva,
+symmetrica, reflexiva. Sicut relatio aequalitatis supponit
+in terminis aliquod proprium tanquam fundamentum, ita
+relatio similis parallelitatis supponit in terminis, rectis sci-
+licet, aliquod proprium et hoc est ipsa directio. Ita igitur in
+modo procedendi Euclidis iterum apparet notio directionis
+constantis et unicae in linea recta et existentia directionis
+perfecte similis in punctis distantibus plani. Si « directio »
+ita definitur, tunc non possumus ea notione uti ad definien-
+dam rectam sine circulo ; et in hac suppositione, sed in
+hac tantum, recte dicerent Helmholtz et alii. Sed inde etiam
+manifestum est, hanc notionem ita non oriri in mente hu-
+mana ; directe eam apprehendit, ut sensibiliter verificatam

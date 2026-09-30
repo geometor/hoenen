@@ -1,0 +1,42 @@
+Sed nunc attendenti hoc est manifestum : necessitas
+huius connexionis formalis, sive consequentiae, remanet
+post transitum ad usum symbolorum, qui in formula iam
+effectus est. Hunc intuitum etiam formula symbolica expri-
+mere possumus : Si S est M et M est P, S est P. Haec ex-
+primit necessariam connexionem inter consequens et ante-
+cedens, necessitatem dico, cuius intuitus intellectivus con-
+servatur etiam si his symbolis utimur et eorum sensum spe-
+cificum ignoramus 30. (Cfr. infra V § 2).
+Inde sequitur : in construendo syllogismo, cuius forma
+est recta, iam non opus est, ut ad sensum terminorum at-
+tendamus, ad affirmandam veritatem et necessitatem con-
+clusionis. Sufficit ut termini habeant sensum (nobis etiam
+ignotum), dein ut nexus inter extrema praemissarum sit
+necessarius (quin haec necessitas iam videatur), dein ut
+termini qui pluries occurrunt, in singulis casibus eundem
+habeant sensum et distinguantur functiones subiecti et
+praedicati. In simplici syllogismo igitur attendendum est,
+ut M in utraque praemissa eundem habeat sensum, ut ter-
+minis S et P in conclusione idem sensus tribuatur quem in
+praemissis habebant.
+Non ita res sese habet in intellectu principiorum. Evi-
+dens est haec veritas : omne extensum est divisibile ; sed si
+transimus ad usum terminorum transcendentium : omne A
+est B, iam disparet intuitio necessitatis, etiamsi idem prin-
+cipium exprimere intendimus. Haec disparitas inter syllo-
+gismum et principium simplex est maximi momenti. Prin-
+cipium statuere non possumus, si necessitatem ex sensu
+profluere non intuemur ; inde scholastici dicere solebant :
+principia cognoscuntur « intellectis terminis ». Sed conclu-
+sionem novam ut necessariam cognoscere possumus, dummodo
+forma syllogismi — quam semper etiam in terminis transcen-
+dentibus intuemur — recta sit, dummodo memoria tenea-
+mus, praemissas — in sensu quem termini habent — esse
+necessarias ; hinc ultimam necessitatem non opus est ut in
+concludendo intueamur.
+Hinc fit ut opus scientiae stricte dictae — scientiae con-
+clusionum — iam magnopere differat ab opere intellectus
+
+30 Ita principium generale syllogismi iam ab Aristotele exprimi-
+tur (Anal. Prior. I 4, 25 b 37-39) : εἰ τὸ Α κατὰ παντὸς τοῦ Β καὶ τὸ
+Β κατὰ παντὸς τοῦ Γ, ἀνάγκη τὸ Α κατὰ παντὸς τοῦ Γ κατηγορεῖσθαι.

@@ -1,0 +1,43 @@
+Si in uno puncto habetur abrupte mutatio directionis, erit
+« linea fracta » ; si directio modo continuo variatur, erit
+linea curva. Tales lineas, sensibiliter tantum exactas, exis-
+tere, experientia docet ; utrum lineae exactae mathematice
+existant, investigandum est ; ita enim in hoc casu redit
+problema exactitudinis. De notionibus nunc constat, de
+existentia mathematica nondum ; vel uti Aristoteles loqui-
+tur : constat de « quid est », nondum autem de « an est » ;
+et in quaestione de « proprio », ut est quaestio de « rectitu-
+dine » et de « curvatura », primo constare debet de « quid
+est ». Advertimus in fine, modum procedendi quem secuti
+sumus ad stabiliendas has notiones exactas et ad ponendum
+problema de existentia earum, omni ex parte videri respon-
+dere processui naturali mentis humanae, « le cheminement
+de la pensée » ; nonnisi analysin huius modi procedendi insti-
+tuebamus, incipientes a datis sensitivis.
+Haec quoque videtur esse notio quam Euclides in sua definitione
+lineae rectae, de qua tantum disputatum est, intendit ; id saltem nobis
+videtur esse valde probabile, nam propter obscuritatem verborum de
+eius intentione certo constare vix potest. Definitio autem est haec
+(Def. IV Elementa ed. Heiberg I pagg. 2 et 3) : « εὐθεῖα γραμμή ἐστιν,
+ἥτις ἐξ ἴσου τοῖς ἐφ' ἑαυτῆς σημείοις κεῖται. Recta linea est, quaecum-
+que ex aequo punctis in ea sitis iacet ». Videtur locutio « ex aequo
+iacere » revera admittere hanc interpretationem : « eodem modo i. e.
+secundum eandem directionem, sine deviatione, per puncta transire ».
+Etiam Geminus apud Proclum (In Euclid. Comment. ed. Friedlein
+pag. 185) ex ita intellecta sive proprietate sive definitione rectae in-
+fert, a quovis puncto ad quodvis punctum unam rectam duci posse ;
+ait :
+« ἑπόμενόν ἐστι τῷ ῥύσιν εἶναι τοῦ σημείου τὴν γραμμὴν καὶ τὴν εὐ-
+θεῖαν ὁμαλὴν καὶ ἀπαρέγκλιτον ῥύσιν i. e. [haec proprietas] « sequitur
+ad hoc quod linea est fluxus puncti, et recta fluxus aequalis et sine
+deviatione ».
+
+5. De superficie.
+Dantur igitur lineae sensibiliter rectae et curvae et
+de earum definitione, ope notionis primitivae directionis,
+etiam si exactae supponuntur, iam constat ; ulterius inves-
+tigandum erit utrum mathematice existant lineae quae
+exacte rectae sunt. Similiter de superficiebus dicendum est.
+Ex datis enim sensibilibus statim innotescit, existere super-
+ficies quae sunt incurvatae ; quae habent faciem concavam
+et oppositam, convexam. Dantur quoque superficies quae,

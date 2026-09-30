@@ -1,0 +1,39 @@
+gruentiae ex intellecto extenso, ut est principium individua-
+tionis, figuras exacte aequales, solo situ differentes, non
+solum concipit sed eas existere intelligit et ex iis logice alias
+veritates deducere potest.
+Et ea quae antea (III § 2 n. 7) videbamus, pro hoc casu
+repeti possunt : manifestum est, nos non (libere) creare haec
+obiecta ; non volumus figuras congruentes existere, sed dete-
+gimus eas ut possibiles in extensione, quae est materia in-
+telligibilis ex qua fieri possunt.
+Principium individuationis, prout hucusque applica-
+tum est, sive cum translatione sive sine ea, tantum potest
+exactitudinem « relativam » demonstrare. Tantum enim pro-
+bat, ex eo quod figura quae in uno situ adest, etiam in quo-
+cumque alio actuari potest, duas figuras quae in certis ele-
+mentis congruunt, etiam in aliis congruere. Supposito quod
+datur triangulus cuius latera sunt AB et AC, inter quae est
+angulus A, alius triangulus est possibilis, ita ut DE = AB,
+A = D, DZ = AC ; et probatur duos hos triangulos etiam
+in aliis elementis inter se congruere. Sed quod possibilis
+sit triangulus ABC, in quo linea exacte recta AB et ita por-
+ro, hic non probatur sed supponitur ; sed hoc supposito
+congruentia exacta probatur. Unde, si ita tantum adhibe-
+tur principium individuationis, tantum demonstratur exac-
+titudo relativa, sive hypothetica. Sed principium individua-
+tionis iterum adhiberi potest ad superandam inexactitudi-
+nem sensibilitatis, in demonstranda possibilitate, existen-
+tia mathematica, figurarum absolute exactarum, ut est
+linea recta. De qua re nunc agendum est.
+
+§ 4. DE FIGURIS EXACTIS.
+1. Animadversiones praeviae.
+Iam in secundo capite, in « geometria inexacta », pote-
+ramus loqui de punctis, lineis, superficiebus, inexactis uti-
+que, et de his elementis tanquam proprias relationes enun-
+tiare : puncta sita sunt in linea et in superficie, lineae sitae
+sunt in superficie ; et viceversa : linea transit per punctum,
+superficies per lineam. De punctis quae in eadem linea con-
+structa sunt, menti nostrae sese manifestant relationes
+propriae, quae voce « inter » exprimuntur ; simili modo linea

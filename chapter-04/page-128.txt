@@ -1,0 +1,42 @@
+Primum quod statim sequitur est : recta quae duo
+puncta communia habet cum plano, non potest inter ea
+puncta extra illud esse sita. Nam eadem directio rectae in
+uno puncto pertineret ad directiones quae ex una parte
+spatii tendunt in aliam, in alio autem puncto ad directiones
+quae inverso modo tendunt ; superficies iam non esset plana.
+Directio ergo rectae sita est in ipso plano et consequenter
+integra recta.
+In ipso autem plano per duo puncta unica tantum recta
+duci potest ; (quod semper una adest, antea iam stabilitum
+est). Si enim duae supponerentur, in uno ex illis punctis
+diversas haberent directiones, quae in singulis rectis sunt
+constantes ; constanter igitur differrent directiones. Sed in
+illis duobus punctis directiones essent diverso modo oppo-
+sitae ; in uno prima ab altera differret v. g. deviatione versus
+dextram in altero versus sinistram. Saltem una directio
+non esset constans. Unica est ergo recta quae duo puncta
+iungit, et in plano in quo illa puncta sita sunt, integra recta
+iacet.
+Sequuntur quaedam quae adhibent motum figurarum
+cuius legitimitas antea stabilita est ; iam adhibebamus eum
+in consideranda recta quae movetur ita ut unum sui punc-
+tum fixum maneat.
+Planum quod rectam continet, circa eam volvi potest.
+In illo motu unicam attingit positionem, in qua continet
+punctum determinatum extra illud situm ; ceterum hoc
+punctum est arbitrarium. Inde : recta et punctum extra
+eam situm determinant planum. Inde intelligitur planum
+ita describi vel oriri posse : per motum rectae, per punctum
+quodvis ductae, quae ita movetur ut in aliam rectam sem-
+per incidat. Idem planum describitur per similem motum
+rectae ex quovis puncto iuxta quamvis rectam, dummodo
+in primo plano sita sint. Ita patet omnia puncta plani inter
+se esse aequivalentia, item omnes rectas ; non tantum relate
+ad partes spatii quas planum limitat — id iam sciebamus —
+sed etiam relate ad ipsum planum. Et forte non erramus
+dicentes, hanc esse intentionem Euclidis in sua definitione
+quam supra laudavimus : « plana superficies est, quaecum-
+que ex aequo rectis in ea sitis iacet ». Consequens maximi
+momenti est : Planum est homogeneum, uniforme, i. e. est
+principium individuationis pro omnibus figuris in eo sitis.
+Inde statim sequitur existere circulos qui in plano de-

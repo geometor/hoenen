@@ -1,0 +1,44 @@
+« Angulus mensura est diversitatis directionis duarum rectarum ;
+consequenter anguli quos duae parallelae cum eadem recta faciunt,
+aequales sunt » 17.
+Hanc methodum tribuit Leibnizio ; sed eam peiorem
+dicit quam modum procedendi Euclidis ; quia hic indicat
+difficultatem quam ille obnubilat.
+Ut hoc efficiat, incipit dicendo ideam directionis, ab
+auctoribus qui eam adhibent, tanquam primitivam haberi ;
+quia non dant definitionem. Et optime ita consideratur,
+dummodo genetice haec notio evolvatur et ad exactitudinem
+perpoliatur. Dein cl. Killing connexionem quam idea direc-
+tionis cum idea anguli habet, uti fas est, urget. Sed putat,
+ita non posse indicari medium agnoscendi aequales diversi-
+tates directionum, quin tota theoria parallelarum praesup-
+ponatur. Totam hanc theoriam involvi in medio apto agno-
+scendi hanc aequalitatem, verum est ; sed putat aequali-
+tatem angulorum non esse medium aptum, quia praesup-
+poneret hanc theoriam. Et intendit dicere, hanc theoriam
+gratis praesupponi ; in quo fallitur.
+Id quod cl. auctor intendit, clarius intelligitur (simul
+eum eius errore) ex eis quae dein sequuntur. Vult enim, ut
+ideam Leibnizii magis exponat, hanc definitionem directio-
+nis introducere : « Duae rectae habent similem vel dissimi-
+lem directionem, si cum recta utramque secante faciunt
+aequales vel inaequales angulos » 18. Si haec revera ut de-
+finitio adhibetur, vera sunt quae addit, scilicet hanc non
+ducere ad scopum i. e. ad deducendam theoriam Euclidi-
+cam parallelarum ; et ideo haec gratis praesupponeretur.
+Nam ut bene prosequitur :
+« Tantum dici potest : illae rectae habent similem vel
+dissimilem directionem relate ad determinatam tertiam
+rectam ; tunc autem incertum est, utrum duae rectae quae
+cum determinata recta aequales angulos faciant, etiam a
+quavis recta sub aequalibus angulis secentur » 19.
+
+17 « Der Winkel misst den Richtungsunterschied zweier Geraden ;
+folglich sind die beiden Winkel gleich, welche zwei Parallelen mit
+derselben geraden Linie bilden » (pag. 5).
+18 « Zwei Geraden haben gleiche oder ungleiche Richtung, wenn
+sie mit einer beide schneidenden Geraden gleiche oder ungleiche
+Winkel bilden » (loc. cit. pag. 6).
+19 « Man darf nur sagen : sie haben gleiche oder ungleiche Richtung
+in Bezung auf eine bestimmte dritte Gerade ; dann ist es aber unge-
+wisz, ob zwei Geraden, welche mit einer bestimmten Geraden gleiche

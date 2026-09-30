@@ -1,0 +1,42 @@
+8. Iterum de notione directionis.
+Haec conclusio maximi momenti sequitur ex ipsa no-
+tione directionis, uti a pluribus iam animadversum est.
+Sed illi notionem non subiiciebant analysi, ut nos fecimus.
+Inde, et inde tantum, etiam factum est, ut mathematici
+difficultatem contra introductionem huius notionis move-
+rint. Antequam in nostra investigatione pergemus, haec
+examinanda est.
+Unus modus proponendi difficultatem iam supra ob-
+viam habuimus apud cl. Helmholtz. In hoc redit : directio-
+nem definimus ope lineae rectae ; si igitur lineam rectam
+definimus, ut apud nos factum est, ope directionis, versamur
+in circulo vitioso.
+Haec vera essent, si de facto directionem ita definire-
+mus. Sed id non facimus ; definimus eam ut « modum trans-
+eundi » lineae, etiam curvae, per punctum ; et haec est
+idea vere primitiva. Nam notio directionis (adhuc inexac-
+tae), ut ex dictis manifestum est, in mente contemplante
+simplicissimam figuram, statim oritur ; item notio lineae
+rectae, in oppositione ad curvas, ut notio lineae cum di-
+rectione constante, sine ulla difficultate concipitur. Ibi
+nulla latet difficultas. Haec tantum oritur, si, post hanc
+quaestionem de « quid est », surgit problema « an est »,
+tum pro notione directionis tum pro notione derivata rec-
+tae. Et ad hanc difficultatem solvendam requiritur intui-
+tus extensi ut est principium individuationis et evolutio
+et applicatio huius notionis. Et, ut ex superioribus videtur
+sequi, analysis philosophica harum notionum et huius
+principii demonstrat, mentem humanam eundem modum
+procedendi applicare, sed sine analysi, utentem tantum
+iudiciis virtualibus. In tali modo procedendi nullus ad-
+est circulus vitiosus, nec ibi latenter adest. Et analysis
+demonstrat difficultatem non adesse in notionibus, sicut
+difficultas mota innuit, sed in intuenda existentia mathe-
+matica obiectorum exactorum ; agitur de problemate exac-
+titudinis, non in notionibus sed in existentia.
+Uberiora et meliora sunt quae inveniuntur apud Kil-
+ling, ad quem etiam apud B. Russell remittimur 16. Ait :
+
+16 W. KILLING, Einführung in die Grundlagen der Geometrie,
+Münster I (1893) II (1898) ; quae de directione rectae dicit inveniuntur
+in T. I § 3 pagg. 5 sqq.

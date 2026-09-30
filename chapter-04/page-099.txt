@@ -1,0 +1,42 @@
+Hic igitur tantum sermo est de geometricis i. e. de fi-
+guris quae sunt limites entis extensi, de lineis et superficie-
+bus, et de partibus extensi quae his limitibus circumscribi
+possunt ; figurae differre et convenire possunt tum in quan-
+titate tum in forma.
+Possuntne dari plures figurae quae tum in quantitate
+tum in forma exacte conveniunt, quae igitur solo numero
+differunt ? Geometria respondet affirmative, considerando
+congruentiam, quae dicitur, figurarum et statuendo theses
+quae illam congruentiam spectant.
+Quodnam est fundamentum huius affirmationis ? Non
+potest esse experientia sensitiva. Haec utique inducit men-
+tem humanam ad concipiendam ideam figurarum congruen-
+tium. Possunt observari duo circuli, duo trianguli vel quae-
+cumque aliae figurae, inter quas sensus nullam differentiam
+relate ad quantitatem et formam percipere possunt. Sed
+scientibus nobis, sensus ad perfectam exactitudinem per-
+venire non posse, non ideo licet affirmare has duas figuras
+esse exacte congruentes ; immo non ideo licet dicere posse
+dari duas figuras tales, i. e. eas mathematice existere.
+Sed intellectus noster et in hoc casu potest transcen-
+dere sensum et affirmare possibilitatem, existentiam mathe-
+maticam, figurarum congruentium ; et quidem eodem modo
+id facere potest, quo id fiebat in casu praecedenti, scilicet
+in casu indivisibilium, quae sensu percipi non possunt :
+intelligendo naturam extensi, ut est extensum, et naturam
+proprii cuiusdam, quod ex illa profluit. Nam considerans
+figuram quamlibet, limitem extensi, mens nostra intelligit,
+hoc extensum limitatum, ex natura sua, posse esse partem
+extensi maioris, ita quidem, ut aliae partes huius extensi,
+ut sunt extensae, inter se et cum prima parte perfecte eius-
+dem sint naturae ; partes extensi, ut est extensum, sunt
+perfecte homogeneae, uniformes (i. e. non formatae, non
+per formam determinatae) cum toto et singulis aliis parti-
+bus. Unde statim sequitur : si quae figura (determinatio)
+in una parte est possibilis, in quavis alia parte possibilis erit
+figura specifice perfecte eadem ; et ita quidem ut eius situs,
+et situs tantum, modo continuo a situ prioris figurae differat.
+Vel ita : iuxta omnem figuram alia figura possibilis est, quae
+solo situ differat, et illud « iuxta » ita intelligendum est, ut
+modo continuo variari possit.
+Extensum ut tale est igitur vere « materia intelligibi-

@@ -1,0 +1,42 @@
+exprimit, has relationes esse proprias passiones horum obiec-
+torum, ex eorum natura profluentes. Quae dein tanquam
+axiomata explicite enuntiantur, non sunt nisi specificationes
+harum relationum. In axiomatica pura, cuius intentio prin-
+cipalis est, explicite enuntiare omnia axiomata, haec tan-
+quam axiomata deesse non debebant. Et id est confirmatio
+eorum quae saepe dicebamus, scilicet quod dantur in mente
+nostra iudicia virtualia, quae ibi non affirmantur, quia sta-
+tim ad ulteriora inquirenda pergimus. Influxum in affirma-
+tionem eorum quae dein invenimus, utique habent.
+Altera animadversio haec est : quia has proprias pas-
+siones, profluentes ex extenso, sensu stricto intelligimus,
+ideo — nam intelligibile est ens — extensum cum suis
+propriis ut ens cognoscitur, hae relationes ut reales ; et
+possumus pergere in investigatione nostra, modo classico
+considerantes extensum ut intelligibile et reale.
+Tertia animadversio est : Tanquam omnino eaedem (vel
+pure inversae) considerantur relationes sicut hae : « punc-
+tum A situm est in linea a » et « linea a transit per punctum
+A » ; id quod non videtur ex omni parte esse verum. Nam
+altera haec relatio geometrica implicite videtur plus dicere,
+ita saltem ut exigat ulteriorem determinationem ; nam
+diversae lineae diverso modo per idem punctum transeunt.
+Et haec ulterior determinatio videtur esse magni momenti,
+quia ducit ad elaborationem notionis intuitivae magni mo-
+menti, quae a geometricis in initiis geometriae fere univer-
+saliter negligi, immo interdum despici videtur : ad notionem
+directionis, de qua supra iam sermo erat. De hac et de iis
+quae cum hac cohaerent iam latius dicendum erit, primo
+prout in datis sensitivis invenitur, dein utrum, sicut aliae
+notiones, de quibus iam agebamus, in geometriam exactam
+transire possit. Cum hac notione cohaerent notiones lineae
+rectae et curvae et superficiei planae et incurvatae.
+
+2. De notione directionis.
+Dicebamus : locutiones punctum situm est in linea et
+linea transit per punctum non omni ex parte idem dicunt,
+quia altera haec formula implicite plus dicit et ulteriorem
+determinationem exigit quae in priori formula non exigitur.
+Ecce id quod intendimus.
+Si una tantum linea consideratur, ut supra iam dictum
+est, in qua situm est punctum P, duae locutiones possunt

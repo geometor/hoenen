@@ -1,0 +1,41 @@
+4. Curvae et rectae.
+In geometria inexacta iam sermo esse potest de « lineis »
+curvis et rectis, quae sensibiliter cognoscuntur ; ut mani-
+festum est, nunc tantum intendimus dicere de sensibiliter
+curvis et sensibiliter rectis. Sed haec distinctio etiam susti-
+nenda est, si transimus ad veri nominis lineas, quae latitu-
+dine carent ; erunt lineae exactae, sed earum rectitudo vel
+curvatura sumitur sensu adhuc inexacto, tanquam sensibi-
+liter cognitae. Sed ad has lineas possumus applicare ele-
+menta exactitudinis, quae nuper invenimus.
+Ut hoc efficiamus, recolamus directiones linearum quoad
+suam similitudinem vel diversitatem etiam intelligi de lineis,
+prout per puncta diversa, distantia, transeunt ; etiam in
+geometria sensibili. Segmenta linearum ab invicem distan-
+tium quae in superficie, ut hac pagina, delineata sunt, sub
+respectu directionis comparari possunt. In una parte adsit
+segmentum quod a parte sinistra versus dexteram tendit,
+in alia segmentum quod a calce sursum ductum est. Hae
+directiones sine dubio sunt diversae. Sed possunt dari quo-
+que duo segmenta, in parte dextra et sinistra, quae utraque
+sursum tendunt, eodem (fere) modo ; et dantur casus in-
+termedii. Videamus iterum primum casum, in quo direc-
+tiones certo diversae sunt ; in una linea sit punctum P,
+in altera punctum Q. Iam scimus, per P transire integrum
+continuum directionum ; ita ut lineae dari possint quae,
+a prima incipientes, modo continuo secundum directionem
+varientur et tandem directio opposita primae attingatur.
+Inter has directiones una tantum adesse poterit (si adest,
+id quod examinandum erit) quae est exacte similis direc-
+tioni lineae alterius per Q. Haec directio erit perfecte et
+exacte similis, erit eadem specifice. De notione iam con-
+stat, nondum de existentia mathematica.
+Quae de diversis lineis dicebamus, applicari possunt
+ad partes distinctas eiusdem lineae. Etiam hae, relate ad
+directionem, ad invicem comparari possunt, et habebunt
+diversas directiones vel specifice eandem, perfecte similem.
+His uti possumus ad definiendas notiones lineae rectae
+et curvae. Linea erit recta, si directio secundum quam per
+unum punctum transit, ulterius in ea, specifice eadem, con-
+servatur, si per quodcumque punctum subsequens vel prae-
+cedens eadem directione, sine deviatione, transire pergit.

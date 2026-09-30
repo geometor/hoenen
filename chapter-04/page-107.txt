@@ -1,0 +1,41 @@
+Prius igitur continuitas invenitur in extenso et inde haec sequi-
+tur in motu. Sed etiam ordo partium, ordo prioris et posterioris, qui
+supra iam indicatur verbis ἔκ τινος εἴς τι eandem habet originem.
+Pergit :
+τὸ δὴ πρότερον καὶ ὕστερον ἐν τόπῳ πρῶτόν ἐστιν. ἐνταῦθα μὲν δὲ τῇ
+θέσει· ἐπεὶ δ' ἐν τῷ μεγέθει ἔστι τὸ πρότερον καὶ ὕστερον, ἀνάγκη καὶ ἐν
+κινήσει εἶναι τὸ πρότερον καὶ ὕστερον, ἀνάλογον τοῖς ἐκεῖ 7.
+Haec sunt quae supra describebamus ; quia hic de tem-
+pore agitur, ad directionem unius dimensionis, unius lineae
+tantum attenditur.
+Inde dicendum esse videtur : considerare motum non
+pertinet ad geometriam, in quantum importat velocitatem,
+nisi secundum quod haec « directionem » involvit ; nam ad
+hanc intelligendam requiritur consideratio extensi ut est
+extensum, quod est fundamentum notionis directionis. Non
+pertinet ad geometriam agere de causa efficiente ipsius
+motus. Sed pure geometrica est consideratio possibilitatis
+motus continui, possibilitatis motus figurae invariabilis,
+possibilitatis directionum diversorum motuum.
+Inde non mirum est, apud geometras motum adhiberi
+ut medium demonstrationis, immo ut medium definitionis.
+Nota est definitio lineae tanquam id quod causatur (vel
+describitur) a puncto quod movetur ; ita ex motu lineae
+oritur superficies, ex motu superficiei solidum. Hae tan-
+quam descriptiones admitti possunt, non ut definitiones
+stricte dictae ; incideremus enim in difficultates quas antea
+(III § 1 n. 2) exponebamus. Iam tempore Aristotelis hae
+descriptiones in usu erant. Ait (De Anim. I 4, 409 a 3-5) :
+φασι κινηθεῖσαν γραμμὴν ἐπίπεδον ποιεῖν, στιγμὴν δὲ γραμμήν 8.
+S. Thomas quoque novit hanc methodum describendi
+
+7 Cfr. ibid. b 15 sqq. et cap. 12, 220 b 24 sqq. Textus desumptus
+est ex editione W. D. Ross Aristotle's Physics.
+8 Trendelenburg in sua editione adnotat (in loc. cit.) « Quinam
+sunt qui dicant ? Utrum universi geometrae ? An Pythagorei ? De
+quo nihil apud commentatores ». S. Thomas i. h. l. (lect. 11, ed. Pi-
+rotta n. 170) dicit eos esse Platonicos ; idem affirmat A. E. Taylor in
+opere Plato the man and his work (ed. 2) 1927) pag. 506. Geminus
+apud Proclum in textu quem statim videbimus, vocat lineam ῥύσιν
+τοῦ σημείου. Cfr. quoque Proclum pag. 97, 6 et Simplicium Phys.
+(ed. Diels) pag. 722, 8.

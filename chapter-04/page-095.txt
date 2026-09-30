@@ -1,0 +1,36 @@
+CAPUT IV
+
+DE PROBLEMATE EXACTITUDINIS
+
+Pars II
+DE FIGURIS ET RELATIONIBUS EXACTIS
+
+Animadversiones praeviae.
+In praecedentibus capitibus agebamus de duobus pro-
+blematibus principalibus, necessitatis et exactitudinis. Huius
+problematis exactitudinis prima tantum pars a nobis consi-
+derabatur ; ea scilicet, ut ibi (III) dictum est, quae non indi-
+get consideratione extensi, ut est « principium individuatio-
+nis » in mathematicis. Altera pars huius problematis, cuius
+solutio ab hoc principio dependet, iam consideranda venit.
+Recolamus breviter, quare exsurgat problema exacti-
+tudinis geometricae ; liceat hic repetere ea quae antea (III
+§ 1 pagg. 65-69 sq.) dicta sunt :
+« Ea quae geometria contendit de suis obiectis : punctis,
+lineis, superficiebus, de eorum relationibus mutuis, de formis
+figurarum v. g. de rectitudine lineae, de aequalitate vel pro-
+portionibus figurarum : ea omnia considerantur tanquam
+absolute exacta. Data autem sensitiva, a quibus geometria
+classica suam originem deducit, non habent hanc exacti-
+tudinem. Nec sensus nec imaginatio possunt percipere
+puncta et lineas, sed tantum corpora extensa secundum tres
+(saltem secundum duas) dimensiones. Non possunt distin-
+guere lineas, tenuiter incurvatas, a rectis ; consequenter
+nunquam possunt decidere, lineam datam esse rectam. Aequa-
+litatem inter duas lineas vel superficies fere possunt perci-
+pere, sed non exacte ; idem dicendum de proportionibus. Ea
+quae valde distant percipi non possunt, et tamen geome-
+tria agit de extensis quae in infinitum extenduntur.
+Si igitur geometria in origine sua dependet a datis
+sensitivis, quomodo potest hic transitus ad exactitudinem
+perfectam explicari ; vel estne forte illusio tantum » ?

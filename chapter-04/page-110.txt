@@ -1,0 +1,42 @@
+cl. Poincaré : « si ergo non darentur corpora rigida, in rerum
+natura, non daretur geometria » 10. Intelligimus tamen etiam
+corpus non rigidum saltem posse moveri quin eius extensio
+et figura mutetur ; dummodo vires aptae adsint. Nec haec
+verba « dummodo vires aptae adsint » restrictionem impor-
+tant ; nam passiva pars motus tantum hic momentum ha-
+bet ; et haec pars nobis est omnino intelligibilis ; praecise
+propter intellectam naturam extensi. Thesis quam Poincaré
+ponit, omnino aequiparat intuitum nostrum geometricum
+cum origine cognitionis pure experimentalis ; id quod, teste
+etiam intuitione nostra, etiam in hoc puncto est falsum.
+Modus quo Euclides et alii utuntur motu figurae inva-
+riabilis in sua demonstratione omni ex parte iustificatur ex
+fundamento quod praesupponitur, scilicet ex proprio exten-
+sionis per quod est principium individuationis ; ex hoc
+quod est materia intelligibilis ex qua fieri possunt figurae
+quae solo situ, et ideo solo numero, differunt. Inde oriri
+potest quaestio utrum adhibito solo hoc fundamento, sine
+intermedio translationis figurae, eadem thesis demonstrari
+possit. Et ita res videtur se habere.
+Demonstratio enim Euclidica sine notione translationis
+ita construi potest. Ex puncto D (trianguli DEZ) datur una
+et una tantum recta in directione DE ; in ea, secundum ean-
+dem directionem versus E, datur unum punctum, et unum
+tantum, scilicet E, ita ut segmentum DE sit aequale lateri
+AB. Ab ea parte huius lineae quae spectat lineam DZ, datur
+una, et una tantum, linea quae facit angulum (D) aequalem
+angulo A, scilicet ipsa linea DZ. In hac linea datur iterum
+unum, et unum tantum, punctum (scilicet Z) tale, ut seg-
+mentum DZ sit aequale lateri AC. Datur iterum una recta,
+et una tantum, quae iungit E et Z. Triangulus DEZ est igi-
+tur unicus qui construi potest in positione quae determina-
+tur per elementa DE, D et DZ quae respective aequalia
+sunt elementis AB, A et AC. Nunc applicamus proprietatem
+extensionis quae principio individuationis exprimitur, sci-
+licet : in omni positione datur triangulus qui solo numero
+differt a triangulo ABC i. e. qui ei congruit. Quia autem ex
+datis elementis DE, D et DZ unicus tantum triangulus com-
+ponitur, scilicet DEZ, hic erit congruens triangulo ABC q. e. d.
+
+10 H. POINCARÉ, La science et l'hypothèse pag. 80 ; cfr. ibid. pag. 60.
+Ipse auctor integram sententiam sublineat.

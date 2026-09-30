@@ -1,0 +1,39 @@
+lineas, superficies, solida, sed eam ascribit imaginationi
+geometrarum 9.
+Utilem posse esse methodum hanc ad definiendas li-
+neas speciales iam antea vidimus (III § 2 n. 6 B). Et notan-
+dum est : « tempus » quod ibi ut « variabile » introduceba-
+tur, in fine ex formulis « eliminatur » ; id quod remanet, est
+pure geometricum ; sed id dependet a velocitate motuum
+qui « componuntur ».
+Consideratio igitur motus sine ullo dubio pertinet ad
+geometriam puram ; haec explicat fundamentum et condi-
+tiones huius notionis. Si extensum examinatur in sua natura
+et simul in hoc proprio per quod est principium individua-
+tionis, patet id fundare possibilitatem motus corporis inva-
+riabilis, fundare quoque notionem directionis constantis et
+eorum quae inde sequuntur. Haec autem considerantes per-
+veniemus ad axiomata quae congruentiam figurarum et
+quae figuras exactas spectant. Utrumque punctum in se-
+quentibus investigabimus.
+
+§ 3. DE CONGRUENTIA FIGURARUM.
+Euclides igitur, adhibendo motum ut medium demon-
+strationis congruentiae, non excedit limites geometriae quae
+extensum ut extensum considerat. Nec modus quo id facit
+ei vitio verti potest, quamquam hoc interdum fit, ab iis
+qui elementa physica non bene distinguunt ab elementis
+pure geometricis in motu. Et propter hoc illae difficultates
+ad investigationem nostram pertinent, quae tota est in
+examinanda cognitione mentis humanae relate ad fundamen-
+ta geometriae.
+Idem B. Russell de quo supra, diversa illa elementa
+miscet et inde ansam criticae sumit (loc. cit.). Mitto nunc
+quod etiam innuit, corpus quod transfertur in locum ubi
+alia est temperatura, eo ipso quoad dimensiones mutari.
+Alia autem obiectio maioris momenti esse videri potest.
+
+9 De Caelo I lect. 2 n. 9 « Utitur modo loquendi quo utuntur
+geometrae, imaginantes quod punctus motus facit lineam, linea vero
+mota facit superficiem , superficies autem corpus » ; cfr. ibid. II lect.
+2 n. 11, Phys. IV lect. 18 n. 4.

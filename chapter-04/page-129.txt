@@ -1,0 +1,42 @@
+scribi possunt ex quovis puncto tanquam centro et cum
+quocumque radio. Continuitas circuli optime intelligitur ex
+continuitate motus puncti quod eum describit.
+Inde iam determinari potest notio anguli. Iam in geo-
+metria inexacta vidimus, ex diversitate directionis linea-
+rum quae in una superficie per idem punctum ducuntur,
+resultare « divergentias » quae, relate ad invicem, maiores
+et minores dici possunt. Iam haec notio divergentiae in
+geometria exacta perpoliri potest ad notionem anguli, no-
+tionem quantitativam, quae maius et minus admittit et
+exacte mensurari potest. Rectae quae per idem punctum in
+plano transeunt, prout magis vel minus in directione diffe-
+runt, maiorem vel minorem partem plani indefiniti inter
+se continent. Hae partes plani ad invicem comparari pos-
+sunt ; mensurari v. g. exacte possunt ope circuli cuius cen-
+trum est illud punctum, et cuius radius habet unitatem
+longitudinis ; sectores huius circuli, intra rectas compre-
+hensi, vel etiam longitudo relativa arcuum, sunt mensura
+exacta divergentiae quae nunc « angulus » vocabitur. Conse-
+quenter sunt mensura diversitatis directionum, sicut effec-
+tus quantitativus est mensura causae qualitativae.
+Notemus praesertim id quod est essentiale in tota hac
+analysi : quia planum est principium individuationis, in
+quovis puncto diversitas directionum exacte similis causat
+angulos exacte aequales, congruentes.
+Inde resultat consequentia maximi momenti. In plano
+existunt rectae, non coincidentes, quae habent exacte simi-
+lem directionem ; vocemus has rectas : parallelas. Parallela,
+in spatio per punctum extra rectam datam ducta, sita est
+in plano, determinato per illud punctum et illam rectam,
+nam eius directio non potest secare planum, quod illam di-
+rectionem continet. Per quodvis punctum extra rectam da-
+tam, semper una parallela existit ; etiam una tantum ; nam
+recta, ab hac diversa, quae per idem punctum transit, eo
+ipso habet aliam directionem. Est principium unicae paral-
+lelae. Sed rectae parallelae, iuxta ea quae supra vidimus de
+plano, ut principio individuationis, cum quavis recta, eas
+intersecante, quia eandem habent diversitatem directio-
+num, eosdem facit angulos correspondentes.
+Et haec consequentia constituit geometriam Euclidi-
+cam in sensu praegnante, prout opponitur geometriis mo-
+dernis, non-Euclidicis.

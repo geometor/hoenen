@@ -1,0 +1,41 @@
+Sed insuper vidimus, diversitatem directionum ap-
+prehendi posse in lineis, prout per puncta distantia trans-
+eunt ; ibi notionem saltem (non existentiam) directionum
+exacte similium apprehendimus. Et haec ad diversas partes
+unius lineae applicantes, etiam notionem lineae rectae ap-
+prehendimus, nondum eius existentiam.
+Utrumque autem etiam mathematice existere, exten-
+sum ut est principium individuationis iterum exigit. In
+extenso ut tali, quod nondum per figuram determinatum
+et limitatum est, in « spatio » puro, quaevis pars et quodvis
+punctum ab aliis suae speciei solo numero distinguitur,
+iuxta structuram extensi circumdantis est specifice idem
+cum omni alio puncto. Inde omnis directio quae in uno punc-
+to existit, in singulis aliis ut specifice eadem repetitur ; in
+singulis punctis idem specifice continuum directionum exis-
+tit. Inde etiam statim resultat existere lineas quae in sin-
+gulis suis partibus habent eandem directionem, secundum
+omnes directiones possibiles. Existunt igitur rectae et qui-
+dem ita ut in singulis punctis construi possit fascis continuus
+rectarum.
+Dicimus, in extenso « spatio » rem ita se habere ; nam iterum,
+ut in casu congruentiae, supponendum est extensum quod nondum per
+figuram est determinatum. Ita in superficie sphaerica in singulis punc-
+tis (exceptis iis quae secundum diametrum opponuntur) non adest
+idem continuum directionum ; e contra in singulis adest aliud et aliud.
+In tali superficie, propter eius curvaturam, non possunt dari lineae
+rectae ; immo in hoc consistit earum curvatura. Nec ibi dari possunt
+lineae, quarum curvatura est minor quam ea quam habent circuli
+maximi. Directiones exacte infinitesimales quae in uno puncto talis
+superficiei in ipsa sitae sunt, in aliis punctis (excepto uno) quidem ad-
+sunt in spatio, in quo illa superficies est figura, sed transeunt per su-
+perficiem.
+Una veritas intuitiva quae connexionem puncti et rec-
+tae spectat, hic tangenda est. Recta, ut est figura, in spatio
+uniformi omni modo moveri potest. Ita moveatur, ut unum
+punctum fixum maneat. Manifestum est, lineam ita volvi
+posse, ut quodvis aliud punctum in spatio attingat ; unde
+intelligimus : per quodvis punctum ad quodvis aliud saltem
+una recta duci potest ; utrum tantum una, nondum constat.
+B) De superficie plana. Prima figura cuius existentia a
+nobis inveniebatur, erat superficies, tanquam limes partium

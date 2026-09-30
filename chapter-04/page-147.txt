@@ -1,0 +1,42 @@
+postulato III constat), inter se secare, est veritas quam sta-
+tim, ex intuitione sensibili, intellectivo intuitu affirmare
+possumus. Inde Euclides, loco prioris abstractionis exactae
+quae iustificari non posset, optimo iure ponit alteram quae
+intelligenti statim est manifesta. Haec altera introducit
+axioma quod ad « connexiones » pertinet. Inde manifestum
+est, Russell perperam identificare utrumque casum. Et hoc
+exemplum casum postulati V et similes illustrat ; in his
+quoque postulatis, quae sunt vere « petitiones », nec per se
+manifesta, per alia media possumus vincere inexactitudinem
+sensibilitatis, non autem per abstractionem directam. Et
+hic est primus fructus examinis epistemologici argumenta-
+tionis Euclidis.
+Adest et alius. Num peccat Euclides, non explicite et
+praevie enuntiando hoc axioma (existentiae puncti inter-
+sectionis illorum circulorum) quo utitur ? Id saepe dicitur
+a logicis extremis ; immerito tamen id ubique exigunt.
+Primo dicendum est : si hoc exigitur, Euclides debebat
+propositionem generalem praemittere (scil. : duo circuli
+inter se secant, si distantia centrorum est minor quam
+summa radiorum et maior quam eorum differentia) ; sed
+haec propositio non est axioma. Et veritas qua Euclides
+utitur ad stabiliendam existentiam puncti intersectionis,
+fit statim evidens, pro hoc casu speciali, eo momento quo
+circuli describuntur ; nec maior fit evidentia, si id explicite
+dicitur. Unde eius modus procedendi videtur esse magis
+conformis naturae mentis, in qua adest illa intuitio, quae
+determinat ulteriorem progressum in ratiocinio, tanquam
+iudicium virtuale. Intuitive intelligimus, illos circulos inter
+se secare ; quin hoc explicite affirmemus, utimur, in argu-
+mento evolvendo, existentia puncti intersectionis.
+Dein adest et aliud iudicium virtuale. Quia datur punc-
+tum intersectionis C, debet habere propria puncti ; scilicet :
+per rectam iungi potest cum quovis alio puncto (hoc erat
+postulatum I) ; iterum : quin hoc explicite affirmet (vel nos
+ad postulatum I remittat) Euclides statim pergit dicendo :
+« ad puncta A, B ducantur rectae CA, CB ». Et ita adest
+iterum iudicium virtuale, quod non exprimitur, quod tamen
+determinat progressum in argumento. Modus argumentandi
+Euclidis est optimum exemplum modi procedendi mentis
+humanae.
+Qualis est affirmatio intuitiva intersectionis duorum

@@ -1,0 +1,43 @@
+modo geometria non-Euclidica tridimensionalis sit realis,
+dependet evidenter ex solutione problematis, utrum « spa-
+tium » quod plus quam tres dimensiones habeat, sit possi-
+bile. Talem geometriam non continere contradictionem in-
+ternam, ita ut ex positis axiomatibus non possint sequi pro-
+positiones contradictoriae, si pure logice procedamus, iam
+constat.
+
+*
+*    *
+
+Hoc igitur sensu geometria Euclidica est necessaria et
+unica. Iuxta eam potest quidem construi geometria quae
+iisdem terminis ac eisdem axiomatibus utitur ac geometria
+classica, excepto solo postulato V, cuius loco aliud, ei con-
+tradicens, ponitur. Haec geometria logice non ducit ad con-
+tradictionem ; immo possunt dari extensa, sensibiliter ab
+Euclidicis non differentia, in quibus verificantur. Sed eo
+ipso sensus exactus terminorum et axiomatum quae reti-
+nentur mutatus est. Possunt quidem habere sensum realem,
+immo sensum geometricum ; ita in casu supra considerato
+eorum sensus sensui notionum classico est maxime propin-
+quus, sensibiliter cum eo potest coincidere. Sed hic casus
+non agit nisi de extenso Euclidico, incurvato secundum ulte-
+riorem dimensionem. Quod mirum esse non potest, quia
+agit de extenso quod praecise relate ad directiones constan-
+tes iam non est principium individuationis.
+Ita geometria Euclidica potest esse unica et tamen
+admittere geometriam non-Euclidicam, immo extensa non-
+Euclidica.
+
+§ 6. De geometria non-Euclidica relate
+ad cognitionem humanae mentis.
+
+Ex praedictis facile est solvere difficultatem quae mo-
+vetur contra theoriam cognitionis, immo contra valorem
+ipsum cognitionis mentis humanae, quae per tot saecula
+contendebat extensum esse necessario Euclidicum. Diffi-
+cultas haec opponi solet theoriae cognitionis Kantianae ;
+quidam ex neo-Kantianis (ut Cassirer) eam agnoscunt, alii
+eam refutare conantur. Sed si difficultas iure sustinetur,
+valet non tam contra theoriam Kantianam, quam contra
+omnes theorias quae geometriam classicam ut scientiam ne-
