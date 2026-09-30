@@ -1,0 +1,43 @@
+translatio termini (vel complexus terminorum) ex uno mem-
+bro aequationis in alterum, mutato signo. Ita ex data illa
+aequatione, quae supponitur valida, sequitur haec altera,
+etiam valida : ax² — bx — c = 0 (2).
+Interrogamus : quid fit noetice in mente nostra, dum
+talem operationem perficimus, et dein affirmamus id quod
+resultat ? Et analysis noetica dicit : applicatio regulae
+« translationis » supponit hanc veritatem universalem (« ma-
+iorem ») ; omnis aequatio, quae resultat per translationem
+ex quavis aequatione valida, et ipsa est valida. Addimus
+in mente « minorem » : atqui ex aequatione (valida) ax² =
+bx + c per translationem oritur ax² — bx — c = 0. Ergo
+haec est valida (affirmatur).
+Animadvertimus primo : processus mentis hic consistit
+in syllogismo in Barbara, accuratius dicitur « typi Barbara ».
+Dicimus potius hoc ratiocinium pertinere ad « typum » Barbara ;
+non enim est in modo classico qui hoc nomine indicatur, sed ei valde
+simile. Nam eius maior est tripliciter universalis. Si plene enuntiatur
+dicendum est : quaevis aequatio, quae per quamvis « translationem »
+resultat ex quavis aequatione valida, est valida. Et minor erit : haec
+aequatio (2) per hanc translationem (determinatam) resultat ex ista
+aequatione (1) valida. Conclusio immediate resultans est : (2) est va-
+lida. Notandum est pronomina « haec » etc. non indicare singularia,
+sed specifica in specie specialissima, individua, sunt igitur univer-
+salia. Nota insuper : Primum « quaevis » ex maiore determinari non
+independenter, sed dependenter a determinationibus duorum aliorum
+« quaevis » ad « haec » vel « ista », et quidem tum specifice, tum indi-
+vidualiter. Inde maior accuratius dicitur : dupliciter universalis. Tales
+syllogismi, et eorum consequentiae rectae a mente humana statim
+intelliguntur, non minus ac syllogismus in Barbara classicus. Haec
+pertinent ad thesaurum logicae « utentis » sed nondum examinata
+sunt, nondum pertinent ad logicam docentem.
+Naturaliter igitur intuemur in tali syllogismo mentali,
+rectitudinem consequentiae et veritatem consequentis.
+Inde habemus quod primo observamus : in omni tali
+processu in mente fit syllogismus (typi Barbara) ; non expri-
+mitur verbis, sed mentaliter dirigit actum affirmandi con-
+clusionem ; id non facit, ut supra dictum est (V § 2 B), ut
+norma extrinseca, sed ut activitas intellectus ipsius mentis,
+ut « natura ». Est igitur syllogismus in « actu exercito » ;
+investigatio nostra noetica non introducit syllogismum, sed
+eius praesentiam detegit ; facit eum transire ex actu exercito
+in « actum signatum ».

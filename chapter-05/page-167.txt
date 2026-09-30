@@ -1,0 +1,41 @@
+tur ex activitate mentis humanae, sed non sunt psycholo-
+gicae, sed noeticae.
+Hae leges logicae universaliter agunt de ipsis rebus, de
+quavis dispositione rei ; inde habent idem subiectum ac
+metaphysica quae omne ens considerat iuxta verba S. Tho-
+mae (In Boet. de Trin. q. 6 a. 1) : « utraque scientia (meta-
+physica et logica) communis est, et circa idem subiectum
+quodammodo » (textus iuxta recensionem Wyser). Est id
+quod Riehl (loc. cit.) exprimit dicendo « Denkgesetze sind
+Gesetze des Gedachten, des Gegenständlichen überhaupt ».
+Ita etiam axiomatica stricte dicta procedere poterit ;
+tantum id exigitur, ut non attendamus ad sensum specifi-
+cum. Tantum utimur sive logica naturali, sive artificiali.
+Unum addendum : si in methodo axiomatica ad conclusio-
+nem pervenimus, quae est intuitive erronea, hoc dato uti
+non licet ; tantum si est in contradictione cum axiomate
+vel theoremate prius deducto. Hoc tantum argumento ex
+absurdo uti licet.
+
+§ 3. De executione programmatis axiomatici
+
+1. Animadversiones praeviae
+
+Ex praecedentibus concludere licet : methodus axioma-
+tica, quae utitur logica naturali et, ubi opus est, applicat
+quoque logicam docentem intuitivam, poterit ex systemate
+axiomatum praesupposito deducere corpus theorematum,
+quin attendat ad sensum verborum, quae materiam harum
+propositionum, subiectum scientiae, exprimunt (in casu
+geometriae ad sensum geometricum) ; poterit construere
+scientiam, geometriam, quae in verbis non distinguitur a
+geometria classica, inclusa geometria non-Euclidica.
+Hoc systema axiomatum necessario satisfacere debet
+exigentiae immunitatis a contradictione intrinseca ; i. e.
+debet esse tale, ut excludat possibilitatem perveniendi (in
+ratiocinio legitimo) ad conclusionem, quae contradicat axio-
+mati, vel alii conclusioni legitime deductae. Et constare
+debet de hac immunitate a contradictione interna, etiam
+pro futuro. Systema axiomatum arbitrario electum per se
+non gaudet tali immunitate. In semi-axiomatica haec con-
+tradictio excluditur quia systema axiomatum intuitive ex

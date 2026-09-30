@@ -1,0 +1,43 @@
+1. De syllogismo verbis expresso.
+
+Haec « abstractio symbolica » consistit in hac simplici
+perceptione mentis. In omni scientia classica syllogismus
+enuntiatur terminis nobis notis quoad sensum, etiam speci-
+ficum, concretum. Sed menti syllogizanti clarum est, distin-
+guendum esse veritatem propositionum syllogismi ab eius
+rectitudine, et hanc non dependere ab illa. Id inde a tempore
+Aristotelis etiam explicite statuitur. Inde possumus negli-
+gere sensum terminorum, et attendere ad solam rectitudi-
+nem syllogismi, quippe quae nobis in hac « abstractione »
+perspicua manet. Ideo possumus loco terminorum materia-
+lium alia symbola introducere, ita ut rectitudo consequentiae,
+etiam in formula symbolica nova, intuitioni mentis nostrae
+clara permaneat. Sit syllogismus concretus : omnis homo est
+mortalis, omnis philosophus est homo, ergo omnis philoso-
+phus est mortalis. Si pro terminis materialibus, concretis,
+symbola introducimus : « omne B est A, atqui omne C est
+B, ergo omne C est A », pro mente humana (saltem post
+exercitium) perfecte clara manet rectitudo syllogismi, con-
+sequentia. Ipse Aristoteles id iam applicat in enuntiatione
+formarum syllogismorum 3.
+In medio aevo haec symbola (litterae), quae in exponen-
+da theoria logica adhibentur, vocantur « termini transcen-
+dentes » apud S. Albertum Magnum et apud auctorem Sum-
+mae totius logicae. (Vid. supra V § 7 pag. 148 Théorie du
+Jug. Ch. VII § 6.
+Conditiones. In hac « abstractione », in qua loco verbo-
+rum, quorum sensus notus est, termini transcendentes po-
+nuntur, ut syllogismus valeat, et valere intelligatur, duae
+conditiones adimplendae sunt.
+1) Termini debent habere sensum ; etiamsi hic nobis
+ignotus maneat. In exemplo allato tres termini A, B, C
+singuli bis occurrunt ; ut consequentia valida sit, idem
+
+3 Ita formam syllogismi « Barbara » exprimit et eius valorem af-
+firmat dicendo : « si A praedicatur de omni B, et B de omni C, necesse
+est A de omni C praedicari » quod ita in « schema » syllogismi reducitur :
+« omne B est A, atqui omne C est B, ergo omne C est A ». Anal. Priora
+I, 4 25 b 37-39. De ulteriori evolutione symbolismi Aristotelis cfr.
+opus nostrum Recherches de logique formelle. La structure du système
+des syllogismes et des sorites . La logique des notions « au moins » et
+« tout au plus ». Romae 1947.

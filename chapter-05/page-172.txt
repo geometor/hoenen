@@ -1,0 +1,45 @@
+designari poterunt, ut punctum designatum per B situm sit inter A
+ex una parte et C, D, E, .... K ex altera parte, dein C inter A, B ex
+una parte et D, E, ..... K ex altera parte, dein D inter A, B, C ex
+una parte et E ..... K ex altera etc. Praeter hanc dispositionem
+
+    A    B    C    D    E        K
+  ──•────•────•────•────•────────•──
+
+datur tantum unica alia quae eiusdem structurae est, scil. inversa » 9.
+
+Ordo huius seriei symbolorum aspiciendus est, ut in-
+telligatur quid in theoremate dicatur de ordine punctorum
+in linea, qui ex ignota relatione « inter » oritur ; theorema
+affirmat ordinem punctorum designari per ordinem intuiti-
+vum seriei litterarum. In relatione punctorum sensus vocis
+« inter » negligitur, sed in ordine symbolorum, quocumque
+modo describitur, non potest negligi. Ideo etiam ab Hilbert
+introduci possunt novi illi termini quibus utitur, qui prius
+nec nominati nec definiti (implicite) sunt, scilicet termini
+« ex una parte » et « ex alia parte » (einerseits et andererseits),
+quorum sensus intuitive intelligi debet et sumitur ex ordine
+litterarum (vel etiam verborum quae relationem abstractam
+describunt). Sed hi termini deinde intuitive indicant na-
+turam relationum, quae valent pro litteris, et quarum spe-
+cimina specifica in singulis casibus applicationis theorema-
+tis in phantasmate aspici, et in eo ut necessariae intelligi
+debent ; tunc habetur semper appellatio ad phantasma ordi-
+nis inter symbola sive verba. Et quod est maioris momenti :
+sensus huius relationis intuitivae, quae exprimitur verbis
+« ex una parte » et « ex alia parte » est omnino idem ac sensus
+relationis « inter » (« interitas » vocari poterit, sicut anglice
+dicunt « betweenness ») quae punctis tribuitur. Nam « in-
+teritas » in serie symbolorum est « interitas » geometrica,
+quia haec series nonnisi « in spatio » aspici potest, est relatio
+spatialis. Si haec intuitio « logica » dicitur, urgendum est,
+
+9 « Sind irgendeine endliche Anzahl von Punkten einer Geraden
+gegeben, so lassen sich dieselben stets in der Weise mit A, B, C, D,
+E, ..... K bezeichnen, dasz der mit B bezeichnete Punkt zwischen A
+einerseits und C, D, E, ..... K andererseits, ferner C zwischen A, B
+einerseits und D, E, .... K andererseits, sodann D zwischen A, B, C
+einerseits, und E, ..... K andererseits liegt. Ausser dieser Bezeichnungs-
+weise gibt es nur noch die umgekehrte Bezeichnungsweise K .....
+E, D, C, B, A, die von der nämlichen Beschaffenheit ist ». HILBERT,
+Grundlagen der Geometrie ed. 7 (1930) pag. 8.

@@ -1,0 +1,45 @@
+quitate ad extensa physica applicabatur ; non tantum ad
+astronomiam, sed etiam ad scientiam physicam de obiectis
+sublunaribus, ad cinematicam, ad mechanicam, ad acusti-
+cam, ad opticam, recentius ad theoriam camporum. Haec
+applicatio, quae praesertim inde a Newtonis opere Philoso-
+phiae naturalis principia mathematica splendidum habebat
+successum, nullam continet difficultatem. Extensio illa
+(« spatium ») cuius leges in geometria statuebantur, per
+abstractionem in obiectis physicis detegebatur, et in illis
+erat realisata. Applicabatur ad illud ex quo abstrahebatur.
+
+In hac applicatione necessitas relationum in extensis
+physicis facile cognoscitur ; per eandem abstractionem for-
+malem. Quoad exactitudinem adest difficultas, quae tamen
+facile solvitur. Ut extensa physica quantitative cognoscan-
+tur, indigemus mensuris, quae propter diversas causas (im-
+perfectionem sensuum, imperfectionem instrumentorum, in-
+fluxum legum physicarum) nunquam perfecte exactae esse
+possunt. Solvitur difficultas ex eo quod ita valores vere
+approximatos habemus, et secundum ipsas leges geometri-
+cas sensus ipsius notionis et gradus approximationis deter-
+minari poterit. Alibi (Théorie du Jug. Ch. IX § 3) iam dice-
+bamus in applicatione geometriae classicae ad extensa phy-
+sica manere cognitionem necessitatis, sed cognitionem exac-
+titudinis sacrificari debere ; sed loco eius habemus veri no-
+minis approximationem. (Cfr. etiam supra II § 2 n. 6 « de
+iudiciis experimentalibus mathematicis » mathematici Stahl
+et I § 4 Kleinii « Approximationsmathematik et Praezi-
+sionsmathematik »).
+
+Ita scientia mathematica extensorum physicorum, « phy-
+sica Newtonis », inde ab eius opere celeberrimo constructa est.
+
+B) De applicabilitate geometriae axiomatice constructae.
+Sed si applicare volumus geometriam axiomatice construc-
+tam, maiores difficultates surgunt. Si eam applicare volu-
+mus, debemus primo sensum determinatum tribuere verbis
+quibus geometria axiomatica utitur, subiectis, ut punctis,
+lineis, etc., et relationibus, ut « incidentiae », « interitatis »,
+etc., ita ut eis correspondeant obiecta physica determinata
+ex nostra experientia.
+
+Ipsa notio extensionis in his verbis non videtur exprimi ;
+erit illud in quo possibilia sunt systemata de quibus Hilbert
+loquitur (supra I § 6) ; per relationes haec systemata effor-

@@ -1,0 +1,42 @@
+intrinsecae) et difficultas in applicatione geometriae, quae
+est magis extrinseca, sed non totaliter.
+
+2. Difficultates intrinsecae.
+
+A) Difficultas practica. Difficultas practica in eo consistit
+quod homo methodum axiomaticam ad integram geometriam
+construendam applicare practice non potest ; id superat
+vires humanas. Sumamus exemplum.
+Legatur apud Hilbert demonstratio simplicissimi theo-
+rematis 5 (in ed. 7 pag. 5-8), quod agit de ordine quattuor
+punctorum in linea recta, scil. de relationibus, quae expri-
+muntur voce « inter », vigentibus pro hisce punctis. Quid
+significet « inter » geometricum, secundum methodum axio-
+maticam ignoratur. In prima editione hoc theorema ut
+axioma introductum erat, postea ex aliis axiomatibus, etiam
+ordinis, deductum est ; sed demonstratio occupat fere duas
+paginas, et una figura illustratur. Legenti hanc demonstra-
+tionem clarum erit : si tali methodo geometria integra (supra
+definita) deduci deberet, hoc opus vires humanas superaret.
+Inde nemo hoc fecit, nec, putamus, faciet. Idem valet de
+semi-axiomatica, quae sensum geometricum vocis « inter »
+intelligit sed eius sibi usum intuitivum denegat.
+Interrogemus axiomaticum : Num admittis tale theo-
+rema, in geometria classica post longam deductionem sta-
+bilitum (dicamus existentiam quinque corporum platoni-
+corum) propter argumentum secundum axiomaticam hilber-
+tianam constructum, an propter deductionem intuitivam
+classicam ? Responsum probabiliter erit simile illi, quod
+sibimet ipsi dabat mathematicus Hardy in simili quaestione
+respiciente demonstrationes logisticas veritatum mathema-
+ticarum iuxta Whitehead et Russell. Ait : « Admitto theore-
+ma numerorum primorum propter argumentum quo de
+la Vallée-Poussin id probavit, sed non propter demonstra-
+tionem, quae in Principia Mathematica invenitur, admitto
+2 + 2 = 4 » 8.
+Diximus demonstrationem theorematis 5 apud Hilbert
+
+8 « I believe the prime Number Theorem because of de la Vallée-
+Poussin's proof of it, but I do not believe that 2 + 2 = 4 because of
+the proof in Principia Mathematica ». G. H. HARDY, Mathematical
+proof in periodico Mind 38 (1929) pag. 17.

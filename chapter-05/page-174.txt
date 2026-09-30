@@ -1,0 +1,42 @@
+dum est : Haec dispositio litterarum in serie lineari est
+dispositio spatialis, eius observatio, et intuitio intellectiva
+ei associata, sunt observatio et intuitio geometrica. Ita autem
+non habetur introductio logicae in geometriam, sed introduc-
+tio geometriae in logicam, praecise sicut usus numerorum
+in axiomatica geometrica non est quid logici, sed quid arith-
+metici in logica. Et haec dispositio in serie, quae inverti
+potest, cohaeret cum notione directionis geometricae, non
+directionis lineae relate ad extensum ambiens, sed secun-
+dum ipsam lineam, quae potest esse duplex ita ut una
+sit inversa, opposita, alterius. In hoc quoque haec intuitio
+geometrica non est exclusa, sed inclusa.
+Et intelligimus positionem Poincaré, de qua supra dic-
+tum est, qui tenet in elementis topologicis intuitionem non
+posse excludi.
+Haec quae detegimus in examine noetico propositio-
+num relationalium, simili modo valent de ipso instrumento
+logico, quo in deductione rigorosa utimur, i. e. de ratiocinio
+syllogistico. Impossibile est nobis cogitare sine phantasmate.
+Non opus est ut hoc sit phantasma ipsius obiecti (immo dan-
+tur obiecta quae a nullo phantasmate attingi possunt) ;
+sufficere poterit, sub certis conditionibus, phantasma ver-
+bale, vel ex aliis symbolis consistens. In deductione axio-
+matica geometriae indigemus tali phantasmate, nec tantum
+ad expositionem (pro aliis) nostri ratiocinii. Apud Hilbert
+(in eius geometria) haec sunt phantasmata verborum. In
+his mens humana, sub quibusdam conditionibus, potest
+adhuc habere intuitionem intellectivam consequentiae syl-
+logisticae ; sine tali, deductio iam dispareret. Duo observa-
+mus : 1) ibi continuo indigemus appellatione tacita ad illa
+phantasmata ; tacita, nam explicite enuntiatur tantum id
+quod intuemur in phantasmate, non ipsa rectitudo formae
+syllogisticae (et bene facimus, nam hoc semper fieri est impos-
+sibile ; vide Théorie du Jug. Ch. VI § 4 ed. 2 pag. 201). Sed
+ut hoc recte fiat quidem debemus intueri ordinem verborum,
+qui iterum est spatialis ; ut supra iam dictum est, ipsa no-
+mina logica « terminus medius » et « termini extremi » hoc
+indicant. In ipsa logica indigemus intuitione geometrica,
+absolute, et magis quam alibi. Observamus 2) : Optimo
+iure geometrae non solent mentionem facere rectitudinis
+syllogismorum suorum (formae earum), sicut non faciunt
+mentionem naturae activitatis mentis humanae in tali

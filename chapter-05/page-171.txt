@@ -1,0 +1,42 @@
+tio rei quae aspicitur, est potius geometrica quam « logica » ;
+et habebimus novam « propositionem primam », immedia-
+tam, praeter axiomata. Repetimus : hic adest magnus cam-
+pus inquisitionum noeticarum, et hae scholasticis commen-
+dentur. Num in tali deductione « geometriae integrae »
+revera non adsunt « appellationes ad phantasma » geome-
+tricum ?
+Ut responsum habeatur, inquisitio noetica non ad
+« praegeometriam », vel « scientiam praeviam », restringenda
+est, sed etiam ad ipsam deductionem geometriae ; exami-
+nandae sunt activitates mentis humanae in hac ipsa deduc-
+tione ; haec noetica non est geometria, sed scientia, cuius
+obiectum est geometria in sua constitutione, in suo fieri ;
+est scientia philosophica, habitus sui generis, quem sane
+non omnes mathematici habent. Haec est igitur quaestio :
+num in ipsa activitate, qua mens humana geometriam con-
+struit deductive, omnis appellatio ad phantasma geometricum
+excluditur, vel excludi potest.
+Poincaré, qui sane methodos modernae axiomaticae
+non spernit, iam sustinebat, « axiomata ordinis », quae a
+Hilbert statuta sunt, et in genere elementa topologica, in
+geometria adhiberi non posse sine quadam intuitione huius
+generis (Dernières Pensées pagg. 93-95 ; cfr. ibid. pag. 271).
+Et tamen Poincaré, ut supra (I § 4) videbamus, intuitionem
+geometricam non amabat. Num Hilbert in suis deductioni-
+bus revera excludit omnem appellationem ad phantasma
+geometricum ?
+Si quis hoc asserit (et permulti mathematici hoc facere
+videntur) id debebit demonstrare ex examine noetico sin-
+gulorum gressuum talis deductionis ; id quod, in quantum
+scio, non faciunt. Interim licitum erit, cum Poincaré de
+« rigore » deductionis dubitare. Sed plus dicendum est : talis
+appellatio videtur adesse ; idque iam statim. Si apud Hilbert
+(loc. cit.) legimus sequens theorema (6) quod est generalisa-
+tio theorematis 5, et quod (dolendum est) non demonstra-
+tur sed tantum enuntiatur, haec observamus : 1) proponitur
+figura e qua sensus asserti legendus est ; 2) etiam series sym-
+bolorum (litterarum) ob eundem finem ; sed haec tantum
+respiciunt difficultatem practicam, de qua supra ; sunt ta-
+men seria. Sed etiam difficultas theoretica non evitatur.
+Ecce enuntiatio huius theorematis 6 : « In quovis numero dato
+punctorum unius rectae, haec semper ita litteris A, B, C, D, E, ..... K

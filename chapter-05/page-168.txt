@@ -1,0 +1,42 @@
+realitate constructum est. Et axiomatici stricti invenerunt
+methodos ingeniosissimas ad demonstrandam hanc immuni-
+tatem, etiam pro conclusionibus futuris.
+Sunt qui dicant hanc exigentiam non requiri, ut systemati quae-
+dam realitas correspondere possit (in realibus contradictio adesse
+non potest), sed tantum poni ideo quia secus quaevis conclusio deduci
+posset. Nam semel deducta contradictione, duo contradictoria
+simul sumpta constituunt absurdum ; et secundum legem logicam
+« ex absurdo sequitur quodlibet », ex illa contradictione quaevis pro-
+positio legitime, secundum hanc regulam, deduceretur. Et systema
+in quo quodvis demonstrari potest, iam momentum vel « interesse »
+non habet.
+De hac positione extrema unum tantum verbum dicimus. Vox
+« sequitur » ita adhibetur in sensu quem habet in « implicatione mate-
+riali » logisticae, quae nullam relationem intrinsecam necessariam
+inter praemissas et conclusionem statuit. In medio aevo ab omnibus,
+in quantum scio (excepto forte pseudo-Scoto) adagium « ex absurdo
+sequitur quodlibet », in alio sensu adhibetur, ubi « sequitur » habet
+sensum consequentiae intrinsecae ; et insuper « quodlibet » non si-
+gnificat « quaevis propositio » sed tantum « tum verum tum falsum »
+Cfr. Théorie du jugem. ch. IV § 3 B).
+Si pars scientiae modo axiomatico construitur, vel po-
+tius si eius partes relate ad structuram logicam ope axioma-
+ticae examinatur (cfr. supra I § 6) axiomatica pretiosas
+methodos suppeditare potest. Sed axiomatici et semi-axio-
+matici deducere volunt integram geometriam ex systemate
+axiomatum praevie statuto. Ideo exigunt (non tantum im-
+munitatem a contradictione intrinseca) sed etiam systema
+axiomatum completum. Sed determinatio accurata huius
+completudinis est crux notoria methodi axiomaticae. De
+hac non agemus. Vocemus « integram » eam geometriam,
+quae continet omnes notiones (terminos) et omnia theore-
+mata, quae in geometria classica (inclusa non-Euclidica)
+adsunt et deducuntur, et ulterius deducentur. Quoad hanc
+constructionem scientiae axiomatici valde laudant rigorem
+suae methodi, in oppositione ad methodum intuitivam clas-
+sicam, cui « rigor » deesse dicitur propter repetitam « appel-
+lationem (saepe tacitam) ad phantasma » geometricum. Sed
+in examine noetico huius constructionis axiomaticae dif-
+ficultates deteguntur, quae sunt valde seriae, et pro magna
+parte non considerantur. Eas reducimus ad tria capita :
+est difficultas practica, difficultas theoretica (hae duo sunt

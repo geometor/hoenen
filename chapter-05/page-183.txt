@@ -1,0 +1,42 @@
+et propositiones, quae de eis valent, modo logistico, post
+immensum laborem praevium, inveniendae sunt. Tamen in
+centenis formulis quae praecedunt, adsunt v. g. in systemate
+interpunctionis, et haec systemata punctorum intelligenda
+sunt, et in sensu naturali adhibenda sunt, et ibi intrat sive
+agnitio figurae geometricae, sive ordo numerorum natura-
+lium, sive potius utrumque. Intuitive adhibentur ea, quae
+post multum laborem tandem aliquando cognosci dicuntur.
+
+* * *
+
+Recapitulatio. In superioribus videbamus : geometria
+pure axiomatica construi non poterit. Nam indigemus, sal-
+tem in elementis topologicis, in singulis casibus specificis,
+appellatione ad intuitionem, quae est intuitio intellectiva
+in datis sensitivis, quae habent structuram geometricam.
+Ipse syllogismus, qui est medium deductionis in axio-
+matica, ut medium deductionis rigorosae esse possit, requi-
+rit ut eius rectitudo, rigor igitur, intelligatur, inspectione
+mentis humanae in structuram propositionum verbis ex-
+pressarum ; si haec structura est recta, intellectus rectitu-
+dinem ratiocinii in ipsis his verbis intuitive videt (hoc erat
+fundamentum possibilitatis axiomaticae) ; sed haec intuitio
+est recursus ad ordinem spatialem, suo modo geometricum.
+Ut universalitas necessitatis talis intuitionis magis illu-
+cesceret, considerabamus casus operationum externarum,
+quae in deductione algebraica praecipuas partes habet. In-
+veniebamus ibi, in singulis fere gressibus : 1) quod ibi men-
+taliter syllogismus typi Barbara intercedit ; 2) quod minor
+huius syllogismi est propositio (specifica in specie indivi-
+dua), quae est immediata, orta ex simili intuitione in datis
+sensitivis (quae suo modo sunt geometrica).
+In his calculis arithmeticis sensus intuitivus terminorum
+(numerorum, additionis eorum etc.) semper adest (forte
+vago modo) et id non impedit rigorem. Sed idem invenitur
+in deductione logistica, ubi a tali sensu etiam abstrahendum
+est. Et tamen etiam ibi in singulis gressibus idem sese ma-
+nifestat : progressus fit ope syllogismi mentalis (typi Bar-
+bara), cuius minor est propositio specifice individua, imme-
+diata.
+Interrogare possumus de aliis scientiis ; ibi in genere
+ad sensum verborum nos attendere admitti videtur, ibi non

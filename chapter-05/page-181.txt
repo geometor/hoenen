@@ -1,0 +1,42 @@
+quentissima circa formulas algebraicas, scilicet in « substi-
+tutione ». Specimina huius similia inveniemus in ipsa logis-
+tica.
+B) Logistica. Hoc forte mirum erit, sed revera in me-
+thodis logisticis adsunt, quae constanter facere debent ap-
+pellationem ad data sensitiva, quamquam destinatae sunt
+ad id evitandum et praesertim, ut videtur, ad evitandam
+hanc « taciturnitatem ».
+Deductio logistica, etiam ea quae ipsam hanc artem
+construit, incipit quoque a systemate axiomatum. Ut de-
+ductio fiat, necessario etiam introducendae sunt « regulae
+operationum », secundum quas logisticus formulas iam datas
+in alias transformat ; in hoc consistit deductio logistica ;
+hae regulae sunt vere normae extrinsecae. In hoc « calculo
+logico » istae regulae idem habent munus ac in scientia clas-
+sica leges logicae, quae sunt, ut dictum est, mentis humanae
+activitas naturalis intelligens, forte perfectionata per artem
+logicam. Secundum exigentias logisticas (saltem recentius)
+hae regulae expressis verbis formulantur, et quando appli-
+cantur, id symbolice indicatur. Operationes, quae his regulis
+diriguntur, tanquam obiecta habent sola symbola iam data.
+Distinguuntur regulae primitivae et derivatae. Nomi-
+namus duas, quae videntur esse principales, « substitutio-
+nem » (legitimam) et regulam consequentiae (sive schematis
+deductivi). Applicando autem illas regulas legitimas in effi-
+ciendo transformationes — in deducendo modo logistico —
+debemus appellare ad intuitionem, sensitivam simul et in-
+tellectivam, eodem modo ac in operationibus algebraicis
+supra descriptis. Et in singulis gressibus deductionis diffe-
+rentibus habemus intuitiones differentes secundum species
+individuas. Et tunc, ut in casu formulae algebraicae, ha-
+bemus syllogismum typi Barbara, et iudicium implicitum
+sive explicitum determinatum in specie individua, non de-
+ductum. Et id invenitur etiam apud eos logisticos qui, inve-
+hentes in Aristotelem, syllogismum ut « culmen stupiditatis »
+describunt, « the apotheosis of stupidity ».
+Videamus specimen substitutionis, et quidem eam quae
+constituit primum gressum in deductione primi theorematis
+(*2.01) ex opere Principia Mathematica (pag. 100). Hoc
+theorema, verbis expressum, enuntiat : « si p implicat non-p,
+tunc p est falsum » (p est symbolum propositionis). Demon-
+stratio incipit per substitutionem symboli non-p pro sym-

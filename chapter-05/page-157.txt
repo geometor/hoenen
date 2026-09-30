@@ -1,0 +1,36 @@
+CAPUT V
+
+DE AXIOMATICA
+
+§ 1. De methodo axiomatica.
+
+1. De axiomatica stricte dicta.
+
+In capitibus praecedentibus saepe sermo erat de « axio-
+matica sensu moderno », i. e. de methodo construendi scien-
+tiam, in nostro casu, geometriam, etiam Euclidicam, per
+deductionem pure logicam (i. e. quae sola media logica
+adhibet) ex systemate determinato, praestabilito, « propo-
+sitionum primarum », quae axiomata vocantur.
+In hac constructione scientiae non est, nec potest esse,
+sermo de veritate axiomatum, et conclusionum, sed tantum
+de rectitudine ratiocinii ex praemissis, quae sunt sive axio-
+mata, sive propositiones ex his iam legitime deductae, et de
+immunitate a contradictione in conclusionibus recte deduc-
+tis.
+Voces, quae adhibentur, sunt eaedem ac illae, quae in
+geometria classica occurrunt ; sed tantum ut termini adhi-
+bentur, quorum sensus tanquam ignotus est supponendus
+(supra I § 5). Excipe tamen, ut antea iam dictum est, apud
+Hilbert, casum numerorum, qui in sensu intuitivo adhiben-
+tur, simul cum suis propriis. Etiam termini pure logici (« et »,
+« si », etc.) in sensu intuitivo intelliguntur, simul, ut dicemus,
+cum proprietatibus logicis ; idem dicendum de terminis ex
+logica relationum. Absolute autem excluditur cognitio in-
+tuitiva terminorum proprie geometricorum. Si in sequen-
+tibus de « axiomatica » sine addito sermo est, haec methodus
+intenditur.
+Quia haec methodus, perfecte elaborata a mathematicis,
+tanquam methodus perfectissima construendi scientiam,
+omnem scientiam, proponitur, epistemologia generalis de-
+bebit eam examinare, quae bona sunt admittere, si quae er-

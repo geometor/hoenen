@@ -1,0 +1,42 @@
+illum eundem ordinem, etiam in symbolis, primarie et intui-
+tive esse « geometricum » spatialem, et talis manet.
+Et ubicunque hoc theorema applicatur, et id fit saepis-
+sime, sive directe sive indirecte, habetur appellatio ad tale
+phantasma geometricum ; et in axiomatica id fit tacite, ut
+videtur. Et animadvertamus : etiamsi, ut in axiomatica
+fit, haec propositio ut theorema deductum consideratur, eius
+applicatio in casibus specificis exigit appellationem ad
+phantasma specifice determinatum, et ita oritur propositio
+prima, immediata, in media deductione. Poincaré bene
+dixit, in eis quae reguntur ab « axiomatibus ordinis » et
+in topologicis in genere, appellationem ad intuitionem evi-
+tari non posse. Et in methodo axiomatica, haec appellatio
+consequenter fit tacite. Nos sane non dicimus, deductionem
+ideo esse erroneam, immo nec id nocere eius rigori. Sed dici
+sane nequit geometriam, post statutum systema axiomatum,
+non iam appellare ad intuitionem. Et ita melius intelligimus
+Euclidem, cui saepe vitio vertitur, quod nullum axioma or-
+dinis explicite statuit, sed tacite ea quibus indiget, intro-
+ducit. Nec hoc est vitium, talia iudicia, quae resultant legi-
+time ex inspectione phantasmatis, non explicite enuntiare,
+tacite adhiberi. Sunt enim iudicia virtualia, quae noeticus
+tam saepe obviam habet, ut in supra expositis in tot paginis
+videbamus, et in sequentibus etiam saepius videbimus. Si
+enuntiantur — id non prohibetur — constituunt proposi-
+tiones primas, immediatas. Et inde videtur sequi quod supra
+dictum est : impossibile est inde ab initio construere systema
+completum axiomatum, completum hoc sensu, quod super-
+fluum faceret omnem sequentem appellationem ad intui-
+tionem geometricam. Si propositiones, quae ita resultant,
+non vocandae sunt « axiomata », sunt tamen primae, imme-
+diatae, per se intelligibiles, non deductae ; et si ipsis dene-
+gatur nomen « axioma », idem fieri debere videtur relate ad
+« axiomata ordinis » ; inde haec ab Euclide non enuntiantur.
+Etiam finis enuntiationis theorematis 6 ad eandem du-
+cit conclusionem. Ibi dicitur : « praeter hanc dispositionem
+(Bezeichnungsweise) datur tantum unica alia, quae eiusdem
+structurae (Beschaffenheit) est, scilicet inversa (die umge-
+kehrte) ». Ibi terminus « inversus » (umgekehrt) quoad sen-
+sum supponitur notus. Consideratur scilicet tanquam ter-
+minus « logicus », qui significat ordinem litterarum in serie
+dispositarum intuitivum. Sed simili modo ac supra dicen-

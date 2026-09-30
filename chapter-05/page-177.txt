@@ -1,0 +1,43 @@
+De connexionibus necessariis inter actus existentiales in ap-
+pendice).
+3) Ut supra iam dictum est, ut contactus successi-
+vus, i. e. motus localis corporis rigidi possibilis sit, requiritur
+ut illud extensum, quod est medium localisationis, sit prin-
+cipium individuationis, ut explicatum est in quaestione de
+possibilitate figurarum congruentium. Haec proprietas ex-
+tensionis est igitur fundamentalior, praerequiritur obiective
+praevie ad motum localem corporis rigidi. Forte et hic dici
+poterit, observationem motuum corporum sensibiliter rigi-
+dorum, praerequiri, sicut apud Aristotelem observationem
+motus antecedenter ad notionem loci ; sed in utroque casu
+obiective ordo prioritatis et posterioritatis est inversus.
+Obiectiva possibilitas motus corporis rigidi profluit ex
+proprietate illa extensionis, ex qua possibilitas figurarum
+congruentium profluit, et in cognitione nostra ipsius naturae
+extensionis, ut est principium individuationis, haec prio-
+ritas quoque cognoscitur. Inde supra (cap. IV § 3) debeba-
+mus reiicere dictum Poincaré : « si ergo non darentur cor-
+pora rigida, non daretur geometria ».
+
+3. In deductione scientifica.
+
+Sed nunc non de primis principiis, axiomatibus, sermo
+est, sed de processibus mentalibus, quibus ipsa deductio
+scientifica, scientia stricte dicta, construitur. In evolvenda
+ipsa deductione enim etiam inveniuntur iudicia prima,
+hoc sensu quod sunt « immediata », non ipsa deducta, per
+se intelligibilia ex appellatione ad data sensitiva, sed non
+eo sensu praegnante, quod sunt universalia ex quibus multa
+alia derivantur. Possunt esse iudicia quae respiciunt dispo-
+sitiones rei in specie specialissima seu « specie individua »
+ut philosophi cum Aristotele dicunt. Talia in geometria
+occurrunt, ut videbamus, sed etiam in aliis scientiis, in arith-
+metica, in logistica, in ipsa logica, in aliis scientiis. De hisce
+nunc.
+A) De arithmetica. Dicimus : in deductione arithmetica
+talis recursus ad phantasma iterum iterumque redit, ac
+evitari non potest. Sit aequatio algebraica valde elemen-
+taris : ax² = bx + c (1). Ut « valor » symboli x calculetur
+(ut aequatio solvatur) habemus regulas universales quae
+permittunt, talem aequationem, quae valida supponitur, in
+aliam, etiam validam, transformare. Talis regula est :

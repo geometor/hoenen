@@ -320,8 +320,13 @@ def run_all():
     process_spread(c5_pdf, 9, ch5_dir, left_page_num=172, right_page_num=173)
     # 174-175 from page-fills p. 10
     process_spread(fills_pdf, 10, ch5_dir, left_page_num=174, right_page_num=175)
-    # 176 (partial) and 177 from chapter-5 p. 11
-    process_spread(c5_pdf, 11, ch5_dir, left_page_num=176, right_page_num=177, is_partial_left=True)
+    fills2_pdf = PDFS_DIR / "page-fills-2.pdf"
+    if fills2_pdf.exists():
+        # 176-177 from page-fills-2 p. 1 (complete, fixing partial 176)
+        process_spread(fills2_pdf, 1, ch5_dir, left_page_num=176, right_page_num=177, is_partial_left=False)
+    else:
+        # 176 (partial) and 177 from chapter-5 p. 11
+        process_spread(c5_pdf, 11, ch5_dir, left_page_num=176, right_page_num=177, is_partial_left=True)
     # 178-179 from chapter-5 p. 12
     process_spread(c5_pdf, 12, ch5_dir, left_page_num=178, right_page_num=179)
     # 180-181 from chapter-5 p. 13

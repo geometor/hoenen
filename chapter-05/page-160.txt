@@ -1,0 +1,41 @@
+natura noetica intellectus ; tunc in altera scientia versamur,
+in noetica.
+Haec exigentia primorum principiorum pro geometria
+est perfecte aristotelica. Sed sunt (ita cl. Freudenthal) qui
+aliam addant, quae convenit cum exigentiis « axiomaticae »
+modernae. Exigunt scilic. ut ab illa scientia praevia inte-
+grum systema propositionum primarum statuatur, ita ut
+dein nulla « appellatio ad phantasma » permittatur, ut nulla
+nova propositio prima tacite (ut Euclides saepius facit)
+introducatur. Et haec exigentia statuitur, ut aiunt, ut
+deductiones perfectum rigorem logicum habeant. Et systema
+tali modo completum esse debebit, inde ab initio, ut tota
+geometria ex hoc systemate deduci possit, sine introductione
+novae propositionis, quae ex phantasmate legitur.
+In capitibus praecedentibus nos diversa axiomata per
+hanc noeticam stabilire conati sumus ; sed non systema
+completum propositionum primarum, sive axiomatum, cons-
+truebamus. In sequentibus id esse impossibile statuere cona-
+bimur. Ipsam noeticam relate ad diversa problemata geo-
+metrica et eorum discussiones modernas et antiquiores evol-
+vere conati sumus.
+Methodus, quam cl. Freudenthal proponit, iure nomi-
+nari potest « semi-axiomatica », est media inter methodum
+Aristotelis et Euclidis ex una parte, et ex alia methodum
+quam Hilbert propugnat. Axiomata in semi-axiomatica
+habent sensum intuitivum geometricum, sed dein, in ipsa
+deductione scientiae, abstrahere debemus ab hoc sensu ;
+et id exigitur ut « ad perfectum rigorem perveniamus ».
+
+§ 2. De fundamento possibilitatis axiomaticae.
+
+In diiudicanda axiomatica statim difficultas quaedam
+generalis surgit, quae tamen facile solvitur. Dicere quis
+poterit : si sensus terminorum geometricorum ignoratur,
+vel penitus negligendus est, num in tali materia logice, per
+processus mentis logicos, procedere poterimus ? Haec dif-
+ficultas, ut dictum est, facile solvitur ; iam in medio aevo,
+immo ab Aristotele, iam practice soluta est. Solutio consistit
+in eo processu, quem antea « abstractionem symbolicam »
+nominavimus (Vid. Théorie du jugement, Ch. VII § 6, et
+supra IV § 7).

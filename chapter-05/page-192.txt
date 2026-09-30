@@ -1,0 +1,42 @@
+quia haec extensio in obiectis physicis invenitur, ideo etiam
+de hac extensione, realisata in rerum natura, geometria
+axiomatica valebit. Et quia ibi imperfecte, sine exactitu-
+dine mathematica observantur, ideo ut veri nominis appro-
+ximatio iustificari possunt ; de his habemus vere « Approxi-
+mationsmathematik » [^12].
+
+Sed ut haec solutio difficultatis vere valida sit, requiri-
+tur ut applicatio ad ipsam « extensionem abstractam »
+iustificetur. Sed in analysi conditionum apparet, in hac
+applicatione inveniri debere omnia, quae etiam relate ad
+problema exactitudinis requiruntur, ut primae propositio-
+nes geometriae classicae iustificentur. Et ita geometria
+axiomatice constructa non est nisi medium superfluum ad
+inveniendam illam geometriam, quae ad extensa physica
+applicari possit ita ut cognitio ex mensuris resultans sit
+vere approximativa.
+
+Sunt mathematici qui contendunt, illud onus appli-
+candi geometriam ad extensa physica sibi, mathematicis,
+non incumbere, immo qui dicunt applicationem ad exten-
+sionem intuitivam abstractam iam non pertinere ad mathe-
+maticam puram. (Id etiam affirmant si geometria analytica
+arithmetice construitur). Sed tales mathematici suam doc-
+trinam docent discipulos suos physicos, qui eam applicare
+supponuntur et eam applicant, et utuntur propositionibus
+geometricis, quae inde a Newton in physicam introductae
+sunt. Id saltem iustificare debebunt ; et id fieri non potest
+sine reconstructione geometriae modo classico. Non sufficit
+iocando dicere cum Einstein (cfr. supra I § 3) : « in quantum
+theses mathematicae referuntur ad realitatem, non sunt
+certae, in quantum certae sunt non respiciunt realitatem » ;
+et nota in hoc dicto non distingui inter problema necessi-
+tatis et problema exactitudinis, quae duo precise in quaes-
+tione applicationis tantopere differunt.
+
+In tali separatione superba, quasi-aristocratica, geo-
+metriae axiomatice constructae, ab extensione physica,
+obiecto pure experimentali, etiam alia incommoda surgere
+videntur. Si de sensu geometriae post eius constructionem
+
+[^12]: Quomodo propria physica obiectorum interdum impedire possint realisationem exactitudinis in corporibus pro uno casu explicavimus in Cosmologia in nota « de ente extenso physico » in ed. 4 pagg. 438-445.

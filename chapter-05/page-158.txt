@@ -1,0 +1,42 @@
+ronea, ea rejicere sive corrigere. Huic labori epistemologi
+scholastici non poterunt sese subtrahere.
+
+2. De methodo Aristotelis.
+
+Aristoteles, uti dictum est, theoriam exponit scientiae
+in genere, quae prima facie huic est valde similis. Eam quoque
+construebat iuxta data geometriae sui temporis ; et Euclides
+in suis Elementis hanc theoriam applicabat 1.
+Aristoteles distinguit inter « intellectum » stricte dic-
+tum, et « scientiam » stricte dictam (νοῦς et ἐπιστημή). In-
+tellectus praebet « principia » scientiae, scientia autem solam
+deductionem, ope syllogismi et aliorum mediorum logicorum,
+ex illis principiis et conclusionibus iam prius deductis. Et
+« geometria » est « scientia » ; ipsius functio non est stabilire
+sua principia. Theoria deductionis aristotelica debet exigere
+principia prima. Quia valor conclusionum dependet a valore
+praemissarum (supponitur ipsum ratiocinium esse rectum)
+debent dari principia prima ; secus enim intruderemur, sive
+in circulum vitiosum, sive in regressum in infinitum. Debent
+dari principia, quae sine ratiocinio geometrico cognoscuntur.
+Ipsius igitur geometriae sola functio est pura deductio
+ex principiis primis, sed quae aliunde constare debent ; vel
+sunt « per se intelligibilia » (ex « solis terminis ») vel ab alia
+scientia stabiliri debent. (Cfr. supra I § 1). Systema igitur
+Aristotelis similitudinem habet cum axiomatica ; eius sys-
+tema propositionum « primarum » vel « immediatarum » vo-
+cari potest systema axiomatum, quae sunt principia a qui-
+bus geometria, ipsa « scientia », procedit (cfr. Gregor. 1951,
+pag. 434 sq.). Hoc sensu systema Aristotelis est quoque
+« axiomaticum ».
+Sed est diversum ab axiomatica sensu moderno. Aris-
+toteles pro veri nominis scientia non tantum exigit rectitu-
+dinem ratiocinii, quod est propria functio scientiae, sed insu-
+per veritatem, et quidem necessariam, omnium praemissa-
+rum, ultimatim igitur axiomatum. Tunc, et tunc tantum,
+
+1 Ita Th. Heath in suo opere famoso A History of Greek Mathe-
+matics, Oxford 1921, I pagg. 335 sqq. Idem historicus ibi affirmat
+(de qua re interdum dubia moventur, vel quod etiam negatur) « Aris-
+totle was no doubt a competent mathematician, though he does not
+seem to have specialized in mathematics ».
