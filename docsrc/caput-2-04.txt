@@ -1,0 +1,13 @@
+1  3  5 ..... et in fine invenimus 5039
+2  4  6 .....                     5040
+
+Quot sunt ? Computando invenimus : 2520.
+Progredimur ad triades et invenimus :
+1  4  7 ..... 5038 et numerando detegimus 1680 triades
+2  5  8 ..... 5039
+3  6  9 ..... 5040
+
+Eodem modo pergere possumus usque ad divisionem in decades ; sed si conamur numerum nostrum dividere in partes, quae, singulae ex 11 individuis constant, detegimus huius impossibilitatem (iudicium necessarium !) ; invenimus enim 458 tales partes, sed remanent duo calculi. Ecce, si eam hucusque nesciebamus, nunc detegimus veritatem necessariam dicti Platonis, quod supra audiebamus : « neque enim omnis numerus omnes in omnia sectiones habet ».
+Si patienter pergimus tandem aliquando inveniemus, ut supra, 59 divisiones in partes aequales esse possibiles, inveniemus hanc veritatem ut iudicium necessarium. Et tamen in toto decursu huius processus non adhibebamus nisi operationes experimentales, tales tamen ut singulae sese nobis revelent ut coniunctas cum necessitate absoluta ; nobis patet talem effectum necessario profluere ex operatione adhibita, quamquam quis sit effectus empirice tantum cognoscitur.
+Ut hoc magis pateat, comparemus hunc processum cum alio, partim simili partim diverso : si calculi diversi coloris, partim albi et partim nigri, in eadem urna continentur et inde centum desumimus, ex his v. g. viginti erunt albi, ceteri nigri ; si id repetimus exitus in genere erit alius et uterque exitus erit contingens. Sed si multitudinem horum calculorum in binarios distribuimus exitus erit et cognoscitur esse necessarius ; erit sive : hoc fieri nequit, sive : est possibile et numerus binariorum est talis. In uno casu intuemur necessitatem, in altero contingentiam effectus operationis experimentalis similis.
+Undenam proveniat differentia inter hos casus (et alios quoque, in quibus de necessitate vel contingentia non habemus intuitionem), postea indagabimus ; nunc praesertim attendamus ad id quod invenimus : non omnis experientia ducit ad iudicium contingens ; datur experientia, ex qua

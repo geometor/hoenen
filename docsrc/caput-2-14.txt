@@ -1,0 +1,10 @@
+quidem maior) oriatur. Id melius etiam patet in enuntiatione graeca, in qua pro « numerus » qui resultat dicendum est ὁ ἀριθμός, vel in lingua italica quae dicit « il numero ».
+Et haec cognitio praevia iterum non habetur nisi ex intuitione experimenti, sed tam facili modo ut non enuntietur. Similia inveniebamus in analysi eorum quae a Leibniz et Mercier proponebantur.
+Sed huic cognitioni praeviae iterum alia antecedit ; est haec : multitudo potest addi multitudini ; aliis verbis : additio (possibilis) est passio propria multitudinis ; vel universalius : quantitates eiusdem generis ad invicem addi possunt. Et hoc videtur esse revera primum notum in hoc genere. Si examinamus unde oriatur haec cognitio necessaria, non invenimus nisi hoc : ex inspectione in phantasmate ; id quod iterum indicat elementum experimentale ; iterum verificatum invenimus effatum Aristotelis : ἐμπειρίας ἐστὶ παραδοῦναι ; cognoscitur per abstractionem intuitivam.
+Id saepe, si non semper, invenimus : in iudiciis, quae ut principia enuntiantur, latent cognitiones praeviae cuiusdam passionis propriae primae subiecti, quae, quia sunt tam clarae ex intuitione tam simplici, ipsae non enuntiantur et, in « resolutione » propositionum ad principia prima facile omittuntur. Postea plura etiam de hac re.
+Iudicium nostrum « 7 + 5 = 12 » cum suis praesuppositis haec igitur complectitur : multitudo necessario addi potest multitudini ; ex additione, iterum necessario, resultat multitudo ; ex specifice determinatis oritur specifice determinata ; unde ex additione 5 ad 7 necessario resultat multitudo et ipsa specifice determinata. Quaenam est ? Responsum inveniri non potest nisi per computationem aliquam experimentalem ; sed haec ducit ad iudicium nostrum ut iudicium necessarium.
+
+§ 2. DE NECESSITATE IN IUDICIIS IMMEDIATIS GEOMETRICIS
+
+1. In geometricis duplex problema.
+Sicut in § 1 inveniebamus iudicia quaedam arithmetica immediata (quia hausta ex quadam experientia) et necessaria, eodem modo invenire est talia iudicia in geometricis.

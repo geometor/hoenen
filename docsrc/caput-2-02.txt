@@ -1,0 +1,11 @@
+In critica mathematica moderna problemati necessitatis vix ulla (nisi in uno forte casu) attentio tribuitur, sed maior problemati exactitudinis ; id quod suo modo etiam redit in theoria generali numeri realis. De problemate exactitudinis in capitibus sequentibus agemus, nunc examinandum est problema necessitatis, quod etiam invenitur in initiis arithmeticae, et in eius evolutione ulteriori. Et recolamus : problema nostrum principale non est « quomodo plene fundatur et iustificatur mathesis ? » sed volumus praesertim examinare activitatem et valorem mentis humanae in constructione scientiae, non tanquam problema psychologicum, sed ut problema noeticum. Initium sumimus ex quibusdam « constatationibus » simplicibus factorum mentalium elementarium.
+
+§ 1. DE QUIBUSDAM EXEMPLIS ARITHMETICIS.
+
+1. De divisibilitate multitudinis in partes aequales.
+Plato in libro V dialogi De Legibus (737 e - 738 b) pro condenda civitate nova, tanquam numerum aptissimum incolarum, agricolarum et militum, eligit numerum 5040 :
+« Quinquies mille et quadraginta sint, ob commoditatem numeri huius, agricolae quique pro finibus depugnent ».
+Commoditas autem haec in eo consistit, quod hic numerus tot modis (scilicet 59) in partes aequales dividi potest.
+« Et in primis duas in partes totius numeri partitio fiat, deinde in tres ; licet et in quatuor, et in quinque, et usque ad decem deinceps ».
+Animadvertenti 5040 = 7! (i. e. 2 × 3 × 4 × 5 × 6 × 7) id quod Plato dicit, statim clarum erit. Sed et omnes possibiles divisiones in partes aequales huius numeri, i. e. 59, Platoni notae sunt. Pergit enim (738 a) :
+« Dicamus autem, eum numerum aptiorem esse, qui plurimas, et praesertim deinceps ordine dispositas, in se ipso distributiones recipit. Neque enim omnis numerus omnes in omnia sectiones habet. Sed quinquies millium et quadraginta numerus, et ad bellum, et ad pacem, ad conventa omnia, societates, tributa, distributiones, non in plures quam unum de sexaginta partes incidi potest ab una autem ad decem usque continuas ». (Iuxta interpretationem Marsilii Ficini).

@@ -1,0 +1,13 @@
+Immo talis experientia videtur esse necessaria in iudiciis de additione numerorum ad invicem ; neque alia methodus videtur homini praesto esse ad inveniendum prima vice numerum qui ex additione determinata resultat. Hoc confirmari potest ex consideratione trium methodorum quae adhibitae sunt ad deducendum illud iudicium ex definitionibus ope aliorum principiorum.
+A). Methodus Leibnizii. Ita Leibniz [^2] contendit illud iudicium esse analyticum hoc sensu, quod ex definitionibus ope syllogismi deduci potest. Rectissime observat definitionem numeri « 2 » esse : numerus qui oritur ex additione unitatis ad unitatem ; « 3 » est numerus qui resultat ex additione unitatis ad 2 ; et ita porro. Singuli numeri specifice definiuntur per eorum originem ex numero immediate praecedenti, per additionem unitatis, per « definitionem recurrentem ». Dicimus : specifice definiuntur, nam genus iam determinatum est ; omnis enim numerus est multitudo ; dein specifice determinantur — et quidem necessario, secus non de specie ageretur — per methodum recurrentem (ad unitatem) vel per « inductionem arithmeticam », ita ut primo definiatur « 2 », dein « 3 », et ita porro. Ita scholastici quoque sentiunt. — Per transennam dictum sit : in disputatione utrum natura prius notus sit numerus cardinalis (duo, tria etc.) vel ordinalis (secundus, tertius, etc.) dicendum esse videtur ex eis quae supra exposita sunt : quoad genus (multitudinem) prior est character cardinalis, quoad differentiam specificam prior est character ordinalis numerorum.
+Ita igitur statuta methodo definitionis specificae singulorum numerorum, Leibniz dein ratiocinatur : Ex his definitionibus — analytice igitur — demonstrari potest v. g. 2 + 2 = 4.
+« Démonstration :
+2 et 2 est 2 et 1 et 1 (déf. 1)
+2 et 1 et 1 est 3 et 1 (déf. 2)
+3 et 1 est 4 (déf. 3)
+
+2 Nouveaux Essais sur l'entendement L. IV Ch. VII § 10
+« Définitions 1) deux est un et un
+2) trois est deux et un
+3) quatre est trois et un
+Axiome; mettant des choses égales à la place, l'égalité demeure ».

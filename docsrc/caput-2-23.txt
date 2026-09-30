@@ -1,0 +1,11 @@
+non haurimus ex hac ultima experientia, eam intuemur per abstractionem (de qua statim) et ideo hoc experimentum fit experientia vere intellectualis.
+In origine huius iudicii necessarii vere igitur influit, ut motivum, ipsa experientia ; haec determinat quid affirmandum sit, determinat specificationem praedicati, non determinat necessitatem.
+Et haec erat praecise thesis Caietani (supra pagg. 38 sq.).
+Hic brevis conspectus demonstrat, etiam in geometria adesse iudicia empirica, quae tamen sunt iudicia necessaria. Nec omnia sunt axiomata quidem sunt iudicia « immediata », quia aliquid ex eorum contento hauritur ex observatione directa.
+
+§ 3. DE DOCTRINA QUAE EX HIS FACTIS COLLIGITUR
+
+1. Comparatio cum legibus physicis.
+In singulis his exemplis intuitive cognoscimus necessitatem nexus inter subiectum et praedicatum iudicii quo affirmamus : ita necessario est. Tamen in omnia (in singula suo modo) influit elementum experimentale, ita ut iudicium sit eius naturae, quae in modernis linguis « constatatio » dicitur ; sed est « constatatio intellectualis », sicut est intuitio intellectualis, utique coniuncta cum abstractione a sensibus.
+Hoc elementum experimentale, in casibus simplicioribus, potest esse id quod hodie vocatur « experimentum mentale » scil. ope solius phantasmatis, sine actuali perceptione sensuum externorum, perfici potest. Sed in casibus non ita simplicibus, in divisione numerorum maiorum (ut in primo exemplo), in computatione numerorum primorum, etiam in additione 5 ad 7, in divisione et subdivisione folii Moebii certissime in superficiebus Stahlii, opus est ut adhibeamus etiam experientiam sensuum externorum, immo adiumentum operationis physicae.
+Comparemus hoc iterum cum iudicio physico, etiam certo, quod lege physica exprimitur. « Si virga vitrea teritur panno serico, attrahit corpuscula levia v. g. frustula papyracea ». Hoc iudicium utique non statim tanquam generale et certum enuntiamus, sed tantum post multa experimenta, per inductionem (sensu moderno) physicam. Aliud exem-

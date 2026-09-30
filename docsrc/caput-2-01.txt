@@ -1,0 +1,12 @@
+CAPUT II
+
+DE PROBLEMATE NECESSITATIS
+
+Animadversiones praeviae.
+
+Ut iam in primo capite dictum est, communis opinio generis humani — tum docti tum indocti — usque ad initia criticae modernae erat haec : cognitio mathematica hauritur ex datis experientiae sensitivae. Inde pro philosopho oritur problema, quomodo id explicari possit. Nam data cognitionis nostrae sensitivae de se nullam comportant necessitatem, sed cognitio mathematica contendit se esse necessariam. Insuper : data sensitiva, quae ad cognitionem geometricam constituendam inserviunt (non ea quae cognitioni elementari arithmeticae praesupponuntur) carent exactitudine ; et tamen geometria, non minus quam arithmetica, sese praesentat ut omni ex parte exactam.
+Problema ab empirismo (Stuart Mill) tandem aliquando tanquam insolubile consideratur ; inde exactitudo non minus quam necessitas ab eo negatur et scientia geometrica erit empirica, omnino eodem modo ac scientiae physicae ; sunt scientiae approximativae tantum, et earum putativa necessitas non erit nisi illusio, quae ex consuetudine oritur.
+Plato data sensitiva ut occasionem et praeparationem ad eliciendam reminiscentiam in mente nostra considerat. Kant, qui problema exactitudinis negligit, fingit formam subiectivam sensibilitatis nostrae.
+Aristoteles per theoriam abstractionis formalis, quae experientia utitur, problema solvit ; sed solutio haec, quae erat solutio S. Thomae quoque et quorundam scholasticorum antiquorum iam videtur esse oblivioni tradita [^1].
+
+1 Vide articulum nostrum De origine primorum principiorum scientiae apud Gregorianum XIV (1933) pagg. 153-184.
