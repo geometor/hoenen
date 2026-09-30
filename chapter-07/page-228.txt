@@ -1,0 +1,15 @@
+possibilia, mathematice existant. Ex extensione construuntur figurae, non vice versa extensio tanquam systema ex figuris, sicut fieri videtur apud Hilbert, qui tamen non explicat quid intendat per vocem « systema ». Sane non eo modo pervenimus ad notionem « extensionis ».
+
+### § 2. De duplici intelligibilitate materiae intelligibilis.
+
+Quae in paragrapho praecedente dicebamus, explicant in genere intelligibilitatem constructionum, quae demonstrant « existentiam » mathematicam figurarum, etiam exactarum. Haec intelligibilitas constructionum (operationum igitur) duplicem habet aspectum ; directe spectat id quod haec materia intelligibilis subire sive pati potest, sed simul etiam revelat quosdam aspectus intelligibiles, necessarios, in ipsa activitate nostra et instrumentorum nostrorum, sive realium sive idealium. Haec altera intelligibilitas oritur ex intelligibilitate ipsius passivitatis materiae. De utraque hic quaedam tanguntur.
+
+#### 1. De intelligibilitate passivitatis materiae intelligibilis.
+
+Utramque materiam intelligibilem (a S. Thoma vocantur « quantitas continua » et « quantitas discreta ») hic breviter recensemus.
+
+A) *De arithmeticis.* Incipimus ab arithmeticis recolentes ea quae supra in capite II exponebamus.
+
+*a)* In omni multitudine intelligimus, eam *dividi posse* in multitudines minores sive in unitates (« elementa » multitudinis), in quibus divisionibus elementa manent id quod sunt ; tantum eorum unio solvitur ; et hae multitudines minores sive unitates sunt ea quae necessario resultare intelliguntur. Ecce id quod primo intelligimus, exprimimus dicendo « *dividi* possunt », est passivitas huius materiae, quae est « quantitas discreta ».
+
+*b)* E converso multitudines ut tales ad invicem *addi* possunt ; et resultat multitudo maior. Et ut supra (II § 1 n. 4) iam dictum est : haec pertinent ad prima intelligibilia, quae tam clara sunt ut enuntiari non soleant, quamquam

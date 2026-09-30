@@ -1,0 +1,42 @@
+Notio directionis lineae relate ad « spatium » ambiens ad
+primitivas pertinet, quae definitionis technicae non sunt
+capaces, sed nec ea indigent quia per se sunt intelligibiles.
+Et pro directione id valet tum pro lineis sensilibus, tum
+(si in eis iam prima exactitudo detecta est) pro lineis exactis
+i. e. unidimensionalibus ; et dein possunt esse lineae sive
+sensibiliter rectae, sive etiam sensibiliter incurvatae. Haec
+igitur notio directionis relate ad ambiens i. e. notio modi
+transitus per punctum determinatum, in linea situm, est
+notio quae valet pro lineis illis de quibus dicebamus, sive
+sensibiliter rectis sive incurvatis, et est vere intelligibilis,
+ut patet ex diversis iudiciis primis necessariis, quae intuitive
+de eis habemus. Recolamus quaedam : Dantur modi trans-
+eundi linearum per punctum commune, quae sunt differen-
+tes, etiamsi lineae inter se sunt congruentes ; haec differentia
+non est sicut differentia inter quantitates (cfr. IV § 2) ;
+nam v. g. differentia inter duas longitudines est longitudo sed
+differentia inter duas directiones non est directio, sicut dif-
+ferentia inter duos colores non est color. Notio directionis
+est qualitativa sicut notio coloris. Quidem est qualitas in
+quantitate, inde differentia inter directiones harum linearum
+causat aliquid quantitativi : si sitae sunt in eadem super-
+ficie, maiorem vel minorem partem huius ut limites deter-
+minant. Ita differentia inter duas directiones crescere vel
+diminui cognosci potest ; et id ibi mirabile detegimus, quod
+haec differentia non potest in infinitum crescere (cfr. IV
+§ 4 n. 2). Et ex his intuitionibus, post stabilitam existentiam
+lineae exacte rectae, possumus deducere notionem anguli et
+eius mensurae.
+Notio haec directionis pertinet revera ad primitivas et
+vere a nobis intelligitur, ut ex his iudiciis patet, quae et ipsa
+sunt iudicia primitiva et necessaria. Sicut in definitione
+« operativa » ipsius notionis extensionis, quae supra (II § 2
+n. 3 ; V § 4 C nota) iustificata est, sic in hoc casu notionis
+directionis, i. e. transitus per idem punctum, habemus opti-
+mam talem definitionem pro hac notione directionis, intel-
+lectionem eius claram, quae sese manifestat in illis iudiciis
+primis, necessariis.
+Haec dein applicari potest (IV § 4 n. 4) ad comparandas
+directiones sive unius lineae sive diversarum, per puncta
+diversa, unde notiones lineae sensibiliter rectae et sensibili-
+ter curvae definiri possunt in functione notionis directionis.

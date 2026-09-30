@@ -1,0 +1,42 @@
+intelligitur ut linea constantis directionis) quae eandem (spe-
+cifice) habet directionem ac recta data ; aliis verbis in extenso
+quod verificat postulatum V, circa quodvis punctum datur
+idem (specifice) continuum directionum. Et nota insuper :
+Euclides (cfr. IV § 4 n. 4) ad definitionem rectae adhibere
+videtur hanc constantem directionem i. e. modi sui transitus
+(vel situs) per singula sua puncta. Ceteroquin ipsa vox
+« linea recta » hoc innuere videtur, et unicum problema est
+problema eius « existentiae ».
+Constat igitur : si in extenso postulatum V valet, id
+in singulis suis punctis idem continuum directionum habet ;
+eius extensio hanc habet structuram homogeneam relate
+ad directiones, habet « isotropiam » ut saepe dicitur. Vice
+versa ex nostra indagatione noetica propositio conversa
+resultat : si extensum in singulis suis punctis idem habet
+continuum directionum, in eo valet postulatum V, conse-
+quenter geometria euclidica. Inde dicendum : talis structura
+requiritur et sufficit ut valeat geometria euclidica, non tan-
+tum pro congruentia et consequenter pro libera mobilitate
+corporis rigidi, sed etiam pro proprietatibus, quae directio-
+nem spectant. Si igitur in quadam extensione non valet po-
+stulatum V sed loco eius postulatum quodvis non-euclidi-
+cum, in illa deest homogeneitas relate ad continuum direc-
+tionum per singula puncta. (Possunt etiam considerari
+structurae magis differentes a structura euclidica, scil.
+extensa, quae non habent constantem curvaturam gaussia-
+nam, in quibus nec congruentia in genere possibilis sit, nec
+consequenter motus corporis rigidi).
+Nunc autem haec structura extensionis, sive sit eucli-
+dica sive non-euclidica est fons unde profluunt proprietates
+diversae quae deducuntur sive ex postulato V sive ex postu-
+latis, quae loco huius assumuntur. In methodo classica et
+in methodo axiomatica haec postulata ut prius nobis cognita
+vel saltem ut principia assumuntur ut ex eis deductio fiat.
+Sed non sunt ontologice priora, cum et ipsa profluunt ex
+diversa illa structura, vel natura, extensionis in qua valent
+geometriae deductae. Hae igitur structurae sunt fundamen-
+tales. Ut valor comparativus diversarum geometriarum di-
+gnoscatur, in primis igitur attendere debemus ad hanc
+structuram fundamentalem extensi relate ad directiones.
+Et id fieri potest, immo debet. Nam haec structura
+nobis est pervia per se, ut in capite IV demonstratum est.

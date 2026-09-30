@@ -1,0 +1,11 @@
+# CAPUT VII
+
+## DE EXTENSIONE UT EST MATERIA INTELLIGIBILIS
+
+### § 1. De constructione figurarum geometricarum.
+
+Subiectum igitur fundamentale geometriae dicebamus esse extensionem. Id a S. Thoma non raro ita exprimitur : « genus subiectum » vel etiam simpliciter « subiectum » geometriae est magnitudo (*Anal. Post.* I l. 15). Ubi de tali subiecto scientiae sermo est saepe etiam additur : subiecti « propriae passiones vel per se accidentia ». Addebamus vocem « fundamentale », ut id distingueremus a subiectis quasi secundariis scientiae. Nam etiam figurae, quae in extenso delineantur ut limites in divisione extensi, vocantur, et iure quidem, subiecta geometriae ; et harum quoque « passiones propriae » in geometria inquiruntur.
+
+Ipsae autem figurae sunt primarie « passiones » extensionis ut talis. Et primo quidem ex divisione extensi nobis originaliter dati (quod est tridimensionale, ut supra III § 2 expositum est) oriuntur per processum successivum, primo superficies, dein lineae, dein puncta. Et (exceptis punctis) figurae hae, superficiales vel lineares, in infinitum in diversas species distingui possunt ; et singularum specierum « passiones propriae » indagantur. Figurae igitur sunt ex una parte « passiones » sui subiecti, originaliter ipsius extensionis, sed dein ex alia parte sunt et ipsae subiecta cum propriis passionibus, subiecta scientiae geometriae.
+
+Haec optime explicantur in doctrina, quam S. Thomas de hac materia tradit (*Anal. Post.* I lect. 2 n. 5). In scientiis « quae sunt de aliquibus accidentibus nihil prohibet id, quod accipitur ut subiectum respectu alicuius passionis, accipi ut passionem respectu anterioris subiecti ». In hoc autem processu non datur regressus in infinitum, « est enim devenire

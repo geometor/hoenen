@@ -1,0 +1,40 @@
+agebamus de quibusdam aliis, speciatim de comparatione
+longitudinum linearum diversae curvaturae).
+Semel acquisitis primis hisce principiis exactitudinis
+figurarum, haec applicari possunt in diiudicandis aliis datis
+sensitivis. Sicut in axiomatica exactitudo supposita axio-
+matum per ipsum ratiocinium transit in conclusiones, ita
+haec exactitudo iustificata principiorum in casus ad quos
+applicari possunt. In exemplo quod Poincaré ponit, de deter-
+minatione numeri π ex comparatione longitudinum radii et
+circumferentiae certo non possumus legere hunc valorem
+pro hoc casu determinato, minus etiam pro casu universali
+proportionis inter longitudines circumferentiae et eius radii,
+sive in geometria euclidica sive in non-euclidica. In hoc
+sensu Poincaré optime dicit, geometriam non esse scientiam
+ex experientia derivatam ; sed perperam omittit considera-
+tionem duplicis problematis, necessitatis et exactitudinis,
+quibus distinguuntur « casus geometrici » a « casibus physi-
+cis » ; et omittit considerationem casuum in quibus haec
+problemata directe solvi possunt.
+Si hi casus debite considerantur, invenimus responsum
+clarum ad eius interrogationem : quid intenditis per « pro-
+prietates geometricas corporum ». Non sunt eorum « rela-
+tiones ad spatium » sed sunt relationes, quae deteguntur
+in singulis corporibus ipsis, et quidem ut relationes necessa-
+riae, et absolute exactae, non obstante imperfectione dato-
+rum sensuum, qui non possunt nisi facta referre, et conne-
+xiones inexactas. Atque hae relationes, necessariae et exac-
+tae, ita deteguntur, ut ex eis, per intuitionem intellectivam,
+habeamus definitionem, i. e. determinationem strictam, ex-
+tensionis. Nam hae proprietates corporum ipsorum, quae
+iure affirmantur in primis propositionibus, sunt proprietates
+eius quam in corporibus vocamus eorum extensionem. Et
+haec extensio ita definita est subiectum fundamentale
+scientiae, quae has propositiones primas deductione evolvit,
+geometriae — inde hae proprietates corporum vocantur
+eorum proprietates geometricae — et, si subiectum stricte
+fundamentale quaeritur, haec extensio sese revelat ut de
+se homogenea, isotropa, euclidica. Et hae relationes geome-
+tricae innotescunt antecedenter ad notionem spatii et inde-
+pendenter ab ea.

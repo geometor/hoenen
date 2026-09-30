@@ -1,0 +1,36 @@
+CAPUT VI
+
+DE SUBIECTO FUNDAMENTALI GEOMETRIAE
+
+Ex iis quae supra exponebamus diversae sequuntur
+conclusiones relate ad naturam huius scientiae, quae est
+geometria ; atque in his diversa adsunt elementa, quae, ut
+nobis videtur, momentum habent pro cognitione generali
+activitatis mentis humanae, momentum noeticum univer-
+sale igitur. In his adumbrandis saepe redire debebimus ad
+ea quae supra tractabantur. Incipimus ab iterata compa-
+ratione geometriae euclidicae et non-euclidicae.
+
+§ 1. ITERATA COMPARATIO GEOMETRIAE
+EUCLIDICAE ET NON-EUCLIDICAE.
+
+Dictum est (cfr. Gregorianum, 1951, pagg. 432 et 451) :
+iuxta nostram expositionem « structura euclidica » esset
+« probabilior quam ulla non-euclidica ». Id nostram sen-
+tentiam non apte exprimit. Contendimus in extensis, sub
+quibusdam conditionibus, structuram non-euclidicam in-
+veniri quidem posse, sed in ipsis illis extensis structuram
+euclidicam esse magis fundamentalem, immo unice fundamen-
+talem, hanc enim esse structuram extensionis ut talis.
+Videamus iterum quaedam de historica evolutione.
+Constat : si (praeter alia axiomata consueta) postulatum V
+Euclidis ut prima propositio admittitur, sequitur geometria
+euclidica i. e. extensum in quo hoc postulatum valet, ha-
+bere structuram euclidicam. Si loco postulati V aliud, ei
+contradicens, supponitur, excluditur structura euclidica :
+postulatum requiritur et sufficit. Euclides (IV § 4 n. 9) in
+una tantum demonstratione postulatum V applicat. Imme-
+diate theorema deducit, quod non tantum (modo descripto
+loc. cit.) notionem directionis rectae continet, sed insuper
+hanc veritatem implicat : data linea recta, per quodvis
+punctum extensi (plani) duci potest linea recta (quae nunc

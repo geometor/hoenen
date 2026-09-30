@@ -1,23 +1,7 @@
-.. _hoenen:
+De Noetica Geometriae
+=====================
 
-hoenen
-======
+Petrus Hubertus Jacobus Hoenen, S.J. (1954)
+*Analecta Gregoriana*, Vol. LXIII.
 
-Translation project for Petrus Hubertus Jacobus Hoenen's *De Noetica Geometriae Origine Theoriae Cognitionis*.
-
-Overview
---------
-This project aims to digitize, OCR, and translate the text of Hoenen's work from Latin to English.
-
-Installation
-------------
-TBD
-
-Usage
------
-TBD
-
-Development
------------
-- OCR extraction scripts
-- Translation utilities
+Please see `README.md <README.md>`_ for the complete documentation, reconstructed Table of Contents, and detailed description of the digitization and transcription methodology.

@@ -1,0 +1,42 @@
+tates communes, et inde dantur propositiones geometricae,
+quae intelliguntur statim valere pro extensione fluente.
+Sed dantur quoque magnae discrepantiae inter duas exten-
+siones. Iuverit hic transcribere quaedam quae in articulo
+citato, partim magis elaborata inveniuntur.
+In motu locali duplex invenitur extensio (praeter ex-
+tensionem ipsius mobilis). Una est ea, quae est extensio
+traiectoriae, itineris quod mobile percurrit ; haec est exten-
+sio loci, permanens, statica, quae in theoria loci investi-
+gatur. Altera est extensio fluens motus. Prior est ipsi motui
+extrinseca, alia est ei intrinseca, et vocatur eius duratio.
+Datur quaedam dependentia alterius extensionis (fluentis)
+a priori (permanente). Iuxta doctrinam Aristotelis actus
+ille, qui est motus, suam continuitatem et ordinem partium
+haurit ex « magnitudine », quae est via, traiectoria. Tamen,
+hac dependentia praesupposita, agnoscenda quoque est
+certa independentia ; duratio non est determinata per solam
+longitudinem traiectoriae, variatur etiam, modo inverso,
+secundum velocitatem motus. Immo, si agitur de motu al-
+terationis, qualitativo, et continuo, de intensione et remis-
+sione continua alicuius qualitatis, ibi quoque agnoscenda
+est extensio stricte dicta fluens, i. e. duratio, quamquam
+intensitas non est quantitas proprie dicta, extensiva.
+In utroque casu duratio est quantitas stricte dicta,
+extensiva, et eius propria habet. Durationes ad invicem addi
+possunt, et haec additio est operatio quantitativa stricte
+dicta : ex ea resultat duratio maior sicut ex additione lineae
+ad lineam oritur linea maior. Ita in motu oscillatorio, motus
+totus, ex multis oscillationibus contiguis compositus, habet
+durationem, quae est summa durationum oscillationum sin-
+gularum. Et si singulae hae oscillationes sunt inter se con-
+gruentes (id in modernissimis horologiis oscillatoriis cum
+magna, non utique cum « infinita », exactitudine realizatur)
+duratio motus, qui ex n oscillationibus componitur, calcu-
+lari potest multiplicando arithmetice per numerum n valo-
+rem durationis unius. Ita modo inverso : differentia duarum
+durationum, etiam in alteratione, est duratio ; quamquam
+differentia inter duas intensitates non est intensitas. Haec
+sunt principia per se intelligibilia, quae spectant durationem,
+extensionem fluentem.
+Possibilitas motuum inter se congruentium, quae supra
+supponebatur, inde constat, quod haec extensio fluens in-

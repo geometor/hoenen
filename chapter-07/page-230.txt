@@ -1,0 +1,15 @@
+in his formulis materiam intelligibilem, cuius respectus passivus de se est intelligibilis.
+
+B) *De geometricis.* In his similia inveniemus.
+
+Primum quod intelligimus in extensione, erat semper, tum in prima tum in subsequente analysi, id quod extensio *subire potest* et quod ex illo « pati » resultat.
+
+*a)* Ita primum intelligibile, id quod ad ipsam « definitionem operativam » notionis extensionis ducebat, erat « figurabilitas » corporis per divisionem, quae in extensis nobis datis primo ducit ad superficies ut limites, dein ad lineas, dein ad puncta. Ultimum hoc quod resultat, punctum, iam *non patitur* divisionem. Extensio originalis erat tridimensionalis et per divisionem successivam oriuntur figurae duarum dimensionum, dein unius, dein nullius dimensionis, et figurae, quae resultant, exacte per intellectum cognoscuntur ut carentes una dimensione vel duabus vel tribus, quae in extenso originali aderant. Et haec exactitudo eorum quae fiunt est prima quae detegitur.
+
+*b)* Intelligimus dein extensionem tanquam principium individuationis, et hoc quoque est quid passivi. Figura, quae in una parte extensionis construi potest, in quavis alia parte, i. e. in alia « positione » repeti potest ita ut hae figurae solo situ, solo numero, inter se differant. Id est fundamentum possibilitatis passivae figurarum exacte congruentium.
+
+Et idem proprium passivum extensionis, quod exprimitur per formulam « est principium individuationis », ducit, post reflexionem in notionem primitivam « modi quo linea per punctum transit », ad agnitionem existentiae eiusdem specifice continui directionum et consequenter existentiae linearum exactarum, plani, et eorum connexionum.
+
+*c)* Est et aliud proprium extensi ut est extensum, quod independenter a primo (figurabilitate per limites exactos introductos per divisiones) intelligibiliter cognoscitur ; hoc proprium exprimi potest : duo extensa possunt habere limites communes i. e. unum ab alio « tangi » potest secundum limites. Hoc quoque est proprium primitivum, per se intelligibile et intelligibiliter profluens ex extensione ipsa. Et est proprium passivum : extensa hoc pati possunt.
+
+Id quod resultat est quoque intelligibile : est extensum maius quod est simile uni extenso continuo ; ita ex tali

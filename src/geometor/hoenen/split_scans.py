@@ -357,18 +357,30 @@ def run_all():
     process_spread(c6_pdf, 8, ch6_dir, left_page_num=208, right_page_num=209)
     # 210-211 from page-fills p. 13
     process_spread(fills_pdf, 13, ch6_dir, left_page_num=210, right_page_num=211)
-    # 212 (partial) and 213 from chapter-6 p. 11
-    process_spread(c6_pdf, 11, ch6_dir, left_page_num=212, right_page_num=213, is_partial_left=True)
+    if fills2_pdf.exists():
+        # 212-213 from page-fills-2 p. 2 (complete, fixing partial 212)
+        process_spread(fills2_pdf, 2, ch6_dir, left_page_num=212, right_page_num=213, is_partial_left=False)
+    else:
+        # 212 (partial) and 213 from chapter-6 p. 11
+        process_spread(c6_pdf, 11, ch6_dir, left_page_num=212, right_page_num=213, is_partial_left=True)
     # 214-215 from chapter-6 p. 12
     process_spread(c6_pdf, 12, ch6_dir, left_page_num=214, right_page_num=215)
-    # 216 (partial) and 217 from chapter-6 p. 13
-    process_spread(c6_pdf, 13, ch6_dir, left_page_num=216, right_page_num=217, is_partial_left=True)
+    if fills2_pdf.exists():
+        # 216-217 from page-fills-2 p. 4 (complete, fixing partial 216)
+        process_spread(fills2_pdf, 4, ch6_dir, left_page_num=216, right_page_num=217, is_partial_left=False)
+    else:
+        # 216 (partial) and 217 from chapter-6 p. 13
+        process_spread(c6_pdf, 13, ch6_dir, left_page_num=216, right_page_num=217, is_partial_left=True)
     # 218-219 from chapter-6 p. 14
     process_spread(c6_pdf, 14, ch6_dir, left_page_num=218, right_page_num=219)
     # 220-221 from chapter-6 p. 15
     process_spread(c6_pdf, 15, ch6_dir, left_page_num=220, right_page_num=221)
-    # 222 (partial) from chapter-6 p. 16
-    process_spread(c6_pdf, 16, ch6_dir, left_page_num=222, right_page_num=None, is_partial_left=True)
+    if fills2_pdf.exists():
+        # 222 from page-fills-2 p. 12 (complete, fixing partial 222)
+        process_spread(fills2_pdf, 12, ch6_dir, left_page_num=222, right_page_num=None, is_partial_left=False)
+    else:
+        # 222 (partial) from chapter-6 p. 16
+        process_spread(c6_pdf, 16, ch6_dir, left_page_num=222, right_page_num=None, is_partial_left=True)
 
     # 8. Chapter 7
     ch7_dir = BASE_DIR / "chapter-07"

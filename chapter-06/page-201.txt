@@ -1,0 +1,42 @@
+mini « proprietas geometrica corporum », responsum iam
+invenitur inde ab initio expositionis nostrae, ubi de pro-
+blemate necessitatis agebatur. Experimentum initiale est
+hoc : in corpore delineare possumus figuram (quae indicat
+divisionem corporis). Id quod dein ut proprietas corporum
+affirmatur, iuxta formulam Cartesii : « corpus est figura-
+bile ». Sed huic experimento associatur intuitio intellectiva,
+quae videt hanc relationem esse necessariam et ideo univer-
+salem. Immo haec intuitio ex eo provenit, quod simul in-
+telligimus, proprietatem « figurabilitatis » unice profluere ex
+determinata proprietate corporis, unice i. e. ex nulla alia
+(ut colore etc.), et hanc proprietatem dein vocamus nomine
+« extensionis ». Videbamus saepius eam esse genuinam « de-
+finitionem operativam » extensionis. Et id magis patet ex
+casu simili quidem sed contrastante, ubi simili modo pro-
+prietatem quandam affirmamus : « hoc corpus est electriza-
+bile per frictionem ». Sed haec proprietas huius corporis
+nobis tantum innotescit ut factum pure experimentale, id
+necessarium esse non videmus ; et similiter (vel propter
+hanc rationem) ex quanam proprietate corporis « electriza-
+bilitas » profluat, ex hoc solo experimento totaliter nos
+latet (haec proprietas primo videtur esse inventa in corpore,
+quod graece ἤλεκτρον vocatur ; inde nomen). Utraque affir-
+matio ex experimento habetur, sed in uno casu, « casu
+geometrico », observationi associatur intuitio abstractiva
+intellectiva, in altero, in « casu physico », haec deest. Inde
+immensa diversitas noetica inter utrumque experimentum.
+Si quis hoc datum conscientiae nostrae negligit, et id fit
+apud Poincaré (et tot alios !) errores infallibiliter sequentur.
+Plus etiam dein inveniebamus, ea scil. quae respiciunt
+problema exactitudinis ; quomodo id, in solis casibus geo-
+metricis, non in casibus physicis, solvatur, etiam late supra
+expositum est. Ibi etiam clarum factum est, in ipsis casibus
+geometricis non semper, immo sat raro, transitum directum
+a datis sensitivis inexactis ad statuendam exactitudinem
+relationum legitimum esse. Id directe fieri potest in paucis
+casibus ; supra videbamus legitimitatem in statuendo indi-
+visibilitatem limitum extensorum, in quantum iacent inter
+partes extensas, quarum sunt limites ; dein in casibus qui
+dependent ab intellectione extensionis ut est principium in-
+dividuationis ; qui sunt casus congruentiae figurarum et
+casus existentiae quarundam figurarum exactarum. (Non

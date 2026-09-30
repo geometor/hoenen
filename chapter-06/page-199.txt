@@ -1,0 +1,41 @@
+Nota. Hic adhuc inquirendum esset in illos casus in
+quibus « curvatura gaussiana » non coincidit cum curvatura
+sensu intuitivo. Ita v. g. superficies cylindrica vel conica
+ordinaria habet curvaturam gaussianam, cuius valor est
+zero ; tamen curvaturam intuitivam habet, sed talem ut
+« applicari » possint tales figurae ad planum, propter hunc
+valorem curvaturae gaussianae. Et similes correctiones
+addendae essent considerationi motus corporis rigidi. Similia
+dicenda sunt de figuris in « pseudosphaera » quorum motus
+a Helmholtz considerantur.
+
+§ 2. DE EXTENSIONE UT EST SUBIECTUM
+FUNDAMENTALE GEOMETRIAE.
+
+A. De extensione corporum.
+
+Ad hanc conclusionem perveneramus : « extensio » et
+eius structura est subiectum fundamentale singularum geo-
+metriarum, non autem figurae in ea delineatae. Et subiectum
+maxime fundamentale, in sensu bene determinato, est ex-
+tensio, quae habet structuram euclidicam, extensio, quam
+vocabamus isomorpham, vel homogeneam, vel “ amorpham „
+quae interdum, si de solis directionibus agitur, vocatur isotropa.
+Hanc positionem magis dilucidare debemus propter
+quasdam opiniones, quae saepe proponuntur, et id faciemus
+ex ipsis his opinionibus. Dicunt enim, obiectum illud non
+esse extensionem corporum, sed extensionem « spatii », sive
+potius esse ipsum « spatium ». Hoc termino designatur re-
+ceptaculum quoddam corporum, i. e. id in quo corpora col-
+locantur, sese mutuo tangunt vel ab invicem distant, et
+moventur. In illa opinione geometria esset systema notio-
+num et propositionum, quae directe hoc spatium respi-
+ciunt ; et ita hoc esset subiectum fundamentale geometriae.
+Haec autem opinio sustineri non potest, si consideramus,
+sicut iam in capitibus praecedentibus faciebamus, modum
+quo mens humana ad notiones et principia geometrica per-
+venit, inclusa ipsa notione extensionis.
+Opinio illa fortiter propugnatur a Poincaré ubi, sensu
+valde exaggerato, geometriam non esse scientiam experimen-
+talem sustinet ; quae negatio utique etiam sensum legiti-
+mum habet. (Cfr. supra II § 3 n. 1-3 ; § 4 n. 2, 3 ; V § 5).
