@@ -1,0 +1,39 @@
+finitur, in origine non habet tangentem, quamvis et ibi sit
+continua.
+Interrogamus autem : num revera geometrice « existit »
+haec curva ? Conemur eum construere per motum composi-
+tum puncti supra descriptum. Ponamus igitur x = a — t,
+tunc habemus : y = (a — t) sin 1 / (a — t) . Eo momento quo
+t = 0, linea mobilis est a parte dextra originis in distantia a :
+momento quo t = a erit in origine et punctum curvae erit
+x = 0 et y = 0. Potestne attingi hoc punctum ita ut motus
+puncti in linea mobili ordinatarum revera realizetur secun-
+dum legem y = (a — t) sin 1 / (a — t) ? Ecce, ut punctum ori-
+ginis attingi posset, valor huius functionis actualiter-infi-
+nities deberet (periodice) maximum et minimum attingere,
+punctum mobile in linea mobili deberet in ea actualiter-
+infinities ascendere et descendere. Sed — etiamsi quis tenet
+infinitum actuale non repugnare — tamen infinitum ex
+definitione non potest pertransiri. Inde : motus puncti in
+linea mobili ordinatarum, si haec originem attingere debet,
+est impossibilis ; ergo hanc curvam geometrice « existere »,
+secundum hanc methodum non constat. Si linea nostra
+pergit tantum usque ad distantiam, etiamsi minimam, ab
+origine coordinatorum, nihil impossibile adest ; inde : quae-
+vis pars curvae existit, dummodo ne cogitetur perducta
+usque ad originem ; sed in talibus partibus ubique habet
+tangentem.
+Utrum haec functio analytice sensum habet, hic non
+examinatur ; sed illi aequationi nulla respondet curva
+totalis geometrica, ex motu orta. Et methodum aliam con-
+struendi curvam non indicant. Ergo id quod ex intuitione
+sequitur : omnis curva in quolibet puncto in quo est con-
+tinua, habet tangentem, non refutatur per hoc exemplum ;
+immo hucusque, potius confirmatur.
+Postea, primo a Weiersztrasz, constructae sunt functio-
+nes, quae etiam mirabiliores sunt : hae sunt ubique conti-
+nuae et nullibi habent derivatam ; eis dicuntur correspondere
+curvae quae sunt ubique continuae et tamen nullibi ha-
+bent tangentem. Eodem modo ac supra solvenda erit dif-
+ficultas : illae curvae (kritzelige Kurven) ubique sunt « infi-
+nite sinuosae » ita ut ex eodem capite geometrice non exis-

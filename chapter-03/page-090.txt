@@ -1,0 +1,43 @@
+aequatio inveniri potest per eliminationem variabilis t ex
+duabus aequationibus : x = f (t) et y = F (t). In casu nostro
+duo motus simpliciter exprimi possunt aequationibus x = t
+et y = sin t. Et sensus geometricus nunc est : linea (ordina-
+tarum) movetur semper perpendiculariter ad axim abscis-
+sarum (x) motu uniformi (x = t) ; simul punctum in illa
+linea movetur ita ut distantia ab axi abscissarum exprima-
+tur per legem y = sin t ; movetur igitur in linea recta, se-
+cundum motum periodicum ascendendo et descendendo. Et
+ex his duobus motibus resultat motus compositus puncti,
+quod describit lineam quae correspondet aequationi : y =
+sin x. Linea ita resultans iam non est collectio i. e. series
+punctorum, sed est continua, propter continuitatem motus
+(cfr. infra IV § 2).
+Applicatio. Haec applicari possunt ad solvendum argu-
+mentum, quod a multis mathematicis modernis movetur
+contra valorem intuitionis, ex qua geometria classice ortum
+habet. Argumentum sumitur ex functionibus, quae sunt
+analytice quidem continuae sed non habent « derivatam »
+(quotiens differentiale) sive pro uno valore variabilis inde-
+pendentis, sive etiam pro omnibus. Functionibus continuis
+geometrice correspondent curvae continuae ; « derivatae »
+in uno puncto respondet tangens in illo puncto ad cur-
+vam. His igitur functionibus corresponderent curvae, quae
+essent quidem ubique continuae, sed carerent tangente in
+uno puncto, immo in singulis punctis. Sed imaginatio intui-
+tiva, quae classice est radix intuitionis intellectivae, non
+potest sibi repraesentare curvam continuam quae non habet
+ubique tangentem ; et, si intellectus ex hac imaginatione
+transire debet ad lineas exactas, affirmare debet : non datur
+linea continua quae non habet ubique tangentem. Sed, aiunt,
+analysis exacta demonstrat dari tales lineas ; intuitio ergo
+in errorem ducit et ei iam fides deneganda est.
+Operae pretium est ut hoc argumentum expositum audia-
+mus a viro eximio, H. Poincaré (La valeur de la science
+pagg. 17 sq.). Ait :
+« L'intuition ne peut nous donner la rigueur ni même la certitude,
+on s'en est aperçu de plus en plus.
+Citons quelques exemples. Nous savons qu'il existe des fonctions
+continues dépourvues de dérivées. Rien de plus choquant pour l'in-
+tuition que cette proposition qui nous est imposée par la logique. Nos
+pères n'auraient pas manqué de dire « Il est évident que toute fonc-
+tion continue a une dérivée, puisque toute courbe a une tangente ».

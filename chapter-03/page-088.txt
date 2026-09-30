@@ -1,0 +1,42 @@
+sed sensus est : omne punctum aeque distans a cruribus
+anguli situm est in illa linea, et vice versa, omne punctum
+illius lineae est aeque distans a cruribus anguli. Bissectrix
+non consideratur nisi ut « matrix » illorum punctorum, est
+potentia (materia) ex qua et in qua puncta aequidistantia
+actuari possunt.
+Aliter res sese habet in theoria moderna collectionum,
+quae a Cantor constructa est, saltem si concipitur eo modo
+quo originaliter ab illo auctore intendebatur. Ibi revera, si
+de linea tanquam « collectione punctorum » sermo erat, eam
+intelligebant ut puram seriem punctorum contiguorum. Si-
+mili modo aliae collectiones, quorum individua (elementa)
+per solam definitionem generis vel speciei determinata erant,
+iam considerabantur tanquam constitutae ex multitudine
+(in genere actu infinita) individuorum datorum, in se deter-
+minatorum. Id utique, iuxta supra exposita admitti nequit.
+Sed haec theoria nativa ad contradictiones (« paradoxa »)
+duxit ; inde a plurimis mathematicis tantum in forma cor-
+recta adhibetur, in qua, data definitione generica vel speci-
+fica (data lege formationis collectionis) elementa individua
+nondum ut in se determinata considerantur. Talis collectio
+verificat notionem potentiae Aristotelis, quae (ad individua)
+actuanda est per ulteriorem determinationem. In tali theo-
+ria linea iam non est collectio i. e. series punctorum, sed est
+potentia, in qua puncta actuari possunt, est, ut Brouwer
+ait (in opere Over de grondslagen der wiskunde 1907 pag. 8) :
+« matrix punctorum simul cogitandorum ». Et operae pre-
+tium esset, si mathematicus, qui theoriam Aristotelicam
+potentiae callet, vellet evolvere theoriam collectionum,
+quae magnum momentum habet, sub luce huius theoriae
+Aristotelicae.
+Plurimi, ut dictum est, nativam theoriam collectionum
+iam non admittunt, sed loco eius, theoriam quae plus minus-
+ve corrigebatur. Eam plene adhuc admittere videtur B.
+Russell, qui ex ea antinomias classicas continui realis se
+solvere posse putabat (Cfr. Revue de Mét. et de Mor. 1911
+pag. 183 ; cfr. Cosmologiam pag. 451) ; perperam utique,
+ut ex praemissis patet. Mathematici qui theoriam nativam
+collectionum corrigunt, saltem plurimi ut nobis videtur,
+putant eius contradictiones provenire ex eo, quod infinitum
+actuale admittit. Ita Poincaré (Science et Méthode pag. 212)
+ait : « Il n'y a pas d'infini actuel ; les Cantoriens l'ont oublié,

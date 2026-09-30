@@ -1,0 +1,40 @@
+tur lineae rectae, sphaerae perfectae, figurae congruentes ;
+et ita porro. De hac alia quaestione etiam saepius agemus.
+
+§ 2. DE PRIMIS NOTIONIBUS GEOMETRIAE CLASSICAE.
+
+1. De puncto, linea, superficie.
+Primae notiones geometricae exactae, quas examinare
+oportet, sunt : punctum, linea, superficies. In § 1 iam audie-
+bamus Wellstein dicentem, ab his criticam fundamentorum
+geometriae incipere debere.
+Ipse (op. cit. pagg. 9-11) ita rem prosequitur, ut notio-
+nes illas ab experientia sensitiva legitime derivari impossi-
+bile esse concludat ; si ab iis incipere volumus, debemus —
+ita ait — eorum obiectorum existentiam postulare, et qui-
+dem actu voluntatis. Ideo transitus ab inexactitudine expe-
+rientiae sensitivae ad geometriam exactam esset illegiti-
+mus, fundatus supra decretum voluntatis, non supra intui-
+tum intellectus. Problema nostrum quod quaestionem de
+modo illius transitus ponet, esset insolubile.
+Quoad notionem puncti Wellstein ita procedit. Dicit
+eam notionem oriri per progressum ad limitem (Grenz-
+prozesz) i. e. per actum mentis, qui finem imponit seriei
+phantasmatum, in se illimitatae (« durch einen Geistesakt,
+der einer an sich unbegrenzten Reihe von Vorstellungen
+ein Ziel setzt » pag. 9). Incipimus v. g. ab intuitione (sensi-
+tiva) granuli arenae quod semper minus nobis imaginamur.
+Inde oritur, et quidem modo semper magis determinato,
+imaginatio loci (« Ort ») in spatio, qui nullam iam dimensio-
+nem habet. Sed, ait, hic processus in imaginatione cito
+finem habet, scil. quando minimum imaginabile adest ;
+inde ab hoc termino res nobis manet obscura ; videndo vel
+imaginando non possumus amplius processum diminutionis
+persequi (« von da an sind wir vollkommen im Dunkeln,
+und den Fortgang der Verkleinerung können wir weder sehen
+noch uns vorstellen »). Id optime dictum est. Sed pergit :
+hunc processum finem habere cogitari nequit (« dasz dieses
+Verfahren ein Ende erreicht ist undenkbar ») ; hic iam ap-
+pellat, et optime facit (quamquam non logice in sua posi-
+tione) ad intellectum et quidem exactum. Intelligimus enim
+ita processum diminutionis finem non habere, si fit divi-

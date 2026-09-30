@@ -1,0 +1,41 @@
+de sententia cl. Study, qui reconstructionem geometriae
+classicae, independentem ab analysi moderna, « somnium »
+(eine Utopie) vocabat. Idem auctor, in eodem libro 5 clare
+proponit problema, sed id solvere nequit, nisi considerando
+geometriam tanquam complexum hypothesium, quarum
+applicabilitas ad mundum realem examinanda est, omnino
+eodem modo ac physici id faciunt relate ad suas hypotheses.
+Tandem aliquando, ita faciendo problema insolubile esse
+declarat.
+Nemo forte uberius et magis in specie problema expo-
+suit quam cl. J. Wellstein in opere : Weber-Wellstein Enzy-
+klopädie der Elementar-Mathematik II (3 ed. 1925). Eius
+difficultates in punctis specialibus etiam exponemus ; nunc
+obiectionem generalem audiamus bene expositam. Postquam
+enarravit, criticam modernam fundamentorum geometriae
+in saeculo XVIII et XIX ex consideratione postulati V
+Euclidis originem habere, ita pergit :
+« Evolutio theoriae modernae functionum demonstravit, criti-
+cam fundamentorum debuisse incipere, non a postulato V, sed imme-
+diate a prima definitione [Euclidis] :
+σημεῖόν ἐστιν οὗ μέρος οὐθέν » 6.
+His verbis problema exactitudinis clare ponitur ; nam
+haec theoria moderna functionum in hoc praecise puncto
+opponitur theoriae praecedenti. Analysis enim antiquior,
+ut in introductione iam dictum est, « continuum numerorum
+realium », quo analysis indiget, ex consideratione continui
+geometrici deducebat ; in hac theoria singulis punctis geo-
+metricis lineae (de quarum existentia geometrice consta-
+bat) singuli numeri reales correspondebant ; numeri per
+« coordinatas » punctorum i. e. per eorum distantias (i. e.
+proportiones distantiarum ad unitatem longitudinis) ab
+origine lineae definiebantur. Moderna analysis hoc conti-
+nuum numerorum realium independenter ab intuitione
+(sensitiva) continui geometrici constituere volebat, propter
+
+5 E. STUDY, Die realistische Weltansicht und die Lehre vom Raume
+pagg. 74 sqq.
+6 Op. cit. pag. 9 « Die Entwicklung der modernen Funktionen-
+theorie hat gezeigt, dass die Kritik der Grundlagen nicht am fünften
+Postulat, sondern gleich an der ersten Definition hätte ansetzen sollen :
+σημεῖόν ἐστιν οὗ μέρος οὐθέν ».

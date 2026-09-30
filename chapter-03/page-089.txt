@@ -1,0 +1,42 @@
+et ils sont tombés dans la contradiction » (sublineatio est
+ipsius Poincaré ; cfr. quaedam plura in Cosmologia ed. 4
+pagg. 451-455).
+Quidquid id est, extensum non potest considerari ut
+collectio punctorum, ex quorum additione vel positione
+originem habet ; poterit considerari ut materia, potentia,
+ex qua et in qua in infinitum puncta generari possunt. Sae-
+pius in expositionibus mathematicis extensa vel figurae ut
+collectiones punctorum describuntur ; semper attendendum
+est utrum id in primo vel altero sensu fiat ; si in primo, pe-
+riculum erroris adest ; et, si errores evitantur, tamen talis
+expositio philosophice iustificari non potest. Id etiam (non
+tantum) obtinet in aequationibus geometriae analyticae, de
+quibus notam addimus.
+C) De aequationibus geometriae analyticae. Talis for-
+mula indicat relationem, quae est inter coordinatas, quae
+determinant puncta quae sita sunt v. g. in linea. Haec
+linea, si aliunde definita est, erit classicus « locus » horum
+punctorum, quae determinatam proprietatem habent ; haec
+proprietas a formula exprimitur. Si ipsa formula adhibetur
+ad definitionem lineae, periculum esse potest ne linea consi-
+deretur tanquam collectio punctorum sensu incorrecto. Sit
+v. g. aequatio y = sin x. Haec determinat puncta quorum
+« ordinata » y per formulam indicatam calculari potest electo
+valore arbitrario « abscissae » x. Singulis abscissis corres-
+pondet una ordinata ; electa una abscissa, determinata est
+ordinata et consequenter determinatum est punctum. Si
+quis hoc ita interpretatur, ut linea construi possit ex punctis
+ita determinatis considerat lineam tanquam collectionem i. e.
+seriem punctorum contiguorum. Sed ita linea oriri nequit.
+Ideo alia interpretatio quaerenda est ; ecce una quae a ma-
+thematicis saepe applicatur. Scilicet : Abscissae (x) tribuitur
+variatio continua, quae nonnisi per motum haberi potest,
+non per electionem successivam valorum determinatorum ;
+linea igitur perpendicularis axi abscissarum ita moveatur
+motu continuo secundum legem determinatam et a solo
+tempore, tamquam variabili independente dependeat : x =
+f (t). In ipsa ista linea moveatur punctum, iterum motu
+continuo, qui sua lege determinatur et a solo eodem tem-
+pore dependet ; distantia puncti a linea abscissarum semper
+ordinatam indicat : y = F (t). Ex compositione horum mo-
+tuum resultat motus continuus, qui lineam generat, cuius

@@ -1,0 +1,42 @@
+resultent. Quaeri potest : nonne id effici posset per divisio-
+nem unicam, non successive, quae uno ictu divisibilitatem
+exhauriret, nonnisi indivisibilia relinqueret ? Id ex superio-
+ribus non decisum est, sed responsum negativum aliunde
+constat.
+Ecce : partes in quas extensum dividitur, si ad invicem
+adduntur, iterum constituunt extensum quod est aequali
+toti primitivo. Unde : extensum componi potest ex iis in
+quae dividi potest. Indivisibilia autem, puncta, carent
+omni extensione, sunt « nihil extensionis » ; et ex additione
+nihili ad nihilum non potest resultare aliquid ; ex punctis
+additis non potest resultare extensum. Immo dicendum est :
+additio geometrica, quae in casu linearum, quae ad invicem
+adduntur, sensum perfectum habet, in casu punctorum sensu
+caret ; nihil non potest addi nihilo, sed tantum quantitas
+quantitati ; (additio punctorum arithmetica sensum utique
+habet : possumus considerare unum, duo, tria, etc. puncta).
+Si autem extensum non potest componi ex punctis,
+nec in ea, tanquam in partes, dividi potest. Inde sequitur,
+quomodocumque extensum dividatur (non per dichotomiam
+tantum), semper dividitur in extensa, quae iterum dividi
+possunt ; et ita universaliter statuendum est ; in infinitum
+est divisibile. (De momento huius divisibilitatis in historia
+philosophica continui, immo in historia totius philosophiae
+vide Cosmologiam ed. 4 pagg. 27-40 ; vide quoque Filosofia
+della natura inorganica, pagg. 57-72).
+B) De linea ut « collectione » punctorum. Ex dictis quae-
+dam sequuntur quae notatu digna esse possunt. Manife-
+stum erat, lineam non posse componi ex punctis ; unde a
+fortiori non poterit esse collectionem punctorum, si vox
+« collectio » sumitur sensu consueto, vulgari i. e. ita ut
+linea ex sola additione vel positione punctorum oriretur.
+Dicimus « a fortiori », quia linea est continua (ut distingui-
+tur a serie contiguorum), ergo intrinsece una et haec pura
+collectio non esset nisi series contiguorum. Sed insuper uti-
+que dicendum est : si unitas intrinseca solvitur, linea non
+potest solvi in collectionem punctorum.
+Iam in antiqua geometria sermo est de linea, ut est
+« locus punctorum », quae certam proprietatem habent ; ita
+bissectrix anguli est locus punctorum aeque distantium ab
+eius cruribus. Haec locutio non intendit illam lineam de-
+scribere tanquam collectionem punctorum sensu vulgari ;

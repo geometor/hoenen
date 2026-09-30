@@ -1,0 +1,42 @@
+a rectis ; consequenter nunquam possunt decidere, lineam
+datam esse rectam. Aequalitatem inter duas lineas vel su-
+perficies fere poterunt percipere, sed non exacte ; idem dicen-
+dum de proportionibus. Ea quae valde distant percipi non
+possunt, et tamen geometria agit de extensis quae in infi-
+nitum extenduntur.
+Si igitur geometria in origine sua dependet a datis
+sensitivis, quomodo potest hic transitus ad exactitudinem
+perfectam explicari ; vel estne forte illusio tantum ?
+Animadverte bene : in problemate necessitatis, prae-
+sertim si non unice, agebatur de nexibus inter notiones, qui
+iudiciis affirmantur ; hic de utroque quaestio agitur, de
+nexibus, sed non minus de existentia ipsarum notionum.
+
+2. Quaedam historica.
+Ad hoc problema philosophi non solent valde attendere
+et multi forte omnino non attenderunt ; sed eo magis ma-
+thematici moderniores id fecerunt.
+A) Philosophi. Aristoteles problema optime novit, sed
+perpauca de eo dicit. In Analyt. Post. I 31 id tangit ubi ait :
+« etiamsi possibile esset sentire triangulum habere angu-
+los duobus rectis aequales, quaereremus utique demonstra-
+tionem et non, ut quidam contendunt, scientiam habere-
+mus » 1.
+Principale, ad quod nunc attendendum, non est conse-
+quens huius conditionalis, scil. quod ad scientiam (propter
+necessitatem et universalitatem huius propositionis de trian-
+gulo) requireretur demonstratio ; sed potius ad hoc atten-
+damus : Aristoteles optime indicat diversitatem quae est
+inter data sensitiva, quae nunquam exacte indicant sum-
+mam angulorum, et veritatem geometricam, intellectui ma-
+nifestam. Et S. Thomas in suo commentario (lect. 42 n. 7)
+etiam hoc optime exponit ubi addit : hoc esse « exemplum
+de his quae sensu percipi non possunt ». Perfecta enim aequa-
+litas inter summam angulorum trianguli et duas rectas nullo
+sensu percipi, nulla methodo experimentali attingi potest.
+
+1 87 b 35 : καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας
+ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστά-
+μεθα. Cfr. Met. III 2, 997 b 35 (S. Th. lect. 7 n. 416). Ibi Protagorae
+obiectio profertur, quae ex eo movetur, quod in lineis sensilibus
+recta non tangit circulum in uno puncto.

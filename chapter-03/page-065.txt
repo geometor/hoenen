@@ -1,0 +1,33 @@
+CAPUT III
+
+DE PROBLEMATE EXACTITUDINIS
+
+PARS I
+DE EXISTENTIA INDIVISIBILIUM
+
+Iam agendum erit de altero problemate, quod solven-
+dum inveniebamus, de problemate scilicet exactitudinis,
+per quod geometria ab initiis arithmeticae, in qua exacti-
+tudo non constituit enigma, differt. Non omnia quae in
+hoc problemate involvuntur, idem medium solutionis po-
+stulant, ut ex ipsa nostra expositione patebit. Quaedam
+enim sunt, quorum solutio exigit considerationem extensi
+tanquam « principii individuationis » quaedam ab hoc me-
+dio non dependent. De his ultimis in hoc capite sermo erit ;
+alias quaestiones, illas quae a consideratione principii indi-
+viduationis dependent, in capite sequente exponemus.
+
+§ 1. DE POSITIONE PROBLEMATIS.
+
+1. In quonam consistat problema.
+Recolamus ex praecedentibus, problema exactitudinis
+in hoc consistere : Ea quae geometria contendit de suis
+obiectis : punctis, lineis, superficiebus, de eorum relationibus
+mutuis, de formis figurarum v. g. de rectitudine lineae, de
+aequalitate vel proportionibus figurarum : ea omnia consi-
+derantur tanquam absolute exacta. Data autem sensitiva,
+a quibus geometria classica suam originem deducit, non
+habent hanc exactitudinem. Nec sensus nec imaginatio
+possunt percipere puncta et lineas, sed tantum corpora
+extensa secundum tres (saltem secundum duas) dimensio-
+nes. Non possunt distinguere lineas, tenuiter incurvatas,

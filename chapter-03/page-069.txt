@@ -1,0 +1,42 @@
+sionem pervenire videntur, transitum ex datis geometricis
+sensitivis inexactis ad geometriam classicam exactam ille-
+gitimum esse. Ideo analysin modo pure arithmetico con-
+struere conantur. Utrum, hac analysi constructa, dein eius
+applicatio ad entia extensa, geometriae classicae aequivalens,
+possibilis sit, erit novum problema.
+Non solent considerare problema necessitatis. In arith-
+meticis necessitatem sine analysi admittunt, sequentes in-
+tuitionem naturalem mentis humanae, quae sine dubio tam
+clara est, ut sine haesitatione admitti possit. Inde : proble-
+ma ibi latens detegere et dein id solvere, est aliquid pure
+philosophici ; mathematici suo iure id omittunt ; iam supra
+audiebamus Poincaré exclamantem : « quis dubitabit de
+Arithmetica ? ». Et quod non idem de geometria affirmatur,
+unice provenit ex problemate exactitudinis, non ex pro-
+blemate necessitatis : « intuitio non potest dare exactitudinem
+(la rigueur) » idem Poincaré dicebat de intuitione geome-
+trica.
+In unico tamen casu, scilicet ubi agitur de critica postu-
+lati V. Euclidis, ex qua geometriae non-Euclidicae prove-
+niebant, quidam necessitatem in geometria deesse dicere
+videntur, eo quod geometria Euclidica iam non unice possi-
+bilis, ideoque necessaria, esse dicitur ; sed si res bene exa-
+minatur, non volunt dicere nisi quod geometria classica
+non omnes casus praeviderat ; sed in singulis casibus adest
+necessitas. Qui dein geometriam, applicatam ad corpora
+quae sunt in rerum natura, omnino aequiparant scientiae
+physicae, differentiam enormem, quae, iuxta exposita in
+capite primo, inter utramque scientiam relate ad necessita-
+tem adest, his verbis quidem negant, sed reipsa eadem po-
+tius negligunt.
+Mathematici igitur non solent considerare problema
+necessitatis, sed eo maiores habent difficultates relate ad
+ea, quae problema exactitudinis spectant. Dicimus eos habere
+maiores difficultates, id quod non significat omnes bene dis-
+tinguere has difficultates. Immo pauci forte sunt, qui clare
+intelligunt problema in hoc praecise consistere : quomodo
+et ubi transitus ex datis inaccuratis sensitivis ad notiones
+et propositiones accuratas in geometria classica possibilis
+sit.
+Exacte, sed breviter, id iam in capite primo descrip-
+tum audiebamus a Klein et Poincaré ; ibi quoque sermo erat

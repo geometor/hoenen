@@ -1,0 +1,40 @@
+Comment l'intuition peut-elle nous tromper à ce point ? C'est
+que quand nous cherchons à imaginer une courbe, nous ne pouvons
+pas nous la représenter sans épaisseur ; de même, quand nous nous
+représentons une droite, nous la voyons sous la forme d'une bande
+rectiligne d'une certaine largeur. Nous savons bien que ces lignes
+n'ont pas d'épaisseur ; nous nous efforçons de les imaginer de plus
+en plus minces et de nous rapprocher ainsi de la limite ; nous y par-
+venons dans une certaine mesure, mais nous n'atteindrons jamais
+cette limite.
+Et alors il est clair que nous pourrons toujours nous représenter
+ces deux rubans étroits, l'un rectiligne, l'autre curviligne, dans une
+position telle qu'ils empiètent légèrement l'un sur l'autre sans se tra-
+verser.
+Nous serons ainsi amenés, à moins d'être avertis par une analyse
+rigoureuse, à conclure, qu'une courbe a toujours une tangente ».
+Argumentum quod examinamus, in ultima alinea expri-
+mitur.
+Sumamus exemplum simplicissimum, classicum, talis
+functionis quae est ubique continua sed in uno puncto caret
+derivata. Ideo, aiunt, curva quae huic functioni correspon-
+det, esset quidem ubique continua, sed in uno puncto careret
+tangente. Et ideo contradiceret intuitioni. Ecce functio :
+y = x sin 1/x . Est functio periodica, sicut functio y = sin x,
+sed eius « sinuositates », si accedimus ad originem coordina-
+tarum (x = 0, y = 0), primo habent semper minorem ampli-
+tudinem (distantiam maximorum et minimorum ab axi
+abscissarum), quia functio sinus multiplicatur per x et x
+semper magis accedit ad zero ; et secundo « sinuositates »
+semper magis ad invicem quasi comprimuntur, quia singulae
+periodi correspondent variationi quae est aequalis 2 π et
+haec variatio iam attingitur per eo minorem variationem
+in x quo ipse valor x iam est minor et ideo 1/x est maior. Ver-
+sus originem « sinuositates » in infinitum comprimuntur.
+Sed haec functio per se sensum non habet, si x = 0 ; quia
+divisio per zero sensum non habet ; ideo additur, et id ratio-
+nabiliter fit, aequationi supra scriptae hoc systema valorum :
+si x = 0, y = 0.
+Functio autem ita definita est ubique continua : et
+tamen in ipsa origine non habet derivatam. Unde conclu-
+dunt : ergo curva geometrica quae per illas aequationes de-

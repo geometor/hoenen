@@ -1,0 +1,41 @@
+tant. Construuntur curvae « approximativae » sed hae sunt
+normales i. e. habent tangentes.
+De his curvis vide ingeniose exposita apud F. Klein
+Anwendung der Differential- und Integralrechnung (neuer
+Abdruck 1907) pagg. 39 sq., 51 sq., 78 sq., 83-102. De his
+etiam agit O. Becker in libro Beiträge zur phaenomenologi-
+schen Begründung der Geometrie und ihrer physikalischen
+Anwendungen (in Jahrbuch fur Philos. und phaenomenolo-
+gische Forschung VI 1923) pagg. 90-93. Eius solutio diffi-
+cultatis non est omni ex parte clara, forte quoad rem est
+eadem ac nostra. Curva a Weiersztrasz constructa describi-
+tur a Brunschwicg Les étapes de la philosophie mathématique
+pag. 338.
+7. De geometria ut scientia constructiva.
+In superioribus exempla simplicissima « constructionis »
+geometricae videbamus, quae simul existentiam mathemati-
+cam horum obiectorum manifestant. Construebantur per divi-
+sionem partes extensae totius extensi ; eo ipso construebantur
+superficies, lineae, puncta, ut limites exacti partium. Ita
+quoque inveniebantur quaedam principia, quae tanquam
+« axiomata ordinis » enuntiari solent. Nam divisibilitas in
+infinitum, ut supra inventa est, aequivalet principiis : « inter
+duo puncta in linea semper adest tertium distinctum a priori-
+bus » ; unde sequitur inter duo puncta in infinitum alia
+inveniri ; i. e. ibi adsunt in potentia, construi sive actuari
+possunt et hoc sensu absque dubio « mathematice existunt ».
+Haec notio « constructionis » a Kantio tanquam per
+excellentiam mathematica describitur ; per possibilitatem
+constructionis obiectorum suorum, disciplina mathematica
+differt a ceteris v. g. a metaphysica. Apud multos alios haec
+proprietas scientiae mathematicae valde urgetur, immo non
+raro exaggeratur, ita ut in errorem ducat. Nimium enim
+tribuitur activitati mentis humanae ; interdum omnia ei in
+hac materia adscribuntur et fit sermo de « creatione » horum
+obiectorum per mentem humanam ; et ita quidem ut haec
+notio creationis (utique pro obiectis idealibus) stricte su-
+menda sit ; immo loquuntur de creatione libera. Patet in
+tali sententia oriri problema de valore et applicabilitate
+talis creationis et eam quaestionem ita fieri insolubilem.
+Hic modus interpretandi constructionem obiectorum in
+scientia mathematica est sine dubio erroneus ; id quod ex
