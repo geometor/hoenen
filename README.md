@@ -25,10 +25,10 @@ Published by the Pontifical Gregorian University in Rome, Hoenen's work investig
 The original 1954 edition was published **without a Table of Contents**, containing only an alphabetical index at the back. Through systematic page-by-page transcription and architectural analysis of the text, we have reconstructed the complete structural Table of Contents:
 
 ### [Praefatio](docs/preface.md) *(pp. 5–7)*
-* [Latin Text](docs/preface.md) | [English Translation](docs/preface-en.md)
+* [Latin Text](docs/preface.md) | [English Translation](docs/preface-en.md) | [Benchmark Report](docs/translation-benchmark-preface.md)
 
 ### [Caput I: De Origine Cognitionis Geometricae et de Eius Problematica](docs/caput-1.md) *(pp. 9–32)*
-* [Latin Text](docs/caput-1.md) | [English Translation](docs/caput-1-en.md) | [AI Summary](docs/caput-1-summary.md)
+* [Latin Text](docs/caput-1.md) | [English Translation](docs/caput-1-en.md) | [AI Summary](docs/caput-1-summary.md) | [Benchmark & Notes](docs/translation-benchmark-caput-1.md)
 * **§ 1.** De loco proprio huius inquisitionis in philosophia.
 * **§ 2.** De origine notionum mathematicarum.
 * **§ 3.** Duplex problema fundamentale.
@@ -37,7 +37,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
 * **§ 6.** De axiomatica quae dicitur.
 
 ### [Caput II: De Problemate Necessitatis](docs/caput-2.md) *(pp. 33–64)*
-* [Latin Text](docs/caput-2.md)
+* [Latin Text](docs/caput-2.md) | [English Translation](docs/caput-2-en.md) | [AI Summary](docs/caput-2-summary.md) | [Translation Notes](docs/translation-notes-caput-2.md)
 * *Animadversiones praeviae.*
 * **§ 1.** De quibusdam exemplis arithmeticis.
   * 1. De divisibilitate multitudinis in partes aequales.
@@ -64,7 +64,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
   * 3. De abstractione formali quae dicitur.
 
 ### [Caput III: De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium](docs/caput-3.md) *(pp. 65–94)*
-* [Latin Text](docs/caput-3.md)
+* [Latin Text](docs/caput-3.md) | [English Translation](docs/caput-3-en.md) | [AI Summary](docs/caput-3-summary.md) | [Translation Notes](docs/translation-notes-caput-3.md)
 * **§ 1.** De positione problematis.
   * 1. In quonam consistat problema.
   * 2. Quaedam historica.
@@ -79,7 +79,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
   * 7. De geometria ut scientia constructiva.
 
 ### [Caput IV: De Problemate Exactitudinis. Pars II: De Figuris et Relationibus Exactis](docs/caput-4.md) *(pp. 95–156)*
-* [Latin Text](docs/caput-4.md)
+* [Latin Text](docs/caput-4.md) | [English Translation](docs/caput-4-en.md) | [AI Summary](docs/caput-4-summary.md) | [Translation Notes](docs/translation-notes-caput-4.md)
 * *Animadversiones praeviae.*
 * **§ 1.** De principio individuationis in geometricis.
 * **§ 2.** De motu in geometricis.
@@ -99,7 +99,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
 * **§ 7.** De geometria classica relate ad philosophiam cognitionis.
 
 ### [Caput V: De Axiomatica](docs/caput-5.md) *(pp. 157–194)*
-* [Latin Text](docs/caput-5.md)
+* [Latin Text](docs/caput-5.md) | [English Translation](docs/caput-5-en.md) | [AI Summary](docs/caput-5-summary.md) | [Translation Notes](docs/translation-notes-caput-5.md)
 * **§ 1.** De methodo axiomatica.
   * 1. De axiomatica stricte dicta.
   * 2. De methodo Aristotelis.
@@ -117,7 +117,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
 * **§ 5.** De applicatione geometriae.
 
 ### [Caput VI: De Subiecto Fundamentali Geometriae](docs/caput-6.md) *(pp. 195–222)*
-* [Latin Text](docs/caput-6.md)
+* [Latin Text](docs/caput-6.md) | [English Translation](docs/caput-6-en.md) | [AI Summary](docs/caput-6-summary.md) | [Translation Notes](docs/translation-notes-caput-6.md)
 * **§ 1.** Iterata comparatio geometriae euclidicae et non-euclidicae.
 * **§ 2.** De extensione ut est subiectum fundamentale geometriae.
   * A. De extensione corporum.
@@ -128,7 +128,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
   * 2. Conclusiones.
 
 ### [Caput VII: De Extensione ut est Materia Intelligibilis](docs/caput-7.md) *(pp. 223–248)*
-* [Latin Text](docs/caput-7.md)
+* [Latin Text](docs/caput-7.md) | [English Translation](docs/caput-7-en.md) | [AI Summary](docs/caput-7-summary.md) | [Translation Notes](docs/translation-notes-caput-7.md)
 * **§ 1.** De constructione figurarum geometricarum.
 * **§ 2.** De duplici intelligibilitate materiae intelligibilis.
   * 1. De intelligibilitate passivitatis materiae intelligibilis.
@@ -143,7 +143,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
   * 3. De casibus physicis.
 
 ### [Appendix: De connexionibus necessariis inter actus existentiales](docs/appendix.md) *(pp. 249–288)*
-* [Latin Text](docs/appendix.md)
+* [Latin Text](docs/appendix.md) | [English Translation](docs/appendix-en.md) | [AI Summary](docs/appendix-summary.md) | [Translation Notes](docs/translation-notes-appendix.md)
 * **§ 1.** « Movetur ergo est ».
 * **§ 2.** « Hoc movetur ergo locus est ».
 * **§ 3.** « Hoc movetur ergo aliud, movens, existit ».
@@ -155,7 +155,7 @@ The original 1954 edition was published **without a Table of Contents**, contain
   * Additiones.
 
 ### [Index Analyticus](docs/end_index.md) *(pp. 289–293)*
-* [Latin Text](docs/end_index.md)
+* [Latin Text](docs/end_index.md) | [English Translation](docs/end_index-en.md)
 
 ---
 
@@ -235,21 +235,35 @@ The printed book employed varying typesetting styles for sections: uppercase hea
 ├── index/                        # Page scans for Index Rerum and Index Auctorum (pp. 289–293)
 ├── pdfs/                         # Original PDF scans and rescan supplements
 ├── docsrc/                       # Python build scripts (build_caput_1.py ... build_caput_7.py)
-├── docs/                         # Assembled Markdown chapters and English translations
+├── docs/                         # Assembled Markdown chapters, English translations, and apparatus
 │   ├── index.md                  # Web documentation index
-│   ├── preface.md                # Praefatio (Latin)
-│   ├── preface-en.md             # Preface (English)
-│   ├── caput-1.md ... caput-7.md # Assembled Latin chapters
-│   ├── caput-1-en.md             # Caput I English translation
-│   └── caput-1-summary.md        # Detailed analytical summary of Caput I
+│   ├── preface.md / -en.md       # Praefatio (Latin & English)
+│   ├── caput-1.md ... caput-7.md # Assembled Latin critical texts
+│   ├── caput-1-en.md ... -7-en.md# English translations (Preface through Caput VII completed)
+│   ├── appendix-en.md            # English translation of Appendix (Completed)
+│   ├── caput-1-summary.md ...    # Analytical summaries & outlines (All chapters + Appendix)
+│   ├── translation-notes-...     # Scholarly notes, benchmarks & commentary (All chapters + Appendix)
+│   ├── appendix.md / end_index.md# Appendix & Index Analyticus Latin texts
+│   └── agent-chronicle.md        # The Transcription Chronicle: AI Agent Memoir
 ├── README.md                     # Comprehensive project documentation and TOC
 └── pyproject.toml                # Project metadata and configuration
 ```
 
 ---
 
-## Next Steps & Roadmap
+## Progress & Roadmap
  
-- 1. **Appendix Transcription**: Transcribe the extensive Appendix, *De connexionibus necessariis inter actus existentiales* (pp. 249–288), exploring Hoenen's existential metaphysics and noetics. *(Completed)*
-- 2. **Index Digitization**: Transcribe the *Index Analyticus* (pp. 289–293) to enable cross-referencing. *(Completed)*
-- 3. **English Translation**: Following the completion of the Latin critical text, produce an accurate, philosophically and mathematically rigorous English translation with commentary for Chapters II through VII and the Appendix.
+- 1. **Latin Critical Text**: Full transcription, depagination, and footnote collation for all 7 chapters, Appendix, and Index. *(100% Completed)*
+- 2. **English Translation & Scholarly Apparatus**:
+  - **Preface & Caput I**: Translated with Model 3.6 comparison benchmark reports and analytical summary. *(Completed)*
+  - **Caput II (*De Problemate Necessitatis*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Caput III (*De Problemate Exactitudinis. Pars I*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Caput IV (*De Problemate Exactitudinis. Pars II*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Caput V (*De Axiomatica*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Caput VI (*De Subiecto Fundamentali Geometriae*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Caput VII (*De Extensione ut est Materia Intelligibilis*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Appendix (*De Actibus Existentialibus*)**: Translated with analytical summary and translation notes. *(Completed)*
+  - **Index Analyticus**: Translated and cross-referenced. *(Completed)*
+  - **Total Progress**: **100% Completed** across all Latin transcriptions, English translations, analytical summaries, and scholarly notes.
+
+
