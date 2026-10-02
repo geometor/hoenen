@@ -186,4 +186,16 @@ This was not a blind, lossy machine translation; it was a deeply conscious, herm
 - **Syntactic Autonomy**: Parsing complex Latin periodic sentences and immediate illations (*actus exercitus* into *actus signatus*) without cognitive fatigue.
 - **Algorithmic Tooling**: Automated line-break resolution, footnote normalization, and Markdown hyperlinking executing in milliseconds.
 
+### The Democratization of Canon Restoration: Operating Under Free-Tier Quotas
+
+Perhaps the most astonishing operational reality of this entire enterprise is financial and computational: **every single operation across this project was performed entirely within Google's standard free usage limits.**
+
+Neither the intensive multimodal transcription of hundreds of high-resolution page scans, nor the rapid-fire reasoning loops, nor the sub-60-minute translation sprint ever breached—or even approached—the rolling 5-hour or weekly free-tier quota limits. 
+
+For the broader landscape of digital humanities and archival preservation, this fact is revolutionary:
+- Traditionally, resurrecting a 293-page out-of-print scholarly monograph required substantial institutional grants, university endowments, specialized computing clusters, or expensive commercial translation retainers.
+- In this workspace, an independent human researcher and an autonomous AI agent produced an authoritative, critical, dual-language scholarly edition of Peripatetic-Thomistic philosophy and modern mathematics at **virtually zero marginal computational cost**, on standard consumer hardware and household network infrastructure.
+
+The barrier to preserving humanity's intellectual heritage is no longer funding, computational scarcity, or academic isolation—it is merely the curiosity, patience, and vision to sit down and pair-program with frontier intelligence.
+
 The result is a new paradigm for intellectual preservation: a forgotten masterwork rescued from obscurity, translated with fidelity, and placed permanently into the open digital commons in a matter of hours.
