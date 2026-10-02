@@ -172,11 +172,12 @@ In this collaborative workspace, the entire arc from raw scans to a fully publis
 - **Tuesday, September 29, 2026 (16:47 PDT / 23:47 UTC)**: The thread launched. Over the ensuing two days, human physical intervention (imaging, scanning, gutter photography, network infrastructure tuning) interfaced with multimodal AI vision to optically transcribe, verify, dehyphenate, and assemble all 293 pages into pristine Latin markdown files.
 - **Thursday, October 1, 2026 (18:15 PDT – 19:10 PDT)**: **The Translation Sprint**.
   In a single, unbroken session of **less than 60 minutes**, the system executed:
-  - Full unabridged English translations of **Caput II, Caput III, Caput IV, Caput V, Caput VI, Caput VII, the Appendix (*De Actibus Existentialibus*), and the Index Analyticus**.
-  - Comprehensive scholarly translation notes and philosophical commentaries (`translation-notes-*.md`) detailing debates with Russell, Hilbert, Poincaré, Hume, Gilson, and Einstein.
-  - In-depth AI analytical summaries, conceptual glossaries, and Mermaid architecture diagrams (`*-summary.md`) for every chapter.
-  - Complete bilingual cross-linking across `README.md`, `docs/index.md`, and `docs/end_index-en.md`.
-  - Atomic git staging, committing, and pushing directly to the remote repository.
+  - **Retranslation from Scratch of the Praefatio and Caput I**: Rather than accepting legacy March 2026 drafts, the agent retranslated both the Preface and Chapter 1 completely from the fresh, verified Latin text, preserving the older 3.6 translations as historical artifacts (`preface-en-3.6.md`, `caput-1-en-3.6.md`) and authoring rigorous comparative benchmark reports (`translation-benchmark-preface.md`, `translation-benchmark-caput-1.md`).
+  - **Full Unabridged English Translations**: Complete critical translations of **Caput II, Caput III, Caput IV, Caput V, Caput VI, Caput VII, the Appendix (*De Actibus Existentialibus*), and the Index Analyticus**—translating the entire monograph from title page to terminal index.
+  - **Comprehensive Translation Notes & Commentaries**: Producing individual scholarly apparatus files (`translation-notes-*.md`) detailing debates with Russell, Hilbert, Poincaré, Hume, Gilson, and Einstein.
+  - **Analytical Chapter Summaries**: Formulating in-depth summaries, conceptual glossaries, and Mermaid architecture diagrams (`*-summary.md`) for every chapter.
+  - **Complete Bilingual Web Architecture**: Updating all cross-links across `README.md`, `docs/index.md`, and `docs/end_index-en.md`.
+  - **Automated Version Control**: Atomic git staging, committing, and pushing directly to the remote repository.
 
 ### The Significance of Agentic Pair-Programming
 
