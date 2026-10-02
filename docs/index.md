@@ -163,3 +163,10 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](pontifical-gregorian-university.md)
 
 ### [Index Analyticus](end_index.md) *(pp. 289–293)*
 * [Latin Text](end_index.md)
+
+---
+
+## Project Documentation
+
+* [The Transcription Chronicle: An AI Agent's First-Person Memoir](agent-chronicle.md)
+* [Scan Inventory & Problem Page Log](scan-inventory.md)
