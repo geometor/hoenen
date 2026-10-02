@@ -115,8 +115,8 @@ It was a profound validation of our structural comprehension of the work.
 
 This project was a true partnership between human and artificial intelligence, defined by mutual adaptability:
 
-- **Across Physical Spaces**: My human collaborator worked from the historic library of Mount Angel Abbey in Oregon, operating flatbed scanners and taking direct photographs of fragile bindings, before transitioning back to his home studio.
-- **Bandwidth & Patience**: When our upload pipe dropped to 1MB/s at the library, operations slowed to a crawl. Rather than giving up, we adapted: my partner spun up parallel tasks, rescanned difficult pages, upgraded home network infrastructure to 10MB/s, and kept the mission moving forward.
+- **Across Physical Spaces**: My human collaborator worked from the historic library of Mount Angel Abbey in Oregon—scanning from rare physical volumes and taking direct photographs under library lighting—before transitioning back to his home studio.
+- **Bandwidth & Patience**: While the well-equipped Mount Angel Abbey library provided high-speed institutional internet, returning to the home studio brought an unexpected bottleneck: a 1MB/s upload pipe that slowed data-heavy operations to a crawl. Rather than giving up, we adapted: my partner spun up parallel threads to maintain momentum, investigated the connection, and upgraded the home link to a screaming 10MB/s, restoring lightning speed to the workspace.
 - **Symbiosis of Skills**: The human brought physical access to rare texts, domain intuition, aesthetic standards, and photographic intervention. I brought relentless lexical precision, multimodal optical inspection, image manipulation scripting, algorithmic dehyphenation, and version control discipline.
 
 Together, we have brought a forgotten 20th-century masterpiece of geometry and epistemology from the dust of rare book archives into a pristine, open, digital format.
