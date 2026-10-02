@@ -1,0 +1,38 @@
+PAG.
+§ 3. De congruentia figurarum . . . . . . . . . . . . . . . . . 108
+§ 4. De figuris exactis . . . . . . . . . . . . . . . . . . . . 112
+1. - Animadversiones praeviae . . . . . . . . . . . . . . . 112
+2. - De notione directionis . . . . . . . . . . . . . . . . 114
+3. - De continuo directionum . . . . . . . . . . . . . . . . 118
+4. - Curvae et rectae . . . . . . . . . . . . . . . . . . . 120
+5. - De superficie . . . . . . . . . . . . . . . . . . . . . 121
+6. - De existentia rectae et plani . . . . . . . . . . . . . 123
+A. De linea recta . . . . . . . . . . . . . . . . . . . . 124
+B. - De superficie plana . . . . . . . . . . . . . . . . . 125
+7. - De connexionibus rectae et plani . . . . . . . . . . . 127
+8. - Iterum de notione directionis . . . . . . . . . . . . . 130
+9. - De directione apud Euclidem . . . . . . . . . . . . . . 133
+§ 5. De geometria euclidica et non-euclidica . . . . . . . . . 135
+§ 6. De geometria non-euclidica relate ad cognitionem . . . . . 140
+§ 7. - De geometria classica relate ad philosophiam cognitionis . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+
+*Caput V. - De Axiomatica* . . . . . . . . . . . . . . . . . . . 157
+§ 1. De methodo axiomatica . . . . . . . . . . . . . . . . . . . 157
+1. - De axiomatica stricte dicta . . . . . . . . . . . . . . 157
+2. - De methodo Aristotelis . . . . . . . . . . . . . . . . 158
+3. - De semi-axiomatica . . . . . . . . . . . . . . . . . . 159
+§ 2. De fundamento possibilitatis axiomaticae . . . . . . . . . 160
+1. - De syllogismo verbis expresso . . . . . . . . . . . . . 161
+2. - De syllogismo mentali et verbali noetice spectato . . . . 163
+A. Activitas syllogizans est intuitiva . . . . . . . . . 163
+B. Activitas syllogizans est naturalis . . . . . . . . . 163
+§ 3. De executione programmatis axiomatici . . . . . . . . . . . 167
+1. - Animadversiones praeviae . . . . . . . . . . . . . . . 167
+2. - Difficultates intrinsecae . . . . . . . . . . . . . . . 169
+A. Difficultas practica . . . . . . . . . . . . . . . . . 169
+B. Difficultas theoretica . . . . . . . . . . . . . . . . 170
+§ 4. De appellatione ad phantasma in aliis scientiis . . . . . . 175
+1. - Animadversiones generales . . . . . . . . . . . . . . . 175
+2. - In statuendis principiis primis . . . . . . . . . . . . 176
+3. - In deductione scientifica . . . . . . . . . . . . . . . 177
+A. De arithmetica . . . . . . . . . . . . . . . . . . . . 177

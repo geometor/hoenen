@@ -1,0 +1,41 @@
+PAG.
+3. - Judicia implicita . . . . . . . . . . . . . . . . . . . . 53
+4. - Judicia virtualia . . . . . . . . . . . . . . . . . . . . 55
+
+§ 4. De nexu materiali et formali . . . . . . . . . . . . . . . 56
+1. - De ipso nexu materiali et formali . . . . . . . . . . . . 57
+2. - Leges physicae et principia mathematica . . . . . . . . . 58
+3. - De abstractione formali quae dicitur . . . . . . . . . . 59
+
+*Caput III. - De problemate exactitudinis* . . . . . . . . . . . . 65
+*Pars I. - De existentia indivisibilium* . . . . . . . . . . . . . 65
+§ 1. De positione problematis . . . . . . . . . . . . . . . . . 65
+1. - In quonam consistat problema . . . . . . . . . . . . . . 65
+2. - Quaedam historica . . . . . . . . . . . . . . . . . . . . 66
+A. Philosophi . . . . . . . . . . . . . . . . . . . . . . . 66
+B. Mathematici . . . . . . . . . . . . . . . . . . . . . . 68
+3. - Solutio quaerenda . . . . . . . . . . . . . . . . . . . . 71
+§ 2. De primis notionibus geometriae classicae . . . . . . . . . 72
+1. - De puncto linea superficie . . . . . . . . . . . . . . . 72
+2. - Divisio entis extensi . . . . . . . . . . . . . . . . . . 74
+A. Superficies . . . . . . . . . . . . . . . . . . . . . . . 74
+B. Linea Punctum . . . . . . . . . . . . . . . . . . . . . . 75
+C. De indivisibilibus in rerum natura . . . . . . . . . . . . 76
+3. - De dimensionibus . . . . . . . . . . . . . . . . . . . . 77
+4. - De objectione ex « folio Moebii » desumpta . . . . . . . . 78
+5. - Quae ex his colliguntur pro noetica generali . . . . . . 82
+A. Theoria Aristotelis . . . . . . . . . . . . . . . . . . . 82
+B. Theoria Platonis . . . . . . . . . . . . . . . . . . . . 84
+C. Theoria Kantii . . . . . . . . . . . . . . . . . . . . . 84
+D. Theoria empirismi . . . . . . . . . . . . . . . . . . . . 84
+6. - De divisibilitate in infinitum . . . . . . . . . . . . . . 86
+A. De divisibilitate in extensa . . . . . . . . . . . . . . . 86
+B. De linea ut « collectione punctorum » . . . . . . . . . . 87
+C. De aequationibus geometriae analyticae . . . . . . . . . . 89
+7. - De geometria ut est scientia constructiva . . . . . . . . 93
+
+*Caput IV. - De problemate exactitudinis* . . . . . . . . . . . . 95
+*Pars II. - De figuris et relationibus exactis* . . . . . . . . . 95
+Animadversiones praeviae . . . . . . . . . . . . . . . . . . . . 95
+§ 1. De principio individuationis in geometricis . . . . . . . . 98
+§ 2. De motu in geometricis . . . . . . . . . . . . . . . . . . . 102

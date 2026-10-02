@@ -142,11 +142,20 @@ The original 1954 edition was published **without a Table of Contents**, contain
   * 2. De casibus mathematicis.
   * 3. De casibus physicis.
 
-### Appendix: De connexionibus necessariis inter actus existentiales *(pp. 249–288)*
-*(In progress)*
+### [Appendix: De connexionibus necessariis inter actus existentiales](docs/appendix.md) *(pp. 249–288)*
+* [Latin Text](docs/appendix.md)
+* **§ 1.** « Movetur ergo est ».
+* **§ 2.** « Hoc movetur ergo locus est ».
+* **§ 3.** « Hoc movetur ergo aliud, movens, existit ».
+* **§ 4.** De finalitate in motu.
+  * Recapitulatio.
+* **§ 5.** Quaedam aliae relationes existentiales.
+* **§ 6.** Aristoteles de actu existentiali.
+* **§ 7.** De conceptu ipsius esse.
+  * Additiones.
 
-### Index Rerum et Auctorum *(pp. 289–293)*
-*(In progress)*
+### [Index Analyticus](docs/end_index.md) *(pp. 289–293)*
+* [Latin Text](docs/end_index.md)
 
 ---
 
@@ -240,7 +249,7 @@ The printed book employed varying typesetting styles for sections: uppercase hea
 ---
 
 ## Next Steps & Roadmap
-
-1. **Appendix Transcription**: Transcribe the extensive Appendix, *De connexionibus necessariis inter actus existentiales* (pp. 249–288), exploring Hoenen's existential metaphysics and noetics.
-2. **Index Digitization**: Transcribe the *Index Rerum* and *Index Auctorum* (pp. 289–293) to enable cross-referencing.
-3. **English Translation**: Following the completion of the Latin critical text, produce an accurate, philosophically and mathematically rigorous English translation with commentary for Chapters II through VII.
+ 
+- 1. **Appendix Transcription**: Transcribe the extensive Appendix, *De connexionibus necessariis inter actus existentiales* (pp. 249–288), exploring Hoenen's existential metaphysics and noetics. *(Completed)*
+- 2. **Index Digitization**: Transcribe the *Index Analyticus* (pp. 289–293) to enable cross-referencing. *(Completed)*
+- 3. **English Translation**: Following the completion of the Latin critical text, produce an accurate, philosophically and mathematically rigorous English translation with commentary for Chapters II through VII and the Appendix.

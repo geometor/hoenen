@@ -149,8 +149,17 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](pontifical-gregorian-university.md)
   * 2. De casibus mathematicis.
   * 3. De casibus physicis.
 
-### Appendix: De connexionibus necessariis inter actus existentiales *(pp. 249–288)*
-*(In progress)*
+### [Appendix: De connexionibus necessariis inter actus existentiales](appendix.md) *(pp. 249–288)*
+* [Latin Text](appendix.md)
+* **§ 1.** « Movetur ergo est ».
+* **§ 2.** « Hoc movetur ergo locus est ».
+* **§ 3.** « Hoc movetur ergo aliud, movens, existit ».
+* **§ 4.** De finalitate in motu.
+  * Recapitulatio.
+* **§ 5.** Quaedam aliae relationes existentiales.
+* **§ 6.** Aristoteles de actu existentiali.
+* **§ 7.** De conceptu ipsius esse.
+  * Additiones.
 
-### Index Rerum et Auctorum *(pp. 289–293)*
-*(In progress)*
+### [Index Analyticus](end_index.md) *(pp. 289–293)*
+* [Latin Text](end_index.md)

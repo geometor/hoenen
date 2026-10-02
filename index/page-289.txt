@@ -1,0 +1,36 @@
+# INDEX ANALYTICUS
+
+PAG.
+*Praefatio* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+*Caput I. - De origine cognitionis geometricae et de eius problematica* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+§ 1. De loco proprio huius indagationis in philosophia . . . . . . 8
+§ 2. De origine notionum mathematicarum . . . . . . . . . . . . . 13
+§ 3. Duplex problema fundamentale . . . . . . . . . . . . . . . . 15
+§ 4. De arithmetizatione continui . . . . . . . . . . . . . . . . 17
+§ 5. De critica postulati V Euclidis . . . . . . . . . . . . . . . 22
+§ 6. De axiomatica quae dicitur . . . . . . . . . . . . . . . . . 23
+
+*Caput II. - De problemate necessitatis* . . . . . . . . . . . . . 27
+Animadversiones praeviae . . . . . . . . . . . . . . . . . . . . . 27
+§ 1. De quibusdam exemplis arithmeticis . . . . . . . . . . . . . 28
+1. - De divisibilitate multitudinis . . . . . . . . . . . . . . . 28
+2. - De numeris primis . . . . . . . . . . . . . . . . . . . . . 31
+3. - De initiis artis combinatoriae . . . . . . . . . . . . . . . 31
+4. - Judicium de additione numerorum . . . . . . . . . . . . . . 32
+A. Methodus Leibnizii . . . . . . . . . . . . . . . . . . . . . 33
+B. Methodus Mercier . . . . . . . . . . . . . . . . . . . . . . 35
+C. Deductio logistica . . . . . . . . . . . . . . . . . . . . . 36
+Conspectus . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+5. - Comparatio horum factorum cum theoriis . . . . . . . . . . . 37
+6. - Judicia praevia . . . . . . . . . . . . . . . . . . . . . . . 39
+§ 2. De necessitate in judiciis immediatis geometricis . . . . . . 40
+1. - In geometricis duplex problema . . . . . . . . . . . . . . . 40
+2. - Extensum et « spatium » . . . . . . . . . . . . . . . . . . 41
+3. - De divisibilitate . . . . . . . . . . . . . . . . . . . . . 42
+4. - De ordine inter puncta . . . . . . . . . . . . . . . . . . 44
+5. - De axiomate Pasch . . . . . . . . . . . . . . . . . . . . . 45
+6. - De sectione cylindri et « folii Moebii » . . . . . . . . . . 46
+§ 3. De doctrina quae ex his factis colligitur . . . . . . . . . . 49
+1. - Comparatio cum legibus physicis . . . . . . . . . . . . . . 49
+2. - Iterum de theoriis cognitionis relate ad experientiam . . . . 50

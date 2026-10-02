@@ -1,0 +1,13 @@
+cedens versus suum principium » τὸ γιγνόμενον ἀτελὲς καὶ ἐπ᾽ ἀρχὴν ἴον (*Phys.* VIII 7, 261 a 13) ; simile adagium in *Met.* (IX 1050 a 7-9) : ἅπαν ἐπ᾽ ἀρχὴν βαδίζει τὸ γιγνόμενον καὶ τέλος). Quia terminus motus, τέλος, est ἀρχὴ, influens motum, debet adesse relatio necessaria inter motum, actualitatem moventis et mobilis, et actualitatem illam in quam tendit.
+Habemus igitur relationem necessariam inter duas actualitates, sicut in tribus prioribus casibus ; sed in illis statim detegebatur ab intellectu humano, et ideo erat communiter acceptata, sed in hoc casu praerequiritur analysis longior relate ad unitatem motus. Exprimi poterit : « hoc movetur ergo tendit in terminum producendum » ; vel : « hoc movetur ergo terminus intentionaliter existit ». Requiritur longior analysis, sed post eam directe intelligitur, tanquam relatio necessaria inter duas actualitates ; haec relatio indicat indolem intentionalem motus, cui respondet activitas intentionalis agentis.
+Addimus textum ex commentario S. Thomae i. h. l. ex *Met.* IX (l. 8 n. 1857) : « Omne quod fit vadens ad finem, vadit ad quoddam principium. Nam finis cuius causa aliquid fit, est quoddam principium. Est enim prius in intentione agentis, quia eius causa fit generatio ».
+Et ideo ipsa efficientia ut talis non intelligitur, nisi intelligatur ut dirigens mobile in hunc finem. « Omne agens agit propter finem ». Et id detegitur specialiter in motu stricte dicto, qui secus unitate continuitatis quam habet careret.
+
+*Recapitulatio.*
+
+Apud Aristotelem (et S. Thomam) quaedam principia inveniuntur, quae motum stricte dictum spectant, et quae, post analysin noeticam, exprimi possunt hisce formulis :
+1. Hoc movetur ergo existit ;
+2. Hoc movetur translatione, ergo locus existit ;
+3. Hoc movetur ergo causa efficiens existit ;
+4. Hoc movetur ergo tendit in finem producendum.
+Ultimum in hoc differt a caeteris, quod in his subiectum mobile, locus, causa efficiens ut existentia *praesupponuntur*, dum e contra finis, natura quidem prior est, sed effici, sive

@@ -1,0 +1,14 @@
+in iudiciis, ad quae conducunt, implicat diversitatem in modis essendi [^29].
+
+Dantur enim diversi modi essendi, et ut diversi a nobis intelliguntur. Commune habent hoc, quod hi modi essendi in se nihil quidditativi continent ; affirmatio et « esse », quod haec tribuit apprehenso complexo, manent in ordine fundamentaliter diverso ab ordine quidditativo. Quidditativa dicuntur « esse », sed per « esse » distinctum ab eis, et ipsa « esse » non sunt, sed eis quidditativum est.
+
+Quomodo igitur modi essendi diversi sunt ; et unde oritur diversitas ? Sunt diversi, non per differentias, quae notae communi adduntur, sed seipsis totis.
+
+*Nota*. Si termini stricte adhibentur (id quod non semper fit) ea, quae non sunt idem, dicuntur *differentia*, si per differentias determinantur, quae distinguuntur a determinando ; dicuntur *diversa*, si seipsis totis, non per aliquid distinctum addendum, non sunt idem. Haec terminologia derivatur ex expositione Aristotelis *Met.* X 3, 1054 b 23-26 (cfr. S. Th. l. 4 n. 2017 sqq.) et etiam V 9, 1018 a 9-14 (S. Th. l. 12 n. 916), ita l. c. n. 2017 legimus : « duo quorum unum est diversum ab alio, non necesse est per aliquid esse diversa. Possunt enim esse diversa seipsis ».
+
+Etiam alibi haec distinctio frequenter recurrit. Ubi de « modis essendi » agit, S. Thomas semper, in quantum scio, adhibet terminum « diversus », et quidem stricte, nam secundum seipsis totis non sunt idem, si unus non est alius.
+
+Sed dein quaestio ponenda est : undenam haec diversitas provenit ? Et respondendum est : ex quidditatibus, vel relationibus quidditativis, quarum « esse » in iudicio affirmatur. Recolamus passum supra citatum (*De Pot.* q. 7 a. 2 ad 9) ubi dicitur : « Hoc quod dico esse est actualitas omnium actuum ». Inde non potest ulterius determinari per alium actum additum ; inde « non sic determinatur esse per aliud sicut potentia per actum, sed magis sicut actus per potentiam ». Ideo diversitas inter modos essendi non (sicut in differentibus quidditative) oritur ex actu addito, sed ex potentia, cui ipsum esse additur i. e. ex quidditate vel relationibus quidditativis, quae per esse actuantur [^30].
+
+[^29]: De his cfr. *Th. du J.* in capitibus de propositione per se et per accidens, de reflexionibus, de iudiciis resultantibus Ch. III, IV, V et alibi passim.
+[^30]: Ita etiam operatio intellectus agentis « determinatur » per « accepta ». Cfr. *Th. du J.* pagg. 25-26, *R. a. J.* pag. 21, ubi de sensu vocis « determinatio » vel « specificatio » in tali contextu agitur.

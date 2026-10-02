@@ -1,0 +1,10 @@
+# APPENDIX
+
+## DE CONNEXIONIBUS NECESSARIIS INTER ACTUS EXISTENTIALES
+
+### § 1. « MOVETUR ERGO EST ».
+
+Formula, quae est titulus huius primae partis, similis est adagio cartesiano « cogito ergo sum ». Iam ante nonnullos annos [^1] detegere conati sumus sensum quem Cartesius his suis verbis tribuit. Concludebamus : haec propositio non est syllogismus truncatus, nec est conclusio syllogismi, sed refert simplicem intuitum intellectus : « cum autem animadvertimus nos esse res cogitantes, prima quaedam notio est, quae ex nullo syllogismo concluditur ; neque etiam cum quis dicit, ego cogito, ergo sum sive existo, existentiam ex cogitatione per syllogismum deducit, sed tamquam rem per se notam simplici mentis intuitu agnoscit, ut patet ex eo quod, si eam per syllogismum deduceret, novisse prius debuisset istam maiorem illud omne quod cogitat, est sive existit ». Sed haec propositio universalis et necessaria cognoscitur potius ex experientia interna, quae necessitatem intuitive detegit. Pergit dicendo : « atqui profecto ipsam potius discit ex eo quod apud se experiatur fieri non posse ut cogitet nisi existat » [^2].
+
+[^1]: *Le « cogito ergo sum » comme intuition et comme mouvement de la pensée* in fasciculo commemorativo periodici *Riv. di Filos. Neo-scolastica* 1937 *Cartesio nel terzo centenario del « Discorso del Metodo »* pagg. 457-471. Vide quoque opus nostrum *La Théorie du Jugement d'après St. Thomas d'Aquin* ch. 12 ed. 2 Romae 1953 et eius versionem anglicam *Reality and Judgment according to St. Thomas* Chicago 1952. Id citabimus sub siglo *Th. d. J.* resp. *R. a. J.*
+[^2]: *In secundis responsionibus* (ed. Adam et Tannery VII) 140, 18-141, 2.

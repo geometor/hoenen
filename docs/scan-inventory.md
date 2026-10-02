@@ -24,7 +24,7 @@ The following 15 pages were partially cut off on the left side due to vertical s
 | **Page 242** | `chapter-07` | `page-242-partial.png` | Left margin / left column text cut off vertically | Rescan Required |
 | **Page 244** | `chapter-07` | `page-244-partial.png` | Left margin / left column text cut off vertically | Rescan Required |
 | **Page 246** | `chapter-07` | `page-246-partial.png` | Left margin / left column text cut off vertically | Rescan Required |
-| **Page 268** | `appendix` | `page-268-partial.png` | Left margin / left column text cut off vertically | Rescan Required |
+| **Page 268** | `appendix` | `page-268.png` | Rescanned & resolved | 🟢 Resolved |
 
 ---
 
@@ -293,7 +293,7 @@ The following 15 pages were partially cut off on the left side due to vertical s
 | 265 | `appendix` | appendix-2.pdf (p. 14, right) | 🟢 OK | `page-265.png` |
 | 266 | `appendix` | appendix-2.pdf (p. 15, left) | 🟢 OK | `page-266.png` |
 | 267 | `appendix` | appendix-2.pdf (p. 15, right) | 🟢 OK | `page-267.png` |
-| 268 | `appendix` | appendix-2.pdf (p. 16, left) | 🔴 PARTIAL | `page-268-partial.png` |
+| 268 | `appendix` | appendix-2.pdf (p. 16, left) | 🟢 OK | `page-268.png` |
 | 269 | `appendix` | appendix-2.pdf (p. 16, right) | 🟢 OK | `page-269.png` |
 | 270 | `appendix` | appendix-2.pdf (p. 17, left) | 🟢 OK | `page-270.png` |
 | 271 | `appendix` | appendix-2.pdf (p. 17, right) | 🟢 OK | `page-271.png` |
