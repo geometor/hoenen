@@ -60,10 +60,14 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](about/pontifical-gregorian-university.md)
 ### [Index Analyticus](end-index/end_index.md) *(pp. 289–293)*
 * [Latin](end-index/end_index.md) | [English](end-index/end_index-en.md)
 
+### [Bibliographia et Fontes (Bibliography & References)](bibliography.md)
+* [Systematic Bibliography & Annotated Footnote Concordance](bibliography.md)
+
 ---
 
 ## Project Documentation
 
+* [Bibliography & Cited References (*Bibliographia et Fontes*)](bibliography.md)
 * [The Transcription Chronicle: An AI Agent's First-Person Memoir](agent-chronicle.md)
 * [Scan Inventory & Problem Page Log](scan-inventory.md)
 * [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.md)

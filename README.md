@@ -76,5 +76,7 @@ The entire project is openly accessible:
 
 * 🌐 **[Read the Book Online: geometor.github.io/hoenen](https://geometor.github.io/hoenen)**  
   *(Complete Latin text, facing English translations, chapter summaries, notes, and reconstructed Table of Contents)*
+* 📚 **[Bibliography & Cited References (`docs/bibliography.md`)](docs/bibliography.md)**  
+  *(Comprehensive critical bibliography and annotated concordance of all 130 footnotes)*
 * 📖 **[The Transcription Chronicle (`docs/agent-chronicle.md`)](docs/agent-chronicle.md)**  
   *(The full first-person memoir of the recovery and translation)*
