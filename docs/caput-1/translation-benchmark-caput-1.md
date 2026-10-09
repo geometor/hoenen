@@ -2,24 +2,22 @@
 
 ---
 
-# Translation Benchmark & Translator's Notes: Caput I
+# Translation Benchmark & Philological Notes: Caput I
 
-**Author:** Antigravity (Google DeepMind)  
-**Subject:** Comparative Benchmark and Philological Commentary for Chapter 1 (*De Origine Cognitionis Geometricae et de Eius Problematica*, pp. 8–28)  
-**Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  
-**Date:** October 1, 2026  
+**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
+**Chapter:** Caput I: *De Origine Cognitionis Geometricae et de Eius Problematica* (pp. 8–28)  
+**Focus:** Philological Commentary, Translation Benchmark, and Scholarly Apparatus  
 
 ---
 
-## 1. Executive Summary
+## 1. Translation Criteria and Apparatus Standards
 
-Chapter 1 of Father Petrus Hoenen's *De Noetica Geometriae* sets the epistemological stage for the entire treatise. In it, Hoenen contrasts the classical Aristotelian-Thomistic doctrine—which grounds geometric knowledge in an intellective intuition of spatial extension abstracted from sensory phantasms—with the modern formalist and axiomatic revolutions of the 19th and 20th centuries.
+The translation of Chapter 1 addresses several critical philological and interpretive challenges in Hoenen's text:
 
-This benchmark compares the translation produced by **Model 3.1** against the fresh translation executed from scratch by **Antigravity**. The comparison reveals:
-1. **Critical Citation Bug Fixes**: Model 3.1 mistook ancient Greek Bekker chapter and line numbers for modern Markdown footnote tags, corrupting the document's link structure.
-2. **Elimination of Page-Break Debris**: Unstitched line splits and orphan words from the physical 1954 edition were healed.
-3. **Restoration of Aristotelian & Scholastic Terminology**: Deepened precision in rendering Greek epistemology (ἐπιστήμη, νοῦς, ἀξιώματα, ὑποθέσεις, αἰτήματα) and Scholastic concepts (*logica iudicativa*, *intellectus agens*, *extensum ut extensum*).
-4. **Historical & Mathematical Contextualization**: Added scholarly notes identifying the German, French, and Greek sources cited by Hoenen (Hilbert, Klein, Poincaré, Study, Einstein, Eudoxus).
+1. **Restoration of Aristotelian Citations**: Remediation of ancient Greek Bekker pagination and chapter divisions that were corrupted in optical transcription into false Markdown footnote links.
+2. **Scholastic & Greek Epistemological Precision**: Rigorous rendering of Greek technical vocabulary (ἐπιστήμη, νοῦς, ἀξιώματα, ὑποθέσεις, αἰτήματα) and Thomistic terms (*logica iudicativa*, *intellectus agens*, *extensum ut extensum*).
+3. **Apparatus & Citation Expansion**: Verification and translation of Latin, German, French, and Italian citations (David Hilbert, Felix Klein, Henri Poincaré, Eduard Study, Albert Einstein).
+4. **Mechanical Remediation**: Healing of unstitched page-break and margin hyphenation fragments.
 
 ---
 
@@ -28,20 +26,20 @@ This benchmark compares the translation produced by **Model 3.1** against the fr
 ### A. The "Aristotle Bekker Citation" Hallucination
 In § 2 (p. 11 of the 1954 edition), Hoenen cites Aristotle’s *Posterior Analytics* and *De Anima*. The physical text contained citations with numbers such as Book I, chapter 12, Bekker line 77b30:
 $$\text{Anal. Post. I 12, 77 b 30} \quad \text{and} \quad \text{De An. III 8, 432 a 5–9}$$
-Because the automated transcription scripts wrapped naked digits in brackets, the source text contained:
+Because automated transcription scripts wrapped naked digits in brackets, the raw source text contained:
 `Anal. Post. I [^12], 77 b [^30]` and `De An. III [^8]` and `ibid. III [^7]`.
 
 * **Model 3.1 Behavior**: Blindly copied these bracketed numbers directly into the English translation:
   > *"the mind indeed inspects natures by mental intuition (Anal. Post. I [^12], 77 b [^30]): ... Cf. De An. III [^8], 432 a 5-9 ... ibid. III [^7], 431a 14-16"*
   
-  In a Markdown viewer, clicking on Aristotle's Chapter 12 or line 30 jumped the reader down to **Footnote 12 (Poincaré on arithmetization)** and **Footnote 8 (Felix Klein on precision thresholds)**!
-* **Antigravity Remediation**: Correctly identified the Bekker pagination and chapter divisions of the Aristotelian corpus, removed the false footnote markers, and formatted the citations cleanly:
+  In a Markdown viewer, clicking on Aristotle's Chapter 12 or line 30 jumped the reader down to **Footnote 12 (Poincaré on arithmetization)** and **Footnote 8 (Felix Klein on precision thresholds)**.
+* **Benchmark Remediation**: Correctly identified the Bekker pagination and chapter divisions of the Aristotelian corpus, removed the false footnote markers, and formatted the citations cleanly:
   > *"...the intellect directly inspects natures through mental intuition (Anal. Post. I, 12, 77b30): 'these things are, as it were, to see by intellection' (ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει). Cf. De Anima III, 8, 432a5–9 ... ibid. III, 7, 431a14–16"*
 
-### B. The Bogus Footnote 22
-At the end of § 4, Hoenen quotes Henri Poincaré’s *La valeur de la science*, citing pages 22–23 (*pagg. 22 sq.*). Because of a line split in the transcription, `(pagg.` was separated from `[^22]: sq.)`.
+### B. Footnote 22 Remediation
+At the end of § 4, Hoenen quotes Henri Poincaré’s *La valeur de la science*, citing pages 22–23 (*pagg. 22 sq.*). Because of a line split in transcription, `(pagg.` was separated from `[^22]: sq.)`.
 * **Model 3.1**: Allowed a phantom `[^22]` footnote anchor to linger between Footnote 10 and Footnote 11.
-* **Antigravity**: Rejoined the page citation into the body of Footnote 10: `(pp. 22 sq.)`, restoring the footnote numbering to an unbroken sequence from 1 to 14.
+* **Benchmark Remediation**: Rejoined the page citation into the body of Footnote 10: `(pp. 22 sq.)`, restoring the footnote numbering to an unbroken sequence from 1 to 14.
 
 ### C. Gutter and Margin Dehyphenation
 Model 3.1 left several split fragments unmerged:
@@ -49,15 +47,15 @@ Model 3.1 left several split fragments unmerged:
 * `non prop- / ter theoriam` (pp. 12–13)
 * `« insieme » omnium / proportionum` (pp. 16–17)
 * `” arithmetizare ” conati / sunt` (pp. 19–20)
-All of these were smoothly unified into continuous prose in the Antigravity edition.
+All of these were smoothly unified into continuous prose in the final edition.
 
 ---
 
 ## 3. Side-by-Side Thematic Comparison
 
-| Section & Theme | Model 3.1 Translation | Antigravity Translation | Scholarly & Epistemological Rationale |
+| Section & Theme | Model 3.1 Translation | Benchmark Translation | Scholarly & Epistemological Rationale |
 | :--- | :--- | :--- | :--- |
-| **§ 1: Episteme vs. Nous**<br>`Haec principaliter agunt de « scientia » sensu stricto (ἐπιστήμη)... quae contradistinguitur ab « intellectu » sensu proprio (νοῦς)...` | *These principally treat of "science" in the strict sense (ἐπιστήμη) which constructs apodictic demonstrations, which is contradistinguished from "intellect" in the proper sense (νοῦς) which regards the first principles...* | *These treat principally of "science" in the strict sense (episteme, ἐπιστήμη), which constructs apodictic demonstrations, and which is distinguished from "intellect" or intuitive understanding in the proper sense (nous, νοῦς), which apprehends the first principles...* | Antigravity provides both the Greek script and standard philosophical transliteration, clarifying *nous* as "intuitive understanding" to prevent confusion with generic intellect. |
+| **§ 1: Episteme vs. Nous**<br>`Haec principaliter agunt de « scientia » sensu stricto (ἐπιστήμη)... quae contradistinguitur ab « intellectu » sensu proprio (νοῦς)...` | *These principally treat of "science" in the strict sense (ἐπιστήμη) which constructs apodictic demonstrations, which is contradistinguished from "intellect" in the proper sense (νοῦς) which regards the first principles...* | *These treat principally of "science" in the strict sense (episteme, ἐπιστήμη), which constructs apodictic demonstrations, and which is distinguished from "intellect" or intuitive understanding in the proper sense (nous, νοῦς), which apprehends the first principles...* | Provides both the Greek script and standard philosophical transliteration, clarifying *nous* as "intuitive understanding" to prevent confusion with generic intellect. |
 | **§ 1: Judicative Logic**<br>`Unde processus « logicae iudicativae » per se ducit ad problema: unde oritur in ipsa mente humana cognitio certa principiorum...` | *Whence the process of "judicative logic" by itself leads to the problem: whence arises in the human mind itself the certain knowledge of principles...* | *Whence the process of "judicative logic" leads by its very nature to the fundamental problem: whence arises in the human mind certain knowledge of principles, and whence is obtained certain knowledge of their necessity?* | Emphasizes Hoenen’s central epistemological category: *logica iudicativa* (the logic of judgment, truth, and intentionality) as opposed to purely formal syllogistics. |
 | **§ 1: Eliciting Judgments as Specimens**<br>`Ut autem ipsum iudicium diiudicemus non sufficit, ut definitionem quandam generalem iudicii praemittamus... sed revera quaedam iudicia determinata elicienda sunt...` | *...it is not enough that we premise a certain general definition of judgment and resolve it; but indeed certain determinate judgments must be elicited — they must therefore arise in our mind — and these judgments must be considered...* | *...it is not sufficient to posit a general definition of judgment and analyze it abstractly; rather, certain determinate, concrete judgments must be actively elicited—they must arise in our living consciousness—and their origin and validity must be critically inspected.* | Hoenen is making a phenomenological point: epistemology cannot proceed by armchair definition; the philosopher must actively perform a geometric judgment to observe how the mind grasps necessary connections. |
 | **§ 2: Objects of Abstraction**<br>`Aristoteles tenebat « mathematica » (τὰ ἐξ ἀφαιρέσεως) haberi per abstractionem...` | *Aristotle held that "mathematicals" (τὰ ἐξ ἀφαιρέσεως) are had by abstraction from sensitive data...* | *Aristotle maintained that "mathematicals" (τὰ ἐξ ἀφαιρέσεως, objects of abstraction) are acquired by abstraction from sensitive data...* | Clarifies Aristotle's technical Greek idiom: τὰ ἐξ ἀφαιρέσεως literally means "things resulting from abstraction." |
@@ -68,7 +66,7 @@ All of these were smoothly unified into continuous prose in the Antigravity edit
 
 ---
 
-## 4. Translator's Commentary & Contextual Notes for Scholars
+## 4. Historical & Contextual Commentary
 
 ### 1. Aristotle’s *Posterior Analytics* and the Foundations of Geometry
 In § 1, Hoenen argues that Aristotle used geometry not merely as one convenient example among many, but as the **paradigmatic type** of demonstrative science. The distinction between an **axiom** (ἀξίωμα, a proposition whose truth is immediately evident to anyone who understands the terms) and a **postulate** (αἴτημα, a proposition not self-evident which must be assumed on trust or demonstrated by a higher science) is the historical foundation of all subsequent axiomatic debates.
@@ -83,14 +81,6 @@ In § 4, Hoenen addresses the late 19th-century movement led by Weierstrass, Ded
 
 ### 4. Axiomatics and the Problem of Mathematical Existence
 In § 6, Hoenen evaluates David Hilbert’s formal axiomatization. Hoenen does not dismiss Hilbert; on the contrary, he praises axiomatics for its ability to isolate the minimal independent premises of a theorem and to demonstrate consistency. However, Hoenen insists that formal consistency is only a negative criterion of truth; it does not replace the intellect's grasp of objective essences. He points toward the Thomistic theory of *possibilia*—beings whose notes contain no internal contradiction—as the proper ontological home for modern non-Euclidean spaces.
-
----
-
-## 5. Status & Next Step
-
-* Translation [`docs/caput-1-en.md`](caput-1-en.md) is complete and verified.
-* All 14 footnotes are checked and fully expanded.
-* Ready to proceed to **Chapter 2 (*De Problemate Necessitatis*, pp. 29–64)**.
 
 ---
 
