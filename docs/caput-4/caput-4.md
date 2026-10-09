@@ -1,10 +1,15 @@
-# CAPUT IV: DE PROBLEMATE EXACTITUDINIS. PARS II: DE FIGURIS ET RELATIONIBUS EXACTIS
-
 > Latin | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
 
 ---
 
-### Animadversiones praeviae.
+# CAPUT IV
+
+## DE PROBLEMATE EXACTITUDINIS
+
+### PARS II
+### DE FIGURIS ET RELATIONIBUS EXACTIS
+
+*Animadversiones praeviae.*
 
 In praecedentibus capitibus agebamus de duobus problematibus principalibus, necessitatis et exactitudinis. Huius problematis exactitudinis prima tantum pars a nobis considerabatur ; ea scilicet, ut ibi (III) dictum est, quae non indiget consideratione extensi, ut est « principium individuationis » in mathematicis. Altera pars huius problematis, cuius solutio ab hoc principio dependet, iam consideranda venit.
 

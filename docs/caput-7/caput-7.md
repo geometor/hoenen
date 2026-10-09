@@ -1,8 +1,12 @@
-# CAPUT VII: DE EXTENSIONE UT EST MATERIA INTELLIGIBILIS
-
 > Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT VII
+
+## DE EXTENSIONE
+## UT EST MATERIA INTELLIGIBILIS
+
 ## § 1. De constructione figurarum geometricarum.
 
 Subiectum igitur fundamentale geometriae dicebamus esse extensionem. Id a S. Thoma non raro ita exprimitur : « genus subiectum » vel etiam simpliciter « subiectum » geometriae est magnitudo (*Anal. Post.* I l. 15). Ubi de tali subiecto scientiae sermo est saepe etiam additur : subiecti « propriae passiones vel per se accidentia ». Addebamus vocem « fundamentale », ut id distingueremus a subiectis quasi secundariis scientiae. Nam etiam figurae, quae in extenso delineantur ut limites in divisione extensi, vocantur, et iure quidem, subiecta geometriae ; et harum quoque « passiones propriae » in geometria inquiruntur.

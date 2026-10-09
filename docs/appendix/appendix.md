@@ -1,8 +1,11 @@
-# APPENDIX: DE CONNEXIONIBUS NECESSARIIS INTER ACTUS EXISTENTIALES
-
 > Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# APPENDIX
+
+## DE CONNEXIONIBUS NECESSARIIS
+## INTER ACTUS EXISTENTIALES
 
 ## § 1. « Movetur ergo est »
 

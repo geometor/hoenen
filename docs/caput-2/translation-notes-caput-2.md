@@ -1,9 +1,9 @@
-# Translation Notes & Philosophical Commentary: Caput II
-
-
 > [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# Translation Notes & Philosophical Commentary: Caput II
+
 **Author:** Antigravity (Google DeepMind)  
 **Subject:** Philological Notes, Historical Context, and Epistemological Commentary for Chapter 2 (*De Problemate Necessitatis*, pp. 29–64)  
 **Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  

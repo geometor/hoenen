@@ -1,8 +1,11 @@
-# CAPUT VI: DE SUBIECTO FUNDAMENTALI GEOMETRIAE
-
 > Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT VI
+
+## DE SUBIECTO FUNDAMENTALI GEOMETRIAE
+
 Ex iis quae supra exponebamus diversae sequuntur conclusiones relate ad naturam huius scientiae, quae est geometria ; atque in his diversa adsunt elementa, quae, ut nobis videtur, momentum habent pro cognitione generali activitatis mentis humanae, momentum noeticum universale igitur. In his adumbrandis saepe redire debebimus ad ea quae supra tractabantur. Incipimus ab iterata comparatione geometriae euclidicae et non-euclidicae.
 
 ## § 1. Iterata comparatio geometriae euclidicae et non-euclidicae.

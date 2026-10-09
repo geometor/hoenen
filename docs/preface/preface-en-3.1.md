@@ -1,9 +1,9 @@
-# PREFACE
-
-
 > [Latin](preface.md) | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | Model 3.1 | [Table of Contents](../index.md)
 
 ---
+
+# PREFACE
+
 This work deals with the "noetics of geometry," that is, with that part of philosophical noetic science whose object is the cognitive nature of the human mind insofar as it constructs geometric science.
 
 The first part of the things expounded here (chapters I-IV) is a second edition of a series of articles which were published several years ago in the journal *Gregorianum* [^1], with certain adaptations which seemed necessary so that they might be composed into the unity of the present work. The other chapters (V-VII) contain those things which were already foreseen and promised in the last article (of the year 1943, pag. 234), but whose elaboration had been impeded up to now by wartime and postwar circumstances.

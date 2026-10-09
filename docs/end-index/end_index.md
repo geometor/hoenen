@@ -1,8 +1,9 @@
-# INDEX ANALYTICUS
-
 > Latin | [English](end_index-en.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# INDEX ANALYTICUS
+
 *Praefatio* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
 *Caput I. - De origine cognitionis geometricae et de eius problematica* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8

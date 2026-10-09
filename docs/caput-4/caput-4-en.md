@@ -1,13 +1,15 @@
-# CHAPTER IV: ON THE PROBLEM OF EXACTITUDE (PART II: EXACT FIGURES AND RELATIONS)
-
 > [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
 
 ---
-# ON THE PROBLEM OF EXACTITUDE
 
-## PART II. ON EXACT FIGURES AND RELATIONS
+# CHAPTER IV
 
-### Preliminary Remarks
+## ON THE PROBLEM OF EXACTITUDE
+
+### PART II
+### ON EXACT FIGURES AND RELATIONS
+
+*Preliminary Remarks*
 
 In the preceding chapters we dealt with the two principal problems: necessity and exactitude. Of this problem of exactitude, only the first part was considered by us—namely that part which, as was said there (Chapter III), does not require the consideration of extension, such as the "principle of individuation" in mathematical entities. The second part of this problem, whose solution depends upon this principle, now comes to be considered.
 

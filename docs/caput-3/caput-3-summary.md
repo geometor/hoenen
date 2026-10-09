@@ -1,9 +1,9 @@
-# Chapter 3 Summary and Outline: On the Problem of Exactitude (Part I: The Existence of Indivisibles)
-
-
 > [Latin](caput-3.md) | [English](caput-3-en.md) | Summary | [Notes](translation-notes-caput-3.md) | [Table of Contents](../index.md)
 
 ---
+
+# Chapter 3 Summary and Outline: On the Problem of Exactitude (Part I: The Existence of Indivisibles)
+
 ## Core Epistemological Breakthroughs
 
 In Chapter 3, Father Petrus Hoenen confronts the second foundational crisis of geometry: **the problem of exactitude** (*problema exactitudinis*). How can the human mind form absolutely exact concepts (unextended points, widthless lines, depthless surfaces, infinite divisibility) when all sensory experience and imaginative phantasms are irremediably inexact?

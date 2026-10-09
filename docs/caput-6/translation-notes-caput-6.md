@@ -1,9 +1,9 @@
-# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VI
-
-
 > [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VI
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae* (pp. 195–222)  
 **Translator / Epistemological Commentary:** Antigravity (Advanced Agentic Assistant, DeepMind / Geometor Project)  

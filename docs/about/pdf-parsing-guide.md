@@ -1,13 +1,9 @@
-# PDF Parsing & Scan Processing Guide
-
-
 > [← Table of Contents](../index.md)
 
 ---
 
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+# PDF Parsing & Scan Processing Guide
 
----
 This document details the exact methodology, tooling, and reproduction instructions used to convert raw PDF scans of Peter Hoenen's *De Noetica Geometriae* (1954) into standardized, high-contrast, single-page images organized by chapter.
 
 ---
@@ -161,10 +157,6 @@ If rescanned as a new fill PDF (e.g. `pdfs/rescans.pdf`):
    convert /tmp/rescan-*.png -colorspace Gray -contrast-stretch 1%x1% <target_chapter_dir>/page-<NNN>.png
    ```
 5. Remove the obsolete `-partial.png` and update `docs/scan-inventory.md`.
-
----
-
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
 

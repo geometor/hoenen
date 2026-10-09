@@ -1,13 +1,9 @@
-# Petrus Hubertus Jacobus Hoenen, S. J.
-
-
 > [← Table of Contents](../index.md)
 
 ---
 
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+# Petrus Hubertus Jacobus Hoenen, S. J.
 
----
 Peter Hoenen (1880–?) was a Dutch Jesuit priest (indicated by *S. I.* – *Societas Iesu*, or S.J. in English), philosopher, and academic.
 
 ## Academic Background
@@ -24,10 +20,6 @@ Hoenen is recognized for blending an understanding of mathematics, physics, and 
 - *Reality and Judgment According to St. Thomas* (1952)
 - *De noetica geometriae origine theoriae cognitionis* (1954): "On the noetic origin of the theory of knowledge of geometry." "Noetica" refers to the philosophical study of thought and intellect, rooted in Aristotelian and Thomistic traditions.
 - *Cosmologia* (1956)
-
----
-
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
 

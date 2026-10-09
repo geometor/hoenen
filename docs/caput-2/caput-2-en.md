@@ -1,8 +1,11 @@
-# CHAPTER II: ON THE PROBLEM OF NECESSITY
-
 > [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)
 
 ---
+
+# CHAPTER II
+
+## ON THE PROBLEM OF NECESSITY
+
 *Preliminary Remarks.*
 
 As stated in the first chapter, the common conviction of humanity—both learned and unlearned—up to the advent of modern critique was this: **mathematical knowledge is drawn from the data of sensory experience**. 

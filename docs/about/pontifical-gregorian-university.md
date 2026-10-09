@@ -1,13 +1,9 @@
-# Pontifical Gregorian University
-
-
 > [← Table of Contents](../index.md)
 
 ---
 
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+# Pontifical Gregorian University
 
----
 The Pontifical Gregorian University (Pontificia Universitate Gregoriana), often affectionately referred to as "the Greg," is a prestigious ecclesiastical university located in Rome, Italy.
 
 ## History
@@ -18,10 +14,6 @@ In 1584, Pope Gregory XIII provided the university with a new campus and signifi
 
 ## Significance
 For over four centuries, it has been a central institution for defending and propagating the Catholic faith, training generations of church leaders, theologians, and philosophers from around the world.
-
----
-
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
 

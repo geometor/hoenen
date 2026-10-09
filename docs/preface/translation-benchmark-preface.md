@@ -1,9 +1,9 @@
-# Translation Benchmark & Comparative Analysis: Praefatio
-
-
 > [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)
 
 ---
+
+# Translation Benchmark & Comparative Analysis: Praefatio
+
 **Author:** Antigravity (Google DeepMind)  
 **Subject:** Benchmark Comparison between Model 3.1 and Antigravity Translations of Father Petrus Hoenen's *Praefatio* (pp. 5–7)  
 **Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  

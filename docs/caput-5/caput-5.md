@@ -1,8 +1,11 @@
-# CAPUT V: DE AXIOMATICA
-
 > Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT V
+
+## DE AXIOMATICA
+
 ## § 1. De methodo axiomatica.
 
 ### 1. De axiomatica stricte dicta.

@@ -1,9 +1,9 @@
-# Translation Notes & Philosophical Commentary: Caput III
-
-
 > [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# Translation Notes & Philosophical Commentary: Caput III
+
 **Author:** Antigravity (Google DeepMind)  
 **Subject:** Philological Notes, Historical Context, and Epistemological Commentary for Chapter 3 (*De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium*, pp. 65–94)  
 **Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  

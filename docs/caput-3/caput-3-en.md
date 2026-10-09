@@ -1,11 +1,13 @@
-# CHAPTER III: ON THE PROBLEM OF EXACTITUDE (PART I: THE EXISTENCE OF INDIVISIBLES)
-
 > [Latin](caput-3.md) | English | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Table of Contents](../index.md)
 
 ---
-## On the Problem of Exactitude
 
-### PART I: ON THE EXISTENCE OF INDIVISIBLES
+# CHAPTER III
+
+## ON THE PROBLEM OF EXACTITUDE
+
+### PART I
+### ON THE EXISTENCE OF INDIVISIBLES
 
 We must now address the second fundamental problem that requires resolution: the **problem of exactitude**, through which geometry differs fundamentally from elementary arithmetic (wherein exactitude constitutes no enigma). 
 

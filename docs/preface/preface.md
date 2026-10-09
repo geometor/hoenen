@@ -1,9 +1,9 @@
-# PRAEFATIO
-
-
 > Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# PRAEFATIO
+
 Hoc opus agit de « noetica geometriae », i. e. de ea scientiae philosophicae noeticae parte, cuius obiectum est natura cognoscitiva mentis humanae in quantum haec scientiam geometricam construit.
 
 Prima pars eorum, quae exponuntur (cap. I-IV) est editio altera seriei articulorum, qui iam ante aliquot annos in periodico Gregorianum editi sunt [^1], cum quibusdam adaptationibus, quae necessariae esse videbantur, ut in unitatem praesentis operis componerentur. Cetera capita (V-VII) ea continent, quae iam in ultimo articulo (anni 1943 pag. 234) praevidebantur et promittebantur, sed quorum elaboratio a circumstantiis bellicis et postbellicis hucusque impediebatur.

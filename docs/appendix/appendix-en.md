@@ -1,9 +1,11 @@
-# APPENDIX: ON THE NECESSARY CONNECTIONS BETWEEN EXISTENTIAL ACTS
-
 > [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
 
 ---
-# ON NECESSARY CONNECTIONS BETWEEN EXISTENTIAL ACTS
+
+# APPENDIX
+
+## ON THE NECESSARY CONNECTIONS
+## BETWEEN EXISTENTIAL ACTS
 
 *(De connexionibus necessariis inter actus existentiales)*
 

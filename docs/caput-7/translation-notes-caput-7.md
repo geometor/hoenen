@@ -1,9 +1,9 @@
-# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VII
-
-
 > [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VII
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput VII: *De Extensione ut est Materia Intelligibilis* (pp. 223–248)  
 **Translator / Epistemological Commentary:** Antigravity (Advanced Agentic Assistant, DeepMind / Geometor Project)  

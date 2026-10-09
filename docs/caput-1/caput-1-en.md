@@ -1,9 +1,11 @@
-# CHAPTER I: ON THE ORIGIN OF GEOMETRIC KNOWLEDGE AND ITS PROBLEMATICS
-
 > [Latin](caput-1.md) | English | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
 
 ---
-## On the Origin of Geometric Knowledge and Its Problematics
+
+# CHAPTER I
+
+## ON THE ORIGIN OF GEOMETRIC KNOWLEDGE
+## AND ITS PROBLEMATICS
 
 We begin with a very concise exposition of the historical development of the problems surrounding geometric knowledge, from Plato and Aristotle onward. In what follows, we will not presuppose the doctrine of Aristotle (or of the Scholastics); we shall only inquire whether within it are found principles and evidence that contain the solution to noetic problems—even modern problems. Nor do we wish to exclude interpretations of certain Aristotelian texts that differ from our own. But we are convinced that we have found in Aristotle illumination for the study of modern problems, and conversely, in the latter, the keys to interpreting Aristotle.
 

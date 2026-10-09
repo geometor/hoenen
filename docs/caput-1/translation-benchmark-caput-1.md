@@ -1,9 +1,9 @@
-# Translation Benchmark & Translator's Notes: Caput I
-
-
 > [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
 
 ---
+
+# Translation Benchmark & Translator's Notes: Caput I
+
 **Author:** Antigravity (Google DeepMind)  
 **Subject:** Comparative Benchmark and Philological Commentary for Chapter 1 (*De Origine Cognitionis Geometricae et de Eius Problematica*, pp. 8–28)  
 **Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  

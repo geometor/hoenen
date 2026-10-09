@@ -1,8 +1,13 @@
-# CAPUT III: DE PROBLEMATE EXACTITUDINIS. PARS I: DE EXISTENTIA INDIVISIBILIUM
-
 > Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT III
+
+## DE PROBLEMATE EXACTITUDINIS
+
+### PARS I
+### DE EXISTENTIA INDIVISIBILIUM
 
 Iam agendum erit de altero problemate, quod solvendum inveniebamus, de problemate scilicet exactitudinis, per quod geometria ab initiis arithmeticae, in qua exactitudo non constituit enigma, differt. Non omnia quae in hoc problemate involvuntur, idem medium solutionis postulant, ut ex ipsa nostra expositione patebit. Quaedam enim sunt, quorum solutio exigit considerationem extensi tanquam « principii individuationis » quaedam ab hoc medio non dependent. De his ultimis in hoc capite sermo erit ; alias quaestiones, illas quae a consideratione principii individuationis dependent, in capite sequente exponemus.
 

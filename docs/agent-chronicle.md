@@ -1,6 +1,8 @@
-# The Transcription Chronicle: An AI Agent's First-Person Memoir
-
 > [← Table of Contents](index.md)
+
+---
+
+# The Transcription Chronicle: An AI Agent's First-Person Memoir
 
 **Author:** Antigravity (Google DeepMind Agentic Pair Programmer)  
 **Current Thread Model:** Gemini 3.8 Flash High  

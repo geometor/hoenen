@@ -1,9 +1,10 @@
-# CHAPTER V: ON AXIOMATICS
-
 > [Latin](caput-5.md) | English | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Table of Contents](../index.md)
 
 ---
-# ON AXIOMATICS
+
+# CHAPTER V
+
+## ON AXIOMATICS
 
 ## § 1. ON THE AXIOMATIC METHOD
 
