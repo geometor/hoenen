@@ -2,165 +2,144 @@
 
 ---
 
-# Translation Notes & Philosophical Commentary: Caput II
+# Translation Notes & Philological Commentary: Caput II
 
-**Author:** Antigravity (Google DeepMind)  
-**Subject:** Philological Notes, Historical Context, and Epistemological Commentary for Chapter 2 (*De Problemate Necessitatis*, pp. 29–64)  
-**Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  
-**Date:** October 1, 2026  
-
----
-
-## 1. Overview and Epistemological Breakthrough
-
-In Chapter 2, Father Petrus Hoenen achieves what is arguably the central epistemological breakthrough of *De Noetica Geometriae*: **the complete decoupling of the problem of necessity from the problem of exactitude**.
-
-Modern philosophy of mathematics—from David Hume and Immanuel Kant to John Stuart Mill, David Hilbert, and Albert Einstein—had been paralyzed by an unexamined dogma:
-$$\text{"No necessary judgment can be derived from sensory experience."}$$
-
-* **Kant** accepted this premise as an unshakeable axiom: because mathematics is apodictically necessary, it cannot be derived from experience; therefore, mathematical judgments must be *synthetic a priori*, resting upon subjective forms of sensibility.
-* **Mill and British Empiricism** accepted the exact same premise, but inverted the inference: because mathematics visibly originates in sensory experience, it cannot possess genuine necessity; therefore, geometry is merely an empirical, approximate physical science based on habit.
-* **Hilbert and Formalism** accepted the dilemma, concluding that to preserve mathematical certainty, mathematics must sever all ties with physical reality and intuitive meaning, becoming a purely formal game of symbols.
-
-Hoenen dismantles this foundational dogma at its root. Through rigorous phenomenological verifications (*constatationes*), he proves that **there exists an entire domain of human experience that produces judgments that are both empirical in origin and apodictically necessary**.
+**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
+**Chapter:** Caput II: *De Problemate Necessitatis* (pp. 29–64)  
+**Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
 
 ---
 
-## 2. Section-by-Section Translation Notes & Philological Commentary
+## 1. Philological & Terminological Analyses
 
-### Preliminary Remarks (*Animadversiones praeviae*)
-* **"Constatatio"**: Hoenen uses this Medieval/Scholastic Latinization of the French/Italian philosophical term *constatation* (from *constater*, to observe, ascertain, or verify a direct fact). We render this as "direct verification" or "empirical finding," emphasizing its phenomenological character: an undeniable datum of inner consciousness.
-* **Decoupling Necessity from Exactitude**: Hoenen notes that while arithmetic possesses exactitude in its sensory data (units are discrete and clearly bounded), geometry lacks exactitude in sensory perception (lines have thickness; points are physical specks). By treating the problem of necessity first, Hoenen shows that necessity does not depend upon infinite geometric precision, but upon the intellect's grasp of formal essences.
+### 1.1. *Constatatio* (Empirical Finding / Direct Verification)
+- **Latin:** *Constatatio* (plural: *constatationes*).
+- **Etymology & Translation:** A Neo-Scholastic Latinization of the French philosophical term *constatation* (from *constater*, to observe, ascertain, or establish a direct fact). We render this throughout as "direct verification," "ascertainment," or "empirical finding."
+- **Epistemological Nuance:** Hoenen uses *constatatio* to designate a direct, indisputable datum of consciousness or phenomenological inspection. It is not an abstract theoretical deduction, but an observational baseline that any attentive mind can personally verify.
 
----
+### 1.2. *Passio Propria* and *Proprium* (Proper Attribute)
+- **Latin:** *Passio propria*, *proprium*.
+- **Greek Equivalent:** ἴδιον (*idion*).
+- **Scholastic Framework:** In Aristotle (*Topics* I, 5, 102a18; *Posterior Analytics* I, 4, 73a34–b5) and St. Thomas (*In I Anal. Post.*, lect. 10), a *proprium* is a property that is not part of the essential definition (*quid est*) of a subject, but nevertheless flows universally and necessarily from that essence (predication *quarto modo dicendi per se*).
+- **Application in Caput II:** 
+  - Divisibility is a *passio propria* of quantitative extension.
+  - Addibility and order are *passiones propriae* of multitude.
+  - Unlike common accidents (*accidentia communia*, such as color), a proper attribute cannot be separated from its subject even in thought.
 
-### § 1. On Certain Arithmetical Examples
+### 1.3. *Nexus Formalis* vs. *Nexus Materialis*
+- **Latin:** *Nexus formalis*; *nexus materialis*.
+- **Translation:** "Formal connection / nexus" vs. "material connection / nexus."
+- **Thomistic Lineage:** St. Thomas Aquinas, *In III Sent.*, d. 11, q. 1, a. 4, ad 6:
+  > *« Praedicatum inest subiecto ratione formae importatae per subiectum »*  
+  > ("The predicate belongs to the subject by reason of the form imported by the subject.")
+- **Conceptual Distinction:**
+  - *Nexus materialis:* The subject and predicate happen to coexist in the same concrete individual (*suppositum*) accidentally (*per accidens*), as in *"This apple is sweet and red."*
+  - *Nexus formalis:* The predicate belongs to the subject intrinsically in virtue of the formal nature signified by the subject (*per se*), as in *"An extended line is divisible."*
 
-#### 1. Plato's 5040 in the *Laws* (737e–738b)
-* **Historical Context**: Plato selected 5040 for the ideal city of Magnesia because $5040 = 7! = 1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7$. It has 59 proper aliquot divisors (excluding itself, or 60 divisors including itself), and is divisible by every integer from 1 to 10 without remainder (the smallest number with this property is 2520; 5040 doubles it to allow further fractional distributions).
-* **Ficino's Translation**: Hoenen cites the Renaissance Latin translation of Plato by Marsilio Ficino (1433–1499), noting Ficino's phrasing: *"non in plures quam unum de sexaginta partes incidi potest"* (can be divided into no more than one short of sixty parts).
-* **Philosophical Point**: The number of divisors (59) is discovered through an **experimental tally**—whether by factoring on paper or by arranging 5040 physical pebbles (*calculi*). Yet the moment the count is finished, the intellect intuits that this outcome is **unconditionally necessary**. The empirical tally is applied to *necessary matter*, demonstrating that experimental manipulation can reveal an apodictic essence.
+### 1.4. *Materia Intelligibilis* (Intelligible Matter)
+- **Latin:** *Materia intelligibilis*.
+- **Greek Origin:** ὕλη νοητή (*hylē noētē*; Aristotle, *Metaphysics* VII, 10, 1036a11; VIII, 6, 1045a34).
+- **Thomistic Definition:** St. Thomas, *Summa Theologiae* I, q. 85, a. 1, ad 2:
+  > *« Materia intelligibilis dicitur substantia secundum quod subiacet quantitati. »*  
+  > ("Intelligible matter is substance insofar as it is subject to quantity.")
+- **Translation Significance:** In modern philosophy, "matter" is almost exclusively associated with physical mass or sensible matter (*materia sensibilis*). For Hoenen and the Scholastics, *materia intelligibilis* is quantitative continuous extension and discrete multitude considered apart from sensible qualities (color, temperature, density). It is the proper object of mathematics.
 
-#### 2. The Sieve of Eratosthenes
-* **Algorithm as Experiment**: The ancient sieve (κόσκινον Ἐρατοσθένους) is a mechanical, physical elimination: writing numbers up to 100 and crossing out multiples of 2, 3, 5, 7. 
-* **Translational Note**: Hoenen emphasizes that finding 25 primes below 100 is an empirical discovery, yet the resulting proposition—*"there are exactly 25 primes below 100"*—is an immutable, necessary truth.
+### 1.5. *In Actu Exercito* vs. *In Actu Signato*
+- **Latin:** *In actu exercito* (in the exercised act) vs. *in actu signato* (in the signified act).
+- **Philosophical Tradition:** A classical Scholastic distinction formulated in medieval logic and grammar:
+  - *In actu exercito:* Knowledge or operation actively functioning and operative in living consciousness, without being reflexively conceptualized or verbally formulated.
+  - *In actu signato:* Knowledge explicitly codified as a formal thesis, theorem, or proposition.
+- **Translational Context:** Hoenen shows that when a person counts or reasons geometrically, foundational principles operate *in actu exercito*; the task of epistemology is to elevate this implicit operational knowledge into reflexive *actu signato*.
 
-#### 3. Combinatorics and the Roots of $n!$
-* **Spatial Phantasms in Pure Logic**: Deriving the permutation formula for three elements ($ab, ba \to cab, acb, abc$) requires concrete spatial positioning: inserting $c$ before, between, or after the tokens.
-* **Noetic Lesson**: Even in pure combinatorics, the intellect relies upon a sensory-spatial phantasm to grasp the necessary rule of distribution.
+### 1.6. *Motivum seu Determinativum* (Motive and Determinant)
+- **Latin:** *Motivum seu determinativum*.
+- **Source:** Cardinal Cajetan (Thomas de Vio), *In De Ente et Essentia*, c. 1.
+- **Translational Nuance:** Refers to the role played by the sensible phantasm in intellectual intuition. The sensory image does not create the necessary relation; rather, it provides the determinate concrete content (*materia*) which specifies the judgment, while the intellect intuits its formal necessity.
 
-#### 4. The Classic Judgment: $7 + 5 = 12$
-* **The Refutation of Leibniz**:
-  * In *Nouveaux Essais* IV, ch. 7, § 10, Leibniz claimed that $2 + 2 = 4$ is purely analytic, deduced from definitions ($2 = 1+1, 3 = 2+1, 4 = 3+1$) by syllogism.
-  * Hoenen exposes the hidden empirical core of Leibniz's deduction:
-    1. To reach the conclusion without error, the mind must **count the syllogistic steps**. In long additions ($7 + 5 = 12$), we must count twelve successive units. Leibniz simply substituted counting syllogisms for counting pebbles!
-    2. Leibniz’s recursive definitions ($n+1$) are **operative definitions**: they presuppose the prior intuitive judgment that adding unity to a determinate multitude *always and necessarily* yields a unique, specific successor.
-* **The Refutation of Cardinal Mercier**:
-  * Cardinal Désiré Mercier (*Critériologie*, 8th ed., Louvain, 1923, pp. 282–283) attempted to defend the analyticity of $7 + 5 = 12$ by invoking the principle: *"The parts composing the whole and the whole itself are identical."*
-  * Hoenen proves that Mercier’s syllogism only demonstrates that $7 + 5$ equals *some* determinate sum; it does not and cannot reveal that this sum is **12**!
-  * To arrive at 12, Mercier was forced to write out strings of units: $(1+1+1+1+1+1+1) + (1+1+1+1+1)$. Erasing parentheses only proves identity if the mind verifies a **bi-unique correspondence** (a 1-to-1 bijection) between the terms, which is an experimental inspection in sensible matter.
-* **Peano Arithmetic**: Giuseppe Peano's axiomatic arithmetic similarly requires sensory inspection of syntactic tokens and recursion on the successor function $S(n)$.
+### 1.7. *Figurabile* (Figurable / Capable of Shape)
+- **Latin:** *Figurabile*, *corpus est figurabile quia extensum*.
+- **Source:** René Descartes, *Principia Philosophiae* II, § 64.
+- **Translational Context:** Descartes established extension as capable of figure (*figurabile*). Hoenen adopts this precise term to distinguish between causal mathematical judgments (*"divisible because extended"*) and contingent sensory descriptions (*"divided and black"*).
 
-#### 5. Confronting Kant and Mill
-* **Kant’s B-Edition Preface**: Kant (*Kritik der reinen Vernunft*, B14–15) asserted without proof that empirical judgments can never carry necessity. Hoenen notes that Kant's own description of eliciting $7 + 5 = 12$ by counting on one's fingers (*die Punkte seiner Hand*) accurately describes the empirical process, but Kant was blinded by the philosophical dogma of his age.
-* **The Thomistic Vindication**: St. Thomas Aquinas explicitly taught that all first principles arise in us from sense (*De Veritate*, q. 10, a. 6; *Summa Theologiae* I, q. 84, a. 6). The mind does not contemplate disembodied Platonic forms; it grasps the universal in the concrete particular (*in phantasmate*).
+### 1.8. *Ens Extensum ut Extensum* (Extended Being as Extended)
+- **Latin:** *Ens extensum ut extensum*.
+- **Translation:** "Extended being precisely as extended."
+- **Epistemological Significance:** Geometry does not study empty "absolute space" (Newton's receptacle or Kant's *a priori* intuition, both of which Hoenen treats as *entia rationis*). Geometry's authentic subject is real physical extension abstracted from qualitative physical accidents.
 
-#### 6. Preliminary Judgments (*Iudicia Praevia*)
-* **Proper Attributes (*Passiones Propriae* / ἴδια)**: Before eliciting $7 + 5 = 12$, the mind already possesses implicit, intuitive cognitions:
-  1. Multitude *can* be added to multitude (addibility is a proper attribute of quantity).
-  2. Addition necessarily produces a greater multitude.
-  3. Determinate multitudes necessarily yield a uniquely determinate sum.
-* These preliminary truths are so self-evident that they function as **operative principles** without needing formal verbalization.
+### 1.9. *Iudicia Praevia* (Preliminary Operative Judgments)
+- **Latin:** *Iudicia praevia*.
+- **Translation:** "Preliminary judgments" or "prior intuitive judgments."
+- **Context:** Judgments that the mind elicits implicitly before formulating formal operations—for instance, the intuitive grasp that multitude can be added to multitude, or that addition necessarily increases quantity.
 
----
-
-### § 2. On Necessity in Immediate Geometric Judgments
-
-#### 1. Extension vs. "Absolute Space"
-* **Ens Extensum ut Extensum**: Geometry does not study "absolute empty space" (which Newton and Clarke posited, and which Kant treated as a subjective intuition). Empty space without bodies is an *ens rationis* (a being of reason). Geometry studies **extended real being precisely as extended**.
-* **Dismantling Kant's Aesthetic**: If one substitutes *extended being* for *space* in Kant’s arguments in the *Transcendental Aesthetic*, Kant's claims that space is an *a priori* subjective form collapse: extension is an objective, primary attribute of physical substance.
-
-#### 2. Causal vs. Copulative Judgments (Divisibility)
-* **Descartes’ Term *Figurabile***: Descartes (*Principia Philosophiae* II, § 64) defined matter as extended and therefore "figurable" (capable of taking on geometric shapes).
-* **The Crucial Contrast**:
-  * A line is black, and marked with a red dot $A$. The proposition: *"This line is black, and divided at A"* is a **purely copulative, contingent judgment**. Whiteness or blackness has no causal connection to division.
-  * The proposition: *"This line, because it is extended, is divisible"* is a **causal, necessary judgment**. Divisibility flows directly and necessarily from the essence of extension.
-
-#### 3. Hilbert’s Axioms of Order and Pasch’s Axiom
-* **Betweenness**: If points $A, B, C$ lie on a line in order, and $D$ is placed between $A$ and $B$, the intellect grasps with apodictic certainty that $D$ is between $A$ and $C$, and that it is *impossible* for $D$ to lie between $B$ and $C$.
-* **Positive Impossibility vs. Negative Lack of Imagination**: Hoenen draws a profound distinction: our inability to imagine a 4th spatial dimension is merely a *negative failure of imagination*; by contrast, our judgment that $D$ cannot be between $B$ and $C$ is a **positive intellective grasp of intrinsic contradiction**.
-* **Moritz Pasch (1843–1930)**: In *Vorlesungen über neuere Geometrie* (1882), Pasch was the first to formulate the axiom that a line entering a triangle through a vertex into the vertical angle must intersect the opposite base. For two millennia, geometers had used this principle implicitly without ever stating it, proving that it functioned as a **virtual judgment** in simple apprehension.
-
-#### 4. The Topology of the Möbius Strip (*Folium Moebii*)
-* **August Ferdinand Möbius (1790–1868)**: Discovered the non-orientable, one-sided surface in 1858.
-* **The Physical Cutting Experiment**:
-  * Cutting a normal cylinder along its generator yields 1 flat rectangle; cutting it transversely yields 2 cylinders.
-  * Cutting a Möbius strip along its centerline yields **a single, longer, two-twisted strip**! Cutting it again yields two interlinked loops.
-* **Epistemological Significance**: No human being can deduce this outcome *a priori* by pure armchair contemplation; an actual physical manipulation with scissors (or an extraordinary spatial imagination) is strictly required. 
-* Yet the moment the cut is completed, the intellect recognizes that the outcome is **topologically necessary**, holding true universally regardless of whether the strip is made of paper, silk, gold leaf, or vulcanized rubber. 
-* **Cajetan's Formula**: The sensory experiment acts as the **motive and determinant** (*motivum seu determinativum*) of the intellect: it provides the *matter* of the predicate, while the intellect intuits its *formal necessity*.
+### 1.10. *ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει*
+- **Greek Citation:** Aristotle, *Anal. Post.* I, 12 (77b30).
+- **Translation:** "These things are, as it were, to see by intellection."
+- **Significance:** Aristotle's definitive formulation for the intellectual intuition of necessary relations directly in the sensory phantasm.
 
 ---
 
-### § 3. The Doctrine Derived from These Facts
+## 2. Historical, Intertextual & Bibliographical Context
 
-#### 1. Mathematics vs. Empirical Physical Laws
-* **Physical Laws**: *"A rubbed glass rod attracts paper"*; *"A dropped stone falls to earth."*
-  * We know these laws only through repeated induction.
-  * We see that the properties are constantly conjoined, but we **do not intuit the inner formal necessity** of why rubbed glass must attract paper. The nexus is *materially constant*, but its formal cause remains obscure, compelling physicists to invent subatomic theories.
-* **Mathematical Principles**: The intellect penetrates directly into the essence of the phantasm:
-$$\text{ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει} \quad \text{("these things are, as it were, to see by intellection")}$$
-The intellect directly grasps *why* divisibility belongs to extension.
+### 2.1. Plato's *Laws* and Marsilio Ficino's Latin Translation
+- **Passage:** Plato, *Leges* V, 737e–738b.
+- **Mathematical Context:** Plato chose the number 5040 for the territorial and civic divisions of Magnesia because $5040 = 7! = 1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7$. It has 59 proper aliquot divisors (excluding itself, or 60 divisors in total), and is divisible by every integer from 1 to 10 without remainder.
+- **Ficino's Translation:** Hoenen cites Marsilio Ficino’s celebrated Renaissance Latin translation (Florence, 1484; Paris, 1518):
+  > *« Non in plures quam unum de sexaginta partes incidi potest. »*  
+  > ("It can be divided into no more than one short of sixty parts.")
+- **Intertextual Note:** Hoenen notes that Ficino's Latin rendering captured the exact computational essence: the tally is an empirical discovery, yet its outcome holds with immutable necessity.
 
-#### 2. Virtual Judgments and the Elimination of Syllogism
-* Hoenen refutes the scholastic rationalist assumption that the mind calculates $7 + 5 = 12$ by running through three formal syllogisms.
-* Following St. Thomas (*De Veritate*, q. 1, a. 9), judgment is a **reflection upon simple apprehension**. The mind moves continuously through virtual apprehensions, collapsing what would be a clumsy syllogistic tree into an immediate, unified intuitive act.
+### 2.2. G. W. Leibniz: Operative Definitions in the *Nouveaux Essais*
+- **Text:** G. W. Leibniz, *Nouveaux Essais sur l'entendement humain* (1704), Book IV, ch. 7, § 10.
+- **Historical Dispute:** Leibniz attempted to prove that arithmetic is purely analytic and demonstrable by syllogisms from definitions ($2 = 1+1, 3 = 2+1, 4 = 3+1$).
+- **Hoenen's Philological Critique:** Hoenen identifies two unacknowledged intuitive operations in Leibniz’s text:
+  1. The succession of syllogisms itself requires *counting the inferential steps*.
+  2. Leibniz’s recursive definitions ($n+1$) are *operative definitions* that presuppose the prior intuitive grasp of the successor relation in sensible phantasms.
+
+### 2.3. Cardinal Désiré Mercier and the Louvain School
+- **Source:** Cardinal Désiré Mercier, *Critériologie générale ou Théorie générale de la certitude* (8th ed., Louvain: Institut Supérieur de Philosophie, 1923, pp. 282–283).
+- **Context:** Cardinal Mercier was the leading figure of the Neo-Scholastic revival at Louvain. In defending the analyticity of mathematical propositions against Kant, Mercier argued that $7 + 5 = 12$ is an analytic identity based on the principle that *the parts composing the whole and the whole itself are identical*.
+- **Hoenen's Rebuttal:** Hoenen demonstrates that Mercier's syllogism proves only that $7 + 5$ equals *some* sum; to establish that this sum is specifically *twelve*, Mercier had to arrange groups of units: $(1+1+1+1+1+1+1) + (1+1+1+1+1)$ and verify a bi-unique correspondence (*correspondentia bi-univoca*), which is an experimental inspection in sensible matter.
+
+### 2.4. Giuseppe Peano and Formalized Arithmetic
+- **Source:** Giuseppe Peano, *Arithmetices principia, nova methodo exposita* (Turin, 1889).
+- **Context:** Peano axiomatized natural numbers using five primitive axioms and the successor function $S(n)$. Hoenen notes that Peano's formalism does not eliminate sensory intuition; rather, it replaces the phantasm of physical multitude with the phantasm of syntactic typographic tokens on paper.
+
+### 2.5. Moritz Pasch and the Axioms of Order
+- **Source:** Moritz Pasch, *Vorlesungen über neuere Geometrie* (Leipzig: Teubner, 1882).
+- **Context:** Pasch was the first mathematician to explicitly state the axioms of order (betweenness) and the axiom named after him (a line entering a triangle through a vertex must intersect the opposite base).
+- **Hoenen's Commentary:** For two thousand years, geometers used Pasch's axiom without ever enunciating it. Hoenen cites this as prime historical evidence of *virtual judgments* operating *in actu exercito* in the sensory phantasm.
+
+### 2.6. August Ferdinand Möbius and Unilateral Surfaces
+- **Source:** August Ferdinand Möbius, *"Theorie der elementaren Verwandtschaft"* (1858; *Berichte der Königlich Sächsischen Gesellschaft der Wissenschaften*, 1858).
+- **Philological Note:** Hoenen refers to the Möbius strip under the Latin name *folium Moebii*. He uses physical experiments with twisted paper strips to illustrate that physical manipulation serves as the *motivum seu determinativum* for immediate intuitions of topological necessity.
+
+### 2.7. Albert Einstein: *Geometrie und Erfahrung* (1921)
+- **Source:** Albert Einstein, *Geometrie und Erfahrung: Erweiterte Fassung des Festvortrages gehalten an der Preußischen Akademie der Wissenschaften* (Berlin: Springer, 1921).
+- **The Famous Quotation:**
+  > *"Insofern sich die Sätze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher, und insofern sie sicher sind, beziehen sie sich nicht auf die Wirklichkeit."*  
+  > ("Insofar as the propositions of mathematics refer to reality, they are not certain; and insofar as they are certain, they do not refer to reality.")
+- **Hoenen's Contextual Reply:** Hoenen demonstrates that Einstein's aphorism confuses the *inexactitude of empirical measurement* with an *absence of mathematical necessity*. When geometry refers to physical bodies, it refers to their *intelligible matter* (quantitative extension), within which relations are both real and apodictically certain.
 
 ---
 
-### § 4. On the Material and Formal Nexus
+## 3. Greek and Scholastic Vocabulary Glossary
 
-#### 1. Material Nexus vs. Formal Nexus
-* **Material Nexus**: Two forms happen to inform the same underlying subject (*suppositum*), as in *"The apple is round and sweet."* This is predication *per accidens*.
-* **Formal Nexus**: The predicate belongs to the subject **by reason of the form imported by the subject** (*ratione formae importatae per subiectum*, St. Thomas, *In III Sent.*, d. 11, q. 1, a. 4, ad 6). This is Aristotle’s **fourth mode of per se predication** (*Anal. Post.* I, lect. 10, n. 7), where the subject is the intrinsic cause of the property.
-
-#### 2. Physical vs. Formal Abstraction
-* **Physical Abstraction (J. S. Mill)**: Varying physical conditions (temperature, pressure, material) to see what changes. This is an inductive, empirical elimination.
-* **Formal Abstraction (*Abstractio Formalis*)**: The intellect directly isolates an intelligible form from irrelevant sensible qualities:
-  * In cutting a cylinder or Möbius strip, we do not need to test strips of gold, copper, paper, and leather. The intellect *immediately abstracts* extension and figure, intuiting that color, density, and chemical composition are wholly irrelevant to the topological theorem.
-
-#### 3. Intelligible Matter (*Materia Intelligibilis* / ὕλη νοητή)
-* St. Thomas (*Summa Theologiae* I, q. 85, a. 1, ad 2) defines **intelligible matter** as substance subject to quantitative extension, considered apart from sensible qualities (heat, color, hardness).
-* Aristotle (*Metaphysics* VII, 10, 1036a11; VIII, 6, 1045a34) calls spatial extension ὕλη νοητή because:
-  1. It is "matter" insofar as it is the potentiality out of which figures and shapes are formed.
-  2. It is "intelligible" because, stripped of sensible qualities, it is **wholly transparent to the human intellect**.
-
-#### 4. The Resolution of Einstein’s Dilemma
-In his 1921 address *Geometrie und Erfahrung*, Einstein famously stated:
-> *"Insofar as the propositions of mathematics refer to reality, they are not certain; and insofar as they are certain, they do not refer to reality."*
-
-Hoenen’s analysis provides the definitive answer:
-* Einstein’s dilemma applies only if one confuses the **inexactitude of physical measurement** with an **absence of mathematical necessity**.
-* When geometry is applied to real bodies, its propositions do not refer to the obscure physical qualities of the bodies, but to their **intelligible matter**—their quantitative extension.
-* Within that intelligible dimension, geometric relations are **both real and apodictically certain**. Applied geometry is not empirical physics; it is the science of intelligible matter verified in physical reality.
-
----
-
-## 3. Summary of Key Greek and Scholastic Vocabulary
-
-| Latin / Greek Term | English Rendering | Philosophical Significance |
+| Latin / Greek Term | English Rendering | Philological & Technical Definition |
 | :--- | :--- | :--- |
-| **`nexus formalis`** | formal connection / nexus | Predication where the predicate flows from the formal essence of the subject (*ratione formae importatae per subiectum*). |
-| **`nexus materialis`** | material connection / nexus | Predication where subject and predicate merely coexist in the same suppositum *per accidens*. |
+| **`nexus formalis`** | formal connection / nexus | Predication where the predicate flows intrinsically from the formal essence of the subject (*ratione formae importatae per subiectum*). |
+| **`nexus materialis`** | material connection / nexus | Predication where subject and predicate merely coexist in the same suppositum accidentally (*per accidens*). |
 | **`materia intelligibilis`** (ὕλη νοητή) | intelligible matter | Quantitative spatial extension conceived without sensible physical qualities; the proper object of geometry. |
-| **`abstractio formalis`** | formal abstraction | The intellective act of abstracting a luminous form from obscure sensible matter. |
+| **`abstractio formalis`** | formal abstraction | The intellective act of isolating an intelligible form or quantitative nature from sensible matter. |
 | **`passio propria`** (ἴδιον) | proper attribute / property | A necessary characteristic flowing from the essence of a subject (e.g., divisibility flowing from extension). |
-| **`in actu exercito`** | in the exercised act | Knowledge operative implicitly in concrete practice. |
-| **`in actu signato`** | in the signified act | Knowledge explicitly formulated as a formal proposition or theorem. |
-| **`motivum seu determinativum`** | motive or determinant | Cajetan’s description of the sensory datum: it provides the specific content of the predicate while the intellect intuits its necessity. |
+| **`in actu exercito`** | in the exercised act | Knowledge operative implicitly in concrete practice or living mental operation. |
+| **`in actu signato`** | in the signified act | Knowledge explicitly formulated as a formal proposition, definition, or theorem. |
+| **`constatatio`** | direct verification / empirical finding | The ascertainment of an immediate datum of consciousness or experiential fact. |
+| **`motivum seu determinativum`** | motive or determinant | Cajetan’s description of the sensory datum: it provides the specific material content while the intellect intuits its necessity. |
 | **`ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει`** | "these things are, as it were, to see by intellection" | Aristotle’s formula (*Anal. Post.* I, 12, 77b30) for intellectual intuition occurring in the sensory phantasm. |
 | **`ens extensum ut extensum`** | extended being as extended | The authentic proper object of geometry, as opposed to empty "absolute space." |
 | **`folium Moebii`** | Möbius strip | The unilateral surface used by Hoenen to demonstrate that physical manipulation can yield an immediate intuition of topological necessity. |
+| **`iudicia praevia`** | preliminary judgments | Intuitive, implicit judgments regarding the proper attributes of quantity that precede formal mathematical operations. |
+| **`figurabile`** | figurable | Capable of receiving geometric shape; a proper attribute of extension in Cartesian and Scholastic physics. |
 
 ---
 
