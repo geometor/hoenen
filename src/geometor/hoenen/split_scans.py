@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 BASE_DIR = Path("/home/phi/PROJECTS/geometor/hoenen")
-PDFS_DIR = BASE_DIR / "pdfs"
+PDFS_DIR = BASE_DIR / "archive" / "pdfs"
 SCRATCH_DIR = Path("/home/phi/.gemini/antigravity/brain/9c7a701e-6b20-4b45-ab5e-f6b00f1a38fb/scratch/split_work")
 SCRATCH_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -180,7 +180,7 @@ def run_all():
     print("==================================================")
     
     # 1. Preface
-    preface_dir = BASE_DIR / "preface"
+    preface_dir = BASE_DIR / "archive" / "preface"
     preface_dir.mkdir(exist_ok=True)
     if (BASE_DIR / "title.jpg").exists():
         move_original_file(BASE_DIR / "title.jpg", preface_dir / "title.jpg")
@@ -206,7 +206,7 @@ def run_all():
             }
             
     # 2. Chapter 1
-    ch1_dir = BASE_DIR / "chapter-01"
+    ch1_dir = BASE_DIR / "archive" / "chapter-01"
     ch1_dir.mkdir(exist_ok=True)
     print("\n--- Processing Chapter 1 ---")
     for i in range(1, 18):
@@ -232,7 +232,7 @@ def run_all():
             }
 
     # 3. Chapter 2
-    ch2_dir = BASE_DIR / "chapter-02"
+    ch2_dir = BASE_DIR / "archive" / "chapter-02"
     ch2_dir.mkdir(exist_ok=True)
     c2_pdf = PDFS_DIR / "chapter-2.pdf"
     shutil.copy(c2_pdf, ch2_dir / "chapter-2.pdf")
@@ -245,7 +245,7 @@ def run_all():
     process_spread(c2_pdf, 20, ch2_dir, left_page_num=64, right_page_num=None)
 
     # 4. Chapter 3
-    ch3_dir = BASE_DIR / "chapter-03"
+    ch3_dir = BASE_DIR / "archive" / "chapter-03"
     ch3_dir.mkdir(exist_ok=True)
     c3_pdf = PDFS_DIR / "chapter-3.pdf"
     shutil.copy(c3_pdf, ch3_dir / "chapter-3.pdf")
@@ -266,7 +266,7 @@ def run_all():
     process_spread(c3_pdf, 16, ch3_dir, left_page_num=94, right_page_num=None)
 
     # 5. Chapter 4
-    ch4_dir = BASE_DIR / "chapter-04"
+    ch4_dir = BASE_DIR / "archive" / "chapter-04"
     ch4_dir.mkdir(exist_ok=True)
     c4_pdf = PDFS_DIR / "chapter-4.pdf"
     shutil.copy(c4_pdf, ch4_dir / "chapter-4.pdf")
@@ -301,7 +301,7 @@ def run_all():
     process_spread(c4_pdf, 32, ch4_dir, left_page_num=156, right_page_num=None)
 
     # 6. Chapter 5
-    ch5_dir = BASE_DIR / "chapter-05"
+    ch5_dir = BASE_DIR / "archive" / "chapter-05"
     ch5_dir.mkdir(exist_ok=True)
     c5_pdf = PDFS_DIR / "chapter-5.pdf"
     shutil.copy(c5_pdf, ch5_dir / "chapter-5.pdf")
@@ -340,7 +340,7 @@ def run_all():
     process_spread(c5_pdf, 20, ch5_dir, left_page_num=194, right_page_num=None)
 
     # 7. Chapter 6
-    ch6_dir = BASE_DIR / "chapter-06"
+    ch6_dir = BASE_DIR / "archive" / "chapter-06"
     ch6_dir.mkdir(exist_ok=True)
     c6_pdf = PDFS_DIR / "chapter-6.pdf"
     shutil.copy(c6_pdf, ch6_dir / "chapter-6.pdf")
@@ -383,7 +383,7 @@ def run_all():
         process_spread(c6_pdf, 16, ch6_dir, left_page_num=222, right_page_num=None, is_partial_left=True)
 
     # 8. Chapter 7
-    ch7_dir = BASE_DIR / "chapter-07"
+    ch7_dir = BASE_DIR / "archive" / "chapter-07"
     ch7_dir.mkdir(exist_ok=True)
     c7_pdf = PDFS_DIR / "chapter-7.pdf"
     shutil.copy(c7_pdf, ch7_dir / "chapter-7.pdf")
@@ -406,7 +406,7 @@ def run_all():
     process_spread(app2_pdf, 2, ch7_dir, left_page_num=248, right_page_num=None)
 
     # 9. Appendix
-    app_dir = BASE_DIR / "appendix"
+    app_dir = BASE_DIR / "archive" / "appendix"
     app_dir.mkdir(exist_ok=True)
     app_end_pdf = PDFS_DIR / "appendix-end-and-index.pdf"
     shutil.copy(app2_pdf, app_dir / "appendix-2.pdf")
@@ -436,7 +436,7 @@ def run_all():
     process_spread(app_end_pdf, 4, app_dir, left_page_num=288, right_page_num=None)
 
     # 10. Index
-    idx_dir = BASE_DIR / "index"
+    idx_dir = BASE_DIR / "archive" / "index"
     idx_dir.mkdir(exist_ok=True)
     idx_pdf = PDFS_DIR / "index.pdf"
     shutil.copy(idx_pdf, idx_dir / "index.pdf")
