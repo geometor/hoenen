@@ -1,12 +1,13 @@
-# CHAPTER III: ON THE PROBLEM OF EXACTITUDE (PART I: THE EXISTENCE OF INDIVISIBLES)
-
-> [Latin Text](caput-3.md) | [**English Translation**](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [Translation Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | English | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Table of Contents](../index.md)
 
 ---
 
-## On the Problem of Exactitude
+# CHAPTER III
 
-### PART I: ON THE EXISTENCE OF INDIVISIBLES
+## ON THE PROBLEM OF EXACTITUDE
+
+### PART I
+### ON THE EXISTENCE OF INDIVISIBLES
 
 We must now address the second fundamental problem that requires resolution: the **problem of exactitude**, through which geometry differs fundamentally from elementary arithmetic (wherein exactitude constitutes no enigma). 
 
@@ -310,4 +311,4 @@ Geometric construction is the **intellective actualization of real potentialitie
 
 ---
 
-> [Latin Text](caput-3.md) | [**English Translation**](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [Translation Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | English | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Table of Contents](../index.md)

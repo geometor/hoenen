@@ -1,9 +1,9 @@
-# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT V
-
-
-> [Latin Text](caput-5.md) | [English Translation](caput-5-en.md) | [AI Summary](caput-5-summary.md) | [**Translation Notes**](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-5.md) | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT V
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput V: *De Axiomatica* (pp. 157–196)  
 **Translator / Epistemological Commentary:** Antigravity (Advanced Agentic Assistant, DeepMind / Geometor Project)  
@@ -136,4 +136,4 @@ flowchart TD
 
 ---
 
-> [Latin Text](caput-5.md) | [English Translation](caput-5-en.md) | [AI Summary](caput-5-summary.md) | [**Translation Notes**](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-5.md) | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | Notes | [Table of Contents](../index.md)

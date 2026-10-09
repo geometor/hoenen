@@ -1,8 +1,11 @@
-# CAPUT VII: DE EXTENSIONE UT EST MATERIA INTELLIGIBILIS
-
-> [**Caput VII (Latin)**](caput-7.md) | [English Translation](caput-7-en.md) | [AI Summary](caput-7-summary.md) | [Translation Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT VII
+
+## DE EXTENSIONE
+## UT EST MATERIA INTELLIGIBILIS
 
 ## § 1. De constructione figurarum geometricarum.
 
@@ -226,4 +229,4 @@ Videtur ergo summi momenti esse in construenda ipsa noetica et in ea evolvenda. 
 
 ---
 
-> [**Caput VII (Latin)**](caput-7.md) | [English Translation](caput-7-en.md) | [AI Summary](caput-7-summary.md) | [Translation Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)

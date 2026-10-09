@@ -1,8 +1,10 @@
-# CAPUT II: DE PROBLEMATE NECESSITATIS
-
-> [**Caput II (Latin)**](caput-2.md) | [English Translation](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT II
+
+## DE PROBLEMATE NECESSITATIS
 
 *Animadversiones praeviae.*
 
@@ -389,4 +391,4 @@ Et ita in his considerationibus iam finis noster principalis optime attingi vide
 
 ---
 
-> [**Caput II (Latin)**](caput-2.md) | [English Translation](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)

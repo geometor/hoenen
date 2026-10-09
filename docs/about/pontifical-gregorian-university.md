@@ -1,9 +1,9 @@
-# Pontifical Gregorian University
-
-
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+> [← Table of Contents](../index.md)
 
 ---
+
+# Pontifical Gregorian University
+
 The Pontifical Gregorian University (Pontificia Universitate Gregoriana), often affectionately referred to as "the Greg," is a prestigious ecclesiastical university located in Rome, Italy.
 
 ## History
@@ -17,4 +17,4 @@ For over four centuries, it has been a central institution for defending and pro
 
 ---
 
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+> [← Table of Contents](../index.md)

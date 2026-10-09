@@ -1,9 +1,9 @@
-# PREFACE
-
-
-> [Latin Text](preface.md) | [**English Translation**](preface-en.md) | [Benchmark & Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)
 
 ---
+
+# PREFACE
+
 This work deals with the "noetics of geometry"—that is, that branch of philosophical noetics whose proper object is the cognitive nature of the human mind insofar as it constructs geometric science.
 
 The first part of this exposition (Chapters I–IV) represents a second, revised edition of a series of articles published several years ago in the journal *Gregorianum* [^1], incorporating certain adaptations deemed necessary to integrate them into the unified structure of the present volume. The remaining chapters (V–VII) contain the material already anticipated and promised in the concluding article (1943, p. 234), but whose development was hitherto prevented by wartime and post-war circumstances.
@@ -32,4 +32,4 @@ Rome, during the commemorative celebrations marking the completion of the fourth
 
 ---
 
-> [Latin Text](preface.md) | [**English Translation**](preface-en.md) | [Benchmark & Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)

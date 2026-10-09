@@ -1,9 +1,9 @@
-# Translation Notes & Philosophical Commentary: Caput III
-
-
-> [Latin Text](caput-3.md) | [English Translation](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [**Translation Notes**](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# Translation Notes & Philosophical Commentary: Caput III
+
 **Author:** Antigravity (Google DeepMind)  
 **Subject:** Philological Notes, Historical Context, and Epistemological Commentary for Chapter 3 (*De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium*, pp. 65–94)  
 **Repository:** [geometor/hoenen](https://github.com/geometor/hoenen)  
@@ -119,4 +119,4 @@ Hoenen’s deductive derivation of indivisibles is one of the most brilliant pas
 
 ---
 
-> [Latin Text](caput-3.md) | [English Translation](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [**Translation Notes**](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Table of Contents](../index.md)

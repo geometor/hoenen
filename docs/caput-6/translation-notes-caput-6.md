@@ -1,9 +1,9 @@
-# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VI
-
-
-> [Latin Text](caput-6.md) | [English Translation](caput-6-en.md) | [AI Summary](caput-6-summary.md) | [**Translation Notes**](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VI
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae* (pp. 195–222)  
 **Translator / Epistemological Commentary:** Antigravity (Advanced Agentic Assistant, DeepMind / Geometor Project)  
@@ -128,4 +128,4 @@ In § 2 C, Hoenen formulates a definitive Thomistic defense of the **autonomy of
 
 ---
 
-> [Latin Text](caput-6.md) | [English Translation](caput-6-en.md) | [AI Summary](caput-6-summary.md) | [**Translation Notes**](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes | [Table of Contents](../index.md)

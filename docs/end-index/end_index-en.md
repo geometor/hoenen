@@ -1,14 +1,16 @@
-# ANALYTICAL INDEX (TABLE OF CONTENTS)
-
-
-> [Latin Text](end_index.md) | [**English Translation**](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](end_index.md) | English | [Table of Contents](../index.md)
 
 ---
+
+# ANALYTICAL INDEX (TABLE OF CONTENTS)
+
 *(Index Analyticus, pp. 289–293)*
 
 ---
 
-### [Preface](../preface/preface-en.md) *(Praefatio)* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+### [Preface](../preface/preface-en.md)
+
+*(Praefatio)* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
 ---
 
@@ -179,4 +181,4 @@
 
 ---
 
-> [Latin Text](end_index.md) | [**English Translation**](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](end_index.md) | English | [Table of Contents](../index.md)

@@ -1,9 +1,9 @@
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT VII
-
-
-> [Latin Text](caput-7.md) | [English Translation](caput-7-en.md) | [**AI Summary**](caput-7-summary.md) | [Translation Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-7.md) | [English](caput-7-en.md) | Summary | [Notes](translation-notes-caput-7.md) | [Table of Contents](../index.md)
 
 ---
+
+# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT VII
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput VII: *De Extensione ut est Materia Intelligibilis* (pp. 223–248)  
 
@@ -197,4 +197,4 @@ classDiagram
 
 ---
 
-> [Latin Text](caput-7.md) | [English Translation](caput-7-en.md) | [**AI Summary**](caput-7-summary.md) | [Translation Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-7.md) | [English](caput-7-en.md) | Summary | [Notes](translation-notes-caput-7.md) | [Table of Contents](../index.md)

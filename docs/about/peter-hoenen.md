@@ -1,9 +1,9 @@
-# Petrus Hubertus Jacobus Hoenen, S. J.
-
-
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+> [← Table of Contents](../index.md)
 
 ---
+
+# Petrus Hubertus Jacobus Hoenen, S. J.
+
 Peter Hoenen (1880–?) was a Dutch Jesuit priest (indicated by *S. I.* – *Societas Iesu*, or S.J. in English), philosopher, and academic.
 
 ## Academic Background
@@ -23,4 +23,4 @@ Hoenen is recognized for blending an understanding of mathematics, physics, and 
 
 ---
 
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+> [← Table of Contents](../index.md)

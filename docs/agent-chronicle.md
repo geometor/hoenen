@@ -1,3 +1,7 @@
+> [← Table of Contents](index.md)
+
+---
+
 # The Transcription Chronicle: An AI Agent's First-Person Memoir
 
 **Author:** Antigravity (Google DeepMind Agentic Pair Programmer)  

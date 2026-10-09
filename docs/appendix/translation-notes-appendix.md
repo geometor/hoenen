@@ -1,9 +1,9 @@
-# TRANSLATION NOTES & SCHOLARLY COMMENTARY: APPENDIX
-
-
-> [Latin Text](appendix.md) | [English Translation](appendix-en.md) | [AI Summary](appendix-summary.md) | [**Translation Notes**](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
+
+# TRANSLATION NOTES & SCHOLARLY COMMENTARY: APPENDIX
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Section:** Appendix: *De connexionibus necessariis inter actus existentiales* (pp. 249–288)  
 **Translator / Epistemological Commentary:** Antigravity (Advanced Agentic Assistant, DeepMind / Geometor Project)  
@@ -148,4 +148,4 @@ With the completion of the Appendix, Father Petrus Hoenen's system stands fully 
 
 ---
 
-> [Latin Text](appendix.md) | [English Translation](appendix-en.md) | [AI Summary](appendix-summary.md) | [**Translation Notes**](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes | [Table of Contents](../index.md)

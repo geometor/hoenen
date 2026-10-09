@@ -1,10 +1,10 @@
-# CHAPTER V: ON AXIOMATICS
-
-> [Latin Text](caput-5.md) | [**English Translation**](caput-5-en.md) | [AI Summary](caput-5-summary.md) | [Translation Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-5.md) | English | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Table of Contents](../index.md)
 
 ---
 
-# ON AXIOMATICS
+# CHAPTER V
+
+## ON AXIOMATICS
 
 ## § 1. ON THE AXIOMATIC METHOD
 
@@ -511,4 +511,4 @@ All these things, however, seem to invite the Scholastic philosopher, above all 
 
 ---
 
-> [Latin Text](caput-5.md) | [**English Translation**](caput-5-en.md) | [AI Summary](caput-5-summary.md) | [Translation Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-5.md) | English | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Table of Contents](../index.md)

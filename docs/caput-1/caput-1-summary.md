@@ -1,9 +1,9 @@
-# Chapter 1 Summary and Outline: On the Origin of Geometric Knowledge and its Problematics
-
-
-> [Latin Text](caput-1.md) | [English Translation](caput-1-en.md) | [**AI Summary**](caput-1-summary.md) | [Benchmark & Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
 
 ---
+
+# Chapter 1 Summary and Outline: On the Origin of Geometric Knowledge and its Problematics
+
 ## Key Arguments of Peter Hoenen
 Peter Hoenen's primary argument in Chapter 1 is that the classical philosophical foundations of geometry—specifically the Aristotelian-Thomistic view that mathematical knowledge originates from sensory data and intellective intuition—face profound challenges from modern mathematical theories. 
 
@@ -59,4 +59,4 @@ While acknowledging the logical brilliance of these modern methods, Hoenen argue
 
 ---
 
-> [Latin Text](caput-1.md) | [English Translation](caput-1-en.md) | [**AI Summary**](caput-1-summary.md) | [Benchmark & Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)

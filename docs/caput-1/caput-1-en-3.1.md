@@ -1,10 +1,11 @@
-# CHAPTER I
-
-
-> [Latin Text](caput-1.md) | [English Translation (Antigravity)](caput-1-en.md) | [AI Summary](caput-1-summary.md) | [Benchmark & Notes](translation-benchmark-caput-1.md) | [**Model 3.1 Translation**](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | Model 3.1 | [Table of Contents](../index.md)
 
 ---
-ON THE ORIGIN OF GEOMETRIC KNOWLEDGE AND ITS PROBLEMATICS
+
+# CHAPTER I
+
+## ON THE ORIGIN OF GEOMETRIC KNOWLEDGE
+## AND ITS PROBLEMATICS
 
 We begin from a very concise exposition of the historical evolution of the problems which concern geometric knowledge, from Plato and Aristotle onwards. In what follows we will not presuppose the doctrine of Aristotle (and of the scholastics), we will only ask whether there are found in it data which contain the solution of noetic problems, even of modern problems. We do not even wish to exclude an interpretation of certain texts of Aristotle which differs from our own. But we are persuaded that we have found in Aristotle lights for the study of modern problems, and vice versa, in the latter, means for interpreting Aristotle.
 
@@ -222,4 +223,4 @@ It is also a question of completely constituting the foundations of geometry; bu
 
 ---
 
-> [Latin Text](caput-1.md) | [English Translation (Antigravity)](caput-1-en.md) | [AI Summary](caput-1-summary.md) | [Benchmark & Notes](translation-benchmark-caput-1.md) | [**Model 3.1 Translation**](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | Model 3.1 | [Table of Contents](../index.md)

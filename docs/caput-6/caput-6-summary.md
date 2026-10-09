@@ -1,9 +1,9 @@
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT VI
-
-
-> [Latin Text](caput-6.md) | [English Translation](caput-6-en.md) | [**AI Summary**](caput-6-summary.md) | [Translation Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-6.md) | [English](caput-6-en.md) | Summary | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)
 
 ---
+
+# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT VI
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae* (pp. 195–222)  
 
@@ -175,4 +175,4 @@ classDiagram
 
 ---
 
-> [Latin Text](caput-6.md) | [English Translation](caput-6-en.md) | [**AI Summary**](caput-6-summary.md) | [Translation Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-6.md) | [English](caput-6-en.md) | Summary | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)

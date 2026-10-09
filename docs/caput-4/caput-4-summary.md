@@ -1,9 +1,9 @@
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT IV
-
-
-> [Latin Text](caput-4.md) | [English Translation](caput-4-en.md) | [**AI Summary**](caput-4-summary.md) | [Translation Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-4.md) | [English](caput-4-en.md) | Summary | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
 
 ---
+
+# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT IV
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput IV: *De Problemate Exactitudinis. Pars II: De Figuris et Relationibus Exactis* (pp. 95–156)  
 
@@ -154,4 +154,4 @@ flowchart TD
 
 ---
 
-> [Latin Text](caput-4.md) | [English Translation](caput-4-en.md) | [**AI Summary**](caput-4-summary.md) | [Translation Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-4.md) | [English](caput-4-en.md) | Summary | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)

@@ -1,10 +1,11 @@
-# APPENDIX: DE CONNEXIONIBUS NECESSARIIS INTER ACTUS EXISTENTIALES
-
-> [**Appendix (Latin)**](appendix.md) | [English Translation](appendix-en.md) | [AI Summary](appendix-summary.md) | [Translation Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
 
 ---
 
-## De connexionibus necessariis inter actus existentiales
+# APPENDIX
+
+## DE CONNEXIONIBUS NECESSARIIS
+## INTER ACTUS EXISTENTIALES
 
 ## § 1. « Movetur ergo est »
 
@@ -324,4 +325,4 @@ In omnibus his materiis adesse videtur occasio abundans, ex casibus concretis (i
 
 ---
 
-> [**Appendix (Latin)**](appendix.md) | [English Translation](appendix-en.md) | [AI Summary](appendix-summary.md) | [Translation Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)

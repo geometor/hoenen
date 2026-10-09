@@ -1,8 +1,11 @@
-# CAPUT I: DE ORIGINE COGNITIONIS GEOMETRICAE ET DE EIUS PROBLEMATICA
-
-> [**Caput I (Latin)**](caput-1.md) | [English Translation](caput-1-en.md) | [AI Summary](caput-1-summary.md) | [Benchmark & Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
 
 ---
+
+# CAPUT I
+
+## DE ORIGINE COGNITIONIS GEOMETRICAE
+## ET DE EIUS PROBLEMATICA
 
 Initium sumimus ab expositione valde concisa evolutionis historicae problematum, quae respiciunt cognitionem geometricam, inde a Platone et Aristotele. In iis quae sequuntur non praesupponemus doctrinam Aristotelis (et scholasticorum), tantum interrogabimus, utrum in illa inveniantur data, quae solutionem problematum noeticorum, etiam problematum modernorum, contineant. Ne excludere quidem volumus interpretationem quorundam textuum Aristotelis, quae a nostra differt. Sed nobis persuasum est, nos in Aristotele invenisse lumina pro studio problematum modernorum, et vice versa, in hisce media ad interpretandum Aristotelem.
 
@@ -206,4 +209,4 @@ Agitur quoque de complete constituendis fundamentis geometriae ; sed ad hoc nos 
 
 ---
 
-> [**Caput I (Latin)**](caput-1.md) | [English Translation](caput-1-en.md) | [AI Summary](caput-1-summary.md) | [Benchmark & Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Conspectus Totius Operis](../index.md)

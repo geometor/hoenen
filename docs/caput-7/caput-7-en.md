@@ -1,10 +1,11 @@
-# CHAPTER VII: ON EXTENSION AS INTELLIGIBLE MATTER
-
-> [Latin Text](caput-7.md) | [**English Translation**](caput-7-en.md) | [AI Summary](caput-7-summary.md) | [Translation Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-7.md) | English | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Table of Contents](../index.md)
 
 ---
 
-# ON EXTENSION AS INTELLIGIBLE MATTER
+# CHAPTER VII
+
+## ON EXTENSION
+## AS INTELLIGIBLE MATTER
 
 ## § 1. On the Construction of Geometric Figures
 
@@ -373,4 +374,4 @@ It seems therefore to be of the highest moment in constructing noetics itself an
 
 ---
 
-> [Latin Text](caput-7.md) | [**English Translation**](caput-7-en.md) | [AI Summary](caput-7-summary.md) | [Translation Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-7.md) | English | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Table of Contents](../index.md)

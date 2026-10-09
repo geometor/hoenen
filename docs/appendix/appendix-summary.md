@@ -1,9 +1,9 @@
-# APPENDIX SUMMARY & ANALYTICAL OUTLINE
-
-
-> [Latin Text](appendix.md) | [English Translation](appendix-en.md) | [**AI Summary**](appendix-summary.md) | [Translation Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](appendix.md) | [English](appendix-en.md) | Summary | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
 
 ---
+
+# APPENDIX SUMMARY & ANALYTICAL OUTLINE
+
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Section:** Appendix: *De connexionibus necessariis inter actus existentiales* (pp. 249–288)  
 
@@ -231,4 +231,4 @@ classDiagram
 
 ---
 
-> [Latin Text](appendix.md) | [English Translation](appendix-en.md) | [**AI Summary**](appendix-summary.md) | [Translation Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](appendix.md) | [English](appendix-en.md) | Summary | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)

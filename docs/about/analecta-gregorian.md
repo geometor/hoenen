@@ -1,9 +1,9 @@
-# Analecta Gregoriana
-
-
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+> [← Table of Contents](../index.md)
 
 ---
+
+# Analecta Gregoriana
+
 *Analecta Gregoriana* is a scholarly monographic series published by the Pontifical Gregorian University (often through the Gregorian & Biblical Press).
 
 ## Purpose
@@ -17,4 +17,4 @@ The series is divided into sections based on the respective faculty. In the case
 
 ---
 
-> [← Conspectus Totius Operis (Table of Contents)](../index.md)
+> [← Table of Contents](../index.md)
