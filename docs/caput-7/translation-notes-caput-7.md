@@ -1,7 +1,7 @@
 # TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT VII
 
 
-> [Latin Text](caput-7.md) | [English Translation](caput-7-en.md) | [AI Summary](caput-7-summary.md) | [**Translation Notes**](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
@@ -142,4 +142,4 @@ flowchart TD
 
 ---
 
-> [Latin Text](caput-7.md) | [English Translation](caput-7-en.md) | [AI Summary](caput-7-summary.md) | [**Translation Notes**](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes | [Table of Contents](../index.md)

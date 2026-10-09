@@ -1,11 +1,8 @@
 # INDEX ANALYTICUS
 
-> [**Index Analyticus (Latin)**](end_index.md) | [English Translation](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](end_index-en.md) | [Conspectus Totius Operis](../index.md)
 
 ---
-
-
-
 *Praefatio* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
 *Caput I. - De origine cognitionis geometricae et de eius problematica* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
@@ -167,4 +164,4 @@ Additiones . . . . . . . . . . . . . . . . . . . . . . . . . . 286
 
 ---
 
-> [**Index Analyticus (Latin)**](end_index.md) | [English Translation](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](end_index-en.md) | [Conspectus Totius Operis](../index.md)

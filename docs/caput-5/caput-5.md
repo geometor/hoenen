@@ -1,9 +1,8 @@
 # CAPUT V: DE AXIOMATICA
 
-> [**Caput V (Latin)**](caput-5.md) | [English Translation](caput-5-en.md) | [AI Summary](caput-5-summary.md) | [Translation Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
 
 ---
-
 ## § 1. De methodo axiomatica.
 
 ### 1. De axiomatica stricte dicta.
@@ -337,4 +336,4 @@ Omnia autem haec invitare videntur philosophum scholasticum, praesertim noeticum
 
 ---
 
-> [**Caput V (Latin)**](caput-5.md) | [English Translation](caput-5-en.md) | [AI Summary](caput-5-summary.md) | [Translation Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Conspectus Totius Operis](../index.md)

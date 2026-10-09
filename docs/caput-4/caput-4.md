@@ -1,12 +1,8 @@
 # CAPUT IV: DE PROBLEMATE EXACTITUDINIS. PARS II: DE FIGURIS ET RELATIONIBUS EXACTIS
 
-> [**Caput IV (Latin)**](caput-4.md) | [English Translation](caput-4-en.md) | [AI Summary](caput-4-summary.md) | [Translation Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
 
 ---
-
-DE PROBLEMATE EXACTITUDINIS
-
-## PARS II. DE FIGURIS ET RELATIONIBUS EXACTIS
 
 ### Animadversiones praeviae.
 
@@ -452,4 +448,4 @@ In praecedentibus plura puncta tangimus quae ampliorem investigationem exigere v
 
 ---
 
-> [**Caput IV (Latin)**](caput-4.md) | [English Translation](caput-4-en.md) | [AI Summary](caput-4-summary.md) | [Translation Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)

@@ -1,9 +1,8 @@
 # APPENDIX: ON THE NECESSARY CONNECTIONS BETWEEN EXISTENTIAL ACTS
 
-> [Latin Text](appendix.md) | [**English Translation**](appendix-en.md) | [AI Summary](appendix-summary.md) | [Translation Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
 
 ---
-
 # ON NECESSARY CONNECTIONS BETWEEN EXISTENTIAL ACTS
 
 *(De connexionibus necessariis inter actus existentiales)*
@@ -627,4 +626,4 @@ In all these matters there seems to be present abundant occasion, from concrete 
 
 ---
 
-> [Latin Text](appendix.md) | [**English Translation**](appendix-en.md) | [AI Summary](appendix-summary.md) | [Translation Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)

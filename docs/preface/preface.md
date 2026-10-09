@@ -1,7 +1,7 @@
 # PRAEFATIO
 
 
-> [**Praefatio (Latin)**](preface.md) | [English Translation](preface-en.md) | [Benchmark & Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
 
 ---
 Hoc opus agit de « noetica geometriae », i. e. de ea scientiae philosophicae noeticae parte, cuius obiectum est natura cognoscitiva mentis humanae in quantum haec scientiam geometricam construit.
@@ -32,4 +32,4 @@ P. HOENEN S. J.
 
 ---
 
-> [**Praefatio (Latin)**](preface.md) | [English Translation](preface-en.md) | [Benchmark & Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)

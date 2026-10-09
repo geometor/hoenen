@@ -1,7 +1,7 @@
 # TRANSLATION NOTES & SCHOLARLY COMMENTARY: CAPUT IV
 
 
-> [Latin Text](caput-4.md) | [English Translation](caput-4-en.md) | [AI Summary](caput-4-summary.md) | [**Translation Notes**](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-4.md) | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
@@ -160,4 +160,4 @@ In the Latin source `docs/caput-4.md`, 31 numbered footnotes are present, along 
 
 ---
 
-> [Latin Text](caput-4.md) | [English Translation](caput-4-en.md) | [AI Summary](caput-4-summary.md) | [**Translation Notes**](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-4.md) | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | Notes | [Table of Contents](../index.md)

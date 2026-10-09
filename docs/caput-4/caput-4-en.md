@@ -1,9 +1,8 @@
 # CHAPTER IV: ON THE PROBLEM OF EXACTITUDE (PART II: EXACT FIGURES AND RELATIONS)
 
-> [Latin Text](caput-4.md) | [**English Translation**](caput-4-en.md) | [AI Summary](caput-4-summary.md) | [Translation Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
 
 ---
-
 # ON THE PROBLEM OF EXACTITUDE
 
 ## PART II. ON EXACT FIGURES AND RELATIONS
@@ -699,4 +698,4 @@ Above (Chapter IV, § 4, no. 9) we found that diverse real relations have simila
 
 ---
 
-> [Latin Text](caput-4.md) | [**English Translation**](caput-4-en.md) | [AI Summary](caput-4-summary.md) | [Translation Notes](translation-notes-caput-4.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)

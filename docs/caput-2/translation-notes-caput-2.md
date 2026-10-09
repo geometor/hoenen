@@ -1,7 +1,7 @@
 # Translation Notes & Philosophical Commentary: Caput II
 
 
-> [Latin Text](caput-2.md) | [English Translation](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [**Translation Notes**](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
 **Author:** Antigravity (Google DeepMind)  
@@ -164,4 +164,4 @@ Hoenen’s analysis provides the definitive answer:
 
 ---
 
-> [Latin Text](caput-2.md) | [English Translation](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [**Translation Notes**](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Table of Contents](../index.md)

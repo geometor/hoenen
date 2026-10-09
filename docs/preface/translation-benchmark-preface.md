@@ -1,7 +1,7 @@
 # Translation Benchmark & Comparative Analysis: Praefatio
 
 
-> [Latin Text](preface.md) | [English Translation](preface-en.md) | [**Benchmark & Notes**](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)
 
 ---
 **Author:** Antigravity (Google DeepMind)  
@@ -57,4 +57,4 @@ With this benchmark successfully validated, we are ready to apply these exact st
 
 ---
 
-> [Latin Text](preface.md) | [English Translation](preface-en.md) | [**Benchmark & Notes**](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)

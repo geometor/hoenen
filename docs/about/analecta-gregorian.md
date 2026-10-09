@@ -1,6 +1,10 @@
 # Analecta Gregoriana
 
 
+> [← Table of Contents](../index.md)
+
+---
+
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
@@ -18,3 +22,7 @@ The series is divided into sections based on the respective faculty. In the case
 ---
 
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
+
+---
+
+> [← Table of Contents](../index.md)

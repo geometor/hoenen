@@ -1,7 +1,7 @@
 # Translation Notes & Philosophical Commentary: Caput III
 
 
-> [Latin Text](caput-3.md) | [English Translation](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [**Translation Notes**](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Table of Contents](../index.md)
 
 ---
 **Author:** Antigravity (Google DeepMind)  
@@ -119,4 +119,4 @@ Hoenen’s deductive derivation of indivisibles is one of the most brilliant pas
 
 ---
 
-> [Latin Text](caput-3.md) | [English Translation](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [**Translation Notes**](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Table of Contents](../index.md)

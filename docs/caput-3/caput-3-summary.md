@@ -1,7 +1,7 @@
 # Chapter 3 Summary and Outline: On the Problem of Exactitude (Part I: The Existence of Indivisibles)
 
 
-> [Latin Text](caput-3.md) | [English Translation](caput-3-en.md) | [**AI Summary**](caput-3-summary.md) | [Translation Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | Summary | [Notes](translation-notes-caput-3.md) | [Table of Contents](../index.md)
 
 ---
 ## Core Epistemological Breakthroughs
@@ -84,4 +84,4 @@ Geometric construction is neither empirical copying nor unconstrained creation *
 
 ---
 
-> [Latin Text](caput-3.md) | [English Translation](caput-3-en.md) | [**AI Summary**](caput-3-summary.md) | [Translation Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | Summary | [Notes](translation-notes-caput-3.md) | [Table of Contents](../index.md)

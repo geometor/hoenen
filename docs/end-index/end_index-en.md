@@ -1,7 +1,7 @@
 # ANALYTICAL INDEX (TABLE OF CONTENTS)
 
 
-> [Latin Text](end_index.md) | [**English Translation**](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](end_index.md) | English | [Table of Contents](../index.md)
 
 ---
 *(Index Analyticus, pp. 289–293)*
@@ -179,4 +179,4 @@
 
 ---
 
-> [Latin Text](end_index.md) | [**English Translation**](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](end_index.md) | English | [Table of Contents](../index.md)

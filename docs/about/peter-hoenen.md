@@ -1,6 +1,10 @@
 # Petrus Hubertus Jacobus Hoenen, S. J.
 
 
+> [← Table of Contents](../index.md)
+
+---
+
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
@@ -24,3 +28,7 @@ Hoenen is recognized for blending an understanding of mathematics, physics, and 
 ---
 
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
+
+---
+
+> [← Table of Contents](../index.md)

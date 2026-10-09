@@ -1,9 +1,8 @@
 # CHAPTER II: ON THE PROBLEM OF NECESSITY
 
-> [Latin Text](caput-2.md) | [**English Translation**](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)
 
 ---
-
 *Preliminary Remarks.*
 
 As stated in the first chapter, the common conviction of humanity—both learned and unlearned—up to the advent of modern critique was this: **mathematical knowledge is drawn from the data of sensory experience**. 
@@ -457,4 +456,4 @@ The problem of necessity in geometry is thus completely solved, prior to and ind
 
 ---
 
-> [Latin Text](caput-2.md) | [**English Translation**](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)

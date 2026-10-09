@@ -1,9 +1,8 @@
 # CHAPTER VI: ON THE FUNDAMENTAL SUBJECT OF GEOMETRY
 
-> [Latin Text](caput-6.md) | [**English Translation**](caput-6-en.md) | [AI Summary](caput-6-summary.md) | [Translation Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)
 
 ---
-
 # ON THE FUNDAMENTAL SUBJECT OF GEOMETRY
 
 From the things we expounded above, various conclusions follow regarding the nature of this science which is geometry; and in these are present diverse elements that, as it seems to us, have importance for the general cognition of the activity of the human mind—a universal noetic importance, therefore. In sketching these we shall often have to return to what was treated above. We begin from a reiterated comparison of Euclidean and non-Euclidean geometry.
@@ -369,4 +368,4 @@ If it is posited merely as a means of calculation, as a "graphical representatio
 
 ---
 
-> [Latin Text](caput-6.md) | [**English Translation**](caput-6-en.md) | [AI Summary](caput-6-summary.md) | [Translation Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)

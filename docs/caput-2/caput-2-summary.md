@@ -1,7 +1,7 @@
 # Chapter 2 Summary and Outline: On the Problem of Necessity
 
 
-> [Latin Text](caput-2.md) | [English Translation](caput-2-en.md) | [**AI Summary**](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-2.md) | [English](caput-2-en.md) | Summary | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)
 
 ---
 ## Core Epistemological Arguments
@@ -84,4 +84,4 @@ The mind achieves this direct intuition of formal necessity through **formal abs
 
 ---
 
-> [Latin Text](caput-2.md) | [English Translation](caput-2-en.md) | [**AI Summary**](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [Latin](caput-2.md) | [English](caput-2-en.md) | Summary | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)

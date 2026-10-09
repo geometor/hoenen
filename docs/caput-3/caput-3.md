@@ -1,12 +1,8 @@
 # CAPUT III: DE PROBLEMATE EXACTITUDINIS. PARS I: DE EXISTENTIA INDIVISIBILIUM
 
-> [**Caput III (Latin)**](caput-3.md) | [English Translation](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [Translation Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
 
 ---
-
-DE PROBLEMATE EXACTITUDINIS
-
-## PARS I. DE EXISTENTIA INDIVISIBILIUM
 
 Iam agendum erit de altero problemate, quod solvendum inveniebamus, de problemate scilicet exactitudinis, per quod geometria ab initiis arithmeticae, in qua exactitudo non constituit enigma, differt. Non omnia quae in hoc problemate involvuntur, idem medium solutionis postulant, ut ex ipsa nostra expositione patebit. Quaedam enim sunt, quorum solutio exigit considerationem extensi tanquam « principii individuationis » quaedam ab hoc medio non dependent. De his ultimis in hoc capite sermo erit ; alias quaestiones, illas quae a consideratione principii individuationis dependent, in capite sequente exponemus.
 
@@ -269,4 +265,4 @@ Et in hoc inveniendo, simul intelligimus dependentiam nostram ab hac materia et 
 
 ---
 
-> [**Caput III (Latin)**](caput-3.md) | [English Translation](caput-3-en.md) | [AI Summary](caput-3-summary.md) | [Translation Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)

@@ -1,9 +1,8 @@
 # CAPUT II: DE PROBLEMATE NECESSITATIS
 
-> [**Caput II (Latin)**](caput-2.md) | [English Translation](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
 
 ---
-
 *Animadversiones praeviae.*
 
 Ut iam in primo capite dictum est, communis opinio generis humani — tum docti tum indocti — usque ad initia criticae modernae erat haec : cognitio mathematica hauritur ex datis experientiae sensitivae. Inde pro philosopho oritur problema, quomodo id explicari possit. Nam data cognitionis nostrae sensitivae de se nullam comportant necessitatem, sed cognitio mathematica contendit se esse necessariam. Insuper : data sensitiva, quae ad cognitionem geometricam constituendam inserviunt (non ea quae cognitioni elementari arithmeticae praesupponuntur) carent exactitudine ; et tamen geometria, non minus quam arithmetica, sese praesentat ut omni ex parte exactam.
@@ -389,4 +388,4 @@ Et ita in his considerationibus iam finis noster principalis optime attingi vide
 
 ---
 
-> [**Caput II (Latin)**](caput-2.md) | [English Translation](caput-2-en.md) | [AI Summary](caput-2-summary.md) | [Translation Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)

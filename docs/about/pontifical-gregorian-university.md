@@ -1,6 +1,10 @@
 # Pontifical Gregorian University
 
 
+> [← Table of Contents](../index.md)
+
+---
+
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
@@ -18,3 +22,7 @@ For over four centuries, it has been a central institution for defending and pro
 ---
 
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
+
+---
+
+> [← Table of Contents](../index.md)

@@ -1,6 +1,10 @@
 # PDF Parsing & Scan Processing Guide
 
 
+> [← Table of Contents](../index.md)
+
+---
+
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
 
 ---
@@ -161,3 +165,7 @@ If rescanned as a new fill PDF (e.g. `pdfs/rescans.pdf`):
 ---
 
 > [← Conspectus Totius Operis (Table of Contents)](../index.md)
+
+---
+
+> [← Table of Contents](../index.md)
