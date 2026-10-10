@@ -2,16 +2,21 @@
 
 ---
 
-# Chapter 2 Summary and Outline: On the Problem of Necessity
+# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT II
 
-## Core Epistemological Arguments
+**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
+**Chapter:** Caput II: *De Problemate Necessitatis* (pp. 33–64)  
+
+---
+
+## Executive Summary
 
 In Chapter 2, Father Petrus Hoenen accomplishes one of the central breakthroughs of *De Noetica Geometriae*: **the complete decoupling of the problem of necessity from the problem of exactitude**, followed by the resolution of the problem of necessity through classical Aristotelian-Thomistic epistemology.
 
 ### 1. The False Dilemma of Modern Epistemology
 Modern philosophy of mathematics has long been paralyzed by an uncritically accepted dogma: **"No necessary judgment can originate from sensory experience."**
 * **Immanuel Kant** accepted the dogma, concluding that because mathematics is necessary, it must be *synthetic a priori*, grounded in subjective forms of sensibility.
-* **John Stuart Mill and Empiricism** accepted the dogma, concluding that because mathematics originates from experience, it must be merely empirical, approximate, and contingent—equating geometry to empirical physics.
+* **John Stuart Mill and Empiricism** accepted the dogma, concluding that because mathematics originates from experience, it must be merely empirical, approximate, and contingent, equating geometry to empirical physics.
 * **Formalism (David Hilbert)** accepted the dogma, severing mathematics from reality altogether and reducing it to a game of uninterpreted symbols.
 
 Hoenen demonstrates through direct phenomenological verifications (*constatationes*) that **this foundational dogma is false**. There exists a vast, indisputable category of human experience that produces **judgments that are both empirical in origin and apodictically necessary**.
@@ -40,22 +45,22 @@ Hoenen provides the Thomistic metaphysical foundation for these facts:
 
 ### 5. Formal Abstraction and Intelligible Matter (*Materia Intelligibilis*)
 The mind achieves this direct intuition of formal necessity through **formal abstraction** (*abstractio formalis*). 
-* The intellect strips away sensible qualities (color, temperature, density) and isolates **intelligible matter** (ὕλη νοητή)—the quantitative extension and multitude underlying physical bodies.
+* The intellect strips away sensible qualities (color, temperature, density) and isolates **intelligible matter** (ὕλη νοητή), the quantitative extension and multitude underlying physical bodies.
 * In intelligible matter, the intellect sees through the phantasm (ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει, *De Anima* III, 7), grasping the necessary nexus directly.
 * Sensory data serve as the **motive and determinant** (*motivum seu determinativum*) of the intellect (Cajetan), specifying *what* the predicate is, while the intellect intuits its *necessity*.
 
 ---
 
-## Chapter 2 Outline
+## Detailed Section-by-Section Outline
 
-### Preliminary Remarks
+### Preliminary Remarks (*Animadversiones praeviae*, pp. 33–36)
 - The historical consensus: mathematical knowledge originates in sensory experience.
 - The dual challenge: raw sense data lack both necessity and exactitude.
 - The failure of Empiricism (Mill), Rationalism (Plato), and Idealism (Kant).
 - The neglected Aristotelian-Thomistic solution: formal abstraction.
 - Isolation of the problem of necessity from the problem of exactitude.
 
-### § 1. On Certain Arithmetical Examples
+### § 1. On Certain Arithmetical Examples (pp. 36–45)
 - **1. Divisibility of a Multitude**: Plato’s choice of 5040 in *Laws* V; counting 59 aliquot divisors; physical pebble counting (*calculi*); distinction between contingent and necessary experimental tallies.
 - **2. Prime Numbers**: Enumeration of primes below 100; the Sieve of Eratosthenes as an experimental generator of necessary truth.
 - **3. Beginnings of Combinatorics**: Spatial arrangement of elements; permutations of $n$ items ($n!$); induction on concrete phantasms.
@@ -63,7 +68,7 @@ The mind achieves this direct intuition of formal necessity through **formal abs
 - **5. Comparison with Theories**: Refutation of Kant's claim that experience cannot yield necessity; refutation of Mill's denial of mathematical necessity; vindication of Aristotle (*Anal. Post.*) and St. Thomas (*De Veritate* q. 10 a. 6).
 - **6. Preliminary Judgments (*Iudicia Praevia*)**: The implicit prior grasp of the proper attributes of multitude (addibility, closure); why first principles are omitted in explicit deduction.
 
-### § 2. On Necessity in Immediate Geometric Judgments
+### § 2. On Necessity in Immediate Geometric Judgments (pp. 45–52)
 - **1. The Twofold Problem in Geometry**: Exactitude present in arithmetic, but absent in geometric sensibility; isolating necessity while operating within sensory thresholds.
 - **2. Extension and "Space"**: The proper object of geometry is *ens extensum ut extensum*; critique of absolute space as an *ens rationis*; collapse of Kant's aesthetic arguments when "extended being" replaces "space."
 - **3. Divisibility**: Aristotle's *proprium quanti*; comparison between causal mathematical judgment (*"divisible because extended"*) and copulative physical judgment (*"divisible and white"*); operative definition of extension.
@@ -71,16 +76,31 @@ The mind achieves this direct intuition of formal necessity through **formal abs
 - **5. Pasch's Axiom**: Line through a triangle's vertex entering the vertical angle; immediate intuition of intersection with the base.
 - **6. Section of Cylinder and Möbius Strip**: Longitudinal vs. transverse cut of a cylinder; the unilateral surface of Möbius; experimental discovery of the single twisted loop; sensory datum as *motivum seu determinativum* of necessary topological truth.
 
-### § 3. The Doctrine Derived from These Facts
+### § 3. The Doctrine Derived from These Facts (pp. 52–58)
 - **1. Comparison with Physical Laws**: Rubbing glass, gravitational fall; lack of transparent formal nexus in physical induction; mathematical penetration to essence.
 - **2. Theories of Geometric Knowledge**: Refutation of Hume and Mill's habit theory; collapse of Kantian *a priori* forms; Aristotle's *nihil est in intellectu quod non prius fuerit in sensu* applied to the nexus of judgment; St. Thomas on self-evident principles.
 - **3. Implicit Judgments**: Elimination of syllogistic intermediaries; spontaneous intuitive grasp in the concrete phantasm.
 - **4. Virtual Judgments**: Judgment as reflection upon the first operation of the mind; why axioms of order (Pasch) remained unstated for two millennia.
 
-### § 4. On the Material and Formal Nexus
+### § 4. On the Material and Formal Nexus (pp. 58–64)
 - **1. Material vs. Formal Nexus**: Material nexus as accidental coexistence in a *suppositum*; formal nexus as predication *ratione formae importatae per subiectum* (Aristotle's fourth mode of per se predication).
 - **2. Physical Laws vs. Mathematical Principles**: Formal nexus hidden in physical laws, necessitating theoretical physics; formal nexus immediately luminous in mathematics.
 - **3. On Formal Abstraction**: Physical abstraction (varying circumstances) vs. formal abstraction (intellectual isolation of form); *materia intelligibilis* (ὕλη νοητή) in Aristotle and St. Thomas (*S. Th.* I q. 85 a. 1 ad 2); the complete resolution of the problem of necessity.
+
+---
+
+## Thematic Glossary of Key Terms
+
+- **Constatatio**: Direct, indisputable ascertainment or phenomenological verification of a fact of consciousness.
+- **Passio Propria (ἴδιον)**: A necessary property that flows universally from the essence of a subject (predication *quarto modo dicendi per se*), e.g., divisibility flowing from extension.
+- **Nexus Formalis vs. Nexus Materialis**: Essential, intrinsic connection grounded in the nature signified by the subject vs. accidental coexistence of two forms in the same individual.
+- **Materia Intelligibilis (ὕλη νοητή)**: Continuous spatial extension and multitude isolated from sensible qualities (color, temperature) via formal abstraction.
+- **In Actu Exercito vs. In Actu Signato**: Operative in lived, implicit cognitive performance vs. explicitly formulated as formal propositional principles.
+- **Motivum seu Determinativum**: The sensory phantasm acting as determinant that specifies the content of mathematical judgments, while the intellect intuits its apodictic necessity.
+
+---
+
+*This summary was generated by the Antigravity agent using Gemini 3.8 Flash High.*
 
 ---
 

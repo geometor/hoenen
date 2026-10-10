@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Philological & Terminological Analyses
+## 1. Philological & Conceptual Analyses
 
 ### 1.1. *Limes* (Boundary / Limit)
 - **Latin:** *Limes* (plural: *limites*).
@@ -87,7 +87,7 @@
 
 ---
 
-## 3. Key Greek, Latin, and German Technical Vocabulary
+## 3. Technical Glossary for Caput III
 
 | Term | Language | Meaning & Philological Significance |
 | :--- | :--- | :--- |

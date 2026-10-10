@@ -11,13 +11,13 @@
 
 ## Executive Summary
 
-Caput VII forms the crowning philosophical synthesis of *De Noetica Geometriae*. Having examined the problems of necessity, exactitude, modern axiomatics, and the ontology of extension, Father Petrus Hoenen unifies the entire work around a single grand thesis: **Mathematical cognition—specifically the intuitive formal abstraction of intelligible matter—is the true, indispensable origin of general epistemology (*origo noeticae generalis*) and general metaphysics.**
+Caput VII forms the crowning philosophical synthesis of *De Noetica Geometriae*. Having examined the problems of necessity, exactitude, modern axiomatics, and the ontology of extension, Father Petrus Hoenen unifies the entire work around a single grand thesis: **Mathematical cognition, specifically the intuitive formal abstraction of intelligible matter, is the true, indispensable origin of general epistemology (*origo noeticae generalis*) and general metaphysics.**
 
 The key insights established in this chapter include:
 
 1. **Geometry as a Constructive Science:** 
    - Geometry does not deal with pre-existing, static figures in act (refuting Bertrand Russell), nor does the human mind freely invent figures *ex nihilo* (refuting Kantian and formalist creationism).
-   - Rather, figures pre-exist **in potency** within continuous extension as intelligible matter. Demonstrating the mathematical existence of a figure requires actualizing it through construction—a doctrine classical Thomism called **"quasi-operative demonstration"** (*demonstratio quasi operativa*), rooted in Aristotle's dictum: **ποιοῦντες γιγνώσκουσιν** (*poiountes gignōskousin*) / **"facientes cognoscunt"** ("in making they know", *Metaph.* IX, 9).
+   - Rather, figures pre-exist **in potency** within continuous extension as intelligible matter. Demonstrating the mathematical existence of a figure requires actualizing it through construction, a doctrine classical Thomism called **"quasi-operative demonstration"** (*demonstratio quasi operativa*), rooted in Aristotle's dictum: **ποιοῦντες γιγνώσκουσιν** (*poiountes gignōskousin*) / **"facientes cognoscunt"** ("in making they know", *Metaph.* IX, 9).
 2. **The Twofold Intelligibility of Intelligible Matter:**
    - *Intelligibility of Passivity:* What intelligible matter can undergo (divisibility, addition, 1-to-1 correspondence, mutual contact, algebraic transposition).
    - *Intelligibility of Activity:* While the transeunt causal influx in physical nature is hidden, mathematical constructive activity is *per se infallible* and intelligible, because its operation directly mirrors the intelligible nature of the matter it shapes.
@@ -184,16 +184,20 @@ classDiagram
 
 ## Conceptual Glossary of Latin & Greek Terms
 
-- **Materia intelligibilis (ὕλη νοητή):** Intelligible matter—continuous and discrete quantity abstracted from sensible qualities, serving as the substance of mathematical objects.
+- **Materia intelligibilis (ὕλη νοητή):** Intelligible matter: continuous and discrete quantity abstracted from sensible qualities, serving as the substance of mathematical objects.
 - **Genus subiectum:** The primary subject genus of a demonstrative science (magnitude in geometry, number in arithmetic).
 - **Demonstratio quasi operativa:** A demonstration that proves mathematical existence by describing the physical or mental operation that constructs the figure.
-- **Ποιοῦντες γιγνώσκουσιν (facientes cognoscunt):** Aristotle’s adage from *Metaphysics* IX, 9: "in making they know"—the intellect knows figures by actualizing their potentiality in extension.
-- **Τὰ ἐξ ἀφαιρέσεως (ta ex aphaireseōs):** "Things from abstraction"—Aristotle’s classical designation for mathematical entities.
-- **Intelligibile est ens:** "The intelligible is being"—the fundamental axiom of Thomistic noetics, proving that intelligible objects have objective, realistic being.
-- **Ens de se est intelligibile:** "Being of itself is intelligible"—the fundamental axiom of general metaphysics.
-- **Species sunt sicut numeri:** "Species are like numbers"—Aristotle's metaphysical adage vindicated in the discrete atomic numbers ($1 \dots 92$) of the periodic table.
-- **Nisi ipse intellectus:** "Except the intellect itself"—the addition to the sensory adage made by St. Thomas (*De Malo*, q. 6) and later Leibniz.
-- **Hoc movetur ergo existit:** "This is moved, therefore it exists"—the primary existential intuition demonstrating necessary connections between existential acts.
+- **Ποιοῦντες γιγνώσκουσιν (facientes cognoscunt):** Aristotle’s adage from *Metaphysics* IX, 9: "in making they know": the intellect knows figures by actualizing their potentiality in extension.
+- **Τὰ ἐξ ἀφαιρέσεως (ta ex aphaireseōs):** "Things from abstraction": Aristotle’s classical designation for mathematical entities.
+- **Intelligibile est ens:** "The intelligible is being": the fundamental axiom of Thomistic noetics, proving that intelligible objects have objective, realistic being.
+- **Ens de se est intelligibile:** "Being of itself is intelligible": the fundamental axiom of general metaphysics.
+- **Species sunt sicut numeri:** "Species are like numbers": Aristotle's metaphysical adage vindicated in the discrete atomic numbers ($1 \dots 92$) of the periodic table.
+- **Nisi ipse intellectus:** "Except the intellect itself": the addition to the sensory adage made by St. Thomas (*De Malo*, q. 6) and later Leibniz.
+- **Hoc movetur ergo existit:** "This is moved, therefore it exists": the primary existential intuition demonstrating necessary connections between existential acts.
+
+---
+
+*This summary was generated by the Antigravity agent using Gemini 3.8 Flash High.*
 
 ---
 

@@ -378,7 +378,8 @@ article > blockquote:first-child {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
-article > blockquote:last-child {
+article > blockquote:last-child,
+article > blockquote:last-of-type {
   background-color: var(--surface-color);
   border: 1px solid var(--border-color);
   border-left: 3px solid var(--link-color);
@@ -391,7 +392,8 @@ article > blockquote:last-child {
 }
 
 article > blockquote:first-child p,
-article > blockquote:last-child p {
+article > blockquote:last-child p,
+article > blockquote:last-of-type p {
   margin: 0;
   line-height: 1.5;
   display: flex;
@@ -399,6 +401,14 @@ article > blockquote:last-child p {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 0.5rem;
+}
+
+/* Metadata and generation notes */
+article p:has(> em:only-child) {
+  text-indent: 0 !important;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.88rem;
 }
 
 @media (max-width: 640px) {

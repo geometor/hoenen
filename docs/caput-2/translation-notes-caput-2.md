@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Philological & Terminological Analyses
+## 1. Philological & Conceptual Analyses
 
 ### 1.1. *Constatatio* (Empirical Finding / Direct Verification)
 - **Latin:** *Constatatio* (plural: *constatationes*).
@@ -69,7 +69,7 @@
 ### 1.9. *Iudicia Praevia* (Preliminary Operative Judgments)
 - **Latin:** *Iudicia praevia*.
 - **Translation:** "Preliminary judgments" or "prior intuitive judgments."
-- **Context:** Judgments that the mind elicits implicitly before formulating formal operations—for instance, the intuitive grasp that multitude can be added to multitude, or that addition necessarily increases quantity.
+- **Context:** Judgments that the mind elicits implicitly before formulating formal operations; for instance, the intuitive grasp that multitude can be added to multitude, or that addition necessarily increases quantity.
 
 ### 1.10. *ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει*
 - **Greek Citation:** Aristotle, *Anal. Post.* I, 12 (77b30).
@@ -122,7 +122,7 @@
 
 ---
 
-## 3. Greek and Scholastic Vocabulary Glossary
+## 3. Technical Glossary for Caput II
 
 | Latin / Greek Term | English Rendering | Philological & Technical Definition |
 | :--- | :--- | :--- |

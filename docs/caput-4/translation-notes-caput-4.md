@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Philological and Terminological Analyses
+## 1. Philological & Conceptual Analyses
 
 ### 1.1. *Principium Individuationis* and *Materia Intelligibilis*
 - **Latin:** *Principium individuationis in geometricis*; *materia intelligibilis*.
@@ -25,8 +25,8 @@
 - **Translation:** "Site", "position", "orientation."
 - **Distinction:** Hoenen introduces a precise three-way geometric distinction:
   - *Situs* (Site): The general Scholastic category of local determination (Aristotle's θέσις / *situs* as the 7th category).
-  - *Positio* (Position): The translation coordinates of a figure in space—where its homologous points lie.
-  - *Orientatio* (Orientation): The rotational aspect around a point—the direction of passage through that point.
+  - *Positio* (Position): The translation coordinates of a figure in space: where its homologous points lie.
+  - *Orientatio* (Orientation): The rotational aspect around a point: the direction of passage through that point.
   Two congruent figures can differ in *orientation alone* (rotated around a common pivot point), in *position alone* (translated with identical direction), or in both simultaneously.
 
 ### 1.3. *Passio Propria* / *Proprium*
@@ -54,7 +54,7 @@
 - **Greek:** ἀξιώματα, ὑποθέσεις, αἰτήματα.
 - **Source:** Aristotle, *Posterior Analytics* I, 2 & 10 (76b23–28); St. Thomas, *In Post. Anal.* I, lect. 19.
 - **Classification:**
-  - *Dignitas* (Axiom): A principle that is not only true in itself, but must seem true to anyone (*necesse est videri quod per se sit verum*)—immediate, self-evident to the learner.
+  - *Dignitas* (Axiom): A principle that is not only true in itself, but must seem true to anyone (*necesse est videri quod per se sit verum*), immediate and self-evident to the learner.
   - *Suppositio* (Hypothesis): A demonstrable proposition assumed by the teacher without proof, which is acceptable (*probabilis*) to the learner.
   - *Petitio* (Postulate): A proposition assumed without proof that the learner does not find immediately evident, which must be requested (*petitur*) from him.
   Hoenen proves that Euclid’s Postulates I–V are genuine *petitiones* (they require pre-geometric justification via noetic analysis of intelligible extension), whereas modern logicians mistakenly demand that they be self-evident *dignitates*.
@@ -63,7 +63,7 @@
 - **Latin:** *Termini transcendentes*.
 - **Translation:** "Transcendent terms" (formal/schematic symbols).
 - **Source:** St. Albert the Great, *In Anal. Prior.* I, tract. I, cap. 9 (ed. Jammy, 1651, I, p. 298a); Pseudo-Thomas, *Summa totius logicae*, tract. VII, cap. 2 & 6.
-- **Meaning:** In medieval logic, *termini transcendentes* refers to schematic letters ($A, B, C; S, M, P$) that "signify nothing and everything"—they abstract from all determinate material content and preserve purely formal consequence (*consequentia formalis*).
+- **Meaning:** In medieval logic, *termini transcendentes* refers to schematic letters ($A, B, C; S, M, P$) that "signify nothing and everything": they abstract from all determinate material content and preserve purely formal consequence (*consequentia formalis*).
 
 ---
 

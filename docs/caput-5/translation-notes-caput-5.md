@@ -43,7 +43,7 @@
 
 ### 1.5. *Appellatio ad Phantasma* in Formal Logistics
 - **Latin:** *Appellatio ad phantasma* ("appeal to the phantasm").
-- **Noetic Significance:** Formalists claim that symbolic logic operates independently of all sensory intuition (*ohne Anschauung*). Hoenen shows that even the most abstract logistic derivation relies upon a continuous appeal to the spatial phantasm—namely, the visual inspection of written characters arranged in linear order on paper.
+- **Noetic Significance:** Formalists claim that symbolic logic operates independently of all sensory intuition (*ohne Anschauung*). Hoenen shows that even the most abstract logistic derivation relies upon a continuous appeal to the spatial phantasm: namely, the visual inspection of written characters arranged in linear order on paper.
 
 ---
 
@@ -59,7 +59,7 @@
 ### 2.2. David Hilbert's *Grundlagen der Geometrie* and Theorem 6
 - **Source:** David Hilbert, *Grundlagen der Geometrie* (Leipzig: Teubner, 1899; 7th ed. 1930, pp. 8–9).
 - **The Textual Analysis:** In Theorem 6, Hilbert claims to establish the linear order of $n$ points on a straight line purely from axioms of order. Hoenen reveals that Hilbert cannot even state the theorem without using intuitive concepts: *"einerseits"* ("on the one hand"), *"andererseits"* ("on the other hand"), and *"die umgekehrte"* ("the inverse arrangement").
-- **Hoenen's Discovery:** The relation "between" ($B$ lies between $A$ on the one hand and $C, D, E$ on the other) is explained by Hilbert with a linear horizontal diagram of dots and letters ($A$—$B$—$C$—$D$—$E$—$K$). The meaning of "on the one hand" and "on the other hand" is *purely spatial and geometric*. Hilbert does not eliminate spatial intuition; he smuggles it into logic itself.
+- **Hoenen's Discovery:** The relation "between" ($B$ lies between $A$ on the one hand and $C, D, E$ on the other) is explained by Hilbert with a linear horizontal diagram of dots and letters ($A - B - C - D - E - K$). The meaning of "on the one hand" and "on the other hand" is *purely spatial and geometric*. Hilbert does not eliminate spatial intuition; he smuggles it into logic itself.
 
 ### 2.3. Bertrand Russell, Logistics, and *Principia Mathematica* (*2.01)
 - **Source:** Bertrand Russell and Alfred North Whitehead, *Principia Mathematica* (Cambridge: Cambridge University Press, Vol. I, 1910, p. 100).
