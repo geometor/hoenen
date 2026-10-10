@@ -1,6 +1,6 @@
 /* ==========================================================================
    De Noetica Geometriae — Scholarly Monograph Theme
-   Typography: Classical Roman Serif (EB Garamond / Cinzel)
+   Typography: Classical Roman Serif (EB Garamond)
    Palette: Low-contrast warm parchment paper
    Layout: Centered reading column limited on large viewports
    ========================================================================== */
@@ -42,7 +42,7 @@
 
   /* Fonts */
   --font-serif: 'EB Garamond', Garamond, 'Palatino Linotype', Palatino, 'Georgia', 'Times New Roman', serif;
-  --font-display: 'Cinzel', 'EB Garamond', Garamond, 'Georgia', serif;
+  --font-display: 'EB Garamond', Garamond, 'Georgia', serif;
   --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
 
@@ -88,6 +88,8 @@ html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Preserve modern Latin orthography (prevent historical epigraphic u -> v substitution) */
+  font-feature-settings: "locl" 0;
 }
 
 body {
@@ -380,9 +382,9 @@ th, td {
 }
 
 th {
-  font-family: var(--font-display);
-  font-size: 0.85rem;
-  letter-spacing: 0.05em;
+  font-family: var(--font-serif);
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
   font-weight: 600;
   text-transform: uppercase;
   background-color: var(--surface-color);
