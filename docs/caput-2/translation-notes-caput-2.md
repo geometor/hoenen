@@ -1,4 +1,4 @@
-> [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Table of Contents](../index.md)
+> [← Caput I Notes](../caput-1/translation-benchmark-caput-1.md) | [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Caput III Notes →](../caput-3/translation-notes-caput-3.md)
 
 ---
 
@@ -143,4 +143,4 @@
 
 ---
 
-> [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Table of Contents](../index.md)
+> [← Caput I Notes](../caput-1/translation-benchmark-caput-1.md) | [Latin](caput-2.md) | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | Notes | [Caput III Notes →](../caput-3/translation-notes-caput-3.md)

@@ -1,4 +1,4 @@
-> [Latin](appendix.md) | [English](appendix-en.md) | Summary | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
+> [← Caput VII Summary](../caput-7/caput-7-summary.md) | [Latin](appendix.md) | [English](appendix-en.md) | Summary | [Notes](translation-notes-appendix.md)
 
 ---
 
@@ -231,4 +231,4 @@ classDiagram
 
 ---
 
-> [Latin](appendix.md) | [English](appendix-en.md) | Summary | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
+> [← Caput VII Summary](../caput-7/caput-7-summary.md) | [Latin](appendix.md) | [English](appendix-en.md) | Summary | [Notes](translation-notes-appendix.md)

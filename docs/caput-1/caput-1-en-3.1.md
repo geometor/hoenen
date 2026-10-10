@@ -1,4 +1,4 @@
-> [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | Model 3.1 | [Table of Contents](../index.md)
+> [← Praefatio (3.1)](../preface/preface-en-3.1.md) | [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | Model 3.1
 
 ---
 
@@ -223,4 +223,4 @@ It is also a question of completely constituting the foundations of geometry; bu
 
 ---
 
-> [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | Model 3.1 | [Table of Contents](../index.md)
+> [← Praefatio (3.1)](../preface/preface-en-3.1.md) | [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | Model 3.1

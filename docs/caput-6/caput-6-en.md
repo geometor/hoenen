@@ -1,4 +1,4 @@
-> [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)
+> [← Chapter V](../caput-5/caput-5-en.md) | [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Chapter VII →](../caput-7/caput-7-en.md)
 
 ---
 
@@ -369,4 +369,4 @@ If it is posited merely as a means of calculation, as a "graphical representatio
 
 ---
 
-> [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)
+> [← Chapter V](../caput-5/caput-5-en.md) | [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Chapter VII →](../caput-7/caput-7-en.md)

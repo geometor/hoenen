@@ -1,4 +1,4 @@
-> [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
+> [← Chapter III](../caput-3/caput-3-en.md) | [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Chapter V →](../caput-5/caput-5-en.md)
 
 ---
 
@@ -700,4 +700,4 @@ Above (Chapter IV, § 4, no. 9) we found that diverse real relations have simila
 
 ---
 
-> [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
+> [← Chapter III](../caput-3/caput-3-en.md) | [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Chapter V →](../caput-5/caput-5-en.md)

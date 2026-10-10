@@ -40,9 +40,13 @@
 <body>
   <header class="site-header">
     <div class="site-header-inner">
-      <a href="{{ '/' | relative_url }}" class="site-title">DE NOETICA GEOMETRIAE</a>
-      <span class="site-sep">·</span>
-      <span class="site-subtitle">Petrus Hoenen, S. J.</span>
+      <div class="header-nav-prev" id="header-prev"></div>
+      <div class="header-title-box">
+        <a href="{{ '/' | relative_url }}" class="site-title">DE NOETICA GEOMETRIAE</a>
+        <span class="site-sep">·</span>
+        <span class="site-subtitle">Petrus Hoenen, S. J.</span>
+      </div>
+      <div class="header-nav-next" id="header-next"></div>
     </div>
   </header>
 
@@ -70,5 +74,8 @@
       </nav>
     </div>
   </footer>
+
+  <!-- Chapter TOC & Navigation Sync -->
+  <script src="{{ '/assets/js/chapter-nav.js' | relative_url }}"></script>
 </body>
 </html>

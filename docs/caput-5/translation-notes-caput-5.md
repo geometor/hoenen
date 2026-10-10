@@ -1,4 +1,4 @@
-> [Latin](caput-5.md) | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | Notes | [Table of Contents](../index.md)
+> [← Caput IV Notes](../caput-4/translation-notes-caput-4.md) | [Latin](caput-5.md) | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | Notes | [Caput VI Notes →](../caput-6/translation-notes-caput-6.md)
 
 ---
 
@@ -99,4 +99,4 @@
 
 ---
 
-> [Latin](caput-5.md) | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | Notes | [Table of Contents](../index.md)
+> [← Caput IV Notes](../caput-4/translation-notes-caput-4.md) | [Latin](caput-5.md) | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | Notes | [Caput VI Notes →](../caput-6/translation-notes-caput-6.md)

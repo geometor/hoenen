@@ -1,4 +1,4 @@
-> Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput V](../caput-5/caput-5.md) | Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Caput VII →](../caput-7/caput-7.md)
 
 ---
 
@@ -192,4 +192,4 @@ Inde diiudicare possumus conatus (ex primo tempore theoriae relativitatis, necdu
 
 ---
 
-> Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput V](../caput-5/caput-5.md) | Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Caput VII →](../caput-7/caput-7.md)

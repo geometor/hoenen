@@ -1,4 +1,4 @@
-> [Latin](caput-6.md) | [English](caput-6-en.md) | Summary | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)
+> [← Caput V Summary](../caput-5/caput-5-summary.md) | [Latin](caput-6.md) | [English](caput-6-en.md) | Summary | [Notes](translation-notes-caput-6.md) | [Caput VII Summary →](../caput-7/caput-7-summary.md)
 
 ---
 
@@ -175,4 +175,4 @@ classDiagram
 
 ---
 
-> [Latin](caput-6.md) | [English](caput-6-en.md) | Summary | [Notes](translation-notes-caput-6.md) | [Table of Contents](../index.md)
+> [← Caput V Summary](../caput-5/caput-5-summary.md) | [Latin](caput-6.md) | [English](caput-6-en.md) | Summary | [Notes](translation-notes-caput-6.md) | [Caput VII Summary →](../caput-7/caput-7-summary.md)

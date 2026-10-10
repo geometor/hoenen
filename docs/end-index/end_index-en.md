@@ -1,4 +1,4 @@
-> [Latin](end_index.md) | English | [Table of Contents](../index.md)
+> [← Appendix](../appendix/appendix-en.md) | [Latin](end_index.md) | English
 
 ---
 
@@ -181,4 +181,4 @@
 
 ---
 
-> [Latin](end_index.md) | English | [Table of Contents](../index.md)
+> [← Appendix](../appendix/appendix-en.md) | [Latin](end_index.md) | English

@@ -1,4 +1,4 @@
-> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Caput II Summary →](../caput-2/caput-2-summary.md)
 
 ---
 
@@ -59,4 +59,4 @@ While acknowledging the logical brilliance of these modern methods, Hoenen argue
 
 ---
 
-> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Caput II Summary →](../caput-2/caput-2-summary.md)

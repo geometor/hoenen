@@ -1,4 +1,4 @@
-> Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput II](../caput-2/caput-2.md) | Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Caput IV →](../caput-4/caput-4.md)
 
 ---
 
@@ -270,4 +270,4 @@ Et in hoc inveniendo, simul intelligimus dependentiam nostram ab hac materia et 
 
 ---
 
-> Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput II](../caput-2/caput-2.md) | Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Caput IV →](../caput-4/caput-4.md)

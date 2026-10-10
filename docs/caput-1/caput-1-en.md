@@ -1,4 +1,4 @@
-> [Latin](caput-1.md) | English | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
+> [← Preface](../preface/preface-en.md) | [Latin](caput-1.md) | English | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Chapter II →](../caput-2/caput-2-en.md)
 
 ---
 
@@ -275,4 +275,4 @@ Our goal is not to construct an exhaustive, technical axiomatization of geometry
 
 ---
 
-> [Latin](caput-1.md) | English | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Table of Contents](../index.md)
+> [← Preface](../preface/preface-en.md) | [Latin](caput-1.md) | English | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Chapter II →](../caput-2/caput-2-en.md)

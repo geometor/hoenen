@@ -1,4 +1,4 @@
-> [Latin](caput-4.md) | [English](caput-4-en.md) | Summary | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
+> [← Caput III Summary](../caput-3/caput-3-summary.md) | [Latin](caput-4.md) | [English](caput-4-en.md) | Summary | [Notes](translation-notes-caput-4.md) | [Caput V Summary →](../caput-5/caput-5-summary.md)
 
 ---
 
@@ -154,4 +154,4 @@ flowchart TD
 
 ---
 
-> [Latin](caput-4.md) | [English](caput-4-en.md) | Summary | [Notes](translation-notes-caput-4.md) | [Table of Contents](../index.md)
+> [← Caput III Summary](../caput-3/caput-3-summary.md) | [Latin](caput-4.md) | [English](caput-4-en.md) | Summary | [Notes](translation-notes-caput-4.md) | [Caput V Summary →](../caput-5/caput-5-summary.md)

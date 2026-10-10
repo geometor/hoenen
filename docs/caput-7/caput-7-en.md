@@ -1,4 +1,4 @@
-> [Latin](caput-7.md) | English | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Table of Contents](../index.md)
+> [← Chapter VI](../caput-6/caput-6-en.md) | [Latin](caput-7.md) | English | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix-en.md)
 
 ---
 
@@ -374,4 +374,4 @@ It seems therefore to be of the highest moment in constructing noetics itself an
 
 ---
 
-> [Latin](caput-7.md) | English | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Table of Contents](../index.md)
+> [← Chapter VI](../caput-6/caput-6-en.md) | [Latin](caput-7.md) | English | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix-en.md)

@@ -1,4 +1,4 @@
-> [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
+> [← Chapter VII](../caput-7/caput-7-en.md) | [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Analytical Index →](../end-index/end_index-en.md)
 
 ---
 
@@ -628,4 +628,4 @@ In all these matters there seems to be present abundant occasion, from concrete 
 
 ---
 
-> [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Table of Contents](../index.md)
+> [← Chapter VII](../caput-7/caput-7-en.md) | [Latin](appendix.md) | English | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Analytical Index →](../end-index/end_index-en.md)

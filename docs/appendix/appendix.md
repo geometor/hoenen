@@ -1,4 +1,4 @@
-> Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput VII](../caput-7/caput-7.md) | Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Index Analyticus →](../end-index/end_index.md)
 
 ---
 
@@ -325,4 +325,4 @@ In omnibus his materiis adesse videtur occasio abundans, ex casibus concretis (i
 
 ---
 
-> Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput VII](../caput-7/caput-7.md) | Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Index Analyticus →](../end-index/end_index.md)

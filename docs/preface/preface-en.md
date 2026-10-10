@@ -1,4 +1,4 @@
-> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)
+> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Chapter I →](../caput-1/caput-1-en.md)
 
 ---
 
@@ -32,4 +32,4 @@ Rome, during the commemorative celebrations marking the completion of the fourth
 
 ---
 
-> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Table of Contents](../index.md)
+> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Chapter I →](../caput-1/caput-1-en.md)

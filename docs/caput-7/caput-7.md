@@ -1,4 +1,4 @@
-> Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput VI](../caput-6/caput-6.md) | Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix.md)
 
 ---
 
@@ -229,4 +229,4 @@ Videtur ergo summi momenti esse in construenda ipsa noetica et in ea evolvenda. 
 
 ---
 
-> Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput VI](../caput-6/caput-6.md) | Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix.md)

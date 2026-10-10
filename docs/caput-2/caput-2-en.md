@@ -1,4 +1,4 @@
-> [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)
+> [← Chapter I](../caput-1/caput-1-en.md) | [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Chapter III →](../caput-3/caput-3-en.md)
 
 ---
 
@@ -459,4 +459,4 @@ The problem of necessity in geometry is thus completely solved, prior to and ind
 
 ---
 
-> [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Table of Contents](../index.md)
+> [← Chapter I](../caput-1/caput-1-en.md) | [Latin](caput-2.md) | English | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Chapter III →](../caput-3/caput-3-en.md)

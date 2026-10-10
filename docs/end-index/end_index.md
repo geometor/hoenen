@@ -1,4 +1,4 @@
-> Latin | [English](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> [← Appendix](../appendix/appendix.md) | Latin | [English](end_index-en.md)
 
 ---
 
@@ -165,4 +165,4 @@ Additiones . . . . . . . . . . . . . . . . . . . . . . . . . . 286
 
 ---
 
-> Latin | [English](end_index-en.md) | [Conspectus Totius Operis](../index.md)
+> [← Appendix](../appendix/appendix.md) | Latin | [English](end_index-en.md)

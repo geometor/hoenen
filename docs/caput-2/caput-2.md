@@ -1,4 +1,4 @@
-> Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput I](../caput-1/caput-1.md) | Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Caput III →](../caput-3/caput-3.md)
 
 ---
 
@@ -391,4 +391,4 @@ Et ita in his considerationibus iam finis noster principalis optime attingi vide
 
 ---
 
-> Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Conspectus Totius Operis](../index.md)
+> [← Caput I](../caput-1/caput-1.md) | Latin | [English](caput-2-en.md) | [Summary](caput-2-summary.md) | [Notes](translation-notes-caput-2.md) | [Caput III →](../caput-3/caput-3.md)

@@ -1,4 +1,4 @@
-> [Latin](preface.md) | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | Model 3.1 | [Table of Contents](../index.md)
+> [Latin](preface.md) | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | Model 3.1 | [Caput I (3.1) →](../caput-1/caput-1-en-3.1.md)
 
 ---
 
@@ -34,4 +34,4 @@ P. HOENEN S. J.
 
 ---
 
-> [Latin](preface.md) | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | Model 3.1 | [Table of Contents](../index.md)
+> [Latin](preface.md) | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | Model 3.1 | [Caput I (3.1) →](../caput-1/caput-1-en-3.1.md)
