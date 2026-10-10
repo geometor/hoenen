@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="la">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  {% if site.description %}
+  <meta name="description" content="{{ site.description }}">
+  {% endif %}
+
+  <!-- Google Fonts: EB Garamond (Classical Roman Serif) & Cinzel -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Cinzel:wght@500;600;700&subset=latin,greek,latin-ext&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- MathJax for Mathematical & Epistemological Formulas -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    };
+  </script>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+
+  {% include head-custom.html %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">DE NOETICA GEOMETRIAE</a>
+      <span class="site-sep">·</span>
+      <span class="site-subtitle">Petrus Hoenen, S. J.</span>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+      <article class="manuscript markdown-body">
+        {{ content }}
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-ornament">❖</div>
+      <p class="footer-title"><em>De Noetica Geometriae: Origine Theoriae Cognitionis</em></p>
+      <p class="footer-meta">Petrus H. J. Hoenen, S. J. — <em>Analecta Gregoriana</em>, Romae 1954</p>
+      <nav class="footer-nav">
+        <a href="{{ '/' | relative_url }}">Conspectus Totius Operis</a>
+        <span class="nav-sep">·</span>
+        <a href="{{ '/about/peter-hoenen.html' | relative_url }}">P. Hoenen</a>
+        <span class="nav-sep">·</span>
+        <a href="{{ '/bibliography.html' | relative_url }}">Bibliographia</a>
+        <span class="nav-sep">·</span>
+        <a href="https://github.com/geometor/hoenen" target="_blank" rel="noopener">GitHub</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>

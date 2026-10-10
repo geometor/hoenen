@@ -1,0 +1,18 @@
+title: "De Noetica Geometriae"
+description: "Petrus Hoenen, S.J. — Analecta Gregoriana, Romae 1954"
+author: "Petrus H. J. Hoenen, S.J."
+url: "https://geometor.github.io"
+baseurl: "/hoenen"
+
+# Markdown engine settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Apply default layout to all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
