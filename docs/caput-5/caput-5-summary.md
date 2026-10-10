@@ -5,7 +5,7 @@
 # CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT V
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput V: *De Axiomatica* (pp. 157–196)  
+**Chapter:** Caput V: *De Axiomatica*  
 
 ---
 
@@ -35,7 +35,7 @@ flowchart TD
     A --> F["§ 5. The Application of Geometry: Classical vs. Axiomatic to Physical Extension"]
 ```
 
-### § 1. On the Axiomatic Method (pp. 157–164)
+### [§ 1. On the Axiomatic Method](caput-5.md#1-de-methodo-axiomatica)
 - **1. Axiomatics Strictly So Called (Modern Axiomatics):** Pure logical deduction from an established system of first propositions (axioms), where geometric terms (point, line, plane) are treated as uninterpreted tokens whose meaning is assumed unknown. Truth of premises is bracketed; only deductive correctness and immunity from internal contradiction are sought.
 - **2. Aristotle's Method:**
   - Distinction between *understanding* (*intellectus*, νοῦς), the habit of first principles, and *science* (*scientia*, ἐπιστήμη), the habit of demonstrated conclusions.
@@ -46,7 +46,7 @@ flowchart TD
 
 ---
 
-### § 2. On the Foundation of the Possibility of Axiomatics (pp. 164–173)
+### [§ 2. On the Foundation of the Possibility of Axiomatics](caput-5.md#2-de-fundamento-possibilitatis-axiomaticae)
 - **1. The Syllogism Expressed in Words:**
   - *Symbolic Abstraction:* The mind easily distinguishes the truth of propositions from the validity of formal consequence (*consequentia*).
   - Medieval logic recognized this by substituting "transcendent terms" ($A, B, C$) for material words (St. Albert the Great, Pseudo-Thomas).
@@ -60,7 +60,7 @@ flowchart TD
 
 ---
 
-### § 3. On the Execution of the Axiomatic Program (pp. 173–182)
+### [§ 3. On the Execution of the Axiomatic Program](caput-5.md#3-de-executione-programmatis-axiomatici)
 - **1. Preliminary Remarks:**
   - The twin requirements of axiomatics: **consistency** (freedom from contradiction) and **completeness**.
   - Rebuttal of the logistic interpretation of *"ex absurdo sequitur quodlibet"*: In medieval logic, this referred to formal consequence yielding both true and false propositions, not Russellian material implication where absurdity implies any arbitrary proposition.
@@ -77,7 +77,7 @@ flowchart TD
 
 ---
 
-### § 4. On the Appeal to the Phantasm in Other Sciences (pp. 182–192)
+### [§ 4. On the Appeal to the Phantasm in Other Sciences](caput-5.md#4-de-appellatione-ad-phantasma-in-aliis-scientiis)
 - **1. General Principle:**
   - Man in this life cannot think without a phantasm (*nihil potest mens nostra intelligere sine phantasmate*). Even symbolic logic relies upon spatial-geometric phantasms of written symbols.
 - **2. In Establishing First Principles:**
@@ -99,7 +99,7 @@ flowchart TD
 
 ---
 
-### § 5. On the Application of Geometry (pp. 192–196)
+### [§ 5. On the Application of Geometry](caput-5.md#5-de-applicatione-geometriae)
 - **A) Application of Classical Geometry:**
   - Classical geometry applies seamlessly to physical reality (Newtonian mechanics, optics, astronomy) because it was originally abstracted from physical extension. Physical measurements are recognized as approximations to exact geometric limits.
 - **B) The Breakdown of Axiomatics in Physical Application:**

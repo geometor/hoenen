@@ -5,7 +5,7 @@
 # CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT III
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput III: *De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium* (pp. 65–94)  
+**Chapter:** Caput III: *De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium*  
 
 ---
 
@@ -56,18 +56,18 @@ Geometric construction is neither empirical copying nor unconstrained creation *
 
 ## Detailed Section-by-Section Outline
 
-### Preliminary Remarks (*De statu quaestionis*, pp. 65–68)
+### [Preliminary Remarks (*De statu quaestionis*)](caput-3.md#de-problemate-exactitudinis)
 - Distinguishing the problem of exactitude from the problem of necessity.
 - Division of the problem: questions independent of the principle of individuation (Ch. 3) vs. questions dependent upon it (Ch. 4).
 
-### § 1. On the Formulation of the Problem (pp. 68–75)
+### [§ 1. On the Formulation of the Problem](caput-3.md#1-de-positione-problematis)
 - **1. In What the Problem Consists**: Absolute exactitude of geometric objects vs. inescapable inexactitude of sensory perception and imagination.
 - **2. Historical Perspectives**:
   - *Philosophers*: Aristotle’s angle-sum of a triangle (*Post. Anal.* I, 31); Proclus’s rejection of abstraction; Mill’s denial of exactitude and reduction of points to *minimum visibile*.
   - *Mathematicians*: Modern flight to arithmetic analysis; Klein and Poincaré on intuition; Study’s dismissal of classical geometry as a utopia; Wellstein on Euclid’s definition of a point.
 - **3. The Solution to be Sought**: The historical presence of exact concepts in the human mind; the question of the mathematical existence of boundaries in extended being.
 
-### § 2. On the Primary Notions of Classical Geometry (pp. 75–94)
+### [§ 2. On the Primary Notions of Classical Geometry](caput-3.md#2-de-primis-notionibus-geometriae-classicae)
 - **1. On the Point, Line, and Surface**: Wellstein’s limiting process (*Grenzprozeß*); the claim that points must be postulated by an act of will.
 - **2. The Division of Extended Being**:
   - The starting point: 3D extended being as extended (*ens extensum ut extensum*).

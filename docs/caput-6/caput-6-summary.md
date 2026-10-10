@@ -5,7 +5,7 @@
 # CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT VI
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae* (pp. 195–222)  
+**Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae*  
 
 ---
 
@@ -43,7 +43,7 @@ flowchart TD
 
 ---
 
-### § 1. Reiterated Comparison of Euclidean and Non-Euclidean Geometry (pp. 195–200)
+### [§ 1. Reiterated Comparison of Euclidean and Non-Euclidean Geometry](caput-6.md#1-iterata-comparatio-geometriae-euclidicae-et-non-euclidicae)
 
 - **1. Clarification Against *Gregorianum* Reviewers:**
   - Hoenen corrects a mischaracterization of his view (cf. *Gregorianum*, 1951): Euclidean geometry is not merely "more probable" than non-Euclidean geometries; it is **uniquely fundamental**, because it expresses the undeformed structure of extension as such.
@@ -57,9 +57,9 @@ flowchart TD
 
 ---
 
-### § 2. On Extension as the Fundamental Subject of Geometry (pp. 200–213)
+### [§ 2. On Extension as the Fundamental Subject of Geometry](caput-6.md#2-de-extensione-ut-est-subiectum-fundamentale-geometriae)
 
-#### A. On the Extension of Bodies (pp. 200–204)
+#### [A. On the Extension of Bodies](caput-6.md#a-de-extensione-corporum)
 - **1. Critique of Henri Poincaré (*La science et l'hypothèse*):**
   - Poincaré argues that measuring a physical circle tests only the properties of matter and measuring rods, not "space," concluding that geometric properties are arbitrary relations of bodies to space.
   - Hoenen replies: The experiment does bear on bodies, but on a unique, necessary property: **extension**.
@@ -67,7 +67,7 @@ flowchart TD
   - When we divide a body, we understand that it is **figurable**, and that this figurability flows *uniquely and necessarily* from extension (not color, weight, or temperature).
   - Contrasted with physical properties (e.g., electrification through friction in amber, ἤλεκτρον), which are contingent facts known only by observation without intrinsic intelligibility.
 
-#### B. On Space (pp. 204–208)
+#### [B. On Space](caput-6.md#b-de-spatio)
 - **1. Ontological Priority:** Real extended bodies are prior to place, and prior to any concept of "space."
 - **2. The Topography of the Universe:**
   - Bodies touch, establish mutual contacts, and create intermediate distances.
@@ -81,7 +81,7 @@ flowchart TD
     $$\text{Extended Bodies} \longrightarrow \text{Mutual Contacts (Spatial Relations)} \longrightarrow \text{Concept of Space}$$
   - Space without bodies is an empty abstraction.
 
-#### C. On the Relative Independence of the Notion of Extension from Experience (pp. 208–213)
+#### [C. On the Relative Independence of the Notion of Extension from Experience](caput-6.md#c-de-independentia-relativa-notionis-extensionis-ab-experientia)
 - **1. Autonomy of Intellective Intuition:**
   - The senses present the material fact; the intellect intuits **necessity** and **exactitude**.
   - *Mental Experiments:* In geometry, we can construct and divide figures validly in pure imagination (a body is figurable because extended). In physics, imagining a copper rod attracting paper leads to error.
@@ -93,9 +93,9 @@ flowchart TD
 
 ---
 
-### § 3. On Successive Extension (pp. 213–222)
+### [§ 3. On Successive Extension](caput-6.md#3-de-extensione-successiva)
 
-#### 1. On the Notion Itself and Its Proper Attributes (pp. 213–219)
+#### [1. On the Notion Itself and Its Proper Attributes](caput-6.md#1-de-ipsa-notione-et-eius-propriis)
 - **Two Kinds of Extension:**
   - *Permanent / Static Extension:* The 3D extension of bodies and trajectories (order of essence).
   - *Successive / Fluent Extension:* The duration of motion (*esse fluens*, order of existence).
@@ -110,7 +110,7 @@ flowchart TD
   5. *Contact and Penetration:* Measuring lines requires physical alignment; simultaneous durations **spontaneously penetrate and coincide**.
   6. *Category:* Bodies can be moved and rearranged in space (category *Ubi*); temporal order cannot be rearranged (**no motion in the category *Quando***).
 
-#### 2. Conclusions (pp. 219–222)
+#### [2. Conclusions](caput-6.md#2-conclusiones)
 - **A) Exactitude in Chronometry:**
   - Neo-positivist operationalism relies upon the *principle of specific chronometric indifference* (equal oscillations have equal duration under equal conditions).
 - **B) A Unique Specimen of Analogy:**

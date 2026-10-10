@@ -830,6 +830,16 @@ mjx-container[display="true"] {
   color: var(--link-hover) !important;
 }
 
+.markdown-body h3 a,
+.markdown-body h4 a {
+  text-decoration: none;
+}
+
+.markdown-body h3 a:hover,
+.markdown-body h4 a:hover {
+  text-decoration: underline;
+}
+
 .markdown-body blockquote {
   border-left-color: var(--quote-border) !important;
   color: var(--text-color) !important;
