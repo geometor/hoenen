@@ -3,12 +3,7 @@
 ---
 
 # AI SUMMARY & ANALYSIS
-# Appendix
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Section:** Appendix: *De connexionibus necessariis inter actus existentiales*  
-
----
+# Appendix: On the Necessary Connections Between Existential Acts
 
 ## Executive Summary
 

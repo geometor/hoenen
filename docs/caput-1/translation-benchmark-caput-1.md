@@ -3,13 +3,7 @@
 ---
 
 # TRANSLATION NOTES
-# Caput 1
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput I: *De Origine Cognitionis Geometricae et de Eius Problematica*  
-**Focus:** Philological Commentary, Translation Benchmark, and Scholarly Apparatus  
-
----
+# Chapter 1: On the Origin of Geometric Knowledge and Its Problematics
 
 ## 1. Translation Criteria and Apparatus Standards
 

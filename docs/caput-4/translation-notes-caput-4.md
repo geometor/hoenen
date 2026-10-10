@@ -3,13 +3,7 @@
 ---
 
 # TRANSLATION NOTES
-# Caput 4
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput IV: *De Problemate Exactitudinis. Pars II: De Figuris et Relationibus Exactis*  
-**Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
-
----
+# Chapter 4: On the Problem of Exactitude (Part II: On Exact Figures and Relations)
 
 ## 1. Philological & Conceptual Analyses
 

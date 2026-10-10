@@ -3,12 +3,7 @@
 ---
 
 # AI SUMMARY & ANALYSIS
-# Caput 1
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput I: *De Origine Cognitionis Geometricae et de Eius Problematica*  
-
----
+# Chapter 1: On the Origin of Geometric Knowledge and Its Problematics
 
 ## Executive Summary
 

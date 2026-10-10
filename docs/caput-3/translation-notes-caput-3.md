@@ -3,13 +3,7 @@
 ---
 
 # TRANSLATION NOTES
-# Caput 3
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput III: *De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium*  
-**Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
-
----
+# Chapter 3: On the Problem of Exactitude (Part I: On the Existence of Indivisibles)
 
 ## 1. Philological & Conceptual Analyses
 

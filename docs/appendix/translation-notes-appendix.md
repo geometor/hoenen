@@ -3,13 +3,7 @@
 ---
 
 # TRANSLATION NOTES
-# Appendix
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Section:** Appendix: *De connexionibus necessariis inter actus existentiales*  
-**Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
-
----
+# Appendix: On the Necessary Connections Between Existential Acts
 
 ## 1. Philological & Conceptual Analyses
 

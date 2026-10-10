@@ -3,12 +3,7 @@
 ---
 
 # AI SUMMARY & ANALYSIS
-# Caput 6
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae*  
-
----
+# Chapter 6: On the Fundamental Subject of Geometry
 
 ## Executive Summary
 

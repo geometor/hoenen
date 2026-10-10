@@ -3,12 +3,7 @@
 ---
 
 # AI SUMMARY & ANALYSIS
-# Caput 4
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput IV: *De Problemate Exactitudinis. Pars II: De Figuris et Relationibus Exactis*  
-
----
+# Chapter 4: On the Problem of Exactitude (Part II: On Exact Figures and Relations)
 
 ## Executive Summary
 

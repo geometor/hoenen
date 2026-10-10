@@ -3,13 +3,7 @@
 ---
 
 # TRANSLATION NOTES
-# Praefatio
-
-**Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Section:** *Praefatio*  
-**Focus:** Philological Commentary, Translation Criteria, and Scholarly Apparatus  
-
----
+# Preface
 
 ## 1. Translation Criteria and Apparatus Standards
 
