@@ -48,6 +48,12 @@
       return;
     }
 
+    // Determine appropriate title, counts, and page type
+    const path = window.location.pathname.toLowerCase();
+    const isSummary = path.includes('summary') || Boolean(article.querySelector('h1')?.textContent.includes('AI SUMMARY'));
+    const isNotes = path.includes('notes') || path.includes('benchmark') || Boolean(article.querySelector('h1')?.textContent.includes('TRANSLATION NOTES'));
+    const isEnglish = path.includes('-en') || document.documentElement.lang === 'en' || isSummary || isNotes;
+
     // Find all headings within the article
     const allHeadings = Array.from(article.querySelectorAll('h2, h3, h4, h5'));
     
@@ -61,73 +67,109 @@
 
     if (bodyHeadings.length === 0) return;
 
-    // Find where the actual section outline begins (first heading with §, numbered section, or Part)
-    let startIndex = bodyHeadings.findIndex(h => {
-      const text = h.textContent.trim();
-      return text.includes('§') || /^\d+\.\s+/.test(text) || /^(PART|PARS)\s+[IVXLCDM]+/i.test(text);
-    });
+    let candidateHeadings = [];
+    if (isSummary) {
+      // On summary pages, the hierarchy begins at Executive Summary
+      let startIndex = bodyHeadings.findIndex(h => /^executive\s+summary/i.test(h.textContent.trim()));
+      if (startIndex === -1) startIndex = 0;
+      candidateHeadings = bodyHeadings.slice(startIndex);
+    } else if (isNotes) {
+      // On translation notes, the hierarchy begins at the first numbered section
+      let startIndex = bodyHeadings.findIndex(h => /^\d+\.\s+/.test(h.textContent.trim()));
+      if (startIndex === -1) startIndex = 0;
+      candidateHeadings = bodyHeadings.slice(startIndex);
+    } else {
+      // On chapter pages, find where the section outline begins
+      let startIndex = bodyHeadings.findIndex(h => {
+        const text = h.textContent.trim();
+        return text.includes('§') || /^\d+\.\s+/.test(text) || /^(PART|PARS)\s+[IVXLCDM]+/i.test(text);
+      });
+      if (startIndex === -1) return;
+      candidateHeadings = bodyHeadings.slice(startIndex);
+    }
 
-    // Only generate outline on chapters with explicit sections (§, numbered sections, or Part)
-    if (startIndex === -1) return;
-
-    const candidateHeadings = bodyHeadings.slice(startIndex);
     if (candidateHeadings.length < 2) return;
 
     // Build the hierarchical outline tree (parents and nested children)
     const tree = [];
     let currentParent = null;
 
-    // Find the base heading level of major sections
-    let minSectionLevel = 6;
-    candidateHeadings.forEach(h => {
-      const lvl = parseInt(h.tagName.substring(1), 10);
-      const text = h.textContent.trim();
-      if (text.includes('§') || /^(PART|PARS)\s+/i.test(text) || /^\d+\.\s+/.test(text)) {
-        if (lvl < minSectionLevel) minSectionLevel = lvl;
-      }
-    });
-    if (minSectionLevel === 6) minSectionLevel = 2;
+    if (isSummary || isNotes) {
+      // On summaries and notes, H2 headings form top-level items, and H3/H4 form nested children
+      candidateHeadings.forEach((heading, idx) => {
+        if (!heading.id) {
+          heading.id = 'sec-' + (idx + 1) + '-' + heading.textContent
+            .trim()
+            .toLowerCase()
+            .replace(/[^\w\s-]/g, '')
+            .replace(/\s+/g, '-');
+        }
 
-    candidateHeadings.forEach((heading, idx) => {
-      // Ensure heading has an anchor ID
-      if (!heading.id) {
-        heading.id = 'sec-' + (idx + 1) + '-' + heading.textContent
-          .trim()
-          .toLowerCase()
-          .replace(/[^\w\s-]/g, '')
-          .replace(/\s+/g, '-');
-      }
+        const lvl = parseInt(heading.tagName.substring(1), 10);
+        if (lvl === 2) {
+          currentParent = {
+            heading: heading,
+            isPart: false,
+            children: []
+          };
+          tree.push(currentParent);
+        } else if (currentParent) {
+          currentParent.children.push(heading);
+        } else {
+          currentParent = {
+            heading: heading,
+            isPart: false,
+            children: []
+          };
+          tree.push(currentParent);
+        }
+      });
+    } else {
+      // On chapter pages, find base heading level of major sections
+      let minSectionLevel = 6;
+      candidateHeadings.forEach(h => {
+        const lvl = parseInt(h.tagName.substring(1), 10);
+        const text = h.textContent.trim();
+        if (text.includes('§') || /^(PART|PARS)\s+/i.test(text) || /^\d+\.\s+/.test(text)) {
+          if (lvl < minSectionLevel) minSectionLevel = lvl;
+        }
+      });
+      if (minSectionLevel === 6) minSectionLevel = 2;
 
-      const lvl = parseInt(heading.tagName.substring(1), 10);
-      const text = heading.textContent.trim();
-      const isPart = /^(PART|PARS)\s+[IVXLCDM]+/i.test(text);
-      const hasSectionMark = text.includes('§');
-      const isTopLevel = isPart || hasSectionMark || (lvl <= minSectionLevel);
+      candidateHeadings.forEach((heading, idx) => {
+        if (!heading.id) {
+          heading.id = 'sec-' + (idx + 1) + '-' + heading.textContent
+            .trim()
+            .toLowerCase()
+            .replace(/[^\w\s-]/g, '')
+            .replace(/\s+/g, '-');
+        }
 
-      if (isTopLevel) {
-        currentParent = {
-          heading: heading,
-          isPart: isPart,
-          children: []
-        };
-        tree.push(currentParent);
-      } else if (currentParent) {
-        currentParent.children.push(heading);
-      } else {
-        currentParent = {
-          heading: heading,
-          isPart: false,
-          children: []
-        };
-        tree.push(currentParent);
-      }
-    });
+        const lvl = parseInt(heading.tagName.substring(1), 10);
+        const text = heading.textContent.trim();
+        const isPart = /^(PART|PARS)\s+[IVXLCDM]+/i.test(text);
+        const hasSectionMark = text.includes('§');
+        const isTopLevel = isPart || hasSectionMark || (lvl <= minSectionLevel);
 
-    // Determine appropriate title and counts
-    const path = window.location.pathname.toLowerCase();
-    const isEnglish = path.includes('-en') || document.documentElement.lang === 'en';
-    const isNotes = path.includes('notes') || path.includes('benchmark');
-    const isSummary = path.includes('summary');
+        if (isTopLevel) {
+          currentParent = {
+            heading: heading,
+            isPart: isPart,
+            children: []
+          };
+          tree.push(currentParent);
+        } else if (currentParent) {
+          currentParent.children.push(heading);
+        } else {
+          currentParent = {
+            heading: heading,
+            isPart: false,
+            children: []
+          };
+          tree.push(currentParent);
+        }
+      });
+    }
 
     let tocTitle = 'Conspectus Capitis';
     let countLabel = 'sectiones';
@@ -196,6 +238,8 @@
         node.children.forEach(sub => {
           const subLi = document.createElement('li');
           subLi.className = 'chapter-toc-subitem';
+          const subLvl = parseInt(sub.tagName.substring(1), 10);
+          if (subLvl >= 4) subLi.classList.add('is-level-4');
 
           const subA = document.createElement('a');
           subA.href = '#' + sub.id;
@@ -215,9 +259,68 @@
     details.appendChild(list);
     nav.appendChild(details);
 
-    // Insert TOC before the first section heading
-    const firstSection = candidateHeadings[0];
-    firstSection.parentNode.insertBefore(nav, firstSection);
+    // Locate insertion point:
+    // 1. On summary pages: place TOC outline before Executive Summary
+    // 2. On other pages: place TOC outline right after the manuscript title block
+    function findTitleEndElement() {
+      const firstH1 = article.querySelector('h1');
+      if (!firstH1) return null;
+
+      let lastTitleElem = firstH1;
+      let next = firstH1.nextElementSibling;
+
+      while (next) {
+        if (next.tagName === 'H1') {
+          lastTitleElem = next;
+          next = next.nextElementSibling;
+          continue;
+        }
+
+        if (next.tagName === 'H2') {
+          const text = next.textContent.trim();
+          const isContentSection = text.includes('§') || 
+                                   /^\d+\.\s+/.test(text) || 
+                                   /^(PART|PARS)\s+[IVXLCDM]+/i.test(text) ||
+                                   /^executive\s+summary/i.test(text) ||
+                                   /^detailed\s+/i.test(text) ||
+                                   /^analytical\s+/i.test(text) ||
+                                   /^thematic\s+/i.test(text) ||
+                                   /^conceptual\s+/i.test(text) ||
+                                   /^scholarly\s+/i.test(text);
+          if (!isContentSection) {
+            lastTitleElem = next;
+            next = next.nextElementSibling;
+            continue;
+          }
+        }
+
+        break;
+      }
+
+      return lastTitleElem;
+    }
+
+    if (isSummary) {
+      const execHeading = bodyHeadings.find(h => /^executive\s+summary/i.test(h.textContent.trim()));
+      if (execHeading && execHeading.parentNode) {
+        execHeading.parentNode.insertBefore(nav, execHeading);
+      } else {
+        const lastTitle = findTitleEndElement();
+        if (lastTitle && lastTitle.parentNode) {
+          lastTitle.parentNode.insertBefore(nav, lastTitle.nextSibling);
+        } else {
+          candidateHeadings[0].parentNode.insertBefore(nav, candidateHeadings[0]);
+        }
+      }
+    } else {
+      const lastTitle = findTitleEndElement();
+      if (lastTitle && lastTitle.parentNode) {
+        lastTitle.parentNode.insertBefore(nav, lastTitle.nextSibling);
+      } else {
+        const firstSection = candidateHeadings[0];
+        firstSection.parentNode.insertBefore(nav, firstSection);
+      }
+    }
   }
 
   if (document.readyState === 'loading') {

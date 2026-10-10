@@ -513,9 +513,16 @@ article p:has(> em:only-child) {
 
 .chapter-toc-item {
   margin: 0 0 0.85rem 0;
+  line-height: 1.45;
+}
+
+.chapter-toc-item:not(.has-subsections) {
   break-inside: avoid;
   page-break-inside: avoid;
-  line-height: 1.45;
+}
+
+.chapter-toc-item.has-subsections {
+  break-inside: auto;
 }
 
 .chapter-toc-item.is-part-header {
@@ -563,6 +570,17 @@ article p:has(> em:only-child) {
 .chapter-toc-subitem {
   margin: 0.2rem 0;
   line-height: 1.4;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.chapter-toc-subitem.is-level-4 {
+  padding-left: 0.75rem;
+}
+
+.chapter-toc-subitem.is-level-4 .toc-sub-link {
+  font-size: 0.82rem;
+  opacity: 0.9;
 }
 
 .toc-sub-link {
