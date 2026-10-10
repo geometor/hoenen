@@ -7,27 +7,10 @@
 
 ## Executive Summary
 
-Caput VII forms the crowning philosophical synthesis of *De Noetica Geometriae*. Having examined the problems of necessity, exactitude, modern axiomatics, and the ontology of extension, Father Petrus Hoenen unifies the entire work around a single grand thesis: **Mathematical cognition, specifically the intuitive formal abstraction of intelligible matter, is the true, indispensable origin of general epistemology (*origo noeticae generalis*) and general metaphysics.**
+In Chapter 7, Father Petrus Hoenen presents the crowning philosophical synthesis of *De Noetica Geometriae*, uniting the problems of necessity, exactitude, axiomatics, and the ontology of extension into a single comprehensive thesis: mathematical cognition, operating through the intuitive formal abstraction of intelligible matter (*materia intelligibilis*), is the indispensable origin of general epistemology (*origo noeticae generalis*) and general metaphysics. Rather than contemplating pre-existing static entities in act or freely creating forms out of nothing, geometry operates as a constructive science where figures pre-exist in potency within continuous extension, known by actualizing them in construction (*poiountes gignōskousin* / *facientes cognoscunt*).
 
-The key insights established in this chapter include:
+Through this quasi-operative engagement with intelligible matter, the human intellect first discovers what understanding actually is (*quid sit intelligere*), distinguishing the apodictic certainty of "because I understand this" from the contingent observation of "because I see this with my eyes." By recognizing that the intelligible content grasped through formal abstraction belongs to real being, the mind establishes the twin foundational axioms linking noetics to metaphysics: "the intelligible is being" (*intelligibile est ens*) and "being of itself is intelligible" (*ens de se est intelligibile*). This intuitive grasp extends ultimately beyond formal quiddities to necessary connections between existential acts, providing the theoretical foundation for the epistemology of motion and real existence.
 
-1. **Geometry as a Constructive Science:** 
-   - Geometry does not deal with pre-existing, static figures in act (refuting Bertrand Russell), nor does the human mind freely invent figures *ex nihilo* (refuting Kantian and formalist creationism).
-   - Rather, figures pre-exist **in potency** within continuous extension as intelligible matter. Demonstrating the mathematical existence of a figure requires actualizing it through construction, a doctrine classical Thomism called **"quasi-operative demonstration"** (*demonstratio quasi operativa*), rooted in Aristotle's dictum: **ποιοῦντες γιγνώσκουσιν** (*poiountes gignōskousin*) / **"facientes cognoscunt"** ("in making they know", *Metaph.* IX, 9).
-2. **The Twofold Intelligibility of Intelligible Matter:**
-   - *Intelligibility of Passivity:* What intelligible matter can undergo (divisibility, addition, 1-to-1 correspondence, mutual contact, algebraic transposition).
-   - *Intelligibility of Activity:* While the transeunt causal influx in physical nature is hidden, mathematical constructive activity is *per se infallible* and intelligible, because its operation directly mirrors the intelligible nature of the matter it shapes.
-3. **The Genesis of Epistemological Realism:**
-   - In accordance with St. Thomas (*Q.D. de Veritate*, q. 10, a. 6), all human science begins with first indemonstrable principles rooted in sensible experience.
-   - The human mind first discovers **what understanding is** (*quid sit intelligere*) not by gazing inward into empty consciousness, but by intuiting necessary connections in external mathematical objects (*"quia hoc intelligo"* vs. *"quia hoc video"*).
-4. **From Mathematics to Metaphysics:**
-   - From the intuitive certainty that the understood disposition of the thing possesses objective reality arises the foundational axiom of noetics: **intelligibile est ens** ("the intelligible is being").
-   - From its converse reflection arises general metaphysics: **ens de se est intelligibile** ("being of itself is intelligible").
-5. **Physical Science and the Discrete Triumph of Atomic Theory:**
-   - While physical laws are empirical generalizations that may break down at cosmic or subatomic scales (e.g., Newtonian gravity), the discrete sciences demonstrate the profound mathematical intelligibility of nature. 
-   - The periodic table of chemical elements ($Z = 1, 2, 3, \dots, 92$) gloriously vindicates the ancient Aristotelian principle: **"species are like numbers"** (*species sunt sicut numeri*).
-6. **The Bridge to Existential Acts:**
-   - Intuitive abstraction grasps not only formal quiddities, but **necessary connections between existential acts**: *"This is moved, therefore it exists"* (*Hoc movetur ergo existit*); *"This is moved, therefore a moving cause exists"*; providing the direct theoretical runway for the treatise's Appendix.
 
 ---
 

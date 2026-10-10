@@ -7,37 +7,10 @@
 
 ## Executive Summary
 
-The Appendix to *De Noetica Geometriae*, originally published in *Gregorianum* (1953) as a standalone philosophical treatise, serves as the **crowning metaphysical capstone** of Father Petrus Hoenen's epistemological work. 
+The Appendix to *De Noetica Geometriae*, originally published in *Gregorianum* (1953), serves as the metaphysical capstone of Father Petrus Hoenen's epistemological work. While the preceding seven chapters established that the intellect intuits necessary and exact relations between forms and quiddities in intelligible matter, the Appendix extends intuitive abstraction to existence itself, demonstrating that the mind grasps necessary connections directly between existential acts (*actus existentiales*). Transposing the Cartesian *cogito* (which Scholastic tradition understood as an immediate intellective intuition of substantial being through accidental thinking) to the external perception of physical motion (*movetur ergo est*), Hoenen refutes David Hume's claim that the mind can never intuit necessary connections between distinct existences. Because motion points as with a finger to a presupposed existence, the existence of movement immediately demands the real existence of a subject, a place, an efficient cause, and an end.
 
-While the preceding seven chapters established that the intellect intuits necessary and exact relations between *forms and quiddities* in intelligible matter (*nexus formales*), the Appendix proves that the human mind also intuits **necessary connections directly between existential acts** (*actus existentiales*).
+Expanding this existential framework to cosmological relations, Hoenen demonstrates that spatial relations and mutual contacts necessarily presuppose objective temporal simultaneity in duration, providing a critical realist challenge to Einstein's operational relativization of simultaneity. Finally, entering into dialogue with Étienne Gilson, Hoenen resolves the modern controversy surrounding the conceptualization of being by showing that *esse* can indeed be grasped as a *ratio essendi* in the interior judgment of the intellect. He defines *esse* realistically as that which affirmative judgment attributes to an apprehended disposition of reality (*ita est in re*), culminating in the profound Thomistic doctrine that existence is determined by essence not as potency by act, but as act by potency.
 
-The central conclusions of the Appendix are:
-
-1. **The Extension of Intuitive Abstraction to Existence:**
-   - Classical epistemology recognized necessary relations between essences ($A$ is figurable because $A$ is extended).
-   - Hoenen proves that the intellect also intuits necessary relations between *acts of existing*: *"It is moved, therefore it is"* (*Movetur ergo est*).
-2. **Descartes and the Scholastics on *Cogito Ergo Sum*:**
-   - The Cartesian *cogito* is not a deductive syllogism, but a **simple intuition of the intellect** in internal experience, perceiving accidental *esse* (thinking) as necessarily presupposing substantial *esse* (the self).
-   - This exact doctrine was formulated centuries earlier by Aristotle (*Nic. Eth.* IX, 9) and St. Thomas (*Q.D. de Veritate*, q. 10, a. 12, ad 7).
-3. **The Four Existential Principles of Motion:**
-   - Transposing this intuition to external sensible reality, Hoenen establishes four fundamental existential illations regarding physical motion:
-     1. *Hoc movetur ergo existit* (Substantial Subject)
-     2. *Hoc movetur translatione ergo locus existit* (Place / Space)
-     3. *Hoc movetur ergo causa efficiens existit* (Efficient Causality)
-     4. *Hoc movetur ergo tendit in finem producendum* (Finality)
-4. **The Direct Refutation of David Hume:**
-   - Hume asserted that the mind can never see a necessary connection between the existence of one thing and the existence of another.
-   - Hoenen demonstrates that physical motion **"points, as with a finger, to another presupposed existence"** (*motus quasi digito monstrat aliam existentiam*): motion cannot exist without an existing subject, place, and actual moving cause.
-   - The causal principle is an immediate intellective intuition, not an empirical habit of constant conjunction.
-5. **The Realist Critique of Albert Einstein:**
-   - Spatial distance between bodies requires mutual contact across an intermediate body.
-   - Hoenen discovers that this contact is impossible unless the bodies **exist simultaneously in duration**.
-   - Coexistence in duration is an absolute ontological prerequisite for spatial relations, invalidating Einstein’s operational dismissal of absolute simultaneity.
-6. **Resolving Étienne Gilson’s "Center of Darkness":**
-   - Hoenen resolves the modern dilemma between "essentialist" and "existentialist" Thomism:
-   - *Esse* is indeed conceptualizable as a *ratio essendi* and interior word (*conceptio mentis*) of judgment.
-   - *Esse* is determined by essence **not as potency by act, but as act by potency** (*De Potentia*, q. 7, a. 2, ad 9).
-   - An operational definition of *esse* is established: *that which affirmative judgment attributes to an apprehended disposition of the thing* (*« ita est in re »*).
 
 ---
 

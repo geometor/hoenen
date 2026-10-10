@@ -7,18 +7,9 @@
 
 ## Executive Summary
 
-Peter Hoenen's primary argument in Chapter 1 is that the classical philosophical foundations of geometry (specifically the Aristotelian-Thomistic view) that mathematical knowledge originates from sensory data and intellective intuition, face profound challenges from modern mathematical theories. 
+In Chapter 1, Father Petrus Hoenen initiates his inquiry into the epistemology of geometry by confronting the classical Aristotelian-Thomistic view (that mathematical knowledge originates through intellective abstraction from sensory experience) with the crises introduced by modern mathematical critique. The core dilemma comprises two fundamental challenges: the problem of necessity (how universal, apodictic judgments arise from contingent sensations) and the problem of exactitude (how geometry claims absolute precision when human perception and imagination possess a finite threshold of exactitude).
 
-The two fundamental problems Hoenen identifies are:
-1. **Necessity**: How can absolutely necessary mathematical judgments arise from sensory data, which are inherently contingent?
-2. **Exactitude**: How can geometry claim perfect, infinite exactitude when human senses and imagination have a finite "threshold of exactitude"?
-
-According to Hoenen, modern mathematics attempted to bypass the problem of exactitude through three main avenues:
-- **Arithmetization of the Continuum**: Replacing the intuitive, sensory continuum with purely numerical (arithmetic) analysis.
-- **Critique of Euclid's 5th Postulate**: Developing non-Euclidean geometries that reveal classical geometry is not the only logically consistent system.
-- **Axiomatics**: Reducing geometry to a purely formal hypothetico-deductive system (like Hilbert's) where the meaning and evidence of axioms are irrelevant, focusing entirely on logical consistency.
-
-While acknowledging the logical brilliance of these modern methods, Hoenen argues they are philosophically incomplete because they fail to explain how mathematics applies to the real world (the objective extension) and they mistakenly abandon the rich, intuitive origins of geometric concepts. His goal is to investigate how to solve these modern "crises" by returning to examine the first principles of geometry through the lens of philosophy, establishing a theory of knowledge that bridges the gap between inexact sensory perception and exact, necessary geometric science.
+Hoenen surveys the three historical avenues by which modern mathematics sought to bypass this crisis: the arithmetization of the continuum, the development of non-Euclidean geometries, and formal axiomatics. While acknowledging their deductive rigor, he argues that severing geometry from sensible intuition leaves its real-world applicability unexplained. The chapter establishes the foundational program for the treatise: to resolve these modern dilemmas by re-examining the first principles of geometry through a realist noetics.
 
 ---
 

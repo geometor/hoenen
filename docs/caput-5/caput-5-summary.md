@@ -7,16 +7,9 @@
 
 ## Executive Summary
 
-In Caput V, Father Petrus Hoenen presents a profound philosophical critique of the **axiomatic method in the modern sense** (David Hilbert, Bertrand Russell, Alfred North Whitehead), confronting it with the classical Aristotelian-Thomistic theory of demonstrative science (*Analytica Posteriora*).
+In Caput V, Father Petrus Hoenen presents a systematic philosophical critique of the modern axiomatic method (David Hilbert, Bertrand Russell, Alfred North Whitehead), confronting formalist axiomatics with the classical Aristotelian-Thomistic theory of demonstrative science (*Analytica Posteriora*). Hoenen dismantles the formalist claim that geometry can be constructed as a purely autonomous, de-semanticized deductive system operating without intuition (*ohne Anschauung*), showing that formal deduction itself is grounded in the natural capacity of the human intellect to abstract formal consequence from material meaning.
 
-Hoenen dismantles the formalist claim that geometry can be constructed as a purely autonomous, de-semanticized deductive system operating without intuition (*ohne Anschauung*). He demonstrates that:
-1. **The Foundation of Axiomatics is Symbolic Abstraction:** Pure formal deduction is valid only because the human intellect possesses the natural capacity to abstract formal consequence (*consequentia*) from material meaning, using "transcendent terms" (schematic letters).
-2. **The Syllogism is Natural and Intuitive:** Reasoning is not the mechanical execution of extrinsic rules, but the vital, intuitive operation of the intellect discerning necessary connections between objective states of affairs (*dispositiones rei*, *Sachverhalte*).
-3. **The Practical and Theoretical Failure of Pure Axiomatics:**
-   - *Practically:* A purely formal deduction of complete geometry without intuition generates an unmanageable explosion of syntactic verbosity that surpasses human mental capability.
-   - *Theoretically:* Key axioms of order, connection, and topology (such as Hilbert’s Theorems 5 and 6 on the linear order of points) cannot be formulated or applied without direct appeal to the **spatial phantasm** of written symbols arranged on a page. Hilbert does not formalize geometry into logic; he smuggles geometric intuition into logic itself.
-4. **The Ubiquity of the Phantasm in Non-Geometric Sciences:** Even in arithmetic equation-solving ($ax^2 = bx + c$) and symbolic logistics (substitution in *Principia Mathematica* *2.01), every single deductive transition relies upon a mental syllogism of "type *Barbara*" whose minor premise is an immediate proposition verified by **empirical manipulation and spatial inspection of symbols in the phantasm**.
-5. **The Failure of Axiomatics in Physical Application:** Axiomatic geometry cannot be directly applied to physical bodies without creating an "infinite discrepancy" (since physical bodies terminate at discrete atomic/sensory minima, while geometry assumes infinite divisibility). Application is possible only by returning to classical formal abstraction, which grasps intelligible continuous extension within sensible reality.
+Hoenen demonstrates that pure axiomatics fails both practically and theoretically: practical execution generates an insurmountable explosion of syntactic complexity, while theoretical formalization covertly relies upon spatial phantasms (such as typographical order on a page) to establish fundamental topological axioms. Showing that even symbolic logic and algebra depend at every step on mental syllogisms verified through empirical inspection of symbols in the phantasm, Hoenen concludes that axiomatic geometry cannot be applied to real physical extension without returning to classical formal abstraction.
 
 ---
 
