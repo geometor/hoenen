@@ -2,7 +2,8 @@
 
 ---
 
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT III
+# AI SUMMARY & ANALYSIS
+# Caput 3
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput III: *De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium*  

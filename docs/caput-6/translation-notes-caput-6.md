@@ -2,10 +2,11 @@
 
 ---
 
-# Translation Notes & Philological Commentary: Caput VI
+# TRANSLATION NOTES
+# Caput 6
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae* (pp. 195–222)  
+**Chapter:** Caput VI: *De Subiecto Fundamentali Geometriae*  
 **Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
 
 ---

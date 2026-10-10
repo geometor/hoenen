@@ -2,10 +2,11 @@
 
 ---
 
-# Translation Notes & Philological Commentary: Caput II
+# TRANSLATION NOTES
+# Caput 2
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput II: *De Problemate Necessitatis* (pp. 29–64)  
+**Chapter:** Caput II: *De Problemate Necessitatis*  
 **Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
 
 ---

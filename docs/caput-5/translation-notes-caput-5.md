@@ -2,10 +2,11 @@
 
 ---
 
-# Translation Notes & Philological Commentary: Caput V
+# TRANSLATION NOTES
+# Caput 5
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput V: *De Axiomatica* (pp. 157–196)  
+**Chapter:** Caput V: *De Axiomatica*  
 **Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
 
 ---

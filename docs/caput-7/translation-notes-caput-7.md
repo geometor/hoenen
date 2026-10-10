@@ -2,10 +2,11 @@
 
 ---
 
-# Translation Notes & Philological Commentary: Caput VII
+# TRANSLATION NOTES
+# Caput 7
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Eiusque Cum Rebus Necessitate et Exactitudine* (Rome: Gregorian University Press, 1954)  
-**Chapter:** Caput VII: *De Extensione ut est Materia Intelligibilis* (pp. 223–248)  
+**Chapter:** Caput VII: *De Extensione ut est Materia Intelligibilis*  
 **Focus:** Philological Analyses, Historical Context, and Scholarly Apparatus  
 
 ---

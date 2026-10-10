@@ -2,7 +2,8 @@
 
 ---
 
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT VII
+# AI SUMMARY & ANALYSIS
+# Caput 7
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput VII: *De Extensione ut est Materia Intelligibilis*  

@@ -2,7 +2,8 @@
 
 ---
 
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT II
+# AI SUMMARY & ANALYSIS
+# Caput 2
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput II: *De Problemate Necessitatis*  

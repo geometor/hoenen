@@ -2,7 +2,8 @@
 
 ---
 
-# CHAPTER SUMMARY & ANALYTICAL OUTLINE: CAPUT V
+# AI SUMMARY & ANALYSIS
+# Caput 5
 
 **Work:** Petrus Hoenen, S.J., *De Noetica Geometriae: Origine Theoriae Cognitionis* (Rome: Gregorian University Press, 1954)  
 **Chapter:** Caput V: *De Axiomatica*  
