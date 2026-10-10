@@ -410,12 +410,22 @@ article > blockquote:last-of-type p {
   gap: 0.5rem;
 }
 
+/* Executive Summary Paragraphs */
+h2#executive-summary + p,
+h2#executive-summary + p + p {
+  color: var(--text-color) !important;
+  font-size: 1.05rem !important;
+  line-height: 1.75 !important;
+  text-align: justify;
+}
+
 /* Metadata and generation notes */
-article p:has(> em:only-child) {
+.generation-note {
   text-indent: 0 !important;
   text-align: center;
-  color: var(--text-muted);
-  font-size: 0.88rem;
+  color: var(--text-muted) !important;
+  font-size: 0.88rem !important;
+  margin: 2rem 0;
 }
 
 @media (max-width: 640px) {

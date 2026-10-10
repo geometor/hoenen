@@ -7,9 +7,10 @@
 
 ## Executive Summary
 
-In Chapter 1, Father Petrus Hoenen initiates his inquiry into the epistemology of geometry by confronting the classical Aristotelian-Thomistic view (that mathematical knowledge originates through intellective abstraction from sensory experience) with the crises introduced by modern mathematical critique. The core dilemma comprises two fundamental challenges: the problem of necessity (how universal, apodictic judgments arise from contingent sensations) and the problem of exactitude (how geometry claims absolute precision when human perception and imagination possess a finite threshold of exactitude).
+In Chapter 1, Father Petrus Hoenen initiates his inquiry into the **epistemology of geometry** by confronting the **classical Aristotelian-Thomistic view** (that mathematical knowledge originates through **intellective abstraction from sensory experience**) with the crises introduced by modern mathematical critique. The core dilemma comprises two fundamental challenges: the **problem of necessity** (how universal, apodictic judgments arise from contingent sensations) and the **problem of exactitude** (how geometry claims absolute precision when human perception and imagination possess a finite **threshold of exactitude**).
 
-Hoenen surveys the three historical avenues by which modern mathematics sought to bypass this crisis: the arithmetization of the continuum, the development of non-Euclidean geometries, and formal axiomatics. While acknowledging their deductive rigor, he argues that severing geometry from sensible intuition leaves its real-world applicability unexplained. The chapter establishes the foundational program for the treatise: to resolve these modern dilemmas by re-examining the first principles of geometry through a realist noetics.
+Hoenen surveys the three historical avenues by which modern mathematics sought to bypass this crisis: the **arithmetization of the continuum**, the development of **non-Euclidean geometries**, and **formal axiomatics**. While acknowledging their deductive rigor, he argues that severing geometry from sensible intuition leaves its real-world applicability unexplained. The chapter establishes the foundational program for the treatise: to resolve these modern dilemmas by re-examining the **first principles of geometry** through a **realist noetics**.
+
 
 ---
 

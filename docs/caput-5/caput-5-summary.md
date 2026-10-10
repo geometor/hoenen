@@ -7,9 +7,10 @@
 
 ## Executive Summary
 
-In Caput V, Father Petrus Hoenen presents a systematic philosophical critique of the modern axiomatic method (David Hilbert, Bertrand Russell, Alfred North Whitehead), confronting formalist axiomatics with the classical Aristotelian-Thomistic theory of demonstrative science (*Analytica Posteriora*). Hoenen dismantles the formalist claim that geometry can be constructed as a purely autonomous, de-semanticized deductive system operating without intuition (*ohne Anschauung*), showing that formal deduction itself is grounded in the natural capacity of the human intellect to abstract formal consequence from material meaning.
+In Chapter 5, Father Petrus Hoenen presents a systematic philosophical critique of the **modern axiomatic method** (David Hilbert, Bertrand Russell, Alfred North Whitehead), confronting formalist axiomatics with the classical Aristotelian-Thomistic theory of **demonstrative science** (*Analytica Posteriora*). Hoenen dismantles the formalist claim that geometry can be constructed as a purely autonomous, de-semanticized deductive system operating **without intuition** (*ohne Anschauung*), showing that formal deduction itself is grounded in the natural capacity of the human intellect to abstract **formal consequence** from material meaning.
 
-Hoenen demonstrates that pure axiomatics fails both practically and theoretically: practical execution generates an insurmountable explosion of syntactic complexity, while theoretical formalization covertly relies upon spatial phantasms (such as typographical order on a page) to establish fundamental topological axioms. Showing that even symbolic logic and algebra depend at every step on mental syllogisms verified through empirical inspection of symbols in the phantasm, Hoenen concludes that axiomatic geometry cannot be applied to real physical extension without returning to classical formal abstraction.
+Hoenen demonstrates that pure axiomatics fails both practically and theoretically: practical execution generates an insurmountable explosion of **syntactic complexity**, while theoretical formalization covertly relies upon **spatial phantasms** (such as typographical order on a page) to establish fundamental topological axioms. Showing that even symbolic logic and algebra depend at every step on **mental syllogisms** verified through empirical inspection of symbols in the phantasm, Hoenen concludes that **axiomatic geometry** cannot be applied to real physical extension without returning to **classical formal abstraction**.
+
 
 ---
 
