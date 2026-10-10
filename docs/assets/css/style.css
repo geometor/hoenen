@@ -272,7 +272,19 @@ h3 {
   line-height: 1.35;
   text-align: left;
   margin-top: 1.75rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+
+h3 em {
+  font-weight: 400;
+  font-size: 0.88em;
+  color: var(--text-muted);
+}
+
+article h3 + ul {
+  margin-top: 0.2rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.25rem;
 }
 
 h4 {
@@ -471,28 +483,83 @@ article > blockquote:last-child p {
   margin: 0.75rem 0 0.25rem;
   padding: 0;
   border-top: 1px solid var(--border-color);
-  padding-top: 0.65rem;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 0.35rem 1.25rem;
+  padding-top: 0.75rem;
+  column-count: 2;
+  column-gap: 2.2rem;
+}
+
+@media (max-width: 720px) {
+  .chapter-toc-list {
+    column-count: 1;
+  }
 }
 
 .chapter-toc-item {
-  margin: 0;
+  margin: 0 0 0.85rem 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
   line-height: 1.45;
 }
 
-.chapter-toc-link {
+.chapter-toc-item.is-part-header {
+  column-span: all;
+  margin: 1.25rem 0 0.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.chapter-toc-item.is-part-header .toc-parent-link {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+
+.toc-parent-link {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 0.94rem;
   color: var(--text-color);
   text-decoration: none;
-  font-size: 0.93rem;
   display: block;
-  padding: 0.2rem 0.35rem;
+  padding: 0.15rem 0.35rem;
   border-radius: 3px;
   transition: all 0.12s ease;
 }
 
-.chapter-toc-link:hover {
+.toc-parent-link:hover {
+  color: var(--link-color);
+  background-color: var(--surface-alt);
+  text-decoration: none;
+}
+
+/* Nested Subsections Outline */
+.chapter-toc-sublist {
+  list-style: none;
+  margin: 0.3rem 0 0.45rem 0.55rem;
+  padding: 0 0 0 0.7rem;
+  border-left: 1px solid var(--border-color);
+}
+
+.chapter-toc-subitem {
+  margin: 0.2rem 0;
+  line-height: 1.4;
+}
+
+.toc-sub-link {
+  font-family: var(--font-serif);
+  font-size: 0.86rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  display: block;
+  padding: 0.12rem 0.3rem;
+  border-radius: 3px;
+  transition: all 0.12s ease;
+}
+
+.toc-sub-link:hover {
   color: var(--link-color);
   background-color: var(--surface-alt);
   text-decoration: none;
