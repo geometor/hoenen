@@ -17,7 +17,7 @@ Through this quasi-operative engagement with intelligible matter, the human inte
 ## Detailed Section-by-Section Outline
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Caput VII: De Extensione ut est Materia Intelligibilis"] --> B["§ 1. Construction of Geometric Figures"]
     A --> C["§ 2. Twofold Intelligibility of Intelligible Matter"]
     A --> D["§ 3. Origin of General Noetics (Origo Noeticae Generalis)"]

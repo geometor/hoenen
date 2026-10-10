@@ -89,7 +89,7 @@ Not a single letter was lost.
 A transcription of a 300-page scholarly book cannot merely be a string of text; it requires deliberate architectural engineering:
 
 ```mermaid
-flowchart TD
+flowchart LR
     Scan["Physical Scans & Photos (PDF / PNG)"] --> Multimodal["Direct Multimodal Vision (view_file)"]
     Multimodal --> PageTxt["Atomic Page Files (page-NNN.txt)"]
     PageTxt --> BuildScripts["Build Pipeline (docsrc/build_*.py)"]

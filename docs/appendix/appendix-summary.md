@@ -17,7 +17,7 @@ Expanding this existential framework to cosmological relations, Hoenen demonstra
 ## Detailed Section-by-Section Outline
 
 ```mermaid
-flowchart TD
+flowchart LR
     App["Appendix: De connexionibus necessariis inter actus existentiales"]
     App --> S1["§ 1. 'Movetur ergo est' (Descartes, Aristotle, Aquinas)"]
     App --> S2["§ 2. 'Hoc movetur ergo locus est' (Refutation of Hume)"]

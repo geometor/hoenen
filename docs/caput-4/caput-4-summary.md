@@ -16,7 +16,7 @@ By establishing that homogeneous extension permits the continuous actuation of i
 ## Detailed Section-by-Section Outline
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Caput IV: De Problemate Exactitudinis (Pars II)"] --> B["Animadversiones Praeviae: Virtual Judgments & Resolutio ad Sensum"]
     A --> C["§ 1. The Principle of Individuation in Geometry"]
     A --> D["§ 2. Motion in Geometry: Rebuttal of Bertrand Russell"]

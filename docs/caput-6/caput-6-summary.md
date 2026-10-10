@@ -17,7 +17,7 @@ Building upon this realist foundation, Hoenen articulates a crucial metaphysical
 ## Detailed Section-by-Section Outline
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Caput VI: De Subiecto Fundamentali Geometriae"] --> B["§ 1. Reiterated Comparison of Euclidean & Non-Euclidean Geometry"]
     A --> C["§ 2. Extension as the Fundamental Subject of Geometry"]
     A --> D["§ 3. On Successive Extension (Duration vs. Space)"]

@@ -16,7 +16,7 @@ Hoenen demonstrates that pure axiomatics fails both practically and theoreticall
 ## Detailed Section-by-Section Outline
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Caput V: De Axiomatica"] --> B["§ 1. The Axiomatic Method: Modern, Aristotelian, Semi-Axiomatic"]
     A --> C["§ 2. Foundation of Possibility: Symbolic Abstraction & Mental Syllogism"]
     A --> D["§ 3. Execution of the Axiomatic Program: Practical & Theoretical Limits"]
