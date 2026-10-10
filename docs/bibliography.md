@@ -1,6 +1,6 @@
 ---
 title: "Bibliography & Cited References (Bibliographia et Fontes)"
-description: "Comprehensive scholarly bibliography and annotated footnote concordance for Petrus Hoenen's De Noetica Geometriae (1954)."
+description: "Comprehensive critical bibliography and apparatus of cited sources for Petrus Hoenen's De Noetica Geometriae (1954), organized chronologically by death date with an alphabetical index."
 ---
 
 > [Conspectus Totius Operis](index.md) | [Agent Chronicle](agent-chronicle.md) | [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.md)
@@ -14,440 +14,1197 @@ This apparatus provides a comprehensive, critical reconstruction of all sources,
 
 Hoenen's citations reveal his unique intellectual position: trained in theoretical physics under Nobel laureate H. A. Lorentz at Leiden before teaching scholastic philosophy at the Gregorianum, he confronts the foundational crisis of modern mathematics (formalism, logicism, and non-Euclidean geometry) directly with the rigorous epistemology of Aristotle and St. Thomas Aquinas.
 
-The apparatus is divided into two sections:
-1. **[Part I: Systematic Bibliography](#part-i-systematic-bibliography)** — Verified academic citations grouped by tradition and field, detailing original editions, translations, and Hoenen's specific engagement with each author.
-2. **[Part II: Chapter-by-Chapter Footnote Concordance](#part-ii-chapter-by-chapter-footnote-concordance)** — A complete concordance of all 130 footnotes across the volume, presenting facing Latin citations, English translations, and identified works.
+The bibliography is organized as follows:
+1. **[Alphabetical Index of Authors](#alphabetical-index-of-authors)** — An A–Z directory of all 64 cited authors with direct links to their entries.
+2. **[Chronological Bibliography](#chronological-bibliography-ordered-by-death-date)** — All authors arranged strictly chronologically by death date (earliest first), spanning 2,400 years from Eudoxus of Cnidus (c. 355 BC) to José Alvarez Laso (1993 AD).
+
+Each entry consistently provides:
+* **Author (Born–Died)**
+  * **Book / Treatise Title** (*English Title*) Year
+    *Scholarly notes on editions, co-authors, translators, and historical context*
+    * **Citation**: Specific chapter and footnote in Hoenen's volume
+      * *What Hoenen refers to*: The exact text, theorem, or doctrine cited
+      * *How it supports the text*: How the citation functions within Hoenen's philosophical argumentation (problem of necessity, problem of exactitude, intuitive formal abstraction, intelligible matter, or the existential act)
 
 ---
 
-## Part I: Systematic Bibliography
+## Alphabetical Index of Authors
 
-### 1. Works of Fr. Petrus Hoenen, S.J. Cited in This Volume
 
-Father Hoenen frequently cites his earlier treatises to provide the systematic metaphysical and cosmological background for his arguments in geometry:
+### A
 
-* **Hoenen, Petrus, S.J.** (1931; 4th ed. 1949; 5th ed. 1956). *Cosmologia*. Romae: Apud Aedes Universitatis Gregorianae.
-  * *Subject & Citations*: Hoenen's standard textbook on the philosophy of nature. Cited throughout for:
-    * The category *ubi* and physical space (*lib. I, cap. II*; Note VI, p. 468; nos. 58–63).
-    * Continuous extension and the actuality of continua (Note XIII, pp. 527–530; nos. 152, 161).
-    * The relativity of motion and critique of neo-positivism (Note IV, p. 456; Note XV, p. 538).
-    * Motion as an existential act (*actus existentialis*).
-    * Cited in: Caput VI (nn. 2, 3), Appendix (nn. 6, 12, 15, 16, 17, 19, 20, 22, 33).
-* **Hoenen, Petrus, S.J.** (1946; 2nd ed. 1953). *La théorie du jugement d'après St. Thomas d'Aquin*. Analecta Gregoriana, Vol. XXXIX. Romae: Apud Aedes Universitatis Gregorianae.
-  * English translation: *Reality and Judgment According to St. Thomas*. Translated by Henry F. Tiblier, S.J. Chicago: Henry Regnery Company, 1952. (Cited as *Th. d. J.* and *R. a. J.*).
-  * *Subject & Citations*: Hoenen's epistemological masterpiece establishing the dual operation of the intellect (first operation = quiddity; second operation = *esse* / judgment). Cited for:
-    * Propositions *per se* and *per accidens* (Chs. III–IV).
-    * Reflections detecting the *esse* of realism (Chs. IX–XI).
-    * The *Cogito ergo sum* as immediate existential judgment (Ch. XII).
-    * Determination of the agent intellect by imaginative data (Ch. I–II).
-    * Comparison between Thomistic judgment and Franz Brentano's intentionality (Ch. II, § 4).
-    * Cited in: Praefatio (n. 2), Caput I (n. 2), Caput II (nn. 6, 13, 15, 17), Appendix (nn. 1, 25, 26, 27, 29, 30).
-* **Hoenen, Petrus, S.J.** (1949). *Filosofia della natura inorganica*. Brescia: Morcelliana.
-  * *Subject & Citations*: Treatise on inorganic natural philosophy, discussing the concept of space, coordinate systems, and Einstein's physical definitions.
-  * Cited in: Caput VI (n. 2), Appendix (nn. 16, 17).
-* **Hoenen, Petrus, S.J.** (1951). *De origine formae materialis*. Romae: Apud Aedes Universitatis Gregorianae (2nd ed.).
-  * *Subject & Citations*: Scholastic collection of texts and commentary on the eduction of material forms from the potency of matter.
-  * Cited in: Appendix (n. 22).
-* **Hoenen, Petrus, S.J.** (1933). "De origine primorum principiorum scientiae." *Gregorianum*, 14(2), 153–184.
-  * *Subject & Citations*: Foundational article on how the intellect intuits first principles within the sensible phantasm.
-  * Cited in: Caput II (n. 1).
-* **Hoenen, Petrus, S.J.** (1937). "Le « cogito ergo sum » comme intuition et comme mouvement de la pensée." In *Cartesio nel terzo centenario del « Discorso del Metodo »*, commemorative volume of *Rivista di Filosofia Neo-scolastica*, Milan: Vita e Pensiero, pp. 457–471.
-  * *Subject & Citations*: Landmark study of the Cartesian Cogito interpreted through Thomistic noetics.
-  * Cited in: Caput II (nn. 12, 14), Appendix (n. 1).
-* **Hoenen, Petrus, S.J.** (1938–1939). "De philosophia scholastica cognitionis geometricae." *Gregorianum*, 19(4), 498–514; 20(1), 19–54; 20(3), 321–350.
-  * *Subject & Citations*: The original three-part journal series that served as the initial draft and prototype for *De Noetica Geometriae*.
-  * Cited in: Praefatio (n. 1).
-* **Hoenen, Petrus, S.J.** (1948). "Pour une philosophie de la connaissance de l'étendue physique." In *Proceedings of the Tenth International Congress of Philosophy* (Amsterdam, August 11–18, 1948). Amsterdam: North-Holland Publishing. Reprinted in *Gregorianum*, 31 (1950), 126–132.
-  * *Subject & Citations*: Paper addressing how the mind abstracts mathematical continuity from physical sensations of extension.
-  * Cited in: Caput II (n. 8), Caput V (n. 11).
-* **Hoenen, Petrus, S.J.** (1951). "De fontibus geometriae: Responsio ad Cl. H. Freudenthal." *Gregorianum*, 32, 263–268.
-  * *Subject & Citations*: Critical exchange with mathematician Hans Freudenthal on the foundations of geometry.
-  * Cited in: Caput V (n. 2).
-* **Hoenen, Petrus, S.J.** (1953). "De duratione successiva et de quaestionibus connexis." *Gregorianum*, 34(1), 1–31.
-  * *Subject & Citations*: Study of successive duration as fluent existential extension (*esse fluens*).
-  * Cited in: Caput VI (n. 5), Appendix (nn. 14, 32).
-* **Hoenen, Petrus, S.J.** (1953). "De connexionibus necessariis inter actus existentiales." *Gregorianum*, 34(4), 603–639.
-  * *Subject & Citations*: The research study reproduced with additions as the Appendix of this monograph.
-  * Cited in: Caput VI (n. 7), Caput VII (n. 3).
+* [Albert the Great, St., O.P. (c. 1200 – 1280)](#albert-the-great-st-o-p)
+* [Alexander of Aphrodisias (fl. late 2nd – early 3rd c. AD (died c. 215 AD))](#alexander-of-aphrodisias)
+* [Alvarez Laso, José, C.M.F. (1910 – 1993)](#alvarez-laso-jose-c-m-f)
+* [Amaldi, Ugo (1875 – 1957)](#amaldi-ugo)
+* [Aristotle (384 – 322 BC)](#aristotle)
 
----
+### B
 
-### 2. Classical Greek & Ancient Sources
+* [Baeumker, Clemens (1853 – 1924)](#baeumker-clemens)
+* [Boethius, Anicius Manlius Severinus (c. 477 – 524 AD)](#boethius-anicius-manlius-severinus)
+* [Bonitz, Hermann (1814 – 1888)](#bonitz-hermann)
+* [Brentano, Franz (1838 – 1917)](#brentano-franz)
+* [Burnet, John (1863 – 1928)](#burnet-john)
 
-* **Aristotle** (*Aristoteles Stagirites*):
-  * *Posterior Analytics* (*Analytica Posteriora* / Ἀναλυτικὰ Ὕστερα):
-    * Cited continuously as the definitive classical epistemological text for the structure of deductive science, primitive axioms (*axiomata*), hypotheses (*hypotheseis*), postulates (*aitemata*), and intuitive induction (*epagoge*).
-    * Specific loci: I, 1 (71a14); I, 2 (71b–72a); I, 4 (73a–74a); I, 6; I, 10 (76a–77a); I, 12 (77b30: *tauta d'esti hoion horan te noesei*); I, 18 (81a–b); I, 31 (87b35); II, 19 (99b–100b).
-    * Editions: Recension of W. D. Ross (*Aristotle's Prior and Posterior Analytics*, Oxford: Clarendon Press, 1949); Theodor Waitz (*Organon Graece*, Leipzig, 1844–1846).
-  * *Prior Analytics* (*Analytica Priora* / Ἀναλυτικὰ Πρότερα):
-    * I, 4 (25b37–39: syllogism in Barbara); I, 23 (Waitz ed., I, pp. 427–429).
-  * *Physics* (*Physica* / Φυσικὴ ἀκρόασις):
-    * I, c. 3; III, c. 1; IV, c. 5 (212b14: definition of place); IV, c. 11 (219a11: time and magnitude); VI, c. 1–10 (indivisibles, continuity, continuum); VIII, c. 1 (251a8–16: necessity of actual existence of mobile and mover).
-    * Editions: W. D. Ross (*Aristotle's Physics*, Oxford, 1936); Henri Carteron (Paris: Budé, 1926).
-  * *Metaphysics* (*Metaphysica* / Τὰ μετὰ τὰ φυσικά):
-    * I, 9; III, 2; V, 9 (1018a9–14: diversity vs. difference); IX, 3 (1047a30–b2: actuality as movement and existence); IX, 8 (1050a21–23: *energeia* vs. *entelecheia*); X, 3 (1054b23–26); XIII (M), 2–3 (mathematical objects).
-    * Editions & Commentaries: W. D. Ross (*Aristotle's Metaphysics*, 2 vols., Oxford, 1924); Hermann Bonitz (*Aristotelis Metaphysica*, Bonn, 1848–1849).
-  * *De Anima* (Περὶ ψυχῆς):
-    * III, 4; III, 7 (431a14–16, 431b2: thinking in phantasms); III, 8 (432a5–9: *mathematica* abstracted from sensible things).
-    * Edition: F. Adolf Trendelenburg (*Aristotelis De Anima libri tres*, Berlin, 1877).
-  * *Nicomachean Ethics* (*Ethica Nicomachea* / Ἠθικὰ Νικομάχεια):
-    * VI, 8 (1142a12–20: youth can learn mathematics through abstraction but lack experience in natural philosophy); IX, 9 (1170a31 ff.: perceived sensing and perceived thinking).
-    * Commentary: John Burnet (*The Ethics of Aristotle*, London: Methuen, 1900).
-  * *Categories* (*Categoriae* / Κατηγορίαι):
-    * c. 6 (4b20–5b10: distinction between discrete and continuous quantity).
-* **Plato**:
-  * *Meno* (82b–85b: the slave-boy geometry demonstration and doctrine of recollection).
-  * *Republic* (VI 510c–d: mathematical hypotheses; VII 532c, 533c: the dialectical method overcoming hypotheses).
-  * *Phaedo* (74a ff.: exact equality vs. imperfect sensory approximations).
-  * *Parmenides* (156d–e: the sudden instant, *to exaiphnes*).
-* **Euclid** (*Eukleides*):
-  * *Elements* (*Elementa* / Στοιχεῖα):
-    * Book I: Definitions (point, line, surface), Postulates (especially Postulate V, the parallel postulate), Common Notions.
-    * Book V: Eudoxian theory of proportions.
-    * Reference: Sir Thomas L. Heath, *The Thirteen Books of Euclid's Elements* (Cambridge: Cambridge University Press, 1908; 2nd ed. 1926).
-* **Ancient Commentators on Aristotle**:
-  * **Alexander of Aphrodisias**: *In Aristotelis Metaphysica Commentaria*. Ed. Michael Hayduck. CAG Vol. I. Berlin: Reimer, 1891 (cited on Metaph. IX, 3, p. 573).
-  * **Themistius**: *In Aristotelis Physica Paraphrasis*. Ed. Heinrich Schenkl. CAG Vol. V.2. Berlin: Reimer, 1900 (cited on Phys. IV & VIII, p. 210).
-  * **Simplicius of Cilicia**: *In Aristotelis Physicorum Libros Commentaria*. Ed. Hermann Diels. CAG Vols. IX–X. Berlin: Reimer, 1882–1895 (cited on Phys. VIII, p. 127).
-  * **Proclus Diadochus**: *In primum Euclidis Elementorum librum commentarii*. Ed. Gottfried Friedlein. Leipzig: Teubner, 1873.
+### C
 
----
+* [Cantor, Georg (1845 – 1918)](#cantor-georg)
+* [Carteron, Henri (1891 – 1927)](#carteron-henri)
+* [Couturat, Louis (1868 – 1914)](#couturat-louis)
 
-### 3. Medieval Scholastic Philosophy
+### D
 
-* **St. Thomas Aquinas, O.P.** (*Doctor Angelicus*):
-  * *In Aristotelis libros Analyticorum Posteriorum expositio* (cited throughout, especially I, lect. 1, 5, 6, 17, 30; II, lect. 20).
-  * *In octo libros Physicorum Aristotelis expositio* (cited in III, lect. 5; IV, lect. 7, 17; VI; VIII).
-  * *In duodecim libros Metaphysicorum Aristotelis expositio* (cited in V, lect. 9; IX, lect. 3; X, lect. 4, no. 2017).
-  * *In Aristotelis librum De Anima commentarium* (ed. Angelo M. Pirotta, Turin: Marietti, 1936; cited in III, lect. 12, 13, nos. 770–772, 777, 791).
-  * *In libros Peri Hermeneias expositio* (I, lect. 5, no. 5; lect. 17).
-  * *In decem libros Ethicorum Aristotelis expositio* (VI, lect. 7; IX, lect. 11).
-  * *In libros De Caelo et Mundo expositio* (I, lect. 2, no. 9).
-  * *Super Boetium De Trinitate*:
-    * Question 5, Article 3, ad 3: Locus classicus on mathematical abstraction and *materia intelligibilis* (intelligible matter), transcribed and commented upon at length in Caput IV (n. 2).
-  * *Summa Theologiae*:
-    * First Part (*Prima Pars*): I, q. 7, a. 1 (*esse* as most formal); I, q. 12, a. 4, ad 3 (abstracting form and *esse*); I, q. 75, a. 6 (*intellectus apprehendit esse absolutum*); I, qq. 84–85 (intellectual abstraction and the phantasm).
-    * Second Part (*Secunda Secundae*): II-II, q. 24, a. 4, ad 3 (intensity of charity and quality).
-  * *Summa contra Gentiles*:
-    * I, c. 26, no. 2 (diversity of *esse* according to diverse natures).
-  * *Quaestiones disputatae de Potentia Dei*:
-    * q. 7, a. 2, ad 9 (*ipsum esse* as actuality of all acts); q. 8, a. 1 (conception of the intellect); q. 9, a. 5.
-  * *Quaestiones disputatae de Veritate*:
-    * q. 2, a. 3; q. 4, a. 2 (the concept as mental word).
-  * *Scriptum super Sententiis*:
-    * *In I Sent.*, d. 2, q. 1, a. 3 (definition of *ratio*); d. 19, q. 5, a. 1, ad 6 (*ratio essendi* denied to the senses).
-* **St. Albert the Great, O.P.** (*Doctor Universalis*):
-  * *In Analytica Priora*. Ed. Jammy. Lugduni, 1651, Vol. I, tract. I, cap. 9, p. 298a (use of transcendent formal terms).
-* **Boethius, Anicius Manlius Severinus**:
-  * *De Hebdomadibus* and *De Divisione* (concept of *communes animi conceptiones* / common axioms).
-* **Nicole Oresme** (Nicolaus Oresmius):
-  * *Tractatus de configurationibus qualitatum et motuum* (c. 1350). Cited via Anneliese Maier for the geometric representation of intensity and velocity in fluent *esse*.
+* [Dedekind, Richard (1831 – 1916)](#dedekind-richard)
+* [Descartes, René (1596 – 1650)](#descartes-rene)
+
+### E
+
+* [Einstein, Albert (1879 – 1955)](#einstein-albert)
+* [Enriques, Federigo (1871 – 1946)](#enriques-federigo)
+* [Euclid of Alexandria (fl. c. 300 BC (died c. 270 BC))](#euclid-of-alexandria)
+* [Eudoxus of Cnidus (c. 408 – c. 355 BC)](#eudoxus-of-cnidus)
+
+### F
+
+* [Freudenthal, Hans (1905 – 1990)](#freudenthal-hans)
+
+### G
+
+* [Geyser, Joseph (1869 – 1948)](#geyser-joseph)
+* [Gilson, Étienne (1884 – 1978)](#gilson-etienne)
+
+### H
+
+* [Hadamard, Jacques (1865 – 1963)](#hadamard-jacques)
+* [Hamelin, Octave (1856 – 1907)](#hamelin-octave)
+* [Hardy, Godfrey Harold (1877 – 1947)](#hardy-godfrey-harold)
+* [Hasse, Helmut (1898 – 1979)](#hasse-helmut)
+* [Hausdorff, Felix (1868 – 1942)](#hausdorff-felix)
+* [Heath, Sir Thomas Little (1861 – 1940)](#heath-sir-thomas-little)
+* [Hessenberg, Gerhard (1874 – 1925)](#hessenberg-gerhard)
+* [Hilbert, David (1862 – 1943)](#hilbert-david)
+* [Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961)](#hoenen-petrus-hubertus-jacobus-s-j)
+
+### K
+
+* [Kant, Immanuel (1724 – 1804)](#kant-immanuel)
+* [Killing, Wilhelm (1847 – 1923)](#killing-wilhelm)
+* [Klein, Felix (1849 – 1925)](#klein-felix)
+
+### L
+
+* [Leibniz, Gottfried Wilhelm (1646 – 1716)](#leibniz-gottfried-wilhelm)
+* [Locke, John (1632 – 1704)](#locke-john)
+* [Lonergan, Bernard, S.J. (1904 – 1984)](#lonergan-bernard-s-j)
+
+### M
+
+* [Maier, Anneliese (1905 – 1971)](#maier-anneliese)
+* [Meyerson, Émile (1859 – 1933)](#meyerson-emile)
+* [Mill, John Stuart (1806 – 1873)](#mill-john-stuart)
+* [Möbius, August Ferdinand (1790 – 1868)](#mobius-august-ferdinand)
+
+### N
+
+* [Nicole Oresme (c. 1320/1325 – 1382)](#nicole-oresme)
+
+### P
+
+* [Pasch, Moritz (1843 – 1930)](#pasch-moritz)
+* [Peano, Giuseppe (1858 – 1932)](#peano-giuseppe)
+* [Pirotta, Angelo M., O.P. (1871 – 1939)](#pirotta-angelo-m-o-p)
+* [Plato (c. 428/427 – c. 348/347 BC)](#plato)
+* [Poincaré, Henri (1854 – 1912)](#poincare-henri)
+* [Proclus Diadochus (412 – 485 AD)](#proclus-diadochus)
+
+### R
+
+* [Riehl, Alois (1844 – 1924)](#riehl-alois)
+* [Ross, Sir William David (1877 – 1971)](#ross-sir-william-david)
+* [Russell, Bertrand (1872 – 1970)](#russell-bertrand)
+
+### S
+
+* [Scholz, Heinrich (1884 – 1956)](#scholz-heinrich)
+* [Simplicius of Cilicia (c. 490 – c. 560 AD)](#simplicius-of-cilicia)
+* [Stammler, Gerhard (1898 – 1977)](#stammler-gerhard)
+* [Study, Eduard (1862 – 1930)](#study-eduard)
+
+### T
+
+* [Themistius (c. 317 – c. 388 AD)](#themistius)
+* [Thomas Aquinas, St., O.P. (1225 – 1274)](#thomas-aquinas-st-o-p)
+* [Trendelenburg, Friedrich Adolf (1802 – 1872)](#trendelenburg-friedrich-adolf)
+
+### V
+
+* [Vallée-Poussin, Charles-Jean de la (1866 – 1962)](#vallee-poussin-charles-jean-de-la)
+* [Voss, Aurel (1845 – 1931)](#voss-aurel)
+
+### W
+
+* [Waitz, Theodor (1821 – 1864)](#waitz-theodor)
+* [Weierstrass, Karl (1815 – 1897)](#weierstrass-karl)
+* [Wellstein, Josef (1869 – 1919)](#wellstein-josef)
+* [Weyl, Hermann (1885 – 1955)](#weyl-hermann)
 
 ---
 
-### 4. Modern Foundations of Mathematics & Axiomatics
+## Chronological Bibliography (Ordered by Death Date)
 
-* **Hilbert, David** (1899; 7th ed. 1930). *Grundlagen der Geometrie*. Leipzig: B. G. Teubner.
-  * *Hoenen's Engagement*: Analyzed extensively in Caput I, IV, and V. Hoenen critiques Hilbert's radical formalist reduction of primitive terms ("points, lines, planes") to uninterpreted relations (*Gedankendinge*), showing that geometric intuition and intelligible matter are smuggled back in through "explanations" (*Erklärungen*) and axioms of order/congruence.
-* **Klein, Felix**:
-  * (1902). *Anwendung der Differential- und Integralrechnung auf Geometrie: Eine Revision der Prinzipien*. Leipzig: B. G. Teubner.
-    * *Hoenen's Engagement*: Central to Caput I and III. Hoenen highlights Klein's explicit recognition of the sensory "threshold of exactitude" (*Schwellenwert*) that separates experimental measurement from mathematical exactitude.
-  * (1925). *Elementarmathematik vom höheren Standpunkte aus*. Vol. II: *Geometrie* (3rd ed.). Berlin: Julius Springer.
-    * *Hoenen's Engagement*: Cited in Caput IV (nn. 23, 24) on non-Euclidean geometry and the physical-mathematical comparison of parallel lines.
-* **Russell, Bertrand**:
-  * (1903; 2nd ed. 1937). *The Principles of Mathematics*. London: George Allen & Unwin.
-    * *Hoenen's Engagement*: Analyzed in Caput II, III, and IV (nn. 3, 4, 5, 28). Russell's sharp critiques of superposition (*congruence through motion*) and the empiricist derivation of circles are engaged and contextualized.
-  * (1919). *Introduction to Mathematical Philosophy*. London: Allen & Unwin.
-* **Poincaré, Henri**:
-  * (1902). *La Science et l'Hypothèse*. Paris: Ernest Flammarion. (Cited on mathematical convention and physical measurement).
-  * (1905). *La Valeur de la Science*. Paris: Ernest Flammarion. (Cited on types of intuition and the "amorphous" nature of continuous extension).
-  * (1913). *Dernières Pensées*. Paris: Ernest Flammarion. (Cited on the limits of arithmetization and geometric intuition).
-* **Pasch, Moritz** (1882; 2nd ed. with Max Dehn, 1926). *Vorlesungen über neuere Geometrie*. Berlin: Julius Springer.
-  * *Hoenen's Engagement*: Pasch's Axiom of order between points on a line and plane is analyzed in Caput II (nn. 9, 16) and Caput IV.
-* **Freudenthal, Hans** (1951). "De fontibus geometriae." *Gregorianum*, 32, 252–262.
-  * *Hoenen's Engagement*: Debate with Hoenen on whether geometry's origin is empirical, purely axiomatic, or intuitive-formal.
-* **Heath, Sir Thomas Little** (1921). *A History of Greek Mathematics*. 2 vols. Oxford: Clarendon Press.
-  * *Hoenen's Engagement*: Cited in Caput V (n. 1) on Aristotle's terminology for axioms, postulates, and hypotheses.
-* **Study, Eduard** (1914). *Die realistische Weltansicht und die Lehre vom Raume*. Braunschweig: Friedr. Vieweg & Sohn.
-  * *Hoenen's Engagement*: Cited in Caput I (n. 13) and Caput III (n. 5) on realism in geometry against conventionalism.
-* **Wellstein, Josef** (1905). "Elemente der Geometrie." In H. Weber & J. Wellstein (Eds.), *Enzyklopädie der Elementar-Mathematik*, Vol. II. Leipzig: Teubner. (Cited in Caput III nn. 6, 9; Caput IV n. 6).
-* **Killing, Wilhelm** (1893, 1898). *Einführung in die Grundlagen der Geometrie*. 2 vols. Paderborn: Schöningh. (Cited in Caput IV nn. 16, 17, 18, 19 on direction and parallels).
-* **Enriques, Federigo** (Ed.) (1924). *Questioni riguardanti le matematiche elementari*. Vol. I (3rd ed.). Bologna: Zanichelli. (Citing Ugo Amaldi on Euclidean postulates in Caput IV nn. 15, 20).
-* **Hadamard, Jacques** (1937). "La géométrie." In *Encyclopédie Française*, Vol. I: *L'outillage mental*, Section I-52-10. Paris. (Cited in Caput IV nn. 11, 22).
-* **Hausdorff, Felix** (1904). "Das Raumproblem." *Annalen der Naturphilosophie*, 3, 1–23. (Cited in Caput IV n. 21).
-* **Weyl, Hermann** (1927). *Philosophie der Mathematik und Naturwissenschaft*. Handbuch der Philosophie. München: R. Oldenbourg. (Cited in Caput IV n. 22).
-* **Hardy, Godfrey Harold** (1929). "Mathematical Proof." *Mind*, New Series, 38(149), 1–25. (Cited in Caput V nn. 8, 10 on the psychology vs. logic of proof).
-* **de la Vallée-Poussin, Charles-Jean** (1896). Proof of the Prime Number Theorem (cited in Caput V n. 8).
-* **Hessenberg, Gerhard** (1904). *Ebene und sphärische Trigonometrie*. Leipzig: Göschen. (Cited in Caput II n. 10).
-* **Couturat, Louis** (1904). "La philosophie des mathématiques de Kant." *Revue de Métaphysique et de Morale*, 12(3), 321–383. (Cited in Caput II n. 3; Caput III n. 8).
-* **Voss, Aurel** (1914). "Über die mathematische Erkenntnis." In *Die Kultur der Gegenwart*, Teil III, Abt. 1, pp. 385–440. Leipzig: Teubner. (Cited in Caput III n. 10).
+<a id="eudoxus-of-cnidus"></a>
+
+### Eudoxus of Cnidus (c. 408 – c. 355 BC)
+
+* **Theoria Proportionum (in Euclidis Elementa, Liber V)** (*Theory of Proportions (in Euclid's Elements, Book V)*) c. 370 BC
+  *Notes*: Preserved in Book V of Euclid's Elements; formulated the first rigorous definition of proportionality for both commensurable and incommensurable continuous geometric magnitudes.
+  * **Citation**: [Caput I, § 4 (p. 21) & Caput I, [^6]](caput-1/caput-1-en.md#4-on-the-arithmetization-of-the-continuum)
+    * *What Hoenen refers to*: The Eudoxian theory of proportions as the Greek mathematical solution to the crisis of irrational/incommensurable ratios (e.g., diagonal and side of a square).
+    * *How it supports the text*: Demonstrates that ancient Greek mathematics treated continuous extension as primary and sui generis. Instead of attempting to force continuous magnitude into discrete numerical fractions or arithmetic real numbers, Eudoxus developed a purely geometric theory of proportions, thereby demonstrating that geometric continuity cannot be reduced to discrete arithmetic.
 
 ---
 
-### 5. Modern Philosophy, Epistemology & Science
+<a id="plato"></a>
 
-* **Einstein, Albert**:
-  * (1921). *Geometrie und Erfahrung*. Berlin: Julius Springer. (Cited in Caput I n. 4 on the famous aphorism: "as far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality").
-  * (1930). Address in the journal *Forum*, 1, p. 173. (Cited in Caput VI n. 3 and Appendix n. 17 on the physical concept of coordinates and space).
-* **Descartes, René**:
-  * *Meditationes de Prima Philosophia* (1641).
-  * *Responsiones ad Secundas Objectiones* (ed. Charles Adam & Paul Tannery, Vol. VII, pp. 140–141). (Cited in Appendix n. 2 on the synthetic vs. analytic order and the Cogito).
-  * *Principia Philosophiae* (1644). Part II, art. 4–11 (extension as essence of body; Caput II n. 7).
-  * *Conversation with Burman* (1648; ed. Adam & Tannery, Vol. V, p. 164; Appendix n. 33).
-* **Leibniz, Gottfried Wilhelm** (1704; publ. 1765). *Nouveaux Essais sur l'entendement humain*. Book IV, ch. 7, § 10. (Cited in Caput II n. 2 on the deduction of 2 + 2 = 4).
-* **Locke, John** (1690). *An Essay Concerning Human Understanding*. Ed. A. C. Fraser. Oxford: Clarendon Press, 1894, Vol. II, Book IV, ch. 17, § 4. (Cited in Caput V n. 5: "God has not been so sparing to men to make them barely two-legged creatures, and left it to Aristotle to make them rational").
-* **Kant, Immanuel** (1781; 2nd ed. 1787). *Kritik der reinen Vernunft*. B14–15 (arithmetical judgment 7 + 5 = 12 as synthetic *a priori*; Caput II n. 4).
-* **Mill, John Stuart** (1843; 5th ed. 1862). *A System of Logic, Ratiocinative and Inductive*. London: Parker, Son, and Bourn, Vol. I, Book II, ch. 5, pp. 255–260. (Cited in Caput I and Caput III nn. 3, 4 on geometry as experimental science of physical traces).
-* **Brentano, Franz** (1874). *Psychologie vom empirischen Standpunkt*. Leipzig: Duncker & Humblot. (Cited in Appendix n. 26 on judgment vs. representation).
-* **Gilson, Étienne**:
-  * (1948). *L'être et l'essence*. Paris: J. Vrin.
-  * (1949). *Being and Some Philosophers*. Toronto: Pontifical Institute of Mediaeval Studies.
-  * *Hoenen's Engagement*: Critiqued in Appendix (nn. 23, 27) regarding whether *ipsum esse* is conceptualizable.
-* **Lonergan, Bernard, S.J.** (1946–1947). "The Concept of *Verbum* in the Writings of St. Thomas Aquinas." *Theological Studies*, 7(3), 349–392; 8(1), 35–79; 8(3), 404–444. (Cited in Appendix n. 24 on the interior word and *conceptio* of judgment).
-* **Baeumker, Clemens** (1890). *Das Problem der Materie in der griechischen Philosophie*. Münster: Aschendorff, pp. 288 ff. (Cited in Caput III n. 2 on intelligible matter in Aristotle).
-* **Geyser, Joseph** (1917). *Die Erkenntnistheorie des Aristoteles*. Münster: Heinrich Schöningh. (Cited in Caput I n. 3 on Aristotelian noetics).
-* **Meyerson, Émile** (1931). *Du cheminement de la pensée*. 3 vols. Paris: Félix Alcan, Vol. II, p. 391. (Cited in Appendix n. 7 on the search for identity and existential acts).
-* **Maier, Anneliese** (1943). *An der Grenze von Scholastik und Naturwissenschaft*. Rome: Edizioni di Storia e Letteratura, pp. 312 ff. (Cited in Appendix n. 33 on Nicole Oresme's configuration of qualities and motions).
-* **Stammler, Gerhard** (1928). *Begriff, Urteil, Schluss: Untersuchungen über die Grundlagen der Erkenntnislehre*. Halle (Saale): Max Niemeyer, pp. 229, 245. (Cited in Caput V n. 7).
-* **Riehl, Alois** (1921). "Logik und Erkenntnistheorie." In *Die Kultur der Gegenwart*, Teil I, Abt. 6 (3rd ed.), pp. 71 ff. Leipzig: Teubner. (Cited in Caput V n. 6).
-* **Waitz, Theodor** (1844–1846). *Aristotelis Organon Graece*. 2 vols. Leipzig: Hahn. (Commentary on *Prior Analytics* I, 23 cited in Caput IV n. 27).
+### Plato (c. 428/427 – c. 348/347 BC)
+
+* **Meno (Μένων)** (*Meno*) c. 385 BC
+  *Notes*: Socratic dialogue on virtue and learning; contains the famous geometry demonstration with an uneducated slave boy.
+  * **Citation**: [Caput I, § 2 (82b–85b)](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: Socrates eliciting geometric demonstrations (doubling the area of a square) from the slave boy through guided questioning without direct instruction.
+    * *How it supports the text*: Illustrates the classical recognition that mathematical knowledge possesses an intrinsic, necessary certainty that cannot be acquired merely through empirical generalization. While Plato explained this necessity through recollection (anamnesis) of transcendent Forms, Hoenen shows that the true ground is the intellect's intuitive formal abstraction reading necessary relations directly within the imaginative sensible presentation.
+
+* **Respublica (Πολιτεία)** (*The Republic*) c. 375 BC
+  *Notes*: Plato's foundational dialogue on justice and political philosophy; Books VI and VII formulate the divided line and the epistemology of mathematical hypotheses and dialectic.
+  * **Citation**: [Caput I, § 1 (VI 510c, VII 532c, 533c)](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: Plato's observation that geometers assume primitive principles (the odd and the even, figures, three kinds of angles) as unquestioned hypotheses (hypotheseis), and that the dialectician must investigate and destroy (anairei) these hypotheses to attain unhypothetical first principles.
+    * *How it supports the text*: Establishes the fundamental division of labor in the epistemology of mathematics: geometers construct their science from primitive postulates, but it belongs exclusively to the philosopher (the dialectician, metaphysician, or noeticist) to investigate the origin, truth, and necessity of those starting points.
 
 ---
 
-## Part II: Chapter-by-Chapter Footnote Concordance
+<a id="aristotle"></a>
 
-### [Praefatio](preface/preface-en.md) *(pp. 5–7)*
+### Aristotle (384 – 322 BC)
 
-* [Latin Source Text](preface/preface.md) | [English Translation](preface/preface-en.md)
+* **Analytica Posteriora (Ἀναλυτικὰ Ὕστερα)** (*Posterior Analytics*) c. 350 BC
+  *Notes*: The foundational peripatetic treatise on the structure of demonstrative science (episteme), first principles (nous), and intuitive induction (epagoge). Standard recension by W. D. Ross (Oxford, 1949); edition and commentary by Theodor Waitz (Leipzig, 1844–1846).
+  * **Citation**: [Caput I, § 1 (I, c. 1–2, 71a–72a; I, c. 10, 76a–77a)](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: Aristotle's classification of the primitive propositions of science: axioms (communes animi conceptiones / dignitates), hypotheses (suppositiones), and postulates (petitiones / aitemata).
+    * *How it supports the text*: Provides Hoenen with the structural architecture of deductive demonstration, proving that analysis cannot regress infinitely or circulate, and demonstrating that geometry is the primary historical prototype of apodictic science.
+  * **Citation**: [Caput I, [^1]](caput-1/caput-1-en.md#fn-1)
+    * *What Hoenen refers to*: Aristotle's conception of postulates (aitemata) as propositions assumed by the teacher without the student's initial assent, potentially including propositions like Euclid's Fifth Postulate.
+    * *How it supports the text*: Clarifies the difference between self-evident axioms and geometric postulates that demand assent without immediate self-evidence.
+  * **Citation**: [Caput I, § 2 (I, c. 12, 77b30)](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: The famous dictum: ταῦτα δ' ἐστὶν οἷον ὁρᾶν τῇ νοήσει ('these mathematical things are as it were seen by intellectual vision').
+    * *How it supports the text*: Serves as the textual cornerstone of Hoenen's entire treatise, proving that for Aristotle, mathematical cognition is an authentic intellectual intuition (intuitus mentis) that perceives formal natures within the sensible imagination.
+  * **Citation**: [Caput III, [^1] (I, c. 31, 87b35)](caput-3/caput-3-en.md#fn-1)
+    * *What Hoenen refers to*: Aristotle's argument: καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας... ('even if it were possible to perceive by sense that a triangle has angles equal to two right angles, we should still look for a demonstration and not possess scientific knowledge of it').
+    * *How it supports the text*: Refutes sensory empiricism (such as John Stuart Mill's): sense perception only grasps contingent, individual particulars; scientific exactitude and universal necessity require intellectual cognition.
+  * **Citation**: [Caput VII, [^1] (I, c. 1, 71a14 ff.)](caput-7/caput-7-en.md#fn-1)
+    * *What Hoenen refers to*: The crux of commentators regarding whether 'triangle' in Aristotle's opening demonstration is treated as a subject or as a passion/attribute (passio).
+    * *How it supports the text*: Analyzed via St. Thomas to demonstrate that the intellect constructs geometric figures in intelligible matter and reads their necessary attributes directly within that construction.
 
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | 1938, 498-514, De philosophia scholastica cognitionis geometricae; 1939, 19-54, De problemate necessitatis geometricae; 1939, 321-350, De problemate exactitudinis geometricae I; 1943, 171-234, De problemate exactitudinis geometricae II. Cfr. etiam Gregorianum, 1951, 434-452, De noetica geometriae, responsum ad animadversiones clmi. H. Freudenthal. | 1938, pp. 498–514, *De philosophia scholastica cognitionis geometricae* [On the Scholastic Philosophy of Geometric Knowledge]; 1939, pp. 19–54, *De problemate necessitatis geometricae* [On the Problem of Geometric Necessity]; 1939, pp. 321–350, *De problemate exactitudinis geometricae I* [On the Problem of Geometric Exactitude I]; 1943, pp. 171–234, *De problemate exactitudinis geometricae II* [On the Problem of Geometric Exactitude II]. Cf. also *Gregorianum*, 1951, pp. 434–452, *De noetica geometriae, responsum ad animadversiones clmi. H. Freudenthal* [On the Noetics of Geometry: A Reply to the Remarks of the Most Distinguished H. Freudenthal]. | **P. Hoenen, S.J.**, Articles in *Gregorianum* (1938–1943, 1951) |
-| `[^2]` | La théorie du jugement d'après St. Thomas d'Aquin ed. 1, 1946, ed. 2 aucta et emendata, 1953, versio anglica Reality and Judgment according to St. Thomas, Chicago 1952. Ad id referemus sub siglo Th. d. J. resp. R. a J. | *La théorie du jugement d'après St. Thomas d'Aquin*, 1st ed. 1946, 2nd enlarged and revised ed. 1953; English translation: *Reality and Judgment according to St. Thomas*, Chicago: Henry Regnery Co., 1952. We shall refer to this work under the abbreviations *Th. d. J.* and *R. a J.* respectively. | **P. Hoenen, S.J.**, *La théorie du jugement* / *Reality and Judgment* |
+* **Analytica Priora (Ἀναλυτικὰ Πρότερα)** (*Prior Analytics*) c. 350 BC
+  *Notes*: Treatise on formal syllogistic logic and the validity of syllogistic figures. Edition and commentary by Theodor Waitz (Leipzig, 1844–1846).
+  * **Citation**: [Caput IV, [^30] (I, c. 4, 25b37–39)](caput-4/caput-4-en.md#fn-30)
+    * *What Hoenen refers to*: The formulation of the syllogism in Barbara: 'If A is predicated of all B, and B of all C, necessarily A is predicated of all C.'
+    * *How it supports the text*: Proves that Aristotle's use of algebraic-like letters (A, B, C) was not an uninterpreted formalist calculus, but represented intelligible universal natures whose necessary connections are seen by the intellect.
+  * **Citation**: [Caput IV, [^27] (I, c. 23, Waitz ed., I, pp. 427–429)](caput-4/caput-4-en.md#fn-27)
+    * *What Hoenen refers to*: Aristotle's resolution of geometric arguments into syllogisms, and Waitz's commentary on the role of geometric diagrams.
+    * *How it supports the text*: Shows that geometric reasoning relies upon the mental inspection of intelligible matter even when formulated syllogistically.
 
----
+* **Physica (Φυσικὴ ἀκρόασις)** (*Physics*) c. 350 BC
+  *Notes*: Treatise on natural philosophy, motion, the continuum, time, and place. Edition by W. D. Ross (Oxford, 1936); French edition by Henri Carteron (Budé, 1926).
+  * **Citation**: [Caput IV, [^7] (IV, c. 11, 219b15 ff.; IV, c. 12, 220b24 ff.)](caput-4/caput-4-en.md#fn-7)
+    * *What Hoenen refers to*: Aristotle's definition of time as the number of motion according to before and after, and the continuity of time following the magnitude of the trajectory.
+    * *How it supports the text*: Grounds successive duration and motion in the prior continuity of geometric magnitude, illustrating that motion in geometry is conceived within intelligible extension.
+  * **Citation**: [Appendix, [^10] (IV, c. 5, 212b14 ff.)](appendix/appendix-en.md#fn-10)
+    * *What Hoenen refers to*: Aristotle's definition of place (topos) as the innermost motionless boundary of the containing body, and the textual variants (est id / est et).
+    * *How it supports the text*: Supports Hoenen's analysis of the category ubi and demonstrates that local motion requires a real relation to an actually existing surrounding body.
+  * **Citation**: [Appendix, [^13] & § 6 (VIII, c. 1, 251a8–16)](appendix/appendix-en.md#fn-13)
+    * *What Hoenen refers to*: The principle that things capable of being moved and the moving cause must actually exist (hyparchein / estin) prior to motion.
+    * *How it supports the text*: Demonstrates that Aristotle's physics explicitly establishes connections between existential acts (actual existences), proving that Aristotle was deeply concerned with the act of existing.
 
-### [Caput I](caput-1/caput-1-en.md) *(pp. 9–32)*
+* **Metaphysica (Τὰ μετὰ τὰ φυσικά)** (*Metaphysics*) c. 350 BC
+  *Notes*: Aristotle's first philosophy, investigating being qua being, substance, act and potency, and the ontology of mathematicals. Editions and commentaries by W. D. Ross (Oxford, 1924) and Hermann Bonitz (Bonn, 1848–1849).
+  * **Citation**: [Caput II, § 4 (V, c. 9, 1018a9–14; X, c. 3, 1054b23–26)](caput-2/caput-2-en.md#4-on-the-material-and-formal-nexus)
+    * *What Hoenen refers to*: The precise metaphysical distinction between diversity (diversum) and difference (differens): things are diverse by their whole selves (seipsis totis), whereas things are different through added differentiating marks.
+    * *How it supports the text*: Provides the ontological framework for understanding diverse modes of being (substance vs. accidents; essence vs. existential act) which differ by their whole nature rather than through added generic/specific marks.
+  * **Citation**: [Appendix, [^3] & [^5] (IX, c. 3, 1047a30–b2; IX, c. 8, 1050a21–23)](appendix/appendix-en.md#fn-3)
+    * *What Hoenen refers to*: Aristotle's definition of actuality (energeia) as extended from movements to other things, and the distinction between energeia (activity) and entelecheia (perfection).
+    * *How it supports the text*: Proves that non-existent things cannot be moved, and confirms that motion is an existential act that attributes actual being to its mobile subject.
+  * **Citation**: [Appendix, [^18] (IX, c. 9, 1051a21–33)](appendix/appendix-en.md#fn-18)
+    * *What Hoenen refers to*: The principle that potential geometric divisions are actualized by drawing constructions: 'geometrical constructions are discovered by an actualization; for it is by dividing that they discover them.'
+    * *How it supports the text*: Shows that the intellect actualizes potential mathematical relations by constructing divisions in intelligible matter, grounding mathematical discovery in the priority of act over potency.
 
-* [Latin Source Text](caput-1/caput-1.md) | [English Translation](caput-1/caput-1-en.md)
+* **De Anima (Περὶ ψυχῆς)** (*On the Soul*) c. 350 BC
+  *Notes*: Treatise on the soul, sensible perception, imagination (phantasia), and intellect (nous). Edition and commentary by F. Adolf Trendelenburg (Berlin, 1877).
+  * **Citation**: [Caput I, § 2 (III, c. 7, 431a14–16, 431b2; III, c. 8, 432a5–9)](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: The peripatetic law that the intellect never thinks without a phantasm (οὐδέποτε νοεῖ ἄνευ φαντάσματος ἡ ψυχή), and that mathematical objects (ta ex aphaireseos) are abstracted from sensible things.
+    * *How it supports the text*: Serves as the foundation of Thomistic-Aristotelian noetics: even the highest geometric abstractions remain intrinsically dependent on the imaginative sensible representation, where the intellect intuits formal necessity.
 
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | Si quis putaret Aristotelem, ubi de postulatis loquitur, cogitasse de propositione, quae est famosum postulatum V Euclidis vel ei similis ei non contradiceremus ; quamquam id probare nullo modo possumus. | If anyone should think that Aristotle, in speaking of postulates (*aitemata*), had in mind a proposition equivalent to Euclid's famous Fifth Postulate or something similar, we would not contradict him, although this cannot be historically demonstrated. | **Aristotle**, *Analytica Posteriora* (on postulates and Euclid's Postulate V) |
-| `[^2]` | Vide opus nostrum La théorie du jugement d'après St. Thomas d'Aquin. Supra citatum. | See our work, *La théorie du jugement d'après St. Thomas d'Aquin*, cited above. | **P. Hoenen, S.J.**, *La théorie du jugement d'après St. Thomas d'Aquin* |
-| `[^3]` | De his postea plura. Cfr. interim GEYSER, Die Erkenntnistheorie des Aristoteles, cap. VI et XII; O. HAMELIN, Le Système d'Aristote, pagg. 258 sq., 234 sq.; W. D. Ross, Aristotle, pagg. 38-41, 54, 217; insuper ea quae scripsimus in articulo De origine primorum principiorum scientiae in Gregorianum XIV (1933) pagg. 153-184. Hunc articulum invenies quoque in appendice ad 2am ed. Th. d. J. | More on this later. Cf. in the meantime: J. Geyser, *Die Erkenntnistheorie des Aristoteles*, chs. VI and XII; O. Hamelin, *Le Système d'Aristote*, pp. 258 sq., 234 sq.; W. D. Ross, *Aristotle*, pp. 38–41, 54, 217; furthermore our own article, "De origine primorum principiorum scientiae" in *Gregorianum* XIV (1933), pp. 153–184 (reprinted in the appendix to the 2nd ed. of *Th. d. J.*). | **J. Geyser**, **O. Hamelin**, **W. D. Ross**, & **P. Hoenen** (*Gregorianum* 1933) |
-| `[^4]` | A. EINSTEIN, Geometrie und Erfahrung, Berlin 1921 « Wie ist es möglich, dasz die Mathematik, die doch ein von aller Erfahrung unabhängiges Produkt des menschlichen Denkens ist, auf die Gegenstände der Wirklichkeit so vortrefflich paszt ? Kann dann die menschliche Vernunft ohne Erfahrung durch bloszes Denken Eigenschaften der wirklichen Dinge ergründen ? Hierauf ist nach meiner Ansicht kurz zu antworten insofern sich die Sätze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher, und insofern sie sicher sind, beziehen sie sich nicht auf die Wirklichkeit ». Lector haec applicet ad propositionem mathematicam « 2 X 2 = 4 » ; in quantum haec propositio refertur ad res reales non est certa, in quantum certa est non respicit res reales ! | A. Einstein, *Geometrie und Erfahrung*, Berlin: Julius Springer, 1921: *"Wie ist es möglich, daß die Mathematik, die doch ein von aller Erfahrung unabhängiges Produkt des menschlichen Denkens ist, auf die Gegenstände der Wirklichkeit so vortrefflich paßt? Kann dann die menschliche Vernunft ohne Erfahrung durch bloßes Denken Eigenschaften der wirklichen Dinge ergründen? Hierauf ist nach meiner Ansicht kurz zu antworten: Insofern sich die Sätze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher, und insofern sie sicher sind, beziehen sie sich nicht auf die Wirklichkeit."* Let the reader apply this to the elementary proposition "$2 \times 2 = 4$": insofar as it refers to real things it is not certain, and insofar as it is certain it does not refer to real things! | **A. Einstein**, *Geometrie und Erfahrung* (1921) |
-| `[^5]` | Vide Cosmologiam nostram ed. 4 not. III pagg. 446-455, VII pagg. 471-482. | See our *Cosmologia*, 4th ed., note III, pp. 446–455; note VII, pp. 471–482. | **P. Hoenen, S.J.**, *Cosmologia* (4th ed., Notes III & VII) |
-| `[^6]` | Vide H. HASSE und H. SCHOLZ, Die Grundlagenkrisis der Griechischen Mathematik in Kantstudien (1928) pagg. 4-34; H. SCHOLZ, Warum haben die Griechen die Irrazionalzahlen nich aufgebaut ? ibid. pagg. 35-72. | See H. Hasse and H. Scholz, "Die Grundlagenkrisis der griechischen Mathematik" in *Kantstudien* 33 (1928), pp. 4–34; H. Scholz, "Warum haben die Griechen die Irrationalzahlen nicht aufgebaut?" *ibid.*, pp. 35–72. | **H. Hasse & H. Scholz**, *Kantstudien* (1928, on foundational crisis of Greek mathematics) |
-| `[^7]` | Op. cit. in ed. 2 (Leipzig 1907) pag. 7. « In allen diesen praktischen Gebieten gibt es einen Schwellenwert der Genauigkeit ». | F. Klein, *Anwendung der Differential- und Integralrechnung auf Geometrie: Eine Revision der Prinzipien*, 2nd ed. (Leipzig: Teubner, 1907), p. 7: *"In allen diesen praktischen Gebieten gibt es einen Schwellenwert der Genauigkeit."* | **F. Klein**, *Anwendung der Differential- und Integralrechnung* (sensory threshold of exactitude) |
-| `[^8]` | « Im ideellen Gebiet der Arithmetik gibt es keinen endlichen Schwellenwert, wie im empirischen Gebiet, sondern die Genauigkeit, mit der die Zahlen definiert werden oder doch als definiert angesehen werden, ist unbegrenzt» (op. cit. pag. 11). | *Ibid.*, p. 11: *"Im ideellen Gebiet der Arithmetik gibt es keinen endlichen Schwellenwert, wie im empirischen Gebiet, sondern die Genauigkeit, mit der die Zahlen definiert werden oder doch als definiert angesehen werden, ist unbegrenzt."* | **F. Klein**, *op. cit.* (ideal arithmetic free from sensory threshold) |
-| `[^9]` | In opere La valeur de la science pag. 17. « L'intuition ne peut nous donner la rigueur, ni même la certitude, on s'en est aperçu, de plus en plus ». | H. Poincaré, *La valeur de la science* (Paris: Flammarion, 1905), p. 17: *"L'intuition ne peut nous donner la rigueur, ni même la certitude, on s'en est aperçu, de plus en plus."* | **H. Poincaré**, *La valeur de la science* (sensory intuition cannot yield rigor) |
-| `[^10]` | « Nous avons donc plusieurs sortes d'intuitions ; d'abord l'appel aux sens et à l'imagination ; ensuite, la généralisation par induction ... nous avons enfin l'intuition du nombre pur ... Les deux premières ne peuvent nous donner la certitude, je l'ai prouvé plus haut par des exemples ; mais qui doutera sérieusement de la troisième, qui doutera de l'Arithmétique ? Or, dans l'Analyse d'aujourd'hui, quand on veut se donner la peine d'être rigoureux, il n'y a plus que des syllogismes ou des appels à cette intuition du nombre pur, la seule qui ne puisse nous tromper. On peut dire qu'aujourd'hui la rigueur absolue est atteinte » (pagg. 22 sq.). | *Ibid.*, pp. 22 sq.: *"Nous avons donc plusieurs sortes d'intuitions; d'abord l'appel aux sens et à l'imagination; ensuite, la généralisation par induction... nous avons enfin l'intuition du nombre pur... Les deux premières ne peuvent nous donner la certitude, je l'ai prouvé plus haut par des exemples; mais qui doutera sérieusement de la troisième, qui doutera de l'Arithmétique? Or, dans l'Analyse d'aujourd'hui, quand on veut se donner la peine d'être rigoureux, il n'y a plus que des syllogismes ou des appels à cette intuition du nombre pur, la seule qui ne puisse nous tromper. On peut dire qu'aujourd'hui la rigueur absolue est atteinte."* | **H. Poincaré**, *La valeur de la science* (intuition of pure number vs. sensible intuition) |
-| `[^11]` | Op. cit. pag. 65. « Cette définition fait bon marché de l'origine intuitive de la notion du continu, et de toutes les richesses que recèle cette notion. Elle rentre dans le type de ces définitions qui sont devenues si fréquentes dans la Mathématique, depuis qu'on tend à « arithmétiser » cette science. Ces définitions, irréprochables, nous l'avons dit, au point de vue mathématique, ne sauraient satisfaire le philosophe ». | H. Poincaré, *Dernières Pensées* (Paris: Flammarion, 1913), p. 65: *"Cette définition fait bon marché de l'origine intuitive de la notion du continu, et de toutes les richesses que recèle cette notion. Elle rentre dans le type de ces définitions qui sont devenues si fréquentes dans la Mathématique, depuis qu'on tend à 'arithmétiser' cette science. Ces définitions, irréprochables, nous l'avons dit, au point de vue mathématique, ne sauraient satisfaire le philosophe."* | **H. Poincaré**, *Dernières Pensées* (critique of arithmetization of continuum) |
-| `[^12]` | « Je ne veux pas dire que cette ” arithmétisation ” des mathématiques soit une mauvaise chose, je dis qu'elle n'est pas tout», ibid. | *Ibid.*: *"Je ne veux pas dire que cette 'arithmétisation' des mathématiques soit une mauvaise chose, je dis qu'elle n'est pas tout."* | **H. Poincaré**, *Dernières Pensées* (arithmetization is not everything) |
-| `[^13]` | « Ausschlaggebend für die Beurtheilung der Sachlage scheint uns der Umstand zu sein, dass eine von der Analysis wirklich unabhängige Geometrie, wie das antike Ideal sie eigentlich verlangen würde, sich als eine Utopie herausgestellt hat ». Sublineatio est ipsius cl. Study. | E. Study, *Die realistische Weltansicht und die Lehre vom Raume* (Braunschweig: Vieweg, 1914), p. 131: *"Ausschlaggebend für die Beurtheilung der Sachlage scheint uns der Umstand zu sein, daß eine von der Analysis wirklich unabhängige Geometrie, wie das antike Ideal sie eigentlich verlangen würde, sich als eine Utopie herausgestellt hat."* The emphasis is Study's own. | **E. Study**, *Die realistische Weltansicht und die Lehre vom Raume* (1914) |
-| `[^14]` | « Wir denken uns drei verschiedene Systeme von Dingen : die Dinge des e r s t e n Systems nennen wir Punkte und bezeichnen sie mit A, B, C, ... ; die Dinge des z w e i t e n Systems nennen wir Geraden und bezeichnen sie mit a, b, c, ... ; die Dinge des d r i t t e n Systems nennen wir Ebenen und bezeichnen sie mit α, β, γ... » Op. cit. ed. 7 (1930) pag. 2. | D. Hilbert, *Grundlagen der Geometrie*, 7th ed. (Leipzig: Teubner, 1930), p. 2: *"Wir denken uns drei verschiedene Systeme von Dingen: die Dinge des ersten Systems nennen wir Punkte und bezeichnen sie mit $A, B, C, \dots$; die Dinge des zweiten Systems nennen wir Geraden und bezeichnen sie mit $a, b, c, \dots$; die Dinge des dritten Systems nennen wir Ebenen und bezeichnen sie mit $\alpha, \beta, \gamma, \dots$"* | **D. Hilbert**, *Grundlagen der Geometrie* (7th ed., primitive undefined systems: points, lines, planes) |
+* **Ethica Nicomachea (Ἠθικὰ Νικομάχεια)** (*Nicomachean Ethics*) c. 350 BC
+  *Notes*: Treatise on ethics and moral psychology; commentary by John Burnet (London, 1900).
+  * **Citation**: [Caput I, § 1 (VI, c. 8, 1142a12–20)](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: Aristotle's observation that young men can become mathematicians and geometers, but cannot have practical wisdom (phronesis) or natural philosophy, because mathematics proceeds by abstraction while physics and ethics require extensive experience.
+    * *How it supports the text*: Confirms that geometric knowledge does not depend on extensive inductive experience of the physical world, but on immediate formal abstraction accessible to any rational mind.
+  * **Citation**: [Appendix, [^9] (IX, c. 9, 1170a31 ff.)](appendix/appendix-en.md#fn-9)
+    * *What Hoenen refers to*: The argument on perception of self-existence: 'he who sees perceives that he sees, and he who hears perceives that he hears... and if we perceive, we perceive that we exist.'
+    * *How it supports the text*: Provides the ancient Aristotelian foundation for the Cartesian Cogito: in perceiving our own cognitive acts, we immediately perceive our own existential act of being.
 
----
-
-### [Caput II](caput-2/caput-2-en.md) *(pp. 33–64)*
-
-* [Latin Source Text](caput-2/caput-2.md) | [English Translation](caput-2/caput-2-en.md)
-
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | Vide articulum nostrum De origine primorum principiorum scientiae apud Gregorianum XIV (1933) pagg. 153-184. | See our article, "De origine primorum principiorum scientiae" in *Gregorianum* XIV (1933), pp. 153–184. | **P. Hoenen, S.J.**, *Gregorianum* (1933, on origin of first principles) |
-| `[^2]` | Nouveaux Essais sur l'entendement L. IV Ch. VII § 10 « Définitions 1) deux est un et un 2) trois est deux et un 3) quatre est trois et un Axiome; mettant des choses égales à la place, l'égalité demeure ». | G. W. Leibniz, *Nouveaux Essais sur l'entendement humain*, Book IV, ch. VII, § 10. | **G. W. Leibniz**, *Nouveaux Essais sur l'entendement humain* (IV, 7, § 10, proof of 2 + 2 = 4) |
-| `[^3]` | Animadvertamus « axioma » non semel sed in singulis gressibus applicari. Simili modo procedit Couturat in Rev. Mét. et Mor. 1904 pag. 339. | Note that the "axiom" is applied not once, but at each step. A similar deduction is presented by L. Couturat in *Revue de Métaphysique et de Morale* 12 (1904), p. 339. | **L. Couturat**, *Les principes des mathématiques* (1905) |
-| `[^4]` | Kritik der reinen Vernunft ed. 2 pagg. 14-15 « Zuvörderst musz bemerkt werden dasz eigentliche mathematische Sätze jederzeit Urtheile a priori und nicht empirisch sind, weil sie Notwendigkeit bei sich führen, welche aus Erfahrung nicht abgenommen werden kann ». Idem ad litteram passus in Proleg. § 2 c n. 2. | I. Kant, *Kritik der reinen Vernunft*, 2nd ed. (1787), pp. 14–15: *"Zuvörderst muß bemerkt werden, daß eigentliche mathematische Sätze jederzeit Urteile a priori und nicht empirisch sind, weil sie Notwendigkeit bei sich führen, welche aus Erfahrung nicht abgenommen werden kann."* The passage recurs verbatim in *Prolegomena*, § 2 c, n. 2. | **I. Kant**, *Kritik der reinen Vernunft* (B14–15, arithmetical judgment 7 + 5 = 12) |
-| `[^5]` | Operae pretium esset investigare historiam huius infelicis principii. | It would be well worth the effort to investigate the historical origins of this unfortunate philosophical dogma. | Scholarly commentary on Kantian arithmetic and scholastic realism |
-| `[^6]` | De hac doctrina vide opus supra citatum La théorie du jugement d'après St. Thomas d'Aquin passim. | On this doctrine, see our *La théorie du jugement d'après St. Thomas d'Aquin*, passim. | **P. Hoenen, S.J.**, *La théorie du jugement* (on the nature of judgment) |
-| `[^7]` | Hic terminus a Cartesio adhibetur ad describendam hanc proprietatem corporis ut talis Principia Philos. II n. 64. | This term is employed by Descartes to describe this essential property of body as such: *Principia Philosophiae* II, n. 64. | **R. Descartes**, *Principia Philosophiae* (II, art. 4–11, extension as essence of body) |
-| `[^8]` | De his cfr. nostram communicationem in congresso philosophica Amstelodamensi anni 1948, Pour une philosophie de la connaissance de l'étendu physique in Gregorianum 1949 pagg. 193-203. | On these matters, cf. our paper at the Tenth International Congress of Philosophy (Amsterdam, 1948): "Pour une philosophie de la connaissance de l'étendue physique," published in *Gregorianum* 30 (1949), pp. 193–203. | **P. Hoenen, S.J.**, *10th International Congress of Philosophy* (Amsterdam, 1948) |
-| `[^9]` | In opere Vorlesungen über neuere Geometrie. In editione altera (1926) axioma, ad quod alludimus, invenitur pag. 20 (IV Kernsatz). | M. Pasch, *Vorlesungen über neuere Geometrie*, 2nd ed. (Berlin: Springer, 1926), p. 20 (IV. Kernsatz). The first edition appeared in 1882. | **M. Pasch**, *Vorlesungen über neuere Geometrie* (2nd ed. 1926, Kernsatz IV on order) |
-| `[^10]` | Haec exempla simul cum comparatione cum iudiciis physicis iam habentur apud Hessenberg Kritik und System in Mathematik und Philosophie in Abhandlungen der Friesschen Schule II pagg. 102-106. Folium Moebii est exemplum valde simplex in hoc genere. Idem auctor (pag. 105) narrat universitatem technicam Berolinensem (Charlottenburg) possidere imagines (modelli), superficierum multo magis complicatarum, quae a mathematico Stahl ex materia elastica confectae sunt, et dein sectione divisae. In his superficiebus « connexus » est tam complicatus, ut nullus homo ex sola inspectione phantasmatis praedicere possit quid resultaturum sit ex scissione. Videtur idem Stahl descripsisse suas indagationes sub titulo de iudiciis experimentalibus mathematicis (mathematische Erfahrungssätze). | These examples, along with the comparison to physical judgments, are set forth by G. Hessenberg in *Kritik und System in Mathematik und Philosophie* (*Abhandlungen der Fries'schen Schule*, new series, II, pp. 102–106). The Möbius strip is a very simple example of this kind. Hessenberg relates (p. 105) that the Berlin Technical University (Charlottenburg) preserved models of far more complex surfaces, constructed from elastic material by the mathematician W. Stahl and then sectioned. In these surfaces, the topological connection is so intricate that no human can predict the outcome of a cut from mere inspection of a phantasm. Stahl described these inquiries under the title of *mathematical empirical judgments* (*mathematische Erfahrungssätze*). | **G. Hessenberg**, *Ebene und sphärische Trigonometrie* (1904) |
-| `[^11]` | Hoc adagium mitigandum est per additum : « nisi ipse intellectus ». Id tribuitur Leibnizio, et iure quidem. Sed invenitur iam apud S. Thomam. Cfr. Théorie du Jugement ed. 2 pagg. 214-215. | This ancient adage must be understood with the qualification: *"nisi ipse intellectus"* [except the intellect itself]. This addition is commonly attributed to Leibniz, and rightly so; yet it is already found in St. Thomas Aquinas. Cf. *Théorie du Jugement*, 2nd ed., pp. 214–215. | Scholastic adage: *Nihil est in intellectu quod non fuerit in sensu (nisi ipse intellectus)* |
-| `[^12]` | Cfr. de hac re articulum nostrum in libro commemorativo Universitatis catholicae Mediolanensis Cartesio (1937) cui titulus Le « Cogito ergo sum » comme intuition et comme mouvement de la pensée pagg. 457-471. | Cf. our study in the commemorative volume of the Catholic University of Milan, *Cartesio* (1937), entitled "Le 'Cogito ergo sum' comme intuition et comme mouvement de la pensée," pp. 457–471. | **P. Hoenen, S.J.**, "Le 'Cogito ergo sum' comme intuition..." (*Cartesio*, 1937) |
-| `[^13]` | De distinguendo « determinativo » a « motivo » vide Théorie du Jug. ed. 2 pagg. 25 sqq. | On distinguishing the sensory datum as "determinative" rather than "motive" of judgment, see *Théorie du Jugement*, 2nd ed., pp. 25 sqq. | **P. Hoenen, S.J.**, *Théorie du jugement* (sensory datum as determinative of judgment) |
-| `[^14]` | Cfr. articulum supra iam citatum Le « Cogito ergo sum » comme intuition et comme mouvement de la pensée. | Cf. our article cited above, "Le 'Cogito ergo sum' comme intuition et comme mouvement de la pensée." | **P. Hoenen, S.J.**, *op. cit.* (Cartesian Cogito as intellectual intuition) |
-| `[^15]` | Haec theoria per longum et latum exponitur in singulis fere capitibus operis nostri supra iam citati La théorie du jugement d'après St. Thomas d'Aquin. | This theory is expounded at length throughout almost every chapter of our work, *La théorie du jugement d'après St. Thomas d'Aquin*. | **P. Hoenen, S.J.**, *Théorie du jugement* (virtual judgments) |
-| `[^16]` | In editione altera (1926) eius operis, supra (pag. 46) iam citati, inveniuntur pagg. 5-8, 19 sq. | In the second edition (1926) of Pasch's work cited above, these axioms of order are found on pp. 5–8, 19 sq. | **M. Pasch**, *Vorlesungen über neuere Geometrie* (axioms of order) |
-| `[^17]` | De his cfr. Théor. du jug. ch. III et IV. | On the material and formal nexus, cf. *Théorie du Jugement*, chs. III and IV. | **P. Hoenen, S.J.**, *Théorie du jugement* (material and formal nexus, chs. III–IV) |
-
----
-
-### [Caput III](caput-3/caput-3-en.md) *(pp. 65–94)*
-
-* [Latin Source Text](caput-3/caput-3.md) | [English Translation](caput-3/caput-3-en.md)
-
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | 87 b 35 : καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστάμεθα. Cfr. Met. III 2, 997 b 35 (S. Th. lect. 7 n. 416). Ibi Protagorae obiectio profertur, quae ex eo movetur, quod in lineis sensilibus recta non tangit circulum in uno puncto. | Aristotle, *Posterior Analytics* I, 31 (Bekker 87b35): καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστάμεθα. Cf. *Metaphysics* III, 2 (997b35; St. Thomas, lect. 7, n. 416), where Protagoras's objection is cited: in physical sensible lines, a straight rod does not touch a circle at merely one point. | **Aristotle**, *Posterior Analytics* I, 31 (87b35, sensory perception of triangle angles) |
-| `[^2]` | Cfr. Cl. BAEUMKER, Das Problem der Materie in der Griechischen Philosophie pagg. 422 sqq. | Cf. Clemens Baeumker, *Das Problem der Materie in der griechischen Philosophie* (Münster, 1890), pp. 422 sqq. | **C. Baeumker**, *Das Problem der Materie in der griechischen Philosophie* (1890) |
-| `[^3]` | J. STUART MILL, System of Logic I ed. 5 (1862) pag. 255 : « There exist no points without magnitude ; no lines without breath, nor perfectly straight ; no circles with all their radii exactly equal, nor squares with all their angles perfectly right ... according to any test we have of possibility, they are not even possible. Their existence, so far as we can form any judgment, would seem to be inconsistent with the physical constitution of our planet at least, if not of the universe ... the points, lines, circles, and squares, which any one has in his mind, are (I apprehend) simply copies of the points, lines, circles, and squares, which he has known in his experience. Our idea of a point, I apprehend to be simply our idea of the minimum visibile, the smallest portion of surface which we can see. A line, as defined by geometers, is wholly inconceivable ». | John Stuart Mill, *A System of Logic, Ratiocinative and Inductive*, Vol. I, 5th ed. (London, 1862), p. 255. | **J. S. Mill**, *A System of Logic* (5th ed. 1862, I, p. 255) |
-| `[^4]` | Ibid. pag. 257 : « The peculiar accuracy, supposed to be characteristic of the first principles of geometry, thus appears to be fictitious ». | *Ibid.*, p. 257. | **J. S. Mill**, *op. cit.*, p. 257 (geometry as experimental physical science) |
-| `[^5]` | E. STUDY, Die realistische Weltansicht und die Lehre vom Raume pagg. 74 sqq. | Eduard Study, *Die realistische Weltansicht und die Lehre vom Raume* (Braunschweig: Vieweg, 1914), pp. 74 sqq. | **E. Study**, *Die realistische Weltansicht* (1914, p. 75) |
-| `[^6]` | Op. cit. pag. 9 « Die Entwicklung der modernen Funktionentheorie hat gezeigt, dass die Kritik der Grundlagen nicht am fünften Postulat, sondern gleich an der ersten Definition hätte ansetzen sollen : σημεῖόν ἐστιν οὗ μέρος οὐθέν ». | J. Wellstein, in *Weber-Wellstein Enzyklopädie der Elementar-Mathematik*, Vol. II: *Elemente der Geometrie*, 3rd ed. (Leipzig: Teubner, 1925), p. 9. | **J. Wellstein**, in *Weber-Wellstein Enzyklopädie der Elementar-Mathematik* (II, p. 9) |
-| `[^7]` | Forte aliquis ex hac inspectione in superficiem corporis limitati iam vellet habere ideam superficiei et quidem ita, ut in ipsa sensatione iam esset indivisibilis ut limes corporis ; nobis hoc non sufficit ; putamus enim nos in sensatione superficiei iam videre aliquam profunditatem corporis ; ita ut iam ex hac sensatione habeamus notionem tertiae dimensionis. Ceterum si hoc non esset verum, methodus nostra intuitionis intellectus esset adhibenda ubi agitur de linea et puncto, ut statim indicabimus ; nam linea certe non sine latitudine est in sensatione nostra. | One might be tempted to claim that the mere sensory glance at a bounded body already perceives a surface without depth. We consider this inaccurate: sensory sight always perceives a slight depth in surfaces. But even if that were not so, our method of intellectual boundary-analysis applies strictly to lines and points, where sensory width is undeniably present. | Scholarly note on boundaries of bodies and indivisibles |
-| `[^8]` | COUTURAT, Revue de Métaph. et de Morale 1904 pag. 810 : « Certains auteurs définissent la surface comme ce qui limite un solide. Or il existe certaines surfaces qui n'ont qu'une face, ou dont les deux faces se relient d'une manière continue, de sorte qu'elles ne partagent pas l'espace en deux régions séparées, et ne peuvent par suite servir à délimiter un solide ». | Louis Couturat, "La philosophie des mathématiques de Kant," *Revue de Métaphysique et de Morale* 12 (1904), p. 810. | **L. Couturat**, "La philosophie des mathématiques de Kant" (*RMM* 1904) |
-| `[^9]` | « Bei der Bildung des Flächenbegriffs nur von der Oberfläche oder dem zwei Körpern Gemeinsamen auszugehen, ist nicht ausreichend, weil es Flächen gibt, die nicht als Ganzes Oberfläche eines Körpers, nicht Trenungsfläche zweier Körper sein können ». | J. Wellstein, *op. cit.*, p. 10. | **J. Wellstein**, *op. cit.*, p. 10 |
-| `[^10]` | A. VOSS, Ueber die mathematische Erkenntnis in Die Kultur der Gegenwart III pag. E 96 : « Allerdings gibt es einseitige Flächen, die keinen Raumteil begrenzen, aber diese Eigenschaft kommt ihnen nur ihres besonderen Zusammenhangs zufolge zu, während ihre elementaren Teile den angegebenen Charakter bewahren ». | Aurel Voss, "Über die mathematische Erkenntnis," in *Die Kultur der Gegenwart*, Part III, Sec. 1 (Leipzig: Teubner, 1914), p. E 96. | **A. Voss**, "Über die mathematische Erkenntnis" (*Kultur der Gegenwart*, 1914) |
-| `[^11]` | S. Thomas, uti notum est, non intendit dicere, intellectum primo cognoscere suas species, sed species quae sunt in rebus. Cfr. Th. d. J. pag. 32. | St. Thomas, as is well known, does not mean that the intellect primarily knows its own subjective species, but the intelligible forms existing in real things (*species quae sunt in rebus*). Cf. our *Théorie du Jugement*, 2nd ed., p. 32. | **St. Thomas Aquinas** (the intellect directly knows the object, not its own species) |
+* **Categoriae (Κατηγορίαι)** (*Categories*) c. 350 BC
+  *Notes*: Treatise on the ten categories of being, predicaments, and postpredicaments.
+  * **Citation**: [Caput I, § 4 (c. 6, 4b20–5b10)](caput-1/caput-1-en.md#4-on-the-arithmetization-of-the-continuum)
+    * *What Hoenen refers to*: The division of quantity into continuous (magnitude, line, surface, body) and discrete (multitude, number).
+    * *How it supports the text*: Underpins Hoenen's entire defense of geometry against modern arithmetization: continuous magnitude is an irreducibly distinct category from discrete number, and cannot be constructed out of isolated zero-dimensional points.
 
 ---
 
-### [Caput IV](caput-4/caput-4-en.md) *(pp. 95–156)*
+<a id="euclid-of-alexandria"></a>
 
-* [Latin Source Text](caput-4/caput-4.md) | [English Translation](caput-4/caput-4-en.md)
+### Euclid of Alexandria (fl. c. 300 BC (died c. 270 BC))
 
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | Ea quae Hilbert in opere Grundlagen der Geometrie tanquam « explicationes » (« Erklärungen ») seriebus axiomatum praemittere et miscere solet, si accurate considerantur, continent quoque iudicia virtualia de passionibus propriis obiectorum, quae dein in axiomatibus magis determinantur. | What Hilbert in his work *Grundlagen der Geometrie* is accustomed to premise and intersperse among the series of axioms as "explanations" (*Erklärungen*), if accurately considered, also contain virtual judgments concerning the proper attributes (*passiones propriae*) of objects, which are then more fully determined in the axioms. | **D. Hilbert**, *Grundlagen der Geometrie* (explanations and axioms) |
-| `[^2]` | Liceat hic exscribere textum S. Thomae. Ait (In Boet. de Trin. q. 5 a. 3 ad 3) « Materia non est principium diversitatis secundum numerum, nisi secundum quod in multas partes divisa, in singulis partibus formam recipiens eiusdem rationis, plura individua eiusdem speciei constituit. Materia autem dividi non potest nisi ex praesupposita quantitate, qua remota, substantia omnis indivisibilis remanet, et sic prima ratio diversificandi ea quae sunt unius speciei, est penes quantitatem. Quod quidem quantitati competit, in quantum in sua ratione situm, quasi differentiam constitutivam habet, quod nihil est aliud quam ordo partium. Unde etiam abstracta quantitate a materia sensibili per intellectum, adhuc contingit imaginare diversa secundum numerum unius speciei, sicut plures triangulos aequilateres, et plures lineas rectas aequales ». Sola ultima pars horum verborum respicit principium individuationis in geometricis. De hoc vide quoque Met. VII lect. 10 (Cath. n. 1496) ubi quoque distinguitur materia sensibilis, qualitatibus affecta, et materia intelligibilis, continuum scilicet, quod, ut ibi dicitur, pro geometricis est principium individuationis. | Let it be permitted here to transcribe the text of St. Thomas. He says (*In Boeth. de Trin.*, q. 5, a. 3, ad 3): "Matter is not the principle of diversity according to number except insofar as, divided into many parts and receiving in individual parts a form of the same nature, it constitutes multiple individuals of the same species. Matter, however, cannot be divided except upon presupposing quantity, which being removed, all substance remains indivisible; and thus the first reason for diversifying things that are of one species lies in quantity. Which indeed belongs to quantity insofar as it has in its formal concept site (*situs*) as a constitutive difference, which is nothing other than the order of parts. Whence even when quantity is abstracted from sensible matter by the intellect, it still happens that one imagines things diverse according to number of one species, such as multiple equilateral triangles and multiple equal straight lines." Only the last part of these words regards the principle of individuation in geometric entities. Concerning this see also *Metaphysics* VII, lect. 10 (ed. Cathala, no. 1496), where there is also distinguished sensible matter affected by qualities, and intelligible matter—continuity, namely—which, as is said there, is the principle of individuation for geometric entities. | **St. Thomas Aquinas**, *In Boethium de Trinitate*, q. 5, a. 3, ad 3 (*materia intelligibilis*) |
-| `[^3]` | B. RUSSELL, Principles of Mathematics 1903, ed. 2 1937, n. 390 sq., pagg. 405-407. | B. Russell, *Principles of Mathematics* (1903; 2nd ed. 1937), no. 390 ff., pp. 405–407. | **B. Russell**, *Principles of Mathematics* (1903/1937, nos. 390 ff., critique of superposition) |
-| `[^4]` | « It has no logical validity, and strikes every intelligent child as a juggle » (loc. cit.). | "It has no logical validity, and strikes every intelligent child as a juggle" (loc. cit.). | **B. Russell**, *op. cit.* ("strikes every intelligent child as a juggle") |
-| `[^5]` | « In the first place, to speak of motion implies that our triangles are not spatial but material. For a point of space is a position, and can no more change its position than the leopard can change its spots ... motion, in the ordinary sense, is only possible to matter, not to space » (loc. cit.). | "In the first place, to speak of motion implies that our triangles are not spatial but material. For a point of space is a position, and can no more change its position than the leopard can change its spots ... motion, in the ordinary sense, is only possible to matter, not to space" (loc. cit.). | **B. Russell**, *op. cit.* (motion implies material bodies, not spatial figures) |
-| `[^6]` | Inde patet eos qui (forte iuxta ea quae Wellstein dicebat) incipere volunt a figuris, ex filo tenui sed rigido compositis, quas in « spatio » movent, non evitare applicationem principii individuationis, sed id implicite supponere. Nam ut hae figurae moveri possint, praesupponitur extensum (spatium) in quo moventur, talem habere structuram, ut illae figurae diversis partibus « spatii » applicari possint, et quidem modo continue variabili. In illo « spatio » tales limites partium (lineae) ut possibiles, mathematice existentes, praesupponuntur. Possibilitas motus corporis rigidi praesupponit spatium et eius proprietates, non vice versa. Et ex principio individuationis plura derivari possunt quam ex solo principio liberi motus corporum rigidorum. Cfr. Gregorianum 1951 pagg. 449 sq. | Hence it is evident that those who (perhaps according to what Wellstein was saying) wish to begin from figures composed of a thin but rigid wire, which they move in "space," do not avoid the application of the principle of individuation, but implicitly presuppose it. For in order that these figures can be moved, it is presupposed that the extension (space) in which they move has such a structure that those figures can be applied to diverse parts of "space," and that in a continuously variable manner. In that "space," such boundaries of parts (lines) are presupposed as possible, as mathematically existing. The possibility of motion of a rigid body presupposes space and its properties, not vice versa. And from the principle of individuation more can be derived than from the sole principle of free motion of rigid bodies. Cf. *Gregorianum* (1951), pp. 449 ff. | **J. Wellstein**, *op. cit.* (attempt to avoid motion in congruence) |
-| `[^7]` | Cfr. ibid. b 15 sqq. et cap. 12, 220 b 24 sqq. Textus desumptus est ex editione W. D. Ross Aristotle's Physics. | Cf. ibid., 219b15 ff. and chapter 12, 220b24 ff. The text is drawn from the edition of W. D. Ross, *Aristotle's Physics*. | **Aristotle**, *Physics* IV, 11 (219b15 ff.) & 12 (220b24 ff., ed. W. D. Ross) |
-| `[^8]` | Trendelenburg in sua editione adnotat (in loc. cit.) « Quinam sunt qui dicant ? Utrum universi geometrae ? An Pythagorei ? De quo nihil apud commentatores ». S. Thomas i. h. l. (lect. 11, ed. Pirotta n. 170) dicit eos esse Platonicos ; idem affirmat A. E. Taylor in opere Plato the man and his work (ed. 2) 1927) pag. 506. Geminus apud Proclum in textu quem statim videbimus, vocat lineam ῥύσιν τοῦ σημείου. Cfr. quoque Proclum pag. 97, 6 et Simplicium Phys. (ed. Diels) pag. 722, 8. | Trendelenburg in his edition notes (on loc. cit.): "Who are those who say this? Whether geometers universally? Or the Pythagoreans? Concerning which there is nothing among the commentators." St. Thomas on this passage (lect. 11, ed. Pirotta, no. 170) says they are the Platonists; the same is affirmed by A. E. Taylor in his work *Plato: The Man and His Work* (2nd ed., 1927), p. 506. Geminus in Proclus, in the text we shall see immediately, calls a line the "flux of a point" (ῥύσιν τοῦ σημείου). Cf. also Proclus, p. 97, 6 and Simplicius, *In Phys.* (ed. Diels), p. 722, 8. | **F. A. Trendelenburg**, Commentary on Aristotle's *De Anima* (1877) |
-| `[^9]` | De Caelo I lect. 2 n. 9 « Utitur modo loquendi quo utuntur geometrae, imaginantes quod punctus motus facit lineam, linea vero mota facit superficiem , superficies autem corpus » ; cfr. ibid. II lect. 2 n. 11, Phys. IV lect. 18 n. 4. | *De Caelo* I, lect. 2, no. 9: "He uses the mode of speaking used by geometers, imagining that a point moved makes a line, a line moved makes a surface, and a surface moved makes a body"; cf. ibid. II, lect. 2, no. 11; *Phys.* IV, lect. 18, no. 4. | **St. Thomas Aquinas**, *In I De Caelo*, lect. 2, no. 9 (motion of points in geometry) |
-| `[^10]` | H. POINCARÉ, La science et l'hypothèse pag. 80 ; cfr. ibid. pag. 60. Ipse auctor integram sententiam sublineat. | H. Poincaré, *La science et l'hypothèse*, p. 80; cf. ibid., p. 60. The author himself underlines the entire sentence. | **H. Poincaré**, *La Science et l'Hypothèse* (p. 80, ideal bodies as figures) |
-| `[^11]` | Ita optime cl. Hadamard (in Encyclopédie Française I 1937, I-52-10) : « Bien entendu, l'auteur des Grundlagen der Geometrie [Hilbert] s'est, dans ce travail logique, laissé constamment guider par l'intuition géométrique ». Cfr. quoque quae dein sequuntur. | Thus excellently the distinguished J. Hadamard (in *Encyclopédie Française*, I, 1937, I-52-10): "Bien entendu, l'auteur des *Grundlagen der Geometrie* [Hilbert] s'est, dans ce travail logique, laissé constamment guider par l'intuition géométrique." ("Of course, the author of the *Foundations of Geometry* [Hilbert] allowed himself in this logical work to be constantly guided by geometric intuition.") Cf. also what follows there. | **J. Hadamard**, *Encyclopédie Française* (1937, I-52-10, geometric displacement) |
-| `[^12]` | Bene tamen notandum est : propositiones « geometriae inexactae » vel « approximativae » quae ita inveniuntur, magnopere differunt a propositionibus ordinariis physicis ; nam in hac experientia de rebus geometricis pervenimus quidem ad propositiones quae forte non omnino exactae sunt, quae approximative tantum verificantur — in hoc non differunt a iudiciis de rebus physicis — sed intelligimus semper, propositiones approximativas geometricas esse necessarias. Elementum exactitudinis adhuc deest, sed elementum necessitatis intellectae semper adest. | It must be well noted, however: the propositions of "inexact" or "approximative geometry" that are thus found differ greatly from ordinary physical propositions; for in this experience concerning geometric things we arrive indeed at propositions that are perhaps not entirely exact, which are verified only approximately—in this they do not differ from judgments concerning physical things—but we always understand that approximative geometric propositions are necessary. The element of exactitude is still lacking, but the element of understood necessity is always present. | Scholarly note on approximate geometry and physical tracing |
-| `[^13]` | Dicimus « consequenter » ; nam, ut ex dictis manifestum est, « directio » non definitur ope notionis lineae rectae, sed, vice versa, « directio constans » est differentia specifica quae rectam a curva distinguit ; notio autem « directionis », modo supra indicato immediate hauritur ex experientia et est notio primitiva; est « modus transeundi per punctum » cuiusvis lineae. Notio directionis constantis habetur ex eadem experientia, quae directiones sensibiliter constantes revelat. In ulteriori investigatione iam non agitur de notione sed de quaestione utrum existat, de quaestione « an est ». Et agitur unice de problemate exactitudinis. Perperam igitur dicit Helmholtz (Schriften zur Erkenntnistheorie ed. P. Hertz et M. Schlick 1921 pag. 141) : « Wie soll man aber Richtung definieren ; doch wieder nur durch die gerade Linie. Hier bewegen wir uns in einem Circulus vitiosus » (« Quomodo definienda est directio ; tantum utique ope lineae rectae. Hic movemur in circulo vitioso »). Ex supra dictis clare sequitur : directio est idea primitiva quae non definitur technice, sed statim ex experientia hauritur. Ad hanc difficultatem postea redibimus ; ab aliis maiori cum profunditate proponitur. | We say "consequently"; for, as is manifest from what has been said, "direction" is not defined by means of the notion of the straight line, but, vice versa, "constant direction" is the specific difference that distinguishes the straight line from the curve; the notion of "direction," however, in the manner indicated above, is immediately drawn from experience and is a primitive notion; it is the "mode of passing through a point" of any line whatever. The notion of constant direction is had from the same experience, which reveals sensibly constant directions. In further investigation we are no longer dealing with the notion, but with the question whether it exists, with the question *an est*. And we are dealing solely with the problem of exactitude. Wrongly, therefore, does Helmholtz say (*Schriften zur Erkenntnistheorie*, ed. P. Hertz and M. Schlick, 1921, p. 141): "Wie soll man aber Richtung definieren; doch wieder nur durch die gerade Linie. Hier bewegen wir uns in einem Circulus vitiosus" ("How, then, is direction to be defined? Surely again only by means of the straight line. Here we move in a vicious circle"). From what was said above it clearly follows: direction is a primitive idea that is not technically defined, but immediately drawn from experience. To this difficulty we shall return later; it is proposed with greater depth by others. | Scholarly note on definition and intuition of direction |
-| `[^14]` | Informe vel « amorphum » ; ita POINCARÉ, Dernières Pensées pag. 62, La valeur de la science pag. 59. | Formless or "amorphous"; thus Poincaré, *Dernières Pensées*, p. 62; *La valeur de la science*, p. 59. | **H. Poincaré**, *Dernières Pensées* (p. 62) & *La Valeur de la Science* (p. 59, amorphous continuous space) |
-| `[^15]` | In operis Quaestioni riguardanti le matematiche elementari, quod edidit F. Enriques, volumine I (ed. 3) legitur sectio quam scripsit U. Amaldi « sui concetti di retta e di piano ». Hic bene exponuntur difficultates quae surgunt in accurate stabiliendis his connexionibus ; non sunt paucae nec leves. Auctor, uti mos est apud mathematicos, notione directionis uti non vult ; inde difficultates augentur. Facile utique esset, « postulare » axiomata connexionis. Sed in hoc casu problema nostrum noeticum, quod sane dignissimum est quod examinetur, ex integro negligitur. Iam axioma simplex quod affirmat, rectam per duo puncto determinari, non potest directe ex experientia hauriri, propter problema exactitudinis, et exigit analysin noeticam. | In the work *Questioni riguardanti le matematiche elementari*, edited by F. Enriques, volume I (3rd ed.), there is a section written by U. Amaldi "sui concetti di retta e di piano" ("on the concepts of straight line and plane"). Here the difficulties that arise in accurately establishing these connections are well expounded; they are neither few nor slight. The author, as is customary among mathematicians, does not wish to use the notion of direction; hence the difficulties are increased. It would be easy, of course, to "postulate" the axioms of connection. But in this case our noetic problem, which is truly most worthy of examination, is entirely neglected. Already the simple axiom affirming that a straight line is determined by two points cannot be drawn directly from experience, on account of the problem of exactitude, and demands noetic analysis. | **F. Enriques** & **U. Amaldi**, *Questioni riguardanti le matematiche elementari* (I, 1924, p. 43) |
-| `[^16]` | W. KILLING, Einführung in die Grundlagen der Geometrie, Münster I (1893) II (1898) ; quae de directione rectae dicit inveniuntur in T. I § 3 pagg. 5 sqq. | W. Killing, *Einführung in die Grundlagen der Geometrie*, Münster, I (1893), II (1898); what he says concerning the direction of the straight line is found in Vol. I, § 3, pp. 5 ff. | **W. Killing**, *Einführung in die Grundlagen der Geometrie* (I, 1893; II, 1898) |
-| `[^17]` | « Der Winkel misst den Richtungsunterschied zweier Geraden ; folglich sind die beiden Winkel gleich, welche zwei Parallelen mit derselben geraden Linie bilden » (pag. 5). | "Der Winkel misst den Richtungsunterschied zweier Geraden; folglich sind die beiden Winkel gleich, welche zwei Parallelen mit derselben geraden Linie bilden" (p. 5). | **W. Killing**, *op. cit.* (angle measuring difference of direction) |
-| `[^18]` | « Zwei Geraden haben gleiche oder ungleiche Richtung, wenn sie mit einer beide schneidenden Geraden gleiche oder ungleiche Winkel bilden » (loc. cit. pag. 6). | "Zwei Geraden haben gleiche oder ungleiche Richtung, wenn sie mit einer beide schneidenden Geraden gleiche oder ungleiche Winkel bilden" (loc. cit., p. 6). | **W. Killing**, *op. cit.* (equal/unequal directions relative to secant) |
-| `[^19]` | « Man darf nur sagen : sie haben gleiche oder ungleiche Richtung in Bezung auf eine bestimmte dritte Gerade ; dann ist es aber ungewisz, ob zwei Geraden, welche mit einer bestimmten Geraden gleiche Winkel bilden, auch von jeder Geraden unter gleichen Winkeln geschnitten werden » (loc. cit.). Hanc ideam mutuat ex Gauss ad quem remittit. Gauss' Werke IV S. 365. Similem ideam invenimus apud cl. Hölder, Die mathematische Methode pag. 120, vide Cosmologiam nostram pag. 455. | "Man darf nur sagen: sie haben gleiche oder ungleiche Richtung in Bezug auf eine bestimmte dritte Gerade; dann ist es aber ungewiss, ob zwei Geraden, welche mit einer bestimmten Geraden gleiche Winkel bilden, auch von jeder Geraden unter gleichen Winkeln geschnitten werden" (loc. cit.). He borrows this idea from Gauss, to whom he refers (*Gauss' Werke*, IV, p. 365). A similar idea we find in the distinguished O. Hölder, *Die mathematische Methode*, p. 120; see our *Cosmologia*, p. 455. | **W. Killing**, *op. cit.* (direction defined only relative to a third line) |
-| `[^20]` | Difficultas quam ex cl. Killing exponebamus, etiam invenitur apud cl. U. Amaldi quem supra laudavimus (op. cit. § 3 pag. 46) ; post supra dicta non opus est ut ad eam redeamus. | The difficulty we expounded from Killing is also found in the distinguished U. Amaldi whom we praised above (op. cit., § 3, p. 46); after what was said above there is no need for us to return to it. | **U. Amaldi**, in Enriques' *Questioni* (p. 44) |
-| `[^21]` | F. HAUSDORF, Das Raumproblem in Annalen der Naturphilosophie III (1904) pag. 3 : « Die Mathematik darf jede aprioristische Konstruktion, die den euklidischen Raum mit seinen speziellen Eigentümlichkeiten, als Denknotwendigkeit, willkürfrei und voraussetzungslos zu deduzieren behauptet, ungeprüft ad Acta legen ». | F. Hausdorff, "Das Raumproblem," in *Annalen der Naturphilosophie*, III (1904), p. 3: "Die Mathematik darf jede aprioristische Konstruktion, die den euklidischen Raum mit seinen speziellen Eigentümlichkeiten, als Denknotwendigkeit, willkürfrei und voraussetzungslos zu deduzieren behauptet, ungeprüft ad Acta legen." | **F. Hausdorff**, "Das Raumproblem" (*Annalen der Naturphilosophie* 1904, p. 3) |
-| `[^22]` | Ita v. g. H. WEYL, Philosophie der Mathematik und Naturwissenschaft (1927) pag. 18 ; J. HADAMARD, Encycl. Franç I (1937) I-52-7 ; H. REICHENBACH, Philos. der Raum-Zeit-Lehre (1928) pag. 10. Hic postulatum simul vocat « extraordinarie cogens » (auszerordentlich zwingend) (!) et tamen parum convincens (« etwas Unbefriedigendes »), quia de infinito aliquid asserit et ideo omnem experientiam possibilem transcendit. | Thus, e.g., H. Weyl, *Philosophie der Mathematik und Naturwissenschaft* (1927), p. 18; J. Hadamard, *Encycl. Franç.*, I (1937), I-52-7; H. Reichenbach, *Philosophie der Raum-Zeit-Lehre* (1928), p. 10. Reichenbach simultaneously calls the postulate "extraordinarily compelling" (*ausserordentlich zwingend*) (!) and yet scarcely convincing ("etwas Unbefriedigendes"), because it asserts something concerning infinity and therefore transcends all possible experience. | **H. Weyl**, *Philosophie der Mathematik* (1927, p. 18) & **J. Hadamard** (*Encyclopédie Française*) |
-| `[^23]` | F. KLEIN, Elementarmathematik vom höheren Standpunkte aus (II ed. 3 1925) pagg. 189 sq. | F. Klein, *Elementarmathematik vom höheren Standpunkte aus* (II, 3rd ed., 1925), pp. 189 ff. | **F. Klein**, *Elementarmathematik vom höheren Standpunkte aus* (II, 1925, pp. 189 ff.) |
-| `[^24]` | Cfr. eundem F. Klein (op. cit. pagg. 192-194) qui ibi iterum bene probat, hic agi de problemate exactitudinis sensu descripto et inde hanc possibilitatem deducit. | Cf. the same F. Klein (op. cit., pp. 192–194), who there again well proves that we are dealing here with the problem of exactitude in the sense described, and thence deduces this possibility. | **F. Klein**, *op. cit.*, pp. 192–194 (exactness of parallels in non-Euclidean space) |
-| `[^25]` | Etiam notio rectae non-Euclidicae ideo non est omnino eadem ac notio rectae Euclidicae exactae. | The notion of a non-Euclidean straight line is therefore also not entirely the same as the notion of an exact Euclidean straight line. | Scholarly note on the concept of non-Euclidean straight line |
-| `[^26]` | Notari potest, ita etiam constitui posse alias geometrias Euclidicas quae scilicet deducuntur ex systemate propositionum quae omnes, etiam ea quae exprimit postulatum V, in verbis cum axiomatibus Euclidicis congruunt, sed alios sensus habent. Inde agunt de aliis obiectis ; sed haec obiecta sub aliis nominibus in antiqua geometria Euclidica occurrunt. Vide tale systema, a Wellstein elaboratum, in opere, antea iam citato, Weber-Wellstein in Enzyklopaedie der Elementarmathematik II Elemente der Geometrie (ed. 3 1915) pagg. 33-62. | It can be noted that in this way other Euclidean geometries can also be constituted: namely, those deduced from a system of propositions that all, even that expressing Postulate V, agree in words with the Euclidean axioms, but have different meanings. Hence they deal with other objects; but these objects occur under other names in ancient Euclidean geometry. See such a system, elaborated by Wellstein, in the work cited earlier: Weber-Wellstein, *Enzyklopädie der Elementarmathematik*, II, *Elemente der Geometrie* (3rd ed., 1915), pp. 33–62. | Scholarly note on Riemannian and Lobachevskian geometry within Euclidean space |
-| `[^27]` | Cfr. v. g. TH. WAITZ in suo Commentario in Anal. Priora I 23 ; in eius editione I pagg. 427-429. | Cf. e.g. Th. Waitz in his Commentary on *Prior Analytics* I, 23, in his edition, I, pp. 427–429. | **Th. Waitz**, Commentary on Aristotle's *Prior Analytics* I, 23 (I, pp. 427–429) |
-| `[^28]` | In eodem opere Principles of Mathematics pagg. 404 sq. : « There is no evidence whatever that the circles which we are told to construct intersect, and if they do not, the whole proposition fails. Euclid's problems are often regarded as existence-theorems, and from this point of view, it is plain, the assumption that the circles in question intersect is precisely the same as the assumption that there is an equilateral triangle on a given base ». | In the same work *Principles of Mathematics*, pp. 404 ff.: "There is no evidence whatever that the circles which we are told to construct intersect, and if they do not, the whole proposition fails. Euclid's problems are often regarded as existence-theorems, and from this point of view, it is plain, the assumption that the circles in question intersect is precisely the same as the assumption that there is an equilateral triangle on a given base." | **B. Russell**, *Principles of Mathematics* (pp. 404 ff., critique of empiricist circles) |
-| `[^29]` | S. ALBERTUS MAGNUS, Anal. Prior. I tract. I cap. 9 (in ed. Jammy, 1651, I pag. 298 a) : « terminis utimur transcendentibus, nihil et omnia significantibus. Nihil dico : quia nullam determinatam materiam. Omnia vero dico significantibus : quia omnibus materiis sunt applicabiles, sicut sunt a, b, c ». Etiam pseudo-Thomas in opere Summa totius logicae utitur locutione « termini transcendentes » quibus opponuntur « termini significativi » ; op. cit. tract. VII cap. 2 et 6 (in editione Mandonnet pagg. 102-104, pag. 111). | St. Albert the Great, *In Anal. Prior.* I, tract. I, cap. 9 (in ed. Jammy, 1651, I, p. 298a): "We use transcendent terms signifying nothing and everything. Nothing, I say, because no determinate matter. Everything, truly, I say they signify, because they are applicable to all matters, such as $a, b, c$." Pseudo-Thomas also in the work *Summa totius logicae* uses the phrase "transcendent terms," to which are opposed "significant terms"; op. cit., tract. VII, cap. 2 and 6 (in Mandonnet edition, pp. 102–104, p. 111). | **St. Albert the Great**, *In Anal. Prior.* I, tract. I, cap. 9 (ed. Jammy 1651, I, p. 298a) |
-| `[^30]` | Ita principium generale syllogismi iam ab Aristotele exprimitur (Anal. Prior. I 4, 25 b 37-39) : εἰ τὸ Α κατὰ παντὸς τοῦ Β καὶ τὸ Β κατὰ παντὸς τοῦ Γ, ἀνάγκη τὸ Α κατὰ παντὸς τοῦ Γ κατηγορεῖσθαι. | Thus the general principle of the syllogism is already expressed by Aristotle (*Prior Analytics* I, 4, 25b37–39): εἰ τὸ Α κατὰ παντὸς τοῦ Β καὶ τὸ Β κατὰ παντὸς τοῦ Γ, ἀνάγκη τὸ Α κατὰ παντὸς τοῦ Γ κατηγορεῖσθαι ("If $A$ is predicated of all $B$, and $B$ of all $C$, necessarily $A$ is predicated of all $C$"). | **Aristotle**, *Prior Analytics* I, 4 (25b37–39, syllogism Barbara) |
-| `[^31]` | Repetimus : supponi tamen debet terminos sensum habere (id quod quidam axiomatici oblivisci videntur) ; nam ut forma syllogistica valida sit, requiritur, ut termini qui pluries occurrunt, eundem sensum retineant ; sensum igitur habere debent. [^note]: Addimus verba Euclidis secundum versionem quam legimus apud Heiberg (pagg. 11 sq.) : « In data recta terminata triangulu aequilaterum construere. Sit data recta terminata AB oportet igitur in recta AB terminata triangulum aequilaterum construere. Centro A et radio AB circulus describatur BCD, et rursus centro B radio autem BA circulus describatur ACE, et a puncto C, in quo circuli inter se secant, ad puncta A, B ducantur rectae CA, CB. Iam quoniam punctum A centrum est circuli CDB, erit AC = AB, rursus quoniam B punctum centrum est circuli CAE, est BC = BA. sed demonstratum est etiam CA = AB. quare utraque CA, CB rectae AB aequalis est. quae autem eidem aequalia sunt, etiam inter se aequalia sunt [κ. ἔνν. 1] (i. e. secundum primam e « communibus animi conceptionibus »). itaque etiam CA = CB. itaque CA, AB, BC aequales sunt, quare triangulus ABC aequilaterus est ; et in data recta terminata AB constructus est. quod oportebat fieri ». | We repeat: it must nevertheless be supposed that terms have a meaning (which certain axiomaticians seem to forget); for in order that the syllogistic form be valid, it is required that terms occurring multiple times retain the same meaning; they must therefore have a meaning. [^note]: We add Euclid's words according to the version we read in Heiberg (pp. 11 ff.): "On a given finite straight line to construct an equilateral triangle. Let $AB$ be the given finite straight line; it is required to construct an equilateral triangle on the finite straight line $AB$. With center $A$ and radius $AB$ let the circle $BCD$ be described [Post. 3]; and again with center $B$ and radius $BA$ let the circle $ACE$ be described [Post. 3]; and from the point $C$, in which the circles intersect one another, to the points $A, B$ let the straight lines $CA, CB$ be drawn [Post. 1]. Now since the point $A$ is the center of the circle $CDB$, $AC$ is equal to $AB$ [Def. 15]. Again, since the point $B$ is the center of the circle $CAE$, $BC$ is equal to $BA$ [Def. 15]. But $CA$ was also proved equal to $AB$; therefore each of the straight lines $CA, CB$ is equal to $AB$. And things that are equal to the same thing are also equal to one another [Common Notion 1] (i.e., according to the first of the 'common notions'). Therefore $CA$ is also equal to $CB$. Therefore the three straight lines $CA, AB, BC$ are equal to one another; wherefore the triangle $ABC$ is equilateral; and it has been constructed on the given finite straight line $AB$. Which it was required to do." | Scholarly note on axiomaticians neglecting the semantic meaning of terms |
+* **Elementa (Στοιχεῖα)** (*Elements*) c. 300 BC
+  *Notes*: The thirteen books of Euclid's Elements; standard critical edition and commentary by Sir Thomas L. Heath (Cambridge, 1908; 2nd ed. 1926).
+  * **Citation**: [Caput I, § 1, § 4, § 5](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: Euclid's definitions of point, line, and surface; the Common Notions (axioms); Postulate V (the parallel postulate); and Book V on proportions.
+    * *How it supports the text*: Represents the historical paradigm of axiomatic deductive geometry for twenty centuries. Hoenen examines Euclid's definitions to show how intuitive spatial concepts served as the necessary foundation of classical geometry.
+  * **Citation**: [Caput IV, § 4, § 5 & [^1]](caput-4/caput-4-en.md#4-on-exact-figures)
+    * *What Hoenen refers to*: Euclid's fifth postulate and the notion of direction in defining straight lines and parallels.
+    * *How it supports the text*: Analyzes the transition from classical Euclidean geometry to non-Euclidean systems, demonstrating that non-Euclidean systems alter the geometric framework but do not invalidate the intuitive necessity of Euclidean relationships in intelligible matter.
 
 ---
 
-### [Caput V](caput-5/caput-5-en.md) *(pp. 157–194)*
+<a id="alexander-of-aphrodisias"></a>
 
-* [Latin Source Text](caput-5/caput-5.md) | [English Translation](caput-5/caput-5-en.md)
+### Alexander of Aphrodisias (fl. late 2nd – early 3rd c. AD (died c. 215 AD))
 
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | Ita Th. Heath in suo opere famoso A History of Greek Mathematics, Oxford 1921, I pagg. 335 sqq. Idem historicus ibi affirmat (de qua re interdum dubia moventur, vel quod etiam negatur) « Aristotle was no doubt a competent mathematician, though he does not seem to have specialized in mathematics ». | Thus Thomas Heath in his famous work *A History of Greek Mathematics*, Oxford, 1921, I, pp. 335 ff. The same historian affirms there (concerning which doubts are sometimes raised, or which is even denied): "Aristotle was no doubt a competent mathematician, though he does not seem to have specialized in mathematics." | **Sir Thomas L. Heath**, *A History of Greek Mathematics* (1921, I, pp. 335 ff.) |
-| `[^2]` | Cfr. discussionem inter Cl. Freudenthal et auctorem in Gregor. 1951. H. FR., De fontibus geometriae in intuitione et abstractione quaerendis pagg. 425-433, et auctoris De noetica geometriae, responsum ad animadversiones Cl. Fr. pagg. 434-452. | Cf. the discussion between Hans Freudenthal and the author in *Gregorianum*, 1951: H. Freudenthal, "De fontibus geometriae in intuitione et abstractione quaerendis," pp. 425–433, and the author's "De noetica geometriae: responsum ad animadversiones Cl. Fr.," pp. 434–452. | **H. Freudenthal** & **P. Hoenen**, debate in *Gregorianum* (1951, pp. 252–268) |
-| `[^3]` | Ita formam syllogismi « Barbara » exprimit et eius valorem affirmat dicendo : « si A praedicatur de omni B, et B de omni C, necesse est A de omni C praedicari » quod ita in « schema » syllogismi reducitur : « omne B est A, atqui omne C est B, ergo omne C est A ». Anal. Priora I, 4 25 b 37-39. De ulteriori evolutione symbolismi Aristotelis cfr. opus nostrum Recherches de logique formelle. La structure du système des syllogismes et des sorites . La logique des notions « au moins » et « tout au plus ». Romae 1947. | Thus he expresses the form of the syllogism *Barbara* and affirms its value by saying: "if $A$ is predicated of all $B$, and $B$ of all $C$, necessarily $A$ is predicated of all $C$," which is thus reduced to the "schema" of the syllogism: "all $B$ is $A$, but all $C$ is $B$, therefore all $C$ is $A$" (*Prior Analytics* I, 4, 25b37–39). Concerning the further development of Aristotle's symbolism cf. our work *Recherches de logique formelle: La structure du système des syllogismes et des sorites. La logique des notions « au moins » et « tout au plus »*, Rome, 1947. | Scholarly note on syllogistic form Barbara and its formal necessity |
-| `[^4]` | De termino « dispositio rei » apud S. Thomam (qui est aequivalens termino germanico moderno « Sachverhalt » ) vide Théorie du Jugement Ch. II § 5. | Concerning the term "disposition of the thing" (*dispositio rei*) in St. Thomas (which is equivalent to the modern German term *Sachverhalt*), see *Théorie du jugement*, Ch. II, § 5. | **St. Thomas Aquinas**, concept of *dispositio rei* (Sachverhalt) |
-| `[^5]` | J. LOCKE, An essay concerning human understanding Bk. IV ch. 17 § 4 (in ed. Fraser II pagg. 390 sqq.) : « God has not been so sparing to men to make them barely two-legged creatures, and left it to Aristotle to make them rational ... He has given them a mind that can reason, without being instructed in methods of syllogizing ». Leibniz in suo responso ad Locke (Nouveaux Essais ap. Gerhardt V pagg. 458 sqq.) meritum Aristotelis extollit, sed ut clarum est hanc thesin admittit. Similiter HEGEL , Wissenschaft der Logik II I k. 3 Anmerkung. Werke (ed. 1834) pagg. 142 sq. | J. Locke, *An Essay Concerning Human Understanding*, Bk. IV, ch. 17, § 4 (in Fraser ed., II, pp. 390 ff.): "God has not been so sparing to men to make them barely two-legged creatures, and left it to Aristotle to make them rational ... He has given them a mind that can reason, without being instructed in methods of syllogizing." Leibniz in his reply to Locke (*Nouveaux Essais*, in Gerhardt ed., V, pp. 458 ff.) extols the merit of Aristotle, but as is clear admits this thesis. Similarly G. W. F. Hegel, *Wissenschaft der Logik*, II, 1, k. 3, Anmerkung (Werke, ed. 1834, pp. 142 ff.). | **J. Locke**, *An Essay Concerning Human Understanding* (IV, 17, § 4, ed. Fraser, II, pp. 390 ff.) |
-| `[^6]` | Ita bene A. RIEHL. Logik und Erkenntnistheorie in Kultur der Gegenwart Abt. VI ed. 3 (1921) pag. 71. | Thus well A. Riehl, "Logik und Erkenntnistheorie," in *Kultur der Gegenwart*, Abt. VI, 3rd ed. (1921), p. 71. | **A. Riehl**, "Logik und Erkenntnistheorie" (*Kultur der Gegenwart* 1921, p. 71) |
-| `[^7]` | G. STAMMLER in Begriff, Urteil, Schlusz, Halle-Saale 1928, pagg. 229, 245. | G. Stammler in *Begriff, Urteil, Schluss*, Halle-Saale, 1928, pp. 229, 245. | **G. Stammler**, *Begriff, Urteil, Schluss* (1928, pp. 229, 245) |
-| `[^8]` | « I believe the prime Number Theorem because of de la Vallée-Poussin's proof of it, but I do not believe that 2 + 2 = 4 because of the proof in Principia Mathematica ». G. H. HARDY, Mathematical proof in periodico Mind 38 (1929) pag. 17. | "I believe the prime Number Theorem because of de la Vallée-Poussin's proof of it, but I do not believe that $2 + 2 = 4$ because of the proof in *Principia Mathematica*." G. H. Hardy, "Mathematical Proof," in the journal *Mind*, 38 (1929), p. 17. | **G. H. Hardy**, "Mathematical Proof" (*Mind* 1929) citing **C.-J. de la Vallée-Poussin** |
-| `[^9]` | « Sind irgendeine endliche Anzahl von Punkten einer Geraden gegeben, so lassen sich dieselben stets in der Weise mit A, B, C, D, E, ..... K bezeichnen, dasz der mit B bezeichnete Punkt zwischen A einerseits und C, D, E, ..... K andererseits, ferner C zwischen A, B einerseits und D, E, .... K andererseits, sodann D zwischen A, B, C einerseits, und E, ..... K andererseits liegt. Ausser dieser Bezeichnungsweise gibt es nur noch die umgekehrte Bezeichnungsweise K ..... E, D, C, B, A, die von der nämlichen Beschaffenheit ist ». HILBERT, Grundlagen der Geometrie ed. 7 (1930) pag. 8. | "Sind irgendeine endliche Anzahl von Punkten einer Geraden gegeben, so lassen sich dieselben stets in der Weise mit $A, B, C, D, E, \dots, K$ bezeichnen, dass der mit $B$ bezeichnete Punkt zwischen $A$ einerseits und $C, D, E, \dots, K$ andererseits, ferner $C$ zwischen $A, B$ einerseits und $D, E, \dots, K$ andererseits, sodann $D$ zwischen $A, B, C$ einerseits, und $E, \dots, K$ andererseits liegt. Ausser dieser Bezeichnungsweise gibt es nur noch die umgekehrte Bezeichnungsweise $K, \dots, E, D, C, B, A$, die von der nämlichen Beschaffenheit ist." D. Hilbert, *Grundlagen der Geometrie*, 7th ed. (1930), p. 8. | **D. Hilbert**, *Grundlagen der Geometrie* (Theorem on order of points on a line) |
-| `[^10]` | Haec iam observata sunt a mathematico Hardy in articulo quem supra iam citavimus (Mind 38 pag. 12) : « If Hilbert has made the Hilbert mathematics with a particular sheet of paper, and I copy them on another sheet, have I made a new mathematics ? Surely it is the same mathematics, and that even if he writes in pencil and I in ink, and his marks are black while mine are red ». (« Si Hilbert construxit mathematicam hilbertianam in particulari folio papyraceo, et ego transcribo illam in alio folio, num construxi novam mathematicam ? Absque dubio est eadem mathematica, etiam si ipse utitur stilo plumbeo et ego atramento, et eius signa sunt nigra et mea rubra ». Hardy his verbis vult indicare necessitatem harum operationum et observationum, et causam huius necessitatis, quae est abstractio formalis intuitiva. | These things were already observed by the mathematician Hardy in the article we cited above (*Mind*, 38, p. 12): "If Hilbert has made the Hilbert mathematics with a particular sheet of paper, and I copy them on another sheet, have I made a new mathematics? Surely it is the same mathematics, and that even if he writes in pencil and I in ink, and his marks are black while mine are red." ("Si Hilbert construxit mathematicam hilbertianam in particulari folio papyraceo, et ego transcribo illam in alio folio, num construxi novam mathematicam? Absque dubio est eadem mathematica, etiam si ipse utitur stilo plumbeo et ego atramento, et eius signa sunt nigra et mea rubra.") Hardy by these words wishes to indicate the necessity of these operations and observations, and the cause of this necessity, which is intuitive formal abstraction. | **G. H. Hardy**, *Mind* (38, p. 12, on Hilbert's axioms needing diagrams) |
-| `[^11]` | Cfr. communicationem nostram iam supra citatam Pour une philosophie de la connaissance de l'étendue physique in Gregorianum, 1949, pagg. 193-203. | Cf. our communication already cited above, "Pour une philosophie de la connaissance de l'étendue physique," in *Gregorianum*, 1949, pp. 193–203. | **P. Hoenen, S.J.**, "Pour une philosophie de la connaissance..." (*Gregorianum* 1950) |
-| `[^12]` | Quomodo propria physica obiectorum interdum impedire possint realisationem exactitudinis in corporibus pro uno casu explicavimus in Cosmologia in nota « de ente extenso physico » in ed. 4 pagg. 438-445. | How physical proper attributes of objects can sometimes impede the realization of exactitude in bodies, we explained for one case in *Cosmologia*, in the note "de ente extenso physico," 4th ed., pp. 438–445. | **P. Hoenen, S.J.**, *Cosmologia* (physical properties impeding mathematical exactitude) |
+* **In Aristotelis Metaphysica Commentaria** (*Commentary on Aristotle's Metaphysics*) c. 200 AD
+  *Notes*: The premier ancient peripatetic commentary on the Metaphysics; edited by Michael Hayduck in Commentaria in Aristotelem Graeca (CAG Vol. I, Berlin: Reimer, 1891).
+  * **Citation**: [Appendix, [^4] (ed. Hayduck, p. 573, line 16)](appendix/appendix-en.md#fn-4)
+    * *What Hoenen refers to*: Alexander's formulation of the first known principle: τὸ κινούμενον ἢ ἐνεργοῦν ὄν τί ἐστιν ('that which is moved or acts is a certain being').
+    * *How it supports the text*: Confirms that ancient Greek commentators recognized motion as an existential act: movement can only belong to actually existing things, establishing a direct connection between physical mutation and existential being.
 
 ---
 
-### [Caput VI](caput-6/caput-6-en.md) *(pp. 195–222)*
+<a id="themistius"></a>
 
-* [Latin Source Text](caput-6/caput-6.md) | [English Translation](caput-6/caput-6-en.md)
+### Themistius (c. 317 – c. 388 AD)
 
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | « Qu'on réalise un cercle matériel, qu'on en mesure le rayon et la circonférence, et qu'on cherche à voir si le rapport de ces deux longueurs est égale à π, qu'aura-t-on fait ? On aura fait une expérience, non sur les propriétés de l'espace, mais sur celles de la matière avec laquelle on a réalisé ce rond et de celle dont est fait le mètre qui a servi aux mesures ». | "Qu'on réalise un cercle matériel, qu'on en mesure le rayon et la circonférence, et qu'on cherche à voir si le rapport de ces deux longueurs est égale à $\pi$, qu'aura-t-on fait ? On aura fait une expérience, non sur les propriétés de l'espace, mais sur celles de la matière avec laquelle on a réalisé ce rond et de celle dont est fait le mètre qui a servi aux mesures." (H. Poincaré, *La science et l'hypothèse*, ch. V, no. 2, p. 92). | **H. Poincaré**, *La Valeur de la Science* (measuring radius and circumference of material circle) |
-| `[^2]` | De hac questione philosophica cfr. Cosmologiam nostram liber I cap. II in ed. 4 pagg. 64-134 ; Filosofia della natura inorganica, cap. III pagg. 93-142. | Concerning this philosophical question cf. our *Cosmologia*, Bk. I, ch. II; 4th ed., pp. 64–134; *Filosofia della natura inorganica*, ch. III, pp. 93–142. | **P. Hoenen, S.J.**, *Cosmologia* (lib. I, cap. II) & *Filosofia della natura inorganica* |
-| `[^3]` | A. EINSTEIN in periodico Forum I 1930 pag. 173 ; cfr. Cosmologiam ed. 4 pag. 468, ubi textus originalis legi potest, et Filos. d. nat. inorg. pag. 110. Ex hoc transcribimus versionem italicam verborum Einstein : « Esso (lo spazio) presuppone la concezione del mondo corporeo oggettivo. Io posso riconoscere i corpi attraverso le loro caratteristiche sensibili, senza ancora concepirli come spaziali. Se si forma in questo modo il concetto dei corpi, l'esperienza sensibile ci costringe a stabilire relazioni locali tra i corpi, cioè relazioni di mutuo contatto. Cio che noi indichiamo come relazioni spaziali tra i corpi non è niente altro. Dunque senza il concetto dei corpi nessun concetto di relazioni spaziali tra i corpi, e senza il concetto delle relazioni spaziali nessun concetto di spazio ». Sublineatio est nostra. | A. Einstein in the journal *Forum*, I (1930), p. 173; cf. *Cosmologia*, 4th ed., p. 468, where the original text can be read, and *Filos. della nat. inorg.*, p. 110. From this we transcribe the Italian translation of Einstein's words: "Esso (lo spazio) presuppone la concezione del mondo corporeo oggettivo. Io posso riconoscere i corpi attraverso le loro caratteristiche sensibili, senza ancora concepirli come spaziali. Se si forma in questo modo il concetto dei corpi, l'esperienza sensibile ci costringe a stabilire relazioni locali tra i corpi, cioè relazioni di mutuo contatto. Ciò che noi indichiamo come relazioni spaziali tra i corpi non è niente altro. Dunque senza il concetto dei corpi nessun concetto di relazioni spaziali tra i corpi, e senza il concetto delle relazioni spaziali nessun concetto di spazio." ("It [space] presupposes the conception of the objective corporeal world. I can recognize bodies through their sensible characteristics without yet conceiving them as spatial. If the concept of bodies is formed in this way, sensible experience forces us to establish local relations between bodies, that is, relations of mutual contact. What we indicate as spatial relations between bodies is nothing else. Therefore: without the concept of bodies, no concept of spatial relations between bodies; and without the concept of spatial relations, no concept of space.") The underlining is ours. | **A. Einstein**, *Forum* (1930, p. 173) & **P. Hoenen**, *Cosmologia* (p. 468) |
-| `[^4]` | In casibus physicis quibusdam etiam talis intuitio invenitur, scilicet ubi de intensitate qualitatum agitur. De hac exceptione hic agere non possumus ; vide plura in Cosmologia ed. 4 notam de sensibilibus propriis pagg. 508-517, et in Gregorianum, 1948, pagg. 295-303. | In certain physical cases such an intuition is also found: namely, where the intensity of qualities is treated. Concerning this exception we cannot treat here; see more in *Cosmologia*, 4th ed., note on proper sensibles, pp. 508–517, and in *Gregorianum*, 1948, pp. 295–303. | Scholarly note on intuition of intensity in qualitative physical cases |
-| `[^5]` | De hac materia cfr. Gregorianum, 1953, pag. 3-31 De duratione successiva et de quaestionibus connexis. | Concerning this subject cf. *Gregorianum*, 1953, pp. 3–31: "De duratione successiva et de quaestionibus connexis." | **P. Hoenen, S.J.**, "De duratione successiva..." (*Gregorianum* 1953, pp. 3–31) |
-| `[^6]` | Adsunt exceptiones ; in theoria « dimensionum physicarum » genus commune interdum derivari potest ex mensuris. | Exceptions are present: in the theory of "physical dimensions," a common genus can sometimes be derived from measurements. | Scholarly note on theory of physical dimensions and dimensional analysis |
-| `[^7]` | De his cfr. investigationem nostram De connexionibus necessariis inter actus existentiales in Gregorianum 1953 pagg. 603-31, praesertim pagg. 635, 637, infra in appendice. | Concerning these matters cf. our investigation "De connexionibus necessariis inter actus existentiales," in *Gregorianum*, 1953, pp. 603–631, especially pp. 635, 637; below in the Appendix. | **P. Hoenen, S.J.**, "De connexionibus necessariis inter actus existentiales" (*Gregorianum* 1953) |
-
----
-
-### [Caput VII](caput-7/caput-7-en.md) *(pp. 223–248)*
-
-* [Latin Source Text](caput-7/caput-7.md) | [English Translation](caput-7/caput-7-en.md)
-
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | Haec a S. Thoma exponuntur in commentario in textum quemdam Aristotelis (*Anal. Post.* I cap. 1, 71 a 14 sq.) ubi « trigonon », quae vox « subiectum » quoddam indicare solet, tanquam « passio » consideratur. Hic textus est crux quaedam commentatorum. Vide egregiam expositionem apud J. ALVAREZ LASO C. M. F. *La Filosofia de las Matemáticas en Santo Tomás* Mexico, 1952, pagg. 2-6. Hic non agitur de quadam subtilitate logicae formalis, sed de doctrina noetica, quae in se momentum habet, relate ad activitatem mentis in construenda scientia et relate ad conclusiones quae inde profluunt. | These things are expounded by St. Thomas in his commentary on a certain text of Aristotle (*Anal. Post.* I, c. 1, 71a14 ff.) where "triangle" (*trigonon*), which word is accustomed to indicate a certain "subject," is considered as a "passion" [proper attribute]. This text is a certain crux of commentators. See the excellent exposition in J. Alvarez Laso, C.M.F., *La Filosofía de las Matemáticas en Santo Tomás* (Mexico, 1952), pp. 2–6. Here we are not dealing with a certain subtlety of formal logic, but with noetic doctrine that in itself has moment relative to the activity of the mind in constructing science and relative to the conclusions that flow thence. | **St. Thomas Aquinas**, *In Anal. Post.* I, lect. 1 (71a14 ff., cognition of triangle) |
-| `[^2]` | Sunt quaedam experimenta in psychologia experimentali secundum quae in certis circumstantiis homo videtur percipiendo distinguere casus, in quibus adest impulsus, ab aliis. Sed id videtur provenire ex consuetudine quadam ; non videtur esse exceptio contra hanc regulam. | There are certain experiments in experimental psychology according to which in certain circumstances man seems by perception to distinguish cases in which impulse is present from others. But this seems to proceed from a certain habit; it does not seem to be an exception against this rule. | Experimental psychology studies on the perception of shapes and figures |
-| `[^3]` | De hoc puncto legi potest ampla expositio quam edidimus in *Gregorianum* 1953 pagg. 603-639 *De connexionibus necessariis inter actus existentiales*. Eam tanquam appendicem huic operi addimus. | Concerning this point an ample exposition can be read which we published in *Gregorianum*, 1953, pp. 603–639: "De connexionibus necessariis inter actus existentiales." This we add as an Appendix to this work. | **P. Hoenen, S.J.**, "De connexionibus necessariis inter actus existentiales" (*Gregorianum* 1953, pp. 603–639) |
+* **In Aristotelis Physica Paraphrasis** (*Paraphrase of Aristotle's Physics*) c. 370 AD
+  *Notes*: Peripatetic paraphrase of the Physics; edited by Heinrich Schenkl in CAG Vol. V.2 (Berlin: Reimer, 1900).
+  * **Citation**: [Appendix, [^11]](appendix/appendix-en.md#fn-11)
+    * *What Hoenen refers to*: Themistius's resolution of the definition of place, adopted and praised by St. Thomas Aquinas in In IV Phys., lect. 7.
+    * *How it supports the text*: Supports the realistic definition of place as the surrounding actual entity, grounding the category ubi in actual physical bodies.
+  * **Citation**: [Appendix, [^21] (ed. Schenkl, p. 210)](appendix/appendix-en.md#fn-21)
+    * *What Hoenen refers to*: Themistius's repeated use of the technical Greek term προϋπάρχειν (prouparchein, to pre-exist) regarding the actual existence of mobile and mover.
+    * *How it supports the text*: Provides decisive textual evidence from late antiquity that existential actualities must pre-exist before physical interactions occur, refuting the claim that Aristotle and his school ignored existential acts.
 
 ---
 
-### [Appendix](appendix/appendix-en.md) *(pp. 249–288)*
+<a id="proclus-diadochus"></a>
 
-* [Latin Source Text](appendix/appendix.md) | [English Translation](appendix/appendix-en.md)
+### Proclus Diadochus (412 – 485 AD)
 
-| # | Original Latin Citation | English Translation | Identified Source(s) & Notes |
-| :-: | :--- | :--- | :--- |
-| `[^1]` | *Le « cogito ergo sum » comme intuition et comme mouvement de la pensée* in fasciculo commemorativo periodici *Riv. di Filos. Neo-scolastica* 1937 *Cartesio nel terzo centenario del « Discorso del Metodo »* pagg. 457-471. Vide quoque opus nostrum *La Théorie du Jugement d'après St. Thomas d'Aquin* ch. 12 ed. 2 Romae 1953 et eius versionem anglicam *Reality and Judgment according to St. Thomas* Chicago 1952. Id citabimus sub siglo *Th. d. J.* resp. *R. a. J.* | Petrus Hoenen, S.J., "Le « cogito ergo sum » comme intuition et comme mouvement de la pensée," in the commemorative issue of the journal *Rivista di Filosofia Neo-scolastica* (1937): *Cartesio nel terzo centenario del « Discorso del Metodo »*, pp. 457–471. See also our work *La Théorie du Jugement d'après St. Thomas d'Aquin*, ch. 12 (2nd ed., Rome, 1953) and its English translation *Reality and Judgment according to St. Thomas* (Chicago: Regnery, 1952). This we shall cite under the abbreviation *Th. d. J.* or *R. a. J.* | **P. Hoenen, S.J.**, "Le 'cogito ergo sum' comme intuition..." (*Cartesio* 1937) & *Théorie du jugement* |
-| `[^2]` | *In secundis responsionibus* (ed. Adam et Tannery VII) 140, 18-141, 2. | Descartes, *In secundis responsionibus* (ed. Adam & Tannery, VII), 140, 18–141, 2. | **R. Descartes**, *Responsiones ad Secundas Objectiones* (ed. Adam & Tannery VII, pp. 140–141) |
-| `[^3]` | Textus desumptus est ex recensione Ross ; cfr. quoque eius commentarium II pagg. 245 sq. Adiungimus eiusdem auctoris versionem anglicam. « The word "actuality", which we connect with "complete reality", has, strictly speaking been extended from movements to other things ; for actuality in the strict sense is identified with movement. And so people do not assign movement to non-existent things, though they do assign some other predicates. E. g. they say that non-existent things are objects of thought and desire, but not that they are moved ; and this because, while *ex hypothesi* they do not actually exist, they would have to exist actually if they were moved. (b) For of non-existent things some exist potentially ; but they do not exist, because they do not exist in complete reality ». | Aristotle, *Metaphysics* IX, c. 3 (1047a30–b2). The Greek text is taken from the recension of W. D. Ross; cf. also his commentary, Vol. II, pp. 245 ff. We subjoin the English version of the same author: "The word 'actuality', which we connect with 'complete reality', has, strictly speaking, been extended from movements to other things; for actuality in the strict sense is identified with movement. And so people do not assign movement to non-existent things, though they do assign some other predicates. E.g., they say that non-existent things are objects of thought and desire, but not that they are moved; and this because, while *ex hypothesi* they do not actually exist, they would have to exist actually if they were moved. For of non-existent things some exist potentially; but they do not exist, because they do not exist in complete reality." | **Aristotle**, *Metaphysics* IX, 3 (1047a30–b2, ed. & trans. W. D. Ross) |
-| `[^4]` | Alexander in *Met.* (ed. Hayduck) 573, 16. Ibi (573, 24 et 26) habetur ut primum cognitum principium sub hac forma : τὸ κινούμενον ἢ ἐνεργοῦν ὄν τί ἐστιν. | Alexander of Aphrodisias, *In Aristotelis Metaphysica Commentaria* (ed. Hayduck), 573, 16. There (573, 24 and 26) it is had as a first known principle under this form: τὸ κινούμενον ἢ ἐνεργοῦν ὄν τί ἐστιν (*"that which is moved or acts is a certain being"*). | **Alexander of Aphrodisias**, *In Metaphysica* (ed. Hayduck, p. 573) |
-| `[^5]` | Breviter notamus. In hoc textu metaphysicae Aristoteles distinguit inter « energeian » et « entelecheian » ; quam tamen distinctionem alibi negligit, ita ut termini promiscue adhibeantur. Cfr. *Met.* IX 8 1050 a 21-23, et comm. Ross II pag. 264. Bonitz (in comm. in locum ex *Met.* IX 3) II pag. 387 ita describtit differentiam : « Nimirum ἐντελέχεια, ut descendit ab ἐντελεχής i. e. *plenus*, *perfectus*, perfectionem rei significat, ἐνέργεια vero, derivatum a v. ἐνεργεῖν, eam actionem et mutationem, qua quid ex mera possibilitate ad plenam perducitur essentiam » ; cfr. quae ibi sequuntur. | We note briefly: In this text of the *Metaphysics* Aristotle distinguishes between *energeia* (ἐνέργεια) and *entelecheia* (ἐντελέχεια); which distinction nevertheless elsewhere he neglects, so that the terms are used promiscuously. Cf. *Metaph.* IX, 8 (1050a21–23), and Ross's commentary, Vol. II, p. 264. Hermann Bonitz (in his commentary on *Metaph.* IX, 3, Vol. II, p. 387) describes the difference thus: "Doubtless ἐντελέχεια, as descending from ἐντελεχής, that is, *full*, *perfect*, signifies the perfection of a thing; ἐνέργεια, however, derived from the verb ἐνεργεῖν, signifies that action and mutation by which something from mere possibility is brought to full essence." | **Aristotle**, *Metaphysics* IX, 8 (1050a21–23), **W. D. Ross**, & **H. Bonitz** (*energeia* vs. *entelecheia*) |
-| `[^6]` | De motu ut actu existentiali vide *Cosmologiam* nostram ed. 4 n. 161 sq. et not. XIII (pagg. 527-530). | Concerning motion as an existential act see our *Cosmologia* (4th ed.), nos. 161 ff. and Note XIII (pp. 527–530). | **P. Hoenen, S.J.**, *Cosmologia* (4th ed., nos. 161 ff., Note XIII, pp. 527–530, motion as existential act) |
-| `[^7]` | E. Meyerson, *Du cheminement de la Pensée* pag. 391 n. 232. | Émile Meyerson, *Du cheminement de la pensée* (Paris: Alcan, 1931), Vol. II, p. 391, n. 232. | **É. Meyerson**, *Du cheminement de la pensée* (1931, II, p. 391) |
-| `[^8]` | Immo dici posset « maxime formalis » iuxta dictum S. Thomae : « illud quod est maxime formale omnium, est ipsum esse » (S. Th. I q. 7 a. 1). | Indeed it could be called "most formal" according to the saying of St. Thomas: *"that which is most formal of all is esse itself"* (*ST* I, q. 7, a. 1). | **St. Thomas Aquinas**, *Summa Theologiae* I, q. 7, a. 1 (*esse* as most formal) |
-| `[^9]` | Hoc incisum est pars argumentationis sat intricatae, quae in toto capite 9 evolvitur et agit de amicitia. In versione anglica (Oxford) legitur nota in fine capitis quae, principaliter iuxta Burnet, analytice exponit structuram argumentationis ; in qua quae in prioribus passibus demonstrata sunt, in sequentibus indicantur. Mirum est S. Thomam i. h. l. (lect. 11) simile quid habere. Eius inscriptiones paragraphorum similem structuram indicant ; et in decursu expositionis non minus quam sexies remittimur ad superius in eodem capite exposita. | Aristotle, *Nicomachean Ethics* IX, c. 9 (1170a31 ff.). This clause is part of a rather intricate argumentation developed in the whole of chapter 9 treating of friendship. In the English version (Oxford) there is read a note at the end of the chapter that, principally following John Burnet, analytically expounds the structure of the argumentation. It is remarkable that St. Thomas on this place (lect. 11) has something similar: his paragraph headings indicate a similar structure, and in the course of exposition no less than six times are we referred back to what was expounded above in the same chapter. | **Aristotle**, *Nicomachean Ethics* IX, 9 (1170a31 ff.), **John Burnet**, & **St. Thomas Aquinas** (*In IX Ethic.*, lect. 11) |
-| `[^10]` | In versione nostra supplevimus voces « est id », quae indicant subiectum superficiei, quae locatum circumdat. Potest quoque suppleri « est et » ; tunc indicatur subiectum (cuius terminus est locus) ut existens et continens. Ita in versione anglica (Oxford) : « there must be alongside it some other thing wherein it is and which contains it ». Nostra versio legitur etiam apud Carteron (*Aristote Physique* ed. Budé I pag. 134). | Aristotle, *Physica* IV, c. 5 (212b14 ff.). In our version we have supplied the words "is that" (*est id*), which indicate the subject of the surface that surrounds the located. There can also be supplied "is and" (*est et*); then the subject (whose boundary is place) is indicated as existing and containing. So in the English Oxford translation: *"there must be alongside it some other thing wherein it is and which contains it."* Our version is read also in Henri Carteron (*Aristote: Physique*, ed. Budé, Vol. I, p. 134). | **Aristotle**, *Physics* IV, 5 (212b14 ff.), Oxford translation, & **H. Carteron** (Budé ed.) |
-| `[^11]` | S. Thomas praefert solutionem quam Themistio tribuit. | St. Thomas, *In IV Phys.*, lect. 7; he prefers the solution that he attributes to Themistius. | **St. Thomas Aquinas**, *In IV Phys.*, lect. 7 (following Themistius on definition of place) |
-| `[^12]` | Propria generica eius entis actualis, quod munere loci fungitur, et conditiones quae, praeter existentiam loci et locati, adimpleri debent, ut locatum sit in loco, et moveatur secundum locum, in cosmologia examinantur (cfr. nostram *Cosmologiam* de « ubi »). | The generic proper attributes of that actual entity which performs the function of place, and the conditions that, besides the existence of place and located, must be fulfilled so that the located may be in place and be moved according to place, are examined in cosmology (cf. our *Cosmologia* on *ubi*). | **P. Hoenen, S.J.**, *Cosmologia* (generic attributes of place and *ubi*) |
-| `[^13]` | In lin. 27 cum Ross legendum est ἔστιν, id quod sine dubio melius est quam id quod Bonitz et Christ (Teubner) habent : ἐστίν. Nam agitur de existentia in tempore. Inde Ross ita vertit : « and the mover already exists actually ». Ceterum Bonitz in commentario (II pag. 401) explicat : « hanc causam motricem actu existere necesse est » et laudat plures textus. | In line 27 with Ross there must be read ἔστιν (*estin*, with paroxytone accent indicating existence), which is without doubt better than what Bonitz and Christ (Teubner) have: ἐστίν (copula). For existence in time is treated. Thence Ross translates: *"and the mover already exists actually."* For the rest Bonitz in his commentary (Vol. II, p. 401) explains: *"it is necessary that this moving cause actually exist"* and praises several texts. | **Aristotle**, *Metaphysics* IX, 3 (textual reading of ἔστιν with Ross vs. Bonitz and Christ) |
-| `[^14]` | De his cfr. *Gregorianum*, 1953, pagg. 3-19, quae de duratione successiva agunt. | Concerning these cf. *Gregorianum*, 34 (1953), pp. 3–19, which treat of successive duration. | **P. Hoenen, S.J.**, *Gregorianum* (1953, pp. 3–19, on successive duration) |
-| `[^15]` | De his cfr. *Cosmologia* nn. 58-63 de praedicamento « ubi », insuper n. 45, et notam *De ubi* in ed. 4 pagg. 467-470. | Concerning these cf. *Cosmologia*, nos. 58–63 on the category *ubi*, moreover no. 45, and the Note *De ubi* in the 4th ed., pp. 467–470. | **P. Hoenen, S.J.**, *Cosmologia* (nos. 58–63 on *ubi*, Note *De ubi*, pp. 467–470) |
-| `[^16]` | De hoc principio cfr. Notam IV *de relativitate motus* n. 1 ed. 4 pag. 456, notam XV de principio neo-positivismi n. 3 pag. 538. Cfr. etiam *Filosofia della natura inorganica* pagg. 112, 220. | Concerning this principle cf. Note IV *On the relativity of motion*, no. 1 (4th ed., p. 456), Note XV *On the principle of neo-positivism*, no. 3 (p. 538). Cf. also *Filosofia della natura inorganica*, pp. 112, 220. | **P. Hoenen, S.J.**, *Cosmologia* (Note IV, p. 456; Note XV, p. 538) & *Filosofia della natura inorganica* |
-| `[^17]` | Vide eius verba in *Cosmologia* in nota VI de « ubi » ed. 4 pag. 468 et in *Filosofia della natura inorganica* pag. 110. Supra VI § 2 B pag. 206 sq. | See Albert Einstein's words in *Cosmologia*, Note VI on *ubi* (4th ed., p. 468) and in *Filosofia della natura inorganica*, p. 110; and above in Chapter VI, § 2 B, pp. 206 ff. | **A. Einstein**, cited in Hoenen's *Cosmologia* (p. 468) & *Filosofia della natura inorganica* (p. 110) |
-| `[^18]` | Hoc adagium in illo loco originaliter applicatur ad arguendam prioritatem actus relate ad potentiam in casu cognitionis intellectivae obiectorum mathematicorum, ubi « actus » est « forma » ; nam inde specimen in quo principium legitur, intelligitur, desumptum est. Sed ab Aristotele statim universaliter de actu enuntiatur. Et a S. Thoma ita universaliter applicatur. | This adage in that place is originally applied to argue the priority of act relative to potency in the case of the intellective cognition of mathematical objects, where "act" is "form"; for thence the specimen in which the principle is read, understood, is drawn. But by Aristotle it is immediately enunciated universally of act. And by St. Thomas it is so applied universally. | Aristotelian-Thomistic adage: priority of act relative to potency in mathematical and universal cognition |
-| `[^19]` | Ipsi hoc adagio utimur ad stabiliendam actualitatem extensionis et consequenter continuorum in *Cosmologia* ed. 4 pag. 40 nota. | We ourselves use this adage to establish the actuality of extension and consequently of continua in *Cosmologia* (4th ed.), p. 40, note. | **P. Hoenen, S.J.**, *Cosmologia* (4th ed., p. 40 note, actuality of extension and continua) |
-| `[^20]` | Cfr. *Cosmologiam* nn. 152, 161 not. XIII « de motu ut est actus existentialis » in ed. 4 pagg. 527-530. Ea iam in prima editione (1931) leguntur. | Cf. *Cosmologia*, nos. 152, 161, Note XIII: "On motion as it is an existential act" (4th ed., pp. 527–530). These were already read in the first edition (1931). | **P. Hoenen, S.J.**, *Cosmologia* (nos. 152, 161, Note XIII, 1st ed. 1931) |
-| `[^21]` | De his confer quoque paraphrasin Themistii (ed. Schenkl pag. 210). Ipse plus semel utitur termino προϋπάρχειν. Similiter Simplicius i. h. l. (127, 9 et 14). | Concerning these confer also the paraphrase of Themistius (ed. Schenkl, p. 210). He more than once uses the term προϋπάρχειν (*prouparchein*, to pre-exist). Similarly Simplicius on this place (127, 9 and 14). | **Themistius** (ed. Schenkl, p. 210) & **Simplicius** (ed. Diels, p. 127) on *prouparchein* |
-| `[^22]` | Vide *Cosmologiam* nn. 98-99, 214-218, et nostram collectionem textuum *De origine formae materialis* (ed. 2 1951). | See *Cosmologia*, nos. 98–99, 214–218, and our collection of texts *De origine formae materialis* (2nd ed., Rome, 1951). | **P. Hoenen, S.J.**, *Cosmologia* (nos. 98–99, 214–218) & *De origine formae materialis* (1951) |
-| `[^23]` | E. Gilson, *L'être et l'essence*, Paris Vrin 1948, et *Being and some philosophers* Toronto 1949. | Étienne Gilson, *L'être et l'essence* (Paris: Vrin, 1948), and *Being and Some Philosophers* (Toronto: PIMS, 1949). | **É. Gilson**, *L'être et l'essence* (1948) & *Being and Some Philosophers* (1949) |
-| `[^24]` | De his cfr. egregias elucubrationes P. B. Lonergan, *The concept of « verbum » in the writings of St. Thomas Aquinas* in *Theological Studies* 1946 pagg. 349-392, 1947 pagg. 35-79, 404-44 ; pro hoc puncto I pag. 353. | Concerning these cf. the outstanding studies of Bernard Lonergan, S.J., "The Concept of *Verbum* in the Writings of St. Thomas Aquinas," in *Theological Studies*, 7 (1946), pp. 349–392; 8 (1947), pp. 35–79, 404–444; for this point, Vol. I, p. 353. | **B. Lonergan, S.J.**, "The Concept of *Verbum* in the Writings of St. Thomas Aquinas" (*Theological Studies* 1946–1947) |
-| `[^25]` | Cfr. *Th. du J.* Ch. II. | Cf. *Théorie du jugement*, ch. II. | **P. Hoenen, S.J.**, *Théorie du jugement* (ch. II, first operation vs. second operation) |
-| `[^26]` | De convenientia theoriae Brentano cum theoria S. Thomae, sed etiam de discrepantia magna inter utramque cfr. *Th. du J.* Ch. II § 4. | Concerning the agreement of Franz Brentano's theory with the theory of St. Thomas, but also concerning the great discrepancy between the two, cf. *Théorie du jugement*, ch. II, § 4. | **F. Brentano** & **St. Thomas Aquinas**, compared in Hoenen's *Théorie du jugement* (ch. II, § 4) |
-| `[^27]` | Id iam antea dicebamus in *Th. du J.* pagg. 193-194 in ed. 2 pagg. 190-191, in vers. Anglic. pagg. 165-166. | This we already said previously in *Théorie du jugement*, pp. 193–194 (2nd ed., pp. 190–191; English trans., pp. 165–166). | **P. Hoenen, S.J.**, *Théorie du jugement* (pp. 193–194; *Reality and Judgment*, pp. 165–166) |
-| `[^28]` | Cfr. casum supra expositum de « extensione » pagg. 256 sq. | Cf. the case expounded above concerning "extension," pp. 256 ff. | **P. Hoenen, S.J.**, cross-reference to earlier analysis of extension (pp. 256 ff.) |
-| `[^29]` | De his cfr. *Th. du J.* in capitibus de propositione per se et per accidens, de reflexionibus, de iudiciis resultantibus Ch. III, IV, V et alibi passim. | Concerning these cf. *Théorie du jugement*, in the chapters on the proposition *per se* and *per accidens*, on reflections, on resultant judgments, chs. III, IV, V, and elsewhere passim. | **P. Hoenen, S.J.**, *Théorie du jugement* (chs. III–V on proposition *per se* and reflections) |
-| `[^30]` | Ita etiam operatio intellectus agentis « determinatur » per « accepta ». Cfr. *Th. du J.* pagg. 25-26, *R. a. J.* pag. 21, ubi de sensu vocis « determinatio » vel « specificatio » in tali contextu agitur. | So also the operation of the agent intellect is "determined" by "accepted data." Cf. *Théorie du jugement*, pp. 25–26 (*Reality and Judgment*, p. 21), where the meaning of the word "determination" or "specification" in such a context is treated. | **P. Hoenen, S.J.**, *Théorie du jugement* (pp. 25–26; *Reality and Judgment*, p. 21, specification of agent intellect) |
-| `[^31]` | Conferri potest S. c. G. I 26 n. 2 ubi dicitur diversa « esse » non esse diversa «secundum speciem » (nam esse non est genus) ; sed res habent « diversas naturas, quibus acquiritur esse diversimode ». | There can be compared St. Thomas, *Summa contra Gentiles* I, c. 26, no. 2, where it is said that diverse *esse* are not diverse "according to species" (for *esse* is not a genus); but things have "diverse natures, by which esse is acquired in diverse ways." | **St. Thomas Aquinas**, *Summa contra Gentiles* I, c. 26, no. 2 (diversity of *esse* according to diverse natures) |
-| `[^32]` | De his cfr. in *Gregor.* (1953 pagg. 1-31) articulum nostrum *De duratione successiva et de quaestionibus connexis*. Supra VI § 3. | Concerning these cf. our article in *Gregorianum*, 34 (1953), pp. 1–31: "De duratione successiva et de quaestionibus connexis," and above Chapter VI, § 3. | **P. Hoenen, S.J.**, "De duratione successiva..." (*Gregorianum* 1953, pp. 1–31) |
-| `[^33]` | Cfr. Anneliese Maier, *An der Grenze von Scholastik und Naturwissenschaft*, 1943 pagg. 312 sqq. Auctor tamen momentum philosophicum huius theoriae non sufficienter agnoscere videtur. Cfr. *Gregor.* 1947 pag. 171 et *Cosmologiam* ed. 4 pagg. 516 s. | Cf. Anneliese Maier, *An der Grenze von Scholastik und Naturwissenschaft* (Rome: Edizioni di Storia e Letteratura, 1943), pp. 312 ff. The author nevertheless seems insufficiently to recognize the philosophical moment of this theory. Cf. *Gregorianum*, 28 (1947), p. 171, and *Cosmologia* (4th ed.), pp. 516 ff. | **A. Maier**, *An der Grenze von Scholastik und Naturwissenschaft* (1943) & **Nicole Oresme** |
+* **In primum Euclidis Elementorum librum commentarii** (*Commentary on the First Book of Euclid's Elements*) c. 470 AD
+  *Notes*: Neoplatonic philosophical commentary on Euclid; edited by Gottfried Friedlein (Leipzig: Teubner, 1873); English translation by Glenn R. Morrow (Princeton, 1970).
+  * **Citation**: [Caput I, § 1 & Caput IV, § 4](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: Proclus's exposition of the nature of mathematical imagination (phantasia) and historical documentation of Euclid's fifth postulate and definitions.
+    * *How it supports the text*: Corroborates the ancient understanding that geometric figures are projected into an imaginative medium that serves as the screen for mathematical reflection.
+
+---
+
+<a id="boethius-anicius-manlius-severinus"></a>
+
+### Boethius, Anicius Manlius Severinus (c. 477 – 524 AD)
+
+* **De Hebdomadibus (Quomodo substantiae...)** (*How Substances Are Good in Virtue of Their Existence (De Hebdomadibus)*) c. 520 AD
+  *Notes*: Theological and philosophical opusculum formulating the axiomatic method in philosophy; translated and commented on extensively by St. Thomas Aquinas.
+  * **Citation**: [Caput I, § 1 & Appendix, § 7](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: The concept of communes animi conceptiones (common conceptions of the soul / self-evident axioms), which are evident to anyone once the terms are known.
+    * *How it supports the text*: Supplies the classic definition of self-evident first principles adopted by St. Thomas and Hoenen: principles whose predicate is contained in the intelligible ratio of the subject.
+
+---
+
+<a id="simplicius-of-cilicia"></a>
+
+### Simplicius of Cilicia (c. 490 – c. 560 AD)
+
+* **In Aristotelis Physicorum Libros Commentaria** (*Commentary on Aristotle's Physics*) c. 535 AD
+  *Notes*: The monumental Neoplatonic commentary on the Physics; edited by Hermann Diels in CAG Vols. IX–X (Berlin: Reimer, 1882–1895).
+  * **Citation**: [Appendix, [^21] (ed. Diels, p. 127, lines 9 and 14)](appendix/appendix-en.md#fn-21)
+    * *What Hoenen refers to*: Simplicius confirming with Themistius that the active cause and passive subject must actually pre-exist (prouparchein) in nature before any act of change occurs.
+    * *How it supports the text*: Affirms the scholastic thesis that existential actualities are necessarily presupposed for physical activity and motion.
+
+---
+
+<a id="thomas-aquinas-st-o-p"></a>
+
+### Thomas Aquinas, St., O.P. (1225 – 1274)
+
+* **In Aristotelis libros Analyticorum Posteriorum expositio** (*Commentary on Aristotle's Posterior Analytics*) c. 1270–1272
+  *Notes*: Aquinas's definitive epistemological commentary on scientific demonstration, certitude, and the cognition of first principles. Standard Leonine edition, Vol. I* (1989).
+  * **Citation**: [Caput I, § 1 (I, lect. 1, n. 10; lect. 5, n. 7; lect. 6; lect. 17, n. 4)](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: St. Thomas explaining why mathematics has the most certain mode of demonstration ('propter certissimum modum demonstrationis'), and how higher sciences (metaphysics and natural philosophy) defend and establish the first principles of special sciences.
+    * *How it supports the text*: Establishes that mathematics is the epistemological model of science, and proves that examining mathematical first principles belongs properly to the philosopher.
+  * **Citation**: [Caput VII, [^1] (I, lect. 1, 71a14 ff.)](caput-7/caput-7-en.md#fn-1)
+    * *What Hoenen refers to*: St. Thomas's analysis of the crux regarding triangle as subject vs. passion/attribute.
+    * *How it supports the text*: Demonstrates that the human intellect constructs geometric figures in intelligible matter and discerns their properties through active mental operations.
+
+* **Super Boetium De Trinitate** (*Commentary on Boethius's De Trinitate*) c. 1257–1259
+  *Notes*: Aquinas's profound treatise on the division and methods of the sciences; Question 5, Article 3 is the locus classicus on mathematical abstraction.
+  * **Citation**: [Caput IV, [^2] (q. 5, a. 3, ad 3)](caput-4/caput-4-en.md#fn-2)
+    * *What Hoenen refers to*: The complete transcribed text: 'Quantitas autem indeterminata... dicitur materia intelligibilis... non tamen abstrahit a materia intelligibili individuali...'
+    * *How it supports the text*: The cornerstone of Hoenen's noetics: St. Thomas establishes that mathematics does not abstract from all matter, but retains **intelligible matter** (materia intelligibilis—continuous extended quantity imagined without sensible qualities). This resolves the problem of exactitude and individuation in geometry.
+
+* **Summa Theologiae** (*Summa Theologiae*) c. 1265–1274
+  *Notes*: The Angelic Doctor's systematic theological synthesis. Primary editions: Leonine (Rome, 1888–1906); Marietti (Turin, 1952).
+  * **Citation**: [Appendix, [^8] (I, q. 7, a. 1)](appendix/appendix-en.md#fn-8)
+    * *What Hoenen refers to*: The dictum: 'illud quod est maxime formale omnium, est ipsum esse' ('that which is most formal of all is esse itself').
+    * *How it supports the text*: Supports Hoenen's metaphysical thesis that actual existence (esse) is the ultimate actuality and formal perfection of every entity.
+  * **Citation**: [Appendix, § 7 (I, q. 12, a. 4, ad 3 & I, q. 75, a. 6)](appendix/appendix-en.md#the-abstract-concept-of-being-ratio-essendi)
+    * *What Hoenen refers to*: The teaching that 'intellectus apprehendit esse absolutum, et secundum omne tempus' ('the intellect apprehends absolute esse, and according to all time').
+    * *How it supports the text*: Refutes the existentialist claim (Étienne Gilson) that esse cannot be conceptualized: St. Thomas explicitly affirms that the human intellect apprehends absolute esse in abstraction.
+  * **Citation**: [Appendix, § 7 (II-II, q. 24, a. 4, ad 3)](appendix/appendix-en.md#3-permanent-qualities-and-modes-of-inherence)
+    * *What Hoenen refers to*: St. Thomas's difficult teaching on the increase of accidental forms (charity and qualities) through greater participation in the subject.
+    * *How it supports the text*: Shows that intensity in qualities represents a diverse mode of being within the existential order.
+
+* **In octo libros Physicorum Aristotelis expositio** (*Commentary on Aristotle's Physics*) c. 1268–1270
+  *Notes*: Aquinas's commentary on the physical world, movement, and the continuum. Leonine edition, Vol. II (1884).
+  * **Citation**: [Appendix, [^11] (IV, lect. 7) & Appendix, § 7 (III, lect. 5)](appendix/appendix-en.md#fn-11)
+    * *What Hoenen refers to*: St. Thomas adopting Themistius's solution to place, and formulating the principle: 'modi essendi proportionales sunt modis praedicandi' ('modes of being are proportional to modes of predicating').
+    * *How it supports the text*: Demonstrates that the Aristotelian categories are derived directly from diverse modes of actual being rather than mere grammatical distinctions.
+
+* **In duodecim libros Metaphysicorum Aristotelis expositio** (*Commentary on Aristotle's Metaphysics*) c. 1270–1273
+  *Notes*: Aquinas's profound metaphysical commentary. Edited by M.-R. Cathala and R. Spiazzi (Turin: Marietti, 1950).
+  * **Citation**: [Caput II, § 4 & Appendix, § 7 (V, lect. 9; IX, lect. 3; X, lect. 4, no. 2017)](appendix/appendix-en.md#the-diversity-of-modes-of-being-act-determined-by-potency)
+    * *What Hoenen refers to*: St. Thomas explaining diversity by whole selves (seipsis totis) and the division of being into diverse modes of being.
+    * *How it supports the text*: Underpins the distinction between quidditative differences and existential diversities.
+
+* **In Aristotelis librum De Anima commentarium** (*Commentary on Aristotle's De Anima*) c. 1267–1268
+  *Notes*: Aquinas's commentary on the soul, sensory faculties, and intellectual cognition. Edited by Angelo M. Pirotta (Turin: Marietti, 1936).
+  * **Citation**: [Caput I, § 2 (III, lect. 12, 13; Pirotta nos. 770–772, 777, 791) & Appendix, § 7 (II, lect. 16)](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: The necessity of conversion to the phantasm (conversio ad phantasmata) for all human intellectual cognition, and the analysis of sound as an entity with fluent rather than resting esse.
+    * *How it supports the text*: Grounds Hoenen's doctrine of intuitive formal abstraction: the intellect reads necessary relations directly within the imaginative presentation.
+
+* **In libros De Caelo et Mundo expositio** (*Commentary on Aristotle's On the Heavens*) c. 1272–1273
+  *Notes*: Aquinas's commentary on cosmology and astronomy. Leonine edition, Vol. III (1886).
+  * **Citation**: [Caput IV, [^9] (I, lect. 2, no. 9)](caput-4/caput-4-en.md#fn-9)
+    * *What Hoenen refers to*: St. Thomas noting: 'He uses the mode of speaking used by geometers, imagining that a point by its motion describes a line, and a line a surface, and a surface a body.'
+    * *How it supports the text*: Confirms that classical geometry legitimately constructs figures through imagined motion in intelligible matter.
+
+* **Summa contra Gentiles** (*Summa contra Gentiles*) c. 1259–1265
+  *Notes*: Aquinas's philosophical defense of the Catholic faith against the gentiles. Leonine edition, Vols. XIII–XV (1918–1930).
+  * **Citation**: [Appendix, [^31] (I, c. 26, no. 2)](appendix/appendix-en.md#fn-31)
+    * *What Hoenen refers to*: The teaching that diverse esse are not diverse according to species, but things have 'diverse natures, by which esse is acquired in diverse ways.'
+    * *How it supports the text*: Proves that the diversity of modes of being flows from the diverse essences and quiddities that are actuated by esse.
+
+* **Quaestiones disputatae de Potentia Dei** (*Disputed Questions on the Power of God*) c. 1265–1266
+  *Notes*: Disputed questions on divine power, creation, and the Trinity. Marietti edition by P. Bazzi et al. (Turin, 1953).
+  * **Citation**: [Appendix, § 7 (q. 7, a. 2, ad 9; q. 8, a. 1; q. 9, a. 5)](appendix/appendix-en.md#is-esse-conceptualizable)
+    * *What Hoenen refers to*: The definition: 'This that I call esse is the actuality of all acts, and on account of this is the perfection of perfections... esse is not so determined by another as potency by act, but rather as act by potency.'
+    * *How it supports the text*: Provides the decisive Thomistic formulation proving that esse is not an abstract quiddity, but the ultimate act determined by essence as act is determined by potency.
+
+* **Scriptum super Sententiis** (*Commentary on the Sentences of Peter Lombard*) c. 1252–1256
+  *Notes*: Aquinas's early masterpiece of theology. Edited by P. Mandonnet and M. F. Moos (Paris: Lethielleux, 1929–1947).
+  * **Citation**: [Appendix, § 7 (In I Sent., d. 2, q. 1, a. 3 & d. 19, q. 5, a. 1, ad 6)](appendix/appendix-en.md#the-abstract-concept-of-being-ratio-essendi)
+    * *What Hoenen refers to*: The definition of ratio as that which the intellect apprehends of the meaning of a name, and the teaching that the ratio essendi is denied to the senses.
+    * *How it supports the text*: Proves that understanding being (esse) requires an intellectual operation of reflection, which the sensory faculties are incapable of performing.
+
+---
+
+<a id="albert-the-great-st-o-p"></a>
+
+### Albert the Great, St., O.P. (c. 1200 – 1280)
+
+* **In Analytica Priora** (*Commentary on the Prior Analytics*) c. 1250
+  *Notes*: The Universal Doctor's commentary on formal logic; edited by Pierre Jammy (Lugduni, 1651, Vol. I, tract. I, cap. 9, p. 298a).
+  * **Citation**: [Caput IV, [^29]](caput-4/caput-4-en.md#fn-29)
+    * *What Hoenen refers to*: St. Albert's teaching: 'We use transcendent terms (A, B, C) in the place of things, because the necessity of consequence is better seen in transcendent terms than in particular matters.'
+    * *How it supports the text*: Demonstrates that scholastic logic understood formal symbolic variables not as meaningless empty marks, but as universal formal placeholders expressing intelligible necessity.
+
+---
+
+<a id="nicole-oresme"></a>
+
+### Nicole Oresme (c. 1320/1325 – 1382)
+
+* **Tractatus de configurationibus qualitatum et motuum** (*Treatise on the Configurations of Qualities and Motions*) c. 1350
+  *Notes*: Medieval mathematical and physical treatise pioneering the coordinate graphing of velocities and intensities; cited via Anneliese Maier (1943).
+  * **Citation**: [Appendix, § 7 and [^33]](appendix/appendix-en.md#2-velocity-intensity-and-nicole-oresmes-configurations)
+    * *What Hoenen refers to*: Oresme's geometric configurations representing the intensity of qualities and the velocity of motion across temporal duration.
+    * *How it supports the text*: Shows that medieval scholasticism already recognized that fluent existential acts (motion, velocity) possess structural and qualitative configurations analogous to geometric figures in continuous extension.
+
+---
+
+<a id="descartes-rene"></a>
+
+### Descartes, René (1596 – 1650)
+
+* **Meditationes de Prima Philosophia & Responsiones ad Secundas Objectiones** (*Meditations on First Philosophy & Replies to the Second Objections*) 1641
+  *Notes*: Descartes's foundational metaphysical work; critical edition by Charles Adam & Paul Tannery (AT VII, Paris: Vrin).
+  * **Citation**: [Appendix, [^2] (AT VII, pp. 140, 18 – 141, 2)](appendix/appendix-en.md#fn-2)
+    * *What Hoenen refers to*: Descartes explaining that the Cogito ('I think, therefore I am') is not a syllogism deduced from a universal major premise, but an immediate mental intuition of the singular existent.
+    * *How it supports the text*: Supports Hoenen's Thomistic interpretation of the Cogito: it is an immediate existential judgment in which the intellect perceives its own act of being directly within its cognitive exercise.
+
+* **Principia Philosophiae** (*Principles of Philosophy*) 1644
+  *Notes*: Descartes's systematic exposition of metaphysics and natural philosophy; critical edition AT VIII-1.
+  * **Citation**: [Caput II, [^7] (Part II, art. 4–11)](caput-2/caput-2-en.md#fn-7)
+    * *What Hoenen refers to*: Descartes's definition of the essence of body as extension alone (res extensa).
+    * *How it supports the text*: Critiqued by Hoenen: while Descartes erred in reducing the entire physical nature of bodies to geometric extension, he correctly perceived that divisibility is an intrinsic and necessary proper attribute of extended quantity.
+
+* **Entretien avec Burman** (*Conversation with Burman*) 1648
+  *Notes*: Recorded interview of Descartes by Frans Burman on April 16, 1648; critical edition AT V, p. 164.
+  * **Citation**: [Appendix, § 7 (AT V, p. 164)](appendix/appendix-en.md#4-contact-aggregates-imitating-essential-continua)
+    * *What Hoenen refers to*: Descartes denying any real difference between a continuous body and an aggregate of parts touching each other in contact.
+    * *How it supports the text*: Illustrates the philosophical confusion that results from failing to distinguish between an essential continuum (intrinsic continuous quantity) and a mere aggregate of contact (accidental existential unity).
+
+---
+
+<a id="locke-john"></a>
+
+### Locke, John (1632 – 1704)
+
+* **An Essay Concerning Human Understanding** (*An Essay Concerning Human Understanding*) 1690
+  *Notes*: Locke's foundational epistemological work; critical edition by Alexander Campbell Fraser (Oxford: Clarendon Press, 1894, 2 vols.).
+  * **Citation**: [Caput V, [^5] (Book IV, ch. 17, § 4; Fraser ed., II, pp. 390 ff.)](caput-5/caput-5-en.md#fn-5)
+    * *What Hoenen refers to*: Locke's famous critique of formal syllogistics: 'God has not been so sparing to men to make them barely two-legged creatures, and left it to Aristotle to make them rational.'
+    * *How it supports the text*: Employed by Hoenen to demonstrate that syllogistic reasoning is an intrinsic, natural mental activity prior to any verbal formulation or symbolic calculus, confirming the psychological and noetic reality of deduction.
+
+---
+
+<a id="leibniz-gottfried-wilhelm"></a>
+
+### Leibniz, Gottfried Wilhelm (1646 – 1716)
+
+* **Nouveaux Essais sur l'entendement humain** (*New Essays on Human Understanding*) 1704 (publ. 1765)
+  *Notes*: Leibniz's detailed chapter-by-chapter reply to Locke's Essay; Book IV treats knowledge, truth, and necessary principles.
+  * **Citation**: [Caput II, [^2] (Book IV, ch. 7, § 10)](caput-2/caput-2-en.md#fn-2)
+    * *What Hoenen refers to*: Leibniz's attempted proof of 2 + 2 = 4 using definitions (2 is 1+1, 3 is 2+1, 4 is 3+1) and the single axiom of substituting equals.
+    * *How it supports the text*: Hoenen subjects Leibniz's proof to rigorous forensic analysis: Leibniz applies the axiom not once, but at *every single step* of the substitution. This proves that even 'analytic' deductions depend upon repeated intuitive grasps of equality in intelligible matter.
+
+---
+
+<a id="kant-immanuel"></a>
+
+### Kant, Immanuel (1724 – 1804)
+
+* **Kritik der reinen Vernunft** (*Critique of Pure Reason*) 1781 (2nd ed. 1787)
+  *Notes*: The foundational text of critical idealism; cited from the 1787 B edition (B14–15 on arithmetic judgments).
+  * **Citation**: [Caput I, § 2 & § 3](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: Kant's theory of space and time as subjective a priori forms of external sensibility.
+    * *How it supports the text*: Hoenen credits Kant with recognizing that mathematical knowledge requires sensible intuition (Anschauung) and possesses strict necessity, but refutes Kant's subjectivism, demonstrating that extension is an objective property of being known through abstraction.
+  * **Citation**: [Caput II, [^4] (B14–15)](caput-2/caput-2-en.md#fn-4)
+    * *What Hoenen refers to*: Kant's famous analysis of 7 + 5 = 12 as a synthetic a priori proposition that cannot be derived through mere conceptual analysis without recourse to intuition (counting points or fingers).
+    * *How it supports the text*: Hoenen uses Kant's example to show that arithmetic judgments require sensible phantasms, but demonstrates that the necessity is grasped by the intellect reading formal connections within intelligible matter.
+
+---
+
+<a id="waitz-theodor"></a>
+
+### Waitz, Theodor (1821 – 1864)
+
+* **Aristotelis Organon Graece** (*Aristotle's Organon in Greek*) 1844–1846
+  *Notes*: Critical Greek text and Latin commentary on the Organon (2 vols., Leipzig: Hahn).
+  * **Citation**: [Caput IV, [^27] (Vol. I, pp. 427–429)](caput-4/caput-4-en.md#fn-27)
+    * *What Hoenen refers to*: Waitz's commentary on Prior Analytics I, 23 regarding the conversion of geometric proofs into formal syllogisms.
+    * *How it supports the text*: Supports the view that geometric reasoning operates with essential terms and diagrams rather than empty formal symbols.
+
+---
+
+<a id="mobius-august-ferdinand"></a>
+
+### Möbius, August Ferdinand (1790 – 1868)
+
+* **Ueber die Bestimmung des Inhaltes eines Polyëders (Das Möbiusband)** (*On the Determination of the Volume of a Polyhedron (The Möbius Strip)*) 1858 (publ. 1865)
+  *Notes*: Memoir presenting the discovery of the non-orientable one-sided surface (Möbius strip) in topology.
+  * **Citation**: [Caput II, § 2 & Caput III, § 2](caput-2/caput-2-en.md#6-on-the-section-of-a-cylinder-and-the-mobius-strip)
+    * *What Hoenen refers to*: The section of a cylinder and a Möbius strip as an objection against classical geometric intuition.
+    * *How it supports the text*: Hoenen analyzes the cutting of a Möbius strip (which results in a single longer two-sided loop rather than two separate strips), proving that this counter-intuitive result is rigorously deduced from the intuitive axioms of continuous sectioning rather than contradicting them.
+
+---
+
+<a id="trendelenburg-friedrich-adolf"></a>
+
+### Trendelenburg, Friedrich Adolf (1802 – 1872)
+
+* **Aristotelis De Anima libri tres** (*Aristotle's Three Books On the Soul*) 1877 (ed. altera)
+  *Notes*: Renowned critical edition and commentary on Aristotle's De Anima (Berlin: Weber).
+  * **Citation**: [Caput IV, [^8]](caput-4/caput-4-en.md#fn-8)
+    * *What Hoenen refers to*: Trendelenburg's note asking who are the ancient thinkers who spoke of points moving to generate lines.
+    * *How it supports the text*: Traces the historical pedigree of motion in geometry back to ancient Peripatetic discussions.
+
+---
+
+<a id="mill-john-stuart"></a>
+
+### Mill, John Stuart (1806 – 1873)
+
+* **A System of Logic, Ratiocinative and Inductive** (*A System of Logic, Ratiocinative and Inductive*) 1843 (5th ed. 1862)
+  *Notes*: Mill's magnum opus on epistemology, empiricism, and induction (London: Parker, Son, and Bourn, 2 vols.).
+  * **Citation**: [Caput I, § 2](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: Mill's radical empiricist theory that mathematics is an inductive physical science of material bodies, lacking apodictic necessity and exactitude.
+    * *How it supports the text*: Presents the classical empiricist challenge: Mill honestly admits that if mathematical ideas are drawn from senses alone, they can never attain absolute necessity or exactitude.
+  * **Citation**: [Caput III, [^3] & [^4] (Vol. I, Book II, ch. 5, pp. 255–257)](caput-3/caput-3-en.md#fn-3)
+    * *What Hoenen refers to*: Mill's assertions: 'A line is length without breadth; but is there in nature such a thing as a line without breadth? There is not... none of these things exist in nature.'
+    * *How it supports the text*: Hoenen uses Mill's formulation to sharpen the Problem of Exactitude: because physical senses only perceive rough bodies with finite width, the mind's exact geometric notions (point, line, surface) must arise through intellectual abstraction of boundaries within continuous quantity.
+
+---
+
+<a id="bonitz-hermann"></a>
+
+### Bonitz, Hermann (1814 – 1888)
+
+* **Aristotelis Metaphysica: Commentarius** (*Commentary on Aristotle's Metaphysics*) 1848–1849
+  *Notes*: Classic Philological commentary on the Greek text of the Metaphysics (Bonn: Marcus, 2 vols.).
+  * **Citation**: [Appendix, [^5] (Vol. II, p. 387)](appendix/appendix-en.md#fn-5)
+    * *What Hoenen refers to*: Bonitz's linguistic analysis distinguishing energeia (action bringing possibility to essence) from entelecheia (full perfection of the thing).
+    * *How it supports the text*: Clarifies the precise Aristotelian vocabulary of act and actuality in existential changes.
+  * **Citation**: [Appendix, [^13] (Vol. II, p. 401)](appendix/appendix-en.md#fn-13)
+    * *What Hoenen refers to*: Bonitz's explanation of Metaphysics IX, 3: 'hanc causam motricem actu existere necesse est' ('it is necessary that this moving cause actually exist').
+    * *How it supports the text*: Confirms the textual necessity that motion presupposes the actual existence in time of the active cause.
+
+---
+
+<a id="weierstrass-karl"></a>
+
+### Weierstrass, Karl (1815 – 1897)
+
+* **Vorlesungen über die Theorie der Funktionen** (*Lectures on the Theory of Functions*) 1872 (publ. 1886)
+  *Notes*: Pioneering lectures establishing the epsilon-delta arithmetization of mathematical analysis without geometric intuition.
+  * **Citation**: [Caput I, § 4](caput-1/caput-1-en.md#4-on-the-arithmetization-of-the-continuum)
+    * *What Hoenen refers to*: Weierstrass's program of arithmetizing analysis, eliminating geometric intuition and infinitesimals in favor of pure number sequences.
+    * *How it supports the text*: Represents the historical movement that attempted to solve the problem of geometric inexactitude by reducing all continuous extension to discrete integer calculations.
+
+---
+
+<a id="hamelin-octave"></a>
+
+### Hamelin, Octave (1856 – 1907)
+
+* **Le Système d'Aristote** (*The System of Aristotle*) 1920 (posthumous)
+  *Notes*: Comprehensive philosophical reconstruction of Aristotle's thought, edited by Léon Robin (Paris: Alcan).
+  * **Citation**: [Caput I, [^3] (pp. 234 sq., 258 sq.)](caput-1/caput-1-en.md#fn-3)
+    * *What Hoenen refers to*: Hamelin's analysis of Aristotelian abstraction and the relationship between sensible data and intellectual principles.
+    * *How it supports the text*: Provides scholarly authority confirming that Aristotle derived first principles through intuitive induction from sensible experience.
+
+---
+
+<a id="poincare-henri"></a>
+
+### Poincaré, Henri (1854 – 1912)
+
+* **La Science et l'Hypothèse** (*Science and Hypothesis*) 1902
+  *Notes*: Poincaré's classic work on the philosophy of science, conventionalism, and the nature of space (Paris: Flammarion).
+  * **Citation**: [Caput IV, [^10] (p. 80; cf. p. 60)](caput-4/caput-4-en.md#fn-10)
+    * *What Hoenen refers to*: Poincaré's observation that geometric figures are ideal bodies, and that geometric axioms are disguised conventions chosen for convenience.
+    * *How it supports the text*: Hoenen engages Poincaré's conventionalism, showing that while physical bodies are imperfect, ideal geometric figures have an objective nature grasped through formal abstraction.
+
+* **La Valeur de la Science** (*The Value of Science*) 1905
+  *Notes*: Epistemological essays on intuition, logic, and the physical sciences (Paris: Flammarion).
+  * **Citation**: [Caput I, [^9] & [^10] (pp. 17, 22–23)](caput-1/caput-1-en.md#fn-9)
+    * *What Hoenen refers to*: Poincaré's distinction between three kinds of intuition: the appeal to sense and imagination, generalization by induction, and the intuition of pure number.
+    * *How it supports the text*: Highlights Poincaré's admission that modern analysis eliminated sensible intuition, but shows that Poincaré still required an irreducible 'intuition of pure number,' confirming that mathematics cannot exist without intuition.
+  * **Citation**: [Caput IV, [^14] (p. 59) & Caput VI, [^1]](caput-4/caput-4-en.md#fn-14)
+    * *What Hoenen refers to*: Poincaré describing continuous space as formless and 'amorphous' until metric relations are imposed, and his thought experiment on measuring a physical circle.
+    * *How it supports the text*: Hoenen agrees with Poincaré that physical continuous extension is amorphous regarding fixed coordinate systems, but shows that it possesses intrinsic intelligible properties (divisibility, boundaries, dimensionality).
+
+* **Dernières Pensées** (*Last Thoughts*) 1913 (posthumous)
+  *Notes*: Final collection of essays on mathematics, logic, and physics (Paris: Flammarion).
+  * **Citation**: [Caput I, [^11] & [^12] (p. 65) & Caput IV, [^14] (p. 62)](caput-1/caput-1-en.md#fn-11)
+    * *What Hoenen refers to*: Poincaré's sharp warning against arithmetization: 'This definition makes cheap of the intuitive origin of the notion of the continuum... I do not mean to say that this arithmetization of mathematics is a bad thing, I say it is not everything.'
+    * *How it supports the text*: Provides decisive modern mathematical backing for Hoenen's central thesis: arithmetization leaves out the essential intuitive nature of continuous extension, which the philosopher must recover.
+
+---
+
+<a id="couturat-louis"></a>
+
+### Couturat, Louis (1868 – 1914)
+
+* **La philosophie des mathématiques de Kant** (*The Philosophy of Mathematics of Kant*) 1904
+  *Notes*: Major critical study in Revue de Métaphysique et de Morale (Vol. 12, No. 3, pp. 321–383).
+  * **Citation**: [Caput II, [^3] & Caput III, [^8]](caput-2/caput-2-en.md#fn-3)
+    * *What Hoenen refers to*: Couturat's logicist deduction of arithmetic propositions (7 + 5 = 12) from definitions and logical substitution without Kantian intuition.
+    * *How it supports the text*: Hoenen analyzes Couturat's deductions to reveal that Couturat unconsciously presupposes intuitive operations at each deductive step, proving that logicism cannot dispense with intelligible intuition.
+
+* **Les principes des mathématiques** (*The Principles of Mathematics*) 1905
+  *Notes*: Systematic exposition of Russell and Peano's logicism for continental audiences (Paris: Alcan).
+  * **Citation**: [Caput II, [^3]](caput-2/caput-2-en.md#fn-3)
+    * *What Hoenen refers to*: Couturat's exposition of the formal logical derivation of mathematical addition.
+    * *How it supports the text*: Demonstrates that formal arithmetic definitions presuppose an intuitive understanding of multitude and equality.
+
+---
+
+<a id="dedekind-richard"></a>
+
+### Dedekind, Richard (1831 – 1916)
+
+* **Stetigkeit und irrationale Zahlen** (*Continuity and Irrational Numbers*) 1872
+  *Notes*: Landmark treatise constructing real numbers via Dedekind cuts on sets of rational numbers (Braunschweig: Vieweg).
+  * **Citation**: [Caput I, § 4](caput-1/caput-1-en.md#4-on-the-arithmetization-of-the-continuum)
+    * *What Hoenen refers to*: Dedekind's definition of continuity as an arithmetic cut in the domain of rational numbers.
+    * *How it supports the text*: Analyzed as a prime example of the arithmetization of the continuum: Dedekind defines continuity through discrete sets, which inverts the true cognitive order where discrete number is abstracted from continuous magnitude.
+
+---
+
+<a id="brentano-franz"></a>
+
+### Brentano, Franz (1838 – 1917)
+
+* **Psychologie vom empirischen Standpunkt** (*Psychology from an Empirical Standpoint*) 1874
+  *Notes*: Brentano's seminal work re-introducing intentionality and establishing the fundamental classification of mental phenomena (Leipzig: Duncker & Humblot).
+  * **Citation**: [Appendix, § 7 and [^26]](appendix/appendix-en.md#the-abstract-concept-of-being-ratio-essendi)
+    * *What Hoenen refers to*: Brentano's doctrine that judgment (Urteil—acknowledging or rejecting existence) is fundamentally diverse from representation (Vorstellung), constituting distinct basic classes of mental acts.
+    * *How it supports the text*: Hoenen compares Brentano's insight directly to St. Thomas Aquinas: both recognize that judging existence (esse) is fundamentally distinct from apprehending quiddity, validating the realism of judgment.
+
+---
+
+<a id="cantor-georg"></a>
+
+### Cantor, Georg (1845 – 1918)
+
+* **Grundlagen einer allgemeinen Mannigfaltigkeitslehre** (*Foundations of a General Theory of Aggregates*) 1883
+  *Notes*: Foundational treatise on set theory, transfinite numbers, and the continuum (Leipzig: Teubner).
+  * **Citation**: [Caput I, § 4 & Caput II, § 2](caput-1/caput-1-en.md#4-on-the-arithmetization-of-the-continuum)
+    * *What Hoenen refers to*: Cantor's construction of the mathematical continuum as an infinite aggregate (insieme) of discrete real numbers with the cardinality of the power set of integers.
+    * *How it supports the text*: Represents the ultimate modern formal replacement of the intuitive continuum with infinite discrete point sets, contrasting with the Aristotelian continuum whose parts are only in potency.
+
+---
+
+<a id="wellstein-josef"></a>
+
+### Wellstein, Josef (1869 – 1919)
+
+* **Elemente der Geometrie (in Weber-Wellstein Enzyklopädie, Band II)** (*Elements of Geometry (in Weber-Wellstein Encyclopedia, Vol. II)*) 1905
+  *Notes*: Comprehensive German reference work on elementary mathematics from an advanced viewpoint (Leipzig: Teubner).
+  * **Citation**: [Caput III, [^6] & [^9] (Vol. II, pp. 9–10)](caput-3/caput-3-en.md#fn-6)
+    * *What Hoenen refers to*: Wellstein's analysis of sensory inexactitude and his attempt to formulate geometric congruence purely through static axioms without motion.
+    * *How it supports the text*: Illustrates modern axiomatic attempts to bypass motion; Hoenen shows that even static congruence axioms secretly presuppose the imaginative mental translation of shapes in intelligible matter.
+  * **Citation**: [Caput IV, [^6]](caput-4/caput-4-en.md#fn-6)
+    * *What Hoenen refers to*: Wellstein's treatment of congruence and the avoidance of superposition.
+    * *How it supports the text*: Demonstrates that avoiding physical motion in geometric proofs does not eliminate the intellect's constructive abstraction.
+
+---
+
+<a id="killing-wilhelm"></a>
+
+### Killing, Wilhelm (1847 – 1923)
+
+* **Einführung in die Grundlagen der Geometrie** (*Introduction to the Foundations of Geometry*) 1893, 1898
+  *Notes*: Pioneering two-volume treatise on geometric foundations and Lie algebras (Paderborn: Schöningh).
+  * **Citation**: [Caput IV, [^16], [^17], [^18], [^19] (Vol. I, pp. 48–52)](caput-4/caput-4-en.md#fn-16)
+    * *What Hoenen refers to*: Killing's thorough dissection of the concept of 'direction' (Richtung): 'Der Winkel misst den Richtungsunterschied zweier Geraden... Man darf nur sagen: sie haben gleiche oder ungleiche Richtung in Bezug auf eine bestimmte dritte Gerade.'
+    * *How it supports the text*: Decisive support for Hoenen's critique of attempts to define straight lines and parallels via direction: Killing demonstrates that direction cannot be defined without already presupposing the very parallel straight lines one is trying to define.
+
+---
+
+<a id="baeumker-clemens"></a>
+
+### Baeumker, Clemens (1853 – 1924)
+
+* **Das Problem der Materie in der griechischen Philosophie** (*The Problem of Matter in Greek Philosophy*) 1890
+  *Notes*: Monumental historical investigation of ancient Greek concepts of matter (Münster: Aschendorff).
+  * **Citation**: [Caput III, [^2] (pp. 288 ff.)](caput-3/caput-3-en.md#fn-2)
+    * *What Hoenen refers to*: Baeumker's historical documentation of intelligible matter (materia intelligibilis / hyle noete) in Aristotle's Metaphysics and Physics.
+    * *How it supports the text*: Provides definitive historical authority for Hoenen's Thomistic doctrine: mathematical objects retain extension as intelligible matter within imagination, while abstracting from physical matter.
+
+---
+
+<a id="riehl-alois"></a>
+
+### Riehl, Alois (1844 – 1924)
+
+* **Logik und Erkenntnistheorie (in Die Kultur der Gegenwart)** (*Logic and Theory of Knowledge (in The Culture of the Present)*) 1921
+  *Notes*: Systematic epistemological essay in Die Kultur der Gegenwart (Teil I, Abt. 6, 3rd ed., Leipzig: Teubner, pp. 71 ff.).
+  * **Citation**: [Caput V, [^6] (p. 71)](caput-5/caput-5-en.md#fn-6)
+    * *What Hoenen refers to*: Riehl's analysis of the objective logical relationship between concepts in syllogistic deduction.
+    * *How it supports the text*: Supports Hoenen's thesis that the mental syllogism expresses an objective connection between essences, which cannot be reduced to verbal formalism.
+
+---
+
+<a id="klein-felix"></a>
+
+### Klein, Felix (1849 – 1925)
+
+* **Anwendung der Differential- und Integralrechnung auf Geometrie: Eine Revision der Prinzipien** (*Application of Differential and Integral Calculus to Geometry: A Revision of Principles*) 1902 (2nd ed. 1907)
+  *Notes*: Famous lectures re-evaluating the foundational principles of calculus and geometry (Leipzig: Teubner).
+  * **Citation**: [Caput I, [^7] & [^8] (pp. 7, 11)](caput-1/caput-1-en.md#fn-7)
+    * *What Hoenen refers to*: Klein's explicit formulation: 'In allen diesen praktischen Gebieten gibt es einen Schwellenwert der Genauigkeit... Im ideellen Gebiet der Arithmetik gibt es keinen endlichen Schwellenwert.'
+    * *How it supports the text*: The primary modern formulation of the **Problem of Exactitude**: Klein proves that all physical measurements have a finite threshold of exactitude, whereas mathematics demands infinite exactitude, proving that geometry is not an empirical science.
+
+* **Elementarmathematik vom höheren Standpunkte aus (Band II: Geometrie)** (*Elementary Mathematics from an Advanced Standpoint (Vol. II: Geometry)*) 1925 (3rd ed.)
+  *Notes*: Klein's celebrated masterwork on geometric pedagogy and foundations (Berlin: Springer).
+  * **Citation**: [Caput IV, [^23] & [^24] (Vol. II, pp. 189–194)](caput-4/caput-4-en.md#fn-23)
+    * *What Hoenen refers to*: Klein's demonstration that within physical measurement limits, Euclidean and non-Euclidean geometry are indistinguishable, and his discussion of the threshold of exactitude regarding parallel lines.
+    * *How it supports the text*: Proves that physical experiment cannot decide between Euclidean and non-Euclidean geometry, confirming that geometric structures are evaluated by the intellect.
+
+---
+
+<a id="hessenberg-gerhard"></a>
+
+### Hessenberg, Gerhard (1874 – 1925)
+
+* **Ebene und sphärische Trigonometrie** (*Plane and Spherical Trigonometry*) 1904
+  *Notes*: Textbook comparing physical observation with geometric proof (Leipzig: Göschen).
+  * **Citation**: [Caput II, [^10]](caput-2/caput-2-en.md#fn-10)
+    * *What Hoenen refers to*: Hessenberg's comparison between physical judgments and mathematical judgments.
+    * *How it supports the text*: Illustrates the fundamental epistemological divide: physical judgments are contingent hypotheses subject to revision, while geometric judgments are perceived with apodictic necessity.
+
+---
+
+<a id="carteron-henri"></a>
+
+### Carteron, Henri (1891 – 1927)
+
+* **Aristote: Physique (Collection Budé)** (*Aristotle: Physics (Budé Edition)*) 1926
+  *Notes*: Standard French critical edition and translation of the Physics (Paris: Les Belles Lettres, 2 vols.).
+  * **Citation**: [Appendix, [^10] (Vol. I, p. 134)](appendix/appendix-en.md#fn-10)
+    * *What Hoenen refers to*: Carteron's French rendering of Aristotle's definition of place in Physics IV, 5.
+    * *How it supports the text*: Provides philological backing for Hoenen's translation and interpretation of the containment relation in place.
+
+---
+
+<a id="burnet-john"></a>
+
+### Burnet, John (1863 – 1928)
+
+* **The Ethics of Aristotle** (*The Ethics of Aristotle*) 1900
+  *Notes*: Masterly critical edition and commentary on the Nicomachean Ethics (London: Methuen).
+  * **Citation**: [Appendix, [^9] (on EN IX, 9)](appendix/appendix-en.md#fn-9)
+    * *What Hoenen refers to*: Burnet's analytical outline of Aristotle's argumentation on consciousness and existence in Chapter 9.
+    * *How it supports the text*: Confirms the rigorous structural unity of Aristotle's deduction of self-existence from the exercise of perception and thought.
+
+---
+
+<a id="study-eduard"></a>
+
+### Study, Eduard (1862 – 1930)
+
+* **Die realistische Weltansicht und die Lehre vom Raume** (*The Realistic Worldview and the Doctrine of Space*) 1914
+  *Notes*: Trenchant philosophical treatise defending mathematical realism against conventionalism and logicism (Braunschweig: Vieweg).
+  * **Citation**: [Caput I, [^13] (p. 131)](caput-1/caput-1-en.md#fn-13)
+    * *What Hoenen refers to*: Study's declaration: 'Ausschlaggebend für die Beurtheilung der Sachlage scheint uns der Umstand zu sein, dass eine von der Analysis wirklich unabhängige Geometrie, wie das antike Ideal sie eigentlich verlangen würde, sich als eine Utopie herausgestellt hat.'
+    * *How it supports the text*: Highlights the contemporary mathematician's despair of saving synthetic geometry from pure analysis; Hoenen accepts Study's historical assessment while restoring the realistic noetic foundation.
+  * **Citation**: [Caput III, [^5] (p. 75)](caput-3/caput-3-en.md#fn-5)
+    * *What Hoenen refers to*: Study on the reality of geometric spatial structures against pure nominalist formalism.
+    * *How it supports the text*: Supports Hoenen's realism against purely formalist interpretations of geometry.
+
+---
+
+<a id="pasch-moritz"></a>
+
+### Pasch, Moritz (1843 – 1930)
+
+* **Vorlesungen über neuere Geometrie** (*Lectures on Modern Geometry*) 1882 (2nd ed. with Max Dehn, 1926)
+  *Notes*: Pioneering foundation of modern projective and axiomatic geometry; formulated Pasch's Axiom of order (Berlin: Springer).
+  * **Citation**: [Caput II, [^9] & [^16] (pp. 5–8, 20)](caput-2/caput-2-en.md#fn-9)
+    * *What Hoenen refers to*: Pasch's Kernsatz IV and axioms of order: if a straight line enters a triangle through one side, it must exit through one of the other two sides.
+    * *How it supports the text*: Hoenen shows that Pasch's Axiom is an undeniable, immediate necessary intuition: Euclid omitted it because it is so visually and intellectually obvious. Its discovery proves that geometry relies on intuitive topological continuity rather than pure uninterpreted symbols.
+
+---
+
+<a id="voss-aurel"></a>
+
+### Voss, Aurel (1845 – 1931)
+
+* **Über die mathematische Erkenntnis (in Die Kultur der Gegenwart)** (*On Mathematical Knowledge (in The Culture of the Present)*) 1914
+  *Notes*: Epistemological treatise on mathematical cognition (Teil III, Abt. 1, Leipzig: Teubner, pp. 385–440).
+  * **Citation**: [Caput III, [^10]](caput-3/caput-3-en.md#fn-10)
+    * *What Hoenen refers to*: Voss's analysis of the relationship between mathematical concepts and sensory representation.
+    * *How it supports the text*: Affirms that mathematical exactitude transcends sensory perception through an intellectual process of conceptual idealization.
+
+---
+
+<a id="peano-giuseppe"></a>
+
+### Peano, Giuseppe (1858 – 1932)
+
+* **Arithmetices principia, nova methodo exposita** (*The Principles of Arithmetic, Presented by a New Method*) 1889
+  *Notes*: Groundbreaking treatise introducing Peano's axioms and modern symbolic logic (Turin: Bocca).
+  * **Citation**: [Caput I, § 6 & Caput II, § 1](caput-1/caput-1-en.md#6-on-so-called-axiomatics)
+    * *What Hoenen refers to*: Peano's symbolic axiomatization of natural numbers and geometric foundations.
+    * *How it supports the text*: Hoenen demonstrates that Peano's axioms cannot be understood or applied without intuitive knowledge of the primitive notions (number, successor, equality) which they symbolically designate.
+
+---
+
+<a id="meyerson-emile"></a>
+
+### Meyerson, Émile (1859 – 1933)
+
+* **Du cheminement de la pensée** (*The Progression of Thought*) 1931
+  *Notes*: Meyerson's three-volume magnum opus on the epistemology of science and the human intellect's demand for ontological identity (Paris: Alcan).
+  * **Citation**: [Appendix, [^7] (Vol. II, p. 391, n. 232)](appendix/appendix-en.md#fn-7)
+    * *What Hoenen refers to*: Meyerson's observation that the human mind inherently seeks the identity of being across change and recognizes reality beyond phenomenal sensations.
+    * *How it supports the text*: Supports Hoenen's thesis that the mind's grasp of existential connections is an innate, essential function of intellectual cognition.
+
+---
+
+<a id="pirotta-angelo-m-o-p"></a>
+
+### Pirotta, Angelo M., O.P. (1871 – 1939)
+
+* **S. Thomae Aquinatis in Aristotelis librum De Anima commentarium** (*St. Thomas Aquinas's Commentary on Aristotle's De Anima*) 1936
+  *Notes*: Standard Marietti edition with critical paragraph numbering (Turin: Marietti).
+  * **Citation**: [Caput I, § 2 (nos. 770–772, 777, 791)](caput-1/caput-1-en.md#2-on-the-origin-of-mathematical-notions)
+    * *What Hoenen refers to*: Pirotta's paragraph numbers for Aquinas's commentary on intellectual abstraction from phantasms.
+    * *How it supports the text*: Provides precise textual citations for the Thomistic doctrine of conversion to the phantasm in mathematical cognition.
+
+---
+
+<a id="heath-sir-thomas-little"></a>
+
+### Heath, Sir Thomas Little (1861 – 1940)
+
+* **A History of Greek Mathematics** (*A History of Greek Mathematics*) 1921
+  *Notes*: The definitive two-volume history of Greek mathematics (Oxford: Clarendon Press).
+  * **Citation**: [Caput V, [^1] (Vol. I, pp. 335 ff.)](caput-5/caput-5-en.md#fn-1)
+    * *What Hoenen refers to*: Heath's historical documentation that Aristotle and Greek mathematicians rigorously distinguished axioms (evident to all), hypotheses (propositions accepted by the student), and postulates (demands made without student agreement).
+    * *How it supports the text*: Validates Hoenen's classical division of scientific principles against the modern collapse of all principles into arbitrary uninterpreted postulates.
+
+* **The Thirteen Books of Euclid's Elements** (*The Thirteen Books of Euclid's Elements*) 1908 (2nd ed. 1926)
+  *Notes*: Standard English translation and monumental commentary on Euclid (Cambridge University Press, 3 vols.).
+  * **Citation**: [Caput I, § 1 & Caput IV, § 4](caput-1/caput-1-en.md#1-on-the-proper-place-of-this-investigation-in-philosophy)
+    * *What Hoenen refers to*: Heath's historical notes on the fifth postulate, the definitions of line and surface, and the Eudoxian theory of Book V.
+    * *How it supports the text*: Serves as the scholarly authority throughout Hoenen's textual analysis of Euclidean mathematics.
+
+---
+
+<a id="hausdorff-felix"></a>
+
+### Hausdorff, Felix (1868 – 1942)
+
+* **Das Raumproblem** (*The Problem of Space*) 1904
+  *Notes*: Philosophical paper published in Annalen der Naturphilosophie (Vol. 3, pp. 1–23).
+  * **Citation**: [Caput IV, [^21] (p. 3)](caput-4/caput-4-en.md#fn-21)
+    * *What Hoenen refers to*: Hausdorff's statement: 'Die Mathematik hat sich vom Raume losgesagt; sie ist rein logisch geworden... Der Raum ist für sie ein Gedankending.' ('Mathematics has detached itself from space; it has become purely logical... Space is for it a mere mental thing.')
+    * *How it supports the text*: Quotes Hausdorff as an authoritative witness to modern mathematics' abandonment of intuitive physical space, sharpening Hoenen's critique of extreme formalism.
+
+---
+
+<a id="hilbert-david"></a>
+
+### Hilbert, David (1862 – 1943)
+
+* **Grundlagen der Geometrie** (*Foundations of Geometry*) 1899 (7th ed. 1930)
+  *Notes*: Hilbert's revolutionary work establishing the formal axiomatic method for Euclidean geometry (Leipzig: Teubner).
+  * **Citation**: [Caput I, [^14] (7th ed., p. 2)](caput-1/caput-1-en.md#fn-14)
+    * *What Hoenen refers to*: Hilbert's opening declaration: 'Wir denken uns drei verschiedene Systeme von Dingen: die Dinge des ersten Systems nennen wir Punkte... des zweiten Systems Geraden... des dritten Systems Ebenen...' ('We conceive three different systems of things: the things of the first system we call points... the second straight lines... the third planes...')
+    * *How it supports the text*: Exposes the core thesis of modern formalism: points, lines, and planes are defined purely by implicit relations rather than intuitive essences. Hoenen demonstrates that this program cannot sustain geometry without intuitive intelligible matter.
+  * **Citation**: [Caput IV, [^1]](caput-4/caput-4-en.md#fn-1)
+    * *What Hoenen refers to*: Hilbert's use of intuitive 'explanations' (Erklärungen) interspersed among his formal axioms.
+    * *How it supports the text*: Hoenen demonstrates a crucial inconsistency in Hilbert's method: Hilbert smuggles intuitive geometric meaning back into his system through informal 'explanations,' revealing that pure formalism is impossible in practice.
+  * **Citation**: [Caput V, [^9] & [^10]](caput-5/caput-5-en.md#fn-9)
+    * *What Hoenen refers to*: Hilbert's theorem on the linear order of points: 'Sind irgendeine endliche Anzahl von Punkten einer Geraden gegeben...' and G. H. Hardy's critique.
+    * *How it supports the text*: Shows that Hilbert's proof of the linear ordering of points relies on spatial diagrams and visual inspection rather than purely mechanical deduction.
+
+---
+
+<a id="enriques-federigo"></a>
+
+### Enriques, Federigo (1871 – 1946)
+
+* **Questioni riguardanti le matematiche elementari** (*Questions Regarding Elementary Mathematics*) 1924 (3rd ed.)
+  *Notes*: Influential Italian collection on geometric foundations, edited by Enriques (Bologna: Zanichelli).
+  * **Citation**: [Caput IV, [^15] & [^20] (Vol. I, pp. 43–44)](caput-4/caput-4-en.md#fn-15)
+    * *What Hoenen refers to*: Articles by Enriques and Ugo Amaldi examining Euclidean postulates and the circularity of defining parallel lines via direction.
+    * *How it supports the text*: Corroborates Hoenen's finding that direction cannot replace Euclid's parallel postulate without covert circularity.
+
+---
+
+<a id="hardy-godfrey-harold"></a>
+
+### Hardy, Godfrey Harold (1877 – 1947)
+
+* **Mathematical Proof** (*Mathematical Proof*) 1929
+  *Notes*: Philosophical paper in Mind (New Series, Vol. 38, No. 149, pp. 1–25).
+  * **Citation**: [Caput V, [^8] & [^10] (pp. 12, 18)](caput-5/caput-5-en.md#fn-8)
+    * *What Hoenen refers to*: Hardy's candid confession: 'I believe the prime Number Theorem because of de la Vallée-Poussin's proof of it, but I do not believe that 2 + 2 = 4 because of a proof by Russell... If Hilbert's axioms are to mean anything to us, we must draw figures.'
+    * *How it supports the text*: Decisive testimonial evidence from a world-class pure mathematician: formal axiomatic deductions depend on intuitive conviction, and Hilbert's axioms are completely sterile without imaginative diagrams.
+
+---
+
+<a id="geyser-joseph"></a>
+
+### Geyser, Joseph (1869 – 1948)
+
+* **Die Erkenntnistheorie des Aristoteles** (*The Epistemology of Aristotle*) 1917
+  *Notes*: Thorough Neoscholastic epistemological study of Aristotelian noetics (Münster: Schöningh).
+  * **Citation**: [Caput I, [^3] (chs. VI and XII)](caput-1/caput-1-en.md#fn-3)
+    * *What Hoenen refers to*: Geyser's analysis of how the intellect abstracts first principles and necessary propositions from sensible particulars.
+    * *How it supports the text*: Affirms Hoenen's peripatetic thesis: intellectual abstraction does not invent forms out of nothing, but reads necessary intelligible relations within sensible data.
+
+---
+
+<a id="einstein-albert"></a>
+
+### Einstein, Albert (1879 – 1955)
+
+* **Geometrie und Erfahrung** (*Geometry and Experience*) 1921
+  *Notes*: Expanded lecture to the Prussian Academy of Sciences on January 27, 1921 (Berlin: Springer).
+  * **Citation**: [Caput I, [^4]](caput-1/caput-1-en.md#fn-4)
+    * *What Hoenen refers to*: Einstein's celebrated dictum: 'Insofern sich die Sätze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher, und insofern sie sicher sind, beziehen sie sich nicht auf die Wirklichkeit.' ('As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.')
+    * *How it supports the text*: Hoenen takes this as the quintessential expression of the modern crisis: if applied mathematics is purely empirical physics, its certainty vanishes; if pure mathematics is certain, it has no relation to reality. Hoenen refutes this dilemma by showing that geometry abstracts intelligible matter from the real world, retaining necessary truth that applies necessarily to real physical extension.
+
+* **Address in the journal Forum** (*Address in the Journal Forum*) 1930
+  *Notes*: Discussion on the concept of space and coordinate systems in modern physics (Forum, I, p. 173; cited via Cosmologia, 4th ed., p. 468).
+  * **Citation**: [Caput VI, [^3] & Appendix, [^17]](caput-6/caput-6-en.md#fn-3)
+    * *What Hoenen refers to*: Einstein explaining that coordinate systems in physics require physical solid bodies of reference, and that empty space without matter has no independent physical reality.
+    * *How it supports the text*: Integrates Einstein's relativistic physical coordinates into the Thomistic cosmology of the category ubi: coordinates describe the physical surrounding container, confirming the realistic grounding of space.
+
+---
+
+<a id="weyl-hermann"></a>
+
+### Weyl, Hermann (1885 – 1955)
+
+* **Philosophie der Mathematik und Naturwissenschaft** (*Philosophy of Mathematics and Natural Science*) 1927
+  *Notes*: Treatise in the Handbuch der Philosophie (München: Oldenbourg; revised English ed., Princeton, 1949).
+  * **Citation**: [Caput IV, [^22] (p. 18)](caput-4/caput-4-en.md#fn-22)
+    * *What Hoenen refers to*: Weyl's observation that modern axiomatics turns geometry into a branch of pure logic, detaching it from spatial perception.
+    * *How it supports the text*: Demonstrates that even the foremost mathematical physicists recognize that formal axiomatics leaves the intuitive reality of geometric space behind.
+
+---
+
+<a id="scholz-heinrich"></a>
+
+### Scholz, Heinrich (1884 – 1956)
+
+* **Warum haben die Griechen die Irrationalzahlen nicht aufgebaut?** (*Why Did the Greeks Not Construct Irrational Numbers?*) 1928
+  *Notes*: Historical-epistemological paper in Kantstudien (Vol. 33, pp. 35–72).
+  * **Citation**: [Caput I, [^6]](caput-1/caput-1-en.md#fn-6)
+    * *What Hoenen refers to*: Scholz's historical investigation into why the Greeks refused to treat incommensurable geometric ratios as arithmetic fractions.
+    * *How it supports the text*: Corroborates Hoenen's view that ancient mathematics possessed a profound philosophical respect for the irreducible distinction between continuous geometric magnitude and discrete arithmetic number.
+
+---
+
+<a id="amaldi-ugo"></a>
+
+### Amaldi, Ugo (1875 – 1957)
+
+* **Sui concetti fondamentali della geometria (in Enriques' Questioni)** (*On the Fundamental Concepts of Geometry*) 1924
+  *Notes*: Monograph on elementary geometry and parallel postulates in Enriques' Questioni riguardanti le matematiche elementari (Vol. I, pp. 43–44).
+  * **Citation**: [Caput IV, [^15] & [^20]](caput-4/caput-4-en.md#fn-15)
+    * *What Hoenen refers to*: Amaldi's critical analysis of definitions of direction and parallelism.
+    * *How it supports the text*: Confirms that trying to define parallel lines by identity of direction is a circular definition, proving that direction cannot supersede the intuitive necessity of Euclid's parallel postulate.
+
+---
+
+<a id="hoenen-petrus-hubertus-jacobus-s-j"></a>
+
+### Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961)
+
+* **Cosmologia** (*Cosmology*) 1931 (4th ed. 1949; 5th ed. 1956)
+  *Notes*: Hoenen's standard Latin manual of the philosophy of nature at the Gregorian University (Rome: Gregorianum).
+  * **Citation**: [Caput I, [^5] (Notes III & VII, pp. 446–455, 471–482)](caput-1/caput-1-en.md#fn-5)
+    * *What Hoenen refers to*: Expositions of non-Euclidean geometry and physical space coordinates.
+    * *How it supports the text*: Provides the cosmological framework establishing that physical space is not an empty absolute container but a system of relations among extended bodies.
+  * **Citation**: [Caput V, [^12] & Caput VI, [^2], [^3]](caput-5/caput-5-en.md#fn-12)
+    * *What Hoenen refers to*: Physical proper attributes impeding exactitude in bodies, and the analysis of the category ubi.
+    * *How it supports the text*: Shows how physical matter fluctuates while mathematical intelligible matter admits immutable exactitude.
+  * **Citation**: [Appendix, [^6], [^12], [^15], [^16], [^17], [^19], [^20], [^22]](appendix/appendix-en.md#fn-6)
+    * *What Hoenen refers to*: Detailed references to Note IV (relativity of motion, p. 456), Note VI (ubi, p. 468), Note XIII (motion as an existential act, pp. 527–530), Note XV (neo-positivism, p. 538), and the actuality of continua (p. 40).
+    * *How it supports the text*: Supplies the foundational metaphysics for the entire Appendix: motion is an existential act (actus existentialis), extension is an actuality of continua, and the category ubi establishes real relations between physical existents.
+
+* **La théorie du jugement d'après St. Thomas d'Aquin** (*The Theory of Judgment According to St. Thomas Aquinas (Reality and Judgment)*) 1946 (2nd ed. 1953; English trans. 1952)
+  *Notes*: Hoenen's epistemological masterwork in Analecta Gregoriana (Vol. XXXIX; English translation Reality and Judgment by H. F. Tiblier, Chicago: Regnery, 1952). Cited as Th. d. J. and R. a. J.
+  * **Citation**: [Praefatio, [^2] & Caput I, [^2]](preface/preface-en.md#fn-2)
+    * *What Hoenen refers to*: The fundamental doctrine of the two operations of the intellect: first operation = apprehension of quiddity; second operation = judgment attributing esse.
+    * *How it supports the text*: The epistemological matrix of De Noetica Geometriae: mathematical knowledge begins in apprehension of quiddities in intelligible matter, but culminates in affirmative judgments of necessary existence.
+  * **Citation**: [Caput II, [^6], [^13], [^15], [^17]](caput-2/caput-2-en.md#fn-6)
+    * *What Hoenen refers to*: Analysis of the sensory datum as 'determinative' rather than 'motive' of judgment; virtual judgments; and the material and formal nexus (chs. III–IV).
+    * *How it supports the text*: Solves the Problem of Necessity: the sensory phantasm determines the occasion of judgment, but the intellect itself is the active motive force perceiving formal necessity.
+  * **Citation**: [Appendix, [^1], [^25], [^26], [^27], [^29], [^30]](appendix/appendix-en.md#fn-1)
+    * *What Hoenen refers to*: The Cogito as immediate judgment (ch. XII); comparison with Franz Brentano (ch. II, § 4); definition of realism (pp. 190–194); and determination of the agent intellect by accepted data (pp. 25–26).
+    * *How it supports the text*: Underpins the metaphysics of the Appendix: validates the concept of being (ratio essendi) and proves that the second operation of the intellect directly grasps the existential act of realism.
+
+* **Filosofia della natura inorganica** (*Philosophy of Inorganic Nature*) 1949
+  *Notes*: Italian treatise on inorganic natural philosophy (Brescia: Morcelliana).
+  * **Citation**: [Caput VI, [^2] & Appendix, [^16], [^17] (pp. 110, 112, 220)](caput-6/caput-6-en.md#fn-2)
+    * *What Hoenen refers to*: The philosophical definition of physical space, coordinate bodies, and the critique of relativistic positivism.
+    * *How it supports the text*: Reinforces the realistic interpretation of coordinate frames and spatial extension in physical nature.
+
+* **De origine formae materialis** (*On the Origin of Material Form*) 1951 (2nd ed.)
+  *Notes*: Latin textbook compiling classical Thomistic texts on the eduction of material forms (Rome: Gregorianum).
+  * **Citation**: [Appendix, [^22]](appendix/appendix-en.md#fn-22)
+    * *What Hoenen refers to*: The twofold function of material form: quidditative (constituting essence) and existential (determining the mode of being).
+    * *How it supports the text*: Demonstrates that form does not merely define what a thing is, but determines how it exercises its existential act of being.
+
+* **Articles in Gregorianum and Commemorative Volumes** (*Scholarly Papers in Gregorianum and Festschriften*) 1933–1953
+  *Notes*: Major peer-reviewed research papers in Gregorianum and international philosophy congresses.
+  * **Citation**: [Praefatio, [^1] (Gregorianum 1938, 1939, 1943, 1951)](preface/preface-en.md#fn-1)
+    * *What Hoenen refers to*: The four-part series 'De philosophia scholastica cognitionis geometricae' and the reply to Freudenthal.
+    * *How it supports the text*: The primary journal papers that formed the initial drafts of the chapters of De Noetica Geometriae.
+  * **Citation**: [Caput II, [^1] & Caput I, [^3] (Gregorianum 1933, pp. 153–184)](caput-2/caput-2-en.md#fn-1)
+    * *What Hoenen refers to*: 'De origine primorum principiorum scientiae' (On the Origin of the First Principles of Science).
+    * *How it supports the text*: Presents the foundational epistemology of how first principles are abstracted intuitively from sensible phantasms.
+  * **Citation**: [Caput II, [^12], [^14] & Appendix, [^1] (Cartesio, 1937, pp. 457–471)](caput-2/caput-2-en.md#fn-12)
+    * *What Hoenen refers to*: 'Le « cogito ergo sum » comme intuition et comme mouvement de la pensée'.
+    * *How it supports the text*: Establishes the Thomistic interpretation of the Cartesian Cogito as an intellectual intuition of existential actuality.
+  * **Citation**: [Caput II, [^8] & Caput V, [^11] (10th Phil. Congress 1948; Gregorianum 1950, pp. 126–132)](caput-2/caput-2-en.md#fn-8)
+    * *What Hoenen refers to*: 'Pour une philosophie de la connaissance de l'étendue physique'.
+    * *How it supports the text*: Addresses how the intellect abstracts exact mathematical continuity from physical perceptions of extended bodies.
+  * **Citation**: [Caput V, [^2] (Gregorianum 1951, pp. 263–268)](caput-5/caput-5-en.md#fn-2)
+    * *What Hoenen refers to*: 'De fontibus geometriae: Responsio ad Cl. H. Freudenthal'.
+    * *How it supports the text*: Direct defense of the intuitive origin of geometry against Hans Freudenthal's formalist critique.
+  * **Citation**: [Caput VI, [^5] & Appendix, [^14], [^32] (Gregorianum 1953, pp. 1–31)](caput-6/caput-6-en.md#fn-5)
+    * *What Hoenen refers to*: 'De duratione successiva et de quaestionibus connexis'.
+    * *How it supports the text*: Establishes that successive duration is fluent existential extension (esse fluens), distinct from permanent geometric extension.
+  * **Citation**: [Caput VI, [^7] & Caput VII, [^3] (Gregorianum 1953, pp. 603–639)](caput-6/caput-6-en.md#fn-7)
+    * *What Hoenen refers to*: 'De connexionibus necessariis inter actus existentiales'.
+    * *How it supports the text*: The extensive study that was directly incorporated with additions as the Appendix of this monograph.
+
+---
+
+<a id="vallee-poussin-charles-jean-de-la"></a>
+
+### Vallée-Poussin, Charles-Jean de la (1866 – 1962)
+
+* **Recherches analytiques sur la théorie des nombres premiers** (*Analytical Researches on the Theory of Prime Numbers*) 1896
+  *Notes*: Landmark memoir proving the Prime Number Theorem; published in Annales de la Société scientifique de Bruxelles.
+  * **Citation**: [Caput V, [^8]](caput-5/caput-5-en.md#fn-8)
+    * *What Hoenen refers to*: G. H. Hardy's reference to de la Vallée-Poussin's proof of the Prime Number Theorem.
+    * *How it supports the text*: Contrasts a long deductive proof (which compels belief through an intricate chain of syllogisms) with immediate intuitive arithmetic truths (such as 2 + 2 = 4).
+
+---
+
+<a id="hadamard-jacques"></a>
+
+### Hadamard, Jacques (1865 – 1963)
+
+* **La géométrie (in Encyclopédie Française, Tome I)** (*Geometry (in French Encyclopedia, Vol. I: Mental Tools)*) 1937
+  *Notes*: Survey essay on geometric intuition and displacement in Encyclopédie Française (Section I-52-10).
+  * **Citation**: [Caput IV, [^11] & [^22]](caput-4/caput-4-en.md#fn-11)
+    * *What Hoenen refers to*: Hadamard's observation that geometric displacement and motion cannot be eradicated from spatial understanding.
+    * *How it supports the text*: Confirms from a leading French mathematician that geometric congruence is fundamentally tied to spatial displacement.
+
+---
+
+<a id="russell-bertrand"></a>
+
+### Russell, Bertrand (1872 – 1970)
+
+* **The Principles of Mathematics** (*The Principles of Mathematics*) 1903 (2nd ed. 1937)
+  *Notes*: Russell's foundational logicist masterpiece (London: Allen & Unwin).
+  * **Citation**: [Caput IV, [^3], [^4], [^5] (nos. 390 ff., pp. 405–407)](caput-4/caput-4-en.md#fn-3)
+    * *What Hoenen refers to*: Russell's scathing critique of Euclid's superposition proof: 'It has no logical validity, and strikes every intelligent child as a juggle... to speak of motion implies that our triangles are not spatial but material.'
+    * *How it supports the text*: Hoenen uses Russell's objection to make a crucial distinction: physical superposition of material bodies indeed cannot prove geometric equality, but mental translation of figures within intelligible matter (materia intelligibilis) is an authentic intellectual operation that grounds congruence.
+  * **Citation**: [Caput IV, [^28] (pp. 404 ff.)](caput-4/caput-4-en.md#fn-28)
+    * *What Hoenen refers to*: Russell's critique of empiricism: 'There is no evidence whatever that the circles which we are supposed to observe are true circles... geometry is not based upon observation of empirical shapes.'
+    * *How it supports the text*: Enlists Russell's logicist critique to demolish sensory empiricism: mathematical figures are never found in physical sensation, confirming their status as abstract intelligible entities.
+
+---
+
+<a id="maier-anneliese"></a>
+
+### Maier, Anneliese (1905 – 1971)
+
+* **An der Grenze von Scholastik und Naturwissenschaft** (*On the Border of Scholasticism and Natural Science*) 1943
+  *Notes*: Groundbreaking historical study of late medieval natural philosophy and 14th-century Parisian and Oxonian physics (Rome: Edizioni di Storia e Letteratura).
+  * **Citation**: [Appendix, [^33] (pp. 312 ff.)](appendix/appendix-en.md#fn-33)
+    * *What Hoenen refers to*: Maier's historical documentation of Nicole Oresme's doctrine of configurations of qualities and motions.
+    * *How it supports the text*: Hoenen utilizes Maier's scholarly findings while offering a philosophical correction: Maier treated Oresme's doctrine primarily as a mathematical precursor to coordinate geometry, whereas Hoenen shows that it represents a profound metaphysical insight into the qualitative configuration of fluent existential acts (esse fluens).
+
+---
+
+<a id="ross-sir-william-david"></a>
+
+### Ross, Sir William David (1877 – 1971)
+
+* **Aristotle's Metaphysics, Physics, and Analytics** (*Oxford Critical Editions and Commentaries on Aristotle*) 1924, 1936, 1949
+  *Notes*: The premier 20th-century critical Greek texts and English commentaries on Aristotle's works (Oxford: Clarendon Press).
+  * **Citation**: [Caput I, [^3] & Caput IV, [^7]](caput-1/caput-1-en.md#fn-3)
+    * *What Hoenen refers to*: Ross's general monograph Aristotle (pp. 38–41, 54, 217) and critical edition of Physics IV.
+    * *How it supports the text*: Standard scholarly authority for peripatetic abstraction and natural philosophy.
+  * **Citation**: [Appendix, [^3], [^5], [^13] (Metaphysics II, pp. 245, 264, 401)](appendix/appendix-en.md#fn-3)
+    * *What Hoenen refers to*: Ross's recension and English translation of Metaphysics IX, 3 ('The word actuality, which we connect with complete reality...'), and his textual reading of ἔστιν (estin, with paroxytone accent indicating existence).
+    * *How it supports the text*: Decisive philological support: reading ἔστιν confirms that Aristotle is treating actual existence in time rather than a mere copula, proving that the mover must already actually exist.
+
+---
+
+<a id="stammler-gerhard"></a>
+
+### Stammler, Gerhard (1898 – 1977)
+
+* **Begriff, Urteil, Schluss** (*Concept, Judgment, Inference*) 1928
+  *Notes*: Epistemological investigation into the foundations of logic and judgment (Halle: Niemeyer).
+  * **Citation**: [Caput V, [^7] (pp. 229, 245)](caput-5/caput-5-en.md#fn-7)
+    * *What Hoenen refers to*: Stammler's demonstration that inference requires a synthetic apprehension of the relation between concepts.
+    * *How it supports the text*: Confirms that logical inference cannot be reduced to mechanical algorithmic manipulation without intellectual insight.
+
+---
+
+<a id="gilson-etienne"></a>
+
+### Gilson, Étienne (1884 – 1978)
+
+* **L'être et l'essence & Being and Some Philosophers** (*Being and Essence (1948) & Being and Some Philosophers (1949)*) 1948, 1949
+  *Notes*: Gilson's landmark treatises establishing existential Thomism and distinguishing it from essentialism (Paris: Vrin / Toronto: PIMS).
+  * **Citation**: [Appendix, § 7 and [^23], [^27] (L'être et l'essence, p. 248)](appendix/appendix-en.md#is-esse-conceptualizable)
+    * *What Hoenen refers to*: Gilson's thesis opposing 'existential' and 'essential' metaphysics, and his claim that esse itself is not conceptualizable ('un centre d'obscurité qu'il nous faut traverser pour atteindre l'existence').
+    * *How it supports the text*: Hoenen's pivotal critique: he praises Gilson for recovering the Thomistic primacy of esse, but demonstrates that Gilson goes too far in declaring esse completely unconceptualizable. Hoenen shows from St. Thomas that the intellect forms a true apprehensive concept of being (ratio essendi) following judgment, preserving the harmony between essence and existence.
+
+---
+
+<a id="hasse-helmut"></a>
+
+### Hasse, Helmut (1898 – 1979)
+
+* **Die Grundlagenkrisis der griechischen Mathematik** (*The Foundational Crisis of Greek Mathematics*) 1928
+  *Notes*: Historical-mathematical paper co-authored with Heinrich Scholz in Kantstudien (Vol. 33, pp. 4–34).
+  * **Citation**: [Caput I, [^6]](caput-1/caput-1-en.md#fn-6)
+    * *What Hoenen refers to*: Hasse and Scholz's analysis of the crisis caused by the discovery of incommensurable magnitudes in Pythagorean geometry.
+    * *How it supports the text*: Documents that the crisis of foundations in Greek geometry was resolved geometrically by Eudoxus rather than arithmetically.
+
+---
+
+<a id="lonergan-bernard-s-j"></a>
+
+### Lonergan, Bernard, S.J. (1904 – 1984)
+
+* **The Concept of Verbum in the Writings of St. Thomas Aquinas** (*The Concept of Verbum in the Writings of St. Thomas Aquinas*) 1946–1947
+  *Notes*: Five seminal articles in Theological Studies (Vols. 7 & 8); later published as Verbum: Word and Idea in Aquinas (Notre Dame, 1967).
+  * **Citation**: [Appendix, § 7 and [^24] (Theological Studies 1946, pp. 349–392; 1947, pp. 35–79, 404–444; esp. Vol. I, p. 353)](appendix/appendix-en.md#is-esse-conceptualizable)
+    * *What Hoenen refers to*: Lonergan's demonstration that for St. Thomas, the term conceptio / conceptus is used not only for the definition produced in the first operation, but also for the interior word (verbum mentis) produced in judgment (the second operation).
+    * *How it supports the text*: Provides decisive contemporary Thomistic backing for Hoenen's thesis against Gilson: St. Thomas explicitly recognizes that judgment produces an interior conception, proving that esse is conceptualizable in the second operation of the intellect.
+
+---
+
+<a id="freudenthal-hans"></a>
+
+### Freudenthal, Hans (1905 – 1990)
+
+* **De fontibus geometriae** (*On the Sources of Geometry*) 1951
+  *Notes*: Critical Latin article published in Gregorianum (Vol. 32, pp. 252–262) disputing Hoenen's scholastic philosophy of geometry.
+  * **Citation**: [Praefatio, [^1] & Caput V, [^2]](caput-5/caput-5-en.md#fn-2)
+    * *What Hoenen refers to*: The debate between Freudenthal and Hoenen regarding whether axiomatic geometry can be constituted independently of intuitive abstraction.
+    * *How it supports the text*: Serves as the vital contemporary sparring partner: Freudenthal defended modern formal axiomatics, prompting Hoenen to elaborate his 'semi-axiomatic' analysis and prove that axioms cannot function without semantic reference to intelligible matter.
+
+---
+
+<a id="alvarez-laso-jose-c-m-f"></a>
+
+### Alvarez Laso, José, C.M.F. (1910 – 1993)
+
+* **La Filosofía de las Matemáticas en Santo Tomás** (*The Philosophy of Mathematics in Saint Thomas*) 1952
+  *Notes*: Monograph on Thomistic philosophy of mathematics (Mexico: Editorial Jus, pp. 2–6).
+  * **Citation**: [Caput VII, [^1]](caput-7/caput-7-en.md#fn-1)
+    * *What Hoenen refers to*: Alvarez Laso's exposition of Aquinas's commentary on Posterior Analytics I, 1 regarding triangle as subject vs. attribute.
+    * *How it supports the text*: Presents scholarly confirmation that St. Thomas's noetics of mathematics hinges on the intellectual activity that constructs figures in intelligible matter.
 
 ---
 
 
 ## Summary Statistics
 
-* **Total Footnotes**: 130
-* **Distribution Across Monograph**:
-  * *Praefatio*: 2 footnotes
-  * *Caput I*: 14 footnotes
-  * *Caput II*: 17 footnotes
-  * *Caput III*: 11 footnotes
-  * *Caput IV*: 31 footnotes
-  * *Caput V*: 12 footnotes
-  * *Caput VI*: 7 footnotes
-  * *Caput VII*: 3 footnotes
-  * *Appendix*: 33 footnotes
-* **Most Cited Authors**:
-  * **Fr. Petrus Hoenen, S.J.** (46 citations across *Cosmologia*, *La théorie du jugement*, and *Gregorianum*)
-  * **St. Thomas Aquinas** (29 direct references across Commentaries on Aristotle, *Summa Theologiae*, *In Boethium de Trinitate*, etc.)
-  * **Aristotle** (26 direct citations across the *Organon*, *Physics*, *Metaphysics*, *De Anima*, *Ethics*)
-  * **Modern Axiomaticians & Mathematicians** (26 citations across Hilbert, Russell, Klein, Poincaré, Pasch, Freudenthal, Heath, etc.)
-  * **Modern Philosophers** (18 citations across Descartes, Leibniz, Kant, Mill, Brentano, Gilson, Lonergan, Baeumker, Maier, etc.)
-  * **Albert Einstein** (3 citations regarding geometry and physical measurement)
+* **Total Authors Catalogued**: 64 authors spanning 24 centuries (c. 355 BC to 1993 AD).
+* **Chronological Span**:
+  * **Ancient Greek & Classical Foundations** (c. 355 BC – 560 AD): Eudoxus, Plato, Aristotle, Euclid, Alexander of Aphrodisias, Themistius, Proclus, Boethius, Simplicius.
+  * **Medieval Scholastic Synthesis** (1274 – 1382 AD): St. Thomas Aquinas, St. Albert the Great, Nicole Oresme.
+  * **Early Modern Epistemology** (1650 – 1804 AD): Descartes, Locke, Leibniz, Kant.
+  * **19th-Century Mathematics, Logic, & Philology** (1864 – 1928 AD): Waitz, Möbius, Trendelenburg, Mill, Bonitz, Weierstrass, Hamelin, Poincaré, Couturat, Dedekind, Brentano, Cantor, Wellstein, Killing, Baeumker, Riehl, Klein, Hessenberg, Carteron, Burnet.
+  * **20th-Century Axiomatics, Physics, & Neo-Scholasticism** (1930 – 1993 AD): Study, Pasch, Voss, Peano, Meyerson, Pirotta, Heath, Hausdorff, Hilbert, Enriques, Hardy, Geyser, Einstein, Weyl, Scholz, Amaldi, Hoenen, de la Vallée-Poussin, Hadamard, Russell, Maier, Ross, Stammler, Gilson, Hasse, Lonergan, Freudenthal, Alvarez Laso.
+* **Footnote Census**: All 130 footnotes across the 9 sections of *De Noetica Geometriae* are cross-referenced to their respective author, work, and textual function.
 
 ---
 
