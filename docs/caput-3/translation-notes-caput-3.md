@@ -1,4 +1,4 @@
-> [← Caput II Notes](../caput-2/translation-notes-caput-2.md) | [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Caput IV Notes →](../caput-4/translation-notes-caput-4.md)
+> [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes
 
 ---
 
@@ -98,6 +98,3 @@
 | **`folium Moebii`** | Latin | The Möbius strip, analyzed as a 3D solid bounded by two distinct surfaces. |
 | **`ens extensum ut extensum`** | Latin | Extended being precisely as extended; the primary datum of geometry. |
 
----
-
-> [← Caput II Notes](../caput-2/translation-notes-caput-2.md) | [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Caput IV Notes →](../caput-4/translation-notes-caput-4.md)

@@ -1,4 +1,4 @@
-> [← Praefatio Notes](../preface/translation-benchmark-preface.md) | [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md) | [Caput II Notes →](../caput-2/translation-notes-caput-2.md)
+> [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md)
 
 ---
 
@@ -77,6 +77,3 @@ In § 4, Hoenen addresses the late 19th-century movement led by Weierstrass, Ded
 ### 4.4. Axiomatics and the Problem of Mathematical Existence
 In § 6, Hoenen evaluates David Hilbert’s formal axiomatization. Hoenen does not dismiss Hilbert; on the contrary, he praises axiomatics for its ability to isolate the minimal independent premises of a theorem and to demonstrate consistency. However, Hoenen insists that formal consistency is only a negative criterion of truth; it does not replace the intellect's grasp of objective essences. He points toward the Thomistic theory of *possibilia* (beings whose notes contain no internal contradiction) as the proper ontological home for modern non-Euclidean spaces.
 
----
-
-> [← Praefatio Notes](../preface/translation-benchmark-preface.md) | [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md) | [Caput II Notes →](../caput-2/translation-notes-caput-2.md)

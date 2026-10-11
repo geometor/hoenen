@@ -1,4 +1,4 @@
-> [← Caput IV](../caput-4/caput-4.md) | Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Caput VI →](../caput-6/caput-6.md)
+> Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md)
 
 ---
 
@@ -338,6 +338,3 @@ Omnia autem haec invitare videntur philosophum scholasticum, praesertim noeticum
 
 [^12]: Quomodo propria physica obiectorum interdum impedire possint realisationem exactitudinis in corporibus pro uno casu explicavimus in Cosmologia in nota « de ente extenso physico » in ed. 4 pagg. 438-445.
 
----
-
-> [← Caput IV](../caput-4/caput-4.md) | Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Caput VI →](../caput-6/caput-6.md)

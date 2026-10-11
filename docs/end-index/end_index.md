@@ -1,4 +1,4 @@
-> [← Appendix](../appendix/appendix.md) | Latin | [English](end_index-en.md)
+> Latin | [English](end_index-en.md)
 
 ---
 
@@ -163,6 +163,3 @@ Recapitulatio . . . . . . . . . . . . . . . . . . . . . . . . 268
 § 7. De conceptu ipsius esse . . . . . . . . . . . . . . . . . 276
 Additiones . . . . . . . . . . . . . . . . . . . . . . . . . . 286
 
----
-
-> [← Appendix](../appendix/appendix.md) | Latin | [English](end_index-en.md)

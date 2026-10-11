@@ -1,4 +1,4 @@
-> [← Caput VI Notes](../caput-6/translation-notes-caput-6.md) | [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes | [Appendix Notes →](../appendix/translation-notes-appendix.md)
+> [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes
 
 ---
 
@@ -87,6 +87,3 @@
 | **`species sunt sicut numeri`** | species are like numbers | Scholastic principle that essential forms are ordered like the discrete natural numbers. |
 | **`intelligibile est ens`** | the intelligible is being | The fundamental noetic axiom derived from mathematical intuition. |
 
----
-
-> [← Caput VI Notes](../caput-6/translation-notes-caput-6.md) | [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes | [Appendix Notes →](../appendix/translation-notes-appendix.md)

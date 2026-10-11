@@ -1,4 +1,4 @@
-> [← Caput II](../caput-2/caput-2.md) | Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Caput IV →](../caput-4/caput-4.md)
+> Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md)
 
 ---
 
@@ -268,6 +268,3 @@ Et in hoc inveniendo, simul intelligimus dependentiam nostram ab hac materia et 
 
 [^11]: S. Thomas, uti notum est, non intendit dicere, intellectum primo cognoscere suas species, sed species quae sunt in rebus. Cfr. Th. d. J. pag. 32.
 
----
-
-> [← Caput II](../caput-2/caput-2.md) | Latin | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | [Notes](translation-notes-caput-3.md) | [Caput IV →](../caput-4/caput-4.md)

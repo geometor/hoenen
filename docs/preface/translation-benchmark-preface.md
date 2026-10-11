@@ -1,4 +1,4 @@
-> [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md) | [Caput I Notes →](../caput-1/translation-benchmark-caput-1.md)
+> [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md)
 
 ---
 
@@ -43,6 +43,3 @@ Rather than settling for bare literalisms ("exercised act"), we retain the Latin
 - *Hans Freudenthal Debate*: Footnote 1 references the debate between Hoenen and Dutch mathematician Hans Freudenthal in *Gregorianum* (1951), centering on whether intuition can be eliminated from geometric axiomatics.
 - *Citations of Hoenen's Epistemological Works*: Footnote 2 references Hoenen's *Théorie du jugement* (French, 1946; 2nd ed. 1953) and its English translation *Reality and Judgment according to St. Thomas* (1952), cited throughout the treatise as *Th. d. J.* and *R. a J.* respectively.
 
----
-
-> [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md) | [Caput I Notes →](../caput-1/translation-benchmark-caput-1.md)

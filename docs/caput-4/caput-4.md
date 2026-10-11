@@ -1,4 +1,4 @@
-> [← Caput III](../caput-3/caput-3.md) | Latin | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Caput V →](../caput-5/caput-5.md)
+> Latin | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md)
 
 ---
 
@@ -451,6 +451,3 @@ In praecedentibus plura puncta tangimus quae ampliorem investigationem exigere v
 
 [^note]: Addimus verba Euclidis secundum versionem quam legimus apud Heiberg (pagg. 11 sq.) : « In data recta terminata triangulu aequilaterum construere. Sit data recta terminata AB oportet igitur in recta AB terminata triangulum aequilaterum construere. Centro A et radio AB circulus describatur BCD, et rursus centro B radio autem BA circulus describatur ACE, et a puncto C, in quo circuli inter se secant, ad puncta A, B ducantur rectae CA, CB. Iam quoniam punctum A centrum est circuli CDB, erit AC = AB, rursus quoniam B punctum centrum est circuli CAE, est BC = BA. sed demonstratum est etiam CA = AB. quare utraque CA, CB rectae AB aequalis est. quae autem eidem aequalia sunt, etiam inter se aequalia sunt [κ. ἔνν. 1] (i. e. secundum primam e « communibus animi conceptionibus »). itaque etiam CA = CB. itaque CA, AB, BC aequales sunt, quare triangulus ABC aequilaterus est ; et in data recta terminata AB constructus est. quod oportebat fieri ».
 
----
-
-> [← Caput III](../caput-3/caput-3.md) | Latin | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Caput V →](../caput-5/caput-5.md)

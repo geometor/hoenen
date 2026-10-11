@@ -1,4 +1,4 @@
-> [← Caput V](../caput-5/caput-5.md) | Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Caput VII →](../caput-7/caput-7.md)
+> Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md)
 
 ---
 
@@ -191,6 +191,3 @@ Inde diiudicare possumus conatus (ex primo tempore theoriae relativitatis, necdu
 
 [^7]: De his cfr. investigationem nostram De connexionibus necessariis inter actus existentiales in Gregorianum 1953 pagg. 603-31, praesertim pagg. 635, 637, infra in appendice.
 
----
-
-> [← Caput V](../caput-5/caput-5.md) | Latin | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Caput VII →](../caput-7/caput-7.md)

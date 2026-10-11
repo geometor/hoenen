@@ -1,4 +1,4 @@
-> [← Appendix](../appendix/appendix-en.md) | [Latin](end_index.md) | English
+> [Latin](end_index.md) | English
 
 ---
 
@@ -179,6 +179,3 @@
 * **§ 7.** On the Concept of Being Itself *(De conceptu ipsius esse)* . . . . . . . . . . . . . . . . . 276
   * *Additions* *(Additiones)* . . . . . . . . . . . . . . . . . . . . . . . . . . 286
 
----
-
-> [← Appendix](../appendix/appendix-en.md) | [Latin](end_index.md) | English

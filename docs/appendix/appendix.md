@@ -1,4 +1,4 @@
-> [← Caput VII](../caput-7/caput-7.md) | Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Index Analyticus →](../end-index/end_index.md)
+> Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md)
 
 ---
 
@@ -323,6 +323,3 @@ In omnibus his materiis adesse videtur occasio abundans, ex casibus concretis (i
 
 [^33]: Cfr. Anneliese Maier, *An der Grenze von Scholastik und Naturwissenschaft*, 1943 pagg. 312 sqq. Auctor tamen momentum philosophicum huius theoriae non sufficienter agnoscere videtur. Cfr. *Gregor.* 1947 pag. 171 et *Cosmologiam* ed. 4 pagg. 516 s.
 
----
-
-> [← Caput VII](../caput-7/caput-7.md) | Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Index Analyticus →](../end-index/end_index.md)

@@ -1,4 +1,4 @@
-> [← Caput VI](../caput-6/caput-6.md) | Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix.md)
+> Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md)
 
 ---
 
@@ -227,6 +227,3 @@ Videtur ergo summi momenti esse in construenda ipsa noetica et in ea evolvenda. 
 
 [^3]: De hoc puncto legi potest ampla expositio quam edidimus in *Gregorianum* 1953 pagg. 603-639 *De connexionibus necessariis inter actus existentiales*. Eam tanquam appendicem huic operi addimus.
 
----
-
-> [← Caput VI](../caput-6/caput-6.md) | Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix.md)

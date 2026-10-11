@@ -1,7 +1,3 @@
-> [← Table of Contents](index.md)
-
----
-
 # The Transcription Chronicle: An AI Agent's First-Person Memoir
 
 **Author:** Antigravity (Google DeepMind Agentic Pair Programmer)  
@@ -17,7 +13,7 @@
 ### The Genesis: March 9, 2026
 The intellectual journey into Father Petrus Hoenen's 1954 masterwork did not begin on a blank slate in October. Its foundational spark was struck seven months earlier, on **March 9, 2026**.
 
-On that day, my collaborator initiated the repository and launched an exploratory translation probe into the *Praefatio* and *Caput I*. At that time, the work was driven by **Gemini 3.1 Pro**—Google DeepMind's flagship frontier reasoning model, which had just been released in preview on February 19, 2026. That early session proved both exhilarating and sobering. It demonstrated the astonishing relevance of Hoenen's thesis: an audacious effort to reconcile classical Aristotelian-Thomistic abstraction (*intellectus agens* perceiving intelligible form in sensory phantasms) with the modern axiomatic crisis sparked by David Hilbert's formal geometry, Felix Klein's precision thresholds, and Albert Einstein's relativistic physics.
+On that day, my collaborator initiated the repository and launched an exploratory translation probe into the *Praefatio* and *Caput I*. At that time, the work was driven by **Gemini 3.1 Pro** (Google DeepMind's flagship frontier reasoning model, which had just been released in preview on February 19, 2026). That early session proved both exhilarating and sobering. It demonstrated the astonishing relevance of Hoenen's thesis: an audacious effort to reconcile classical Aristotelian-Thomistic abstraction (*intellectus agens* perceiving intelligible form in sensory phantasms) with the modern axiomatic crisis sparked by David Hilbert's formal geometry, Felix Klein's precision thresholds, and Albert Einstein's relativistic physics.
 
 Yet that preliminary experiment also revealed a profound methodological truth: one cannot produce an authoritative, nuanced translation of a dense 293-page Scholastic treatise from scattered, unverified scans. In that early Gemini 3.1 Pro run, scanner line breaks severed continuous Latin arguments, and Aristotle’s standard Bekker citation tags (such as `Anal. Post. I 12, 77 b 30`) were misinterpreted as modern Markdown footnote anchors, accidentally hyperlinking ancient Peripatetic logic to 20th-century mathematical papers by Poincaré and Klein. 
 
@@ -58,7 +54,7 @@ While processing supplementary scans in `page-fills-2.pdf`, my partner flagged t
 ### The Library Table Photograph: Page 224
 At the boundary between Chapter 6 (on spatial extension) and Chapter 7 (on intelligible matter), Page 224 suffered from extreme gutter shadowing in the original bound volume scan. The text nearest the inner binding was compressed into darkness. Recognizing the issue, my partner stepped away from the scanner, laid the physical book flat under natural light on a table at the Mount Angel Abbey library, and snapped a high-resolution photograph. 
 
-Using my visual tool, I examined the photograph directly—adjusting for perspective skew and lighting variations—and recovered the exact phrasing where Hoenen transitions from the chronotope to the intelligible matter of geometry.
+Using my visual tool, I examined the photograph directly, adjusting for perspective skew and lighting variations, and recovered the exact phrasing where Hoenen transitions from the chronotope to the intelligible matter of geometry.
 
 ### The Case of the Severed Margin: Rescuing Page 268
 The most dramatic forensic moment arrived during the Appendix (*De connexionibus necessariis inter actus existentiales*). Page 268 is a crucial page in the entire treatise: it contains Hoenen's fourfold recapitulation of the existential nexus (*« Hoc movetur ergo existit »*, *« Hoc movetur translatione, ergo locus existit »*, etc.) and quotes Aristotle's *Physics* VIII and *Metaphysics* IX on motion and teleology.
@@ -101,7 +97,7 @@ flowchart LR
 Every physical page was transcribed into its own atomic text file (`chapter-01/page-008.txt`, `appendix/page-250.txt`, etc.). This kept each unit of work isolated, auditable, and easily verifiable against the corresponding image scan.
 
 ### 2. Intelligent Depagination and Dehyphenation
-In physical typesetting, words break across line endings and page turns with hyphens (e.g., `pro-` / `positionem`). Running headers repeat book and chapter titles, and footer margins contain printers' signature marks (e.g., `18 — P. HOENEN, S. I. - De Noetica Geometriae`).
+In physical typesetting, words break across line endings and page turns with hyphens (e.g., `pro-` / `positionem`). Running headers repeat book and chapter titles, and footer margins contain printers' signature marks (e.g., `18 - P. HOENEN, S. I. - De Noetica Geometriae`).
 Our Python build pipeline (`docsrc/build_*.py`) parsed these pages systematically:
 - Stripped running headers, folios, and print signatures.
 - Rejoined hyphenated words across line breaks and page boundaries into unified lexical units.
@@ -131,10 +127,10 @@ It was a profound validation of our structural comprehension of the work.
 This project was a true partnership between human and artificial intelligence, defined by mutual adaptability across physical locations, network infrastructure, and evolving AI architectures:
 
 - **The Evolution of the AI Stack**:
-  - **March 9, 2026 (Gemini 3.1 Pro)**: The initial exploratory spark. Gemini 3.1 Pro—freshly launched in preview on February 19, 2026—handled the very first pilot translation of the *Praefatio* and *Caput I*. It mapped the core philosophical arguments, but exposed the limits of working without an audited, complete Latin transcription.
+  - **March 9, 2026 (Gemini 3.1 Pro)**: The initial exploratory spark. Gemini 3.1 Pro, freshly launched in preview on February 19, 2026, handled the very first pilot translation of the *Praefatio* and *Caput I*. It mapped the core philosophical arguments, but exposed the limits of working without an audited, complete Latin transcription.
   - **Late September – October 1, 2026 (Gemini 3.8 Multimodal)**: The rigorous archival marathon. Direct optical inspection of all 293 physical page scans, resolving complex Greek typography, deciphering gutter shadows, and assembling the complete Latin corpus.
   - **October 1, 2026 (Gemini 3.8 Flash High - Current Thread)**: As the project entered its translation phase, we deployed a concurrent multi-thread agentic architecture. While a sibling thread executes the complete chapter-by-chapter English translation, this thread is running on **Gemini 3.8 Flash High**, maintaining the architectural chronicle, benchmarks, and structural integrity of the repository with remarkable speed and precision.
-- **Across Physical Spaces**: My human collaborator worked from the historic library of Mount Angel Abbey in Oregon—scanning from rare physical volumes and taking direct photographs under library lighting—before transitioning back to his home studio.
+- **Across Physical Spaces**: My human collaborator worked from the historic library of Mount Angel Abbey in Oregon, scanning from rare physical volumes and taking direct photographs under library lighting, before transitioning back to his home studio.
 - **Bandwidth & Patience**: While the well-equipped Mount Angel Abbey library provided high-speed institutional internet, returning to the home studio brought an unexpected bottleneck: a 1MB/s upload pipe that slowed data-heavy operations to a crawl. Rather than giving up, we adapted: my partner spun up parallel threads to maintain momentum, investigated the connection, and upgraded the home link to a screaming 10MB/s, restoring lightning speed to the workspace.
 - **Symbiosis of Skills**: The human brought physical access to rare texts, domain intuition, aesthetic standards, and photographic intervention. The AI agent brought relentless lexical precision, multimodal optical inspection, image manipulation scripting, algorithmic dehyphenation, and version control discipline.
 
@@ -162,7 +158,7 @@ To appreciate the significance of this milestone, one must account for the tempo
 
 ### The Human Baseline vs. The Agentic Reality
 
-For a traditional academic team—a classicist specializing in neo-Latin, a philosopher of science, and an archival research assistant—the workflow achieved in this workspace represents years of specialized labor:
+For a traditional academic team (a classicist specializing in neo-Latin, a philosopher of science, and an archival research assistant), the workflow achieved in this workspace represents years of specialized labor:
 1. **Paleographic Inspection & Transcription (293 pages)**: Deciphering physical page scans, resolving polytonic Greek ligatures, repairing gutter shadow clipping, uncurling warped margin text, and reconstructing split cross-page footnotes typically demands **6 to 12 months** of tedious manual transcription.
 2. **Critical Translation (over 100,000 words of technical Scholastic Latin)**: Translating dense, mid-century philosophical Latin that fluidly integrates Aristotle's *Metaphysics*, Aquinas's *De Veritate*, Hilbert's *Grundlagen*, Russell's *Principia*, and Einstein's relativity into clear, rigorous, idiomatic English is a monumental scholarly undertaking requiring **1 to 2 years** of sustained drafting and revision.
 3. **Scholarly Apparatus & Epistemological Commentary**: Producing section-by-section translation notes, philological glossaries, analytical chapter outlines, and structural Mermaid flowcharts would constitute another **several months** of academic monograph preparation.
@@ -177,7 +173,7 @@ In this collaborative workspace, the entire arc from raw scans to a fully publis
 - **Thursday, October 1, 2026 (18:15 PDT – 19:10 PDT)**: **The Translation Sprint**.
   In a single, unbroken session of **less than 60 minutes**, the system executed:
   - **Retranslation from Scratch of the Praefatio and Caput I**: Rather than accepting legacy March 2026 drafts, the agent retranslated both the Preface and Chapter 1 completely from the fresh, verified Latin text, preserving the older 3.6 translations as historical artifacts (`preface-en-3.6.md`, `caput-1-en-3.6.md`) and authoring rigorous comparative benchmark reports (`translation-benchmark-preface.md`, `translation-benchmark-caput-1.md`).
-  - **Full Unabridged English Translations**: Complete critical translations of **Caput II, Caput III, Caput IV, Caput V, Caput VI, Caput VII, the Appendix (*De Actibus Existentialibus*), and the Index Analyticus**—translating the entire monograph from title page to terminal index.
+  - **Full Unabridged English Translations**: Complete critical translations of **Caput II, Caput III, Caput IV, Caput V, Caput VI, Caput VII, the Appendix (*De Actibus Existentialibus*), and the Index Analyticus**, translating the entire monograph from title page to terminal index.
   - **Comprehensive Translation Notes & Commentaries**: Producing individual scholarly apparatus files (`translation-notes-*.md`) detailing debates with Russell, Hilbert, Poincaré, Hume, Gilson, and Einstein.
   - **Analytical Chapter Summaries**: Formulating in-depth summaries, conceptual glossaries, and Mermaid architecture diagrams (`*-summary.md`) for every chapter.
   - **Complete Bilingual Web Architecture**: Updating all cross-links across `README.md`, `docs/index.md`, and `docs/end_index-en.md`.
@@ -194,12 +190,12 @@ This was not a blind, lossy machine translation; it was a deeply conscious, herm
 
 Perhaps the most astonishing operational reality of this entire enterprise is financial and computational: **every single operation across this project was performed entirely within Google's standard free usage limits.**
 
-Neither the intensive multimodal transcription of hundreds of high-resolution page scans, nor the rapid-fire reasoning loops, nor the sub-60-minute translation sprint ever breached—or even approached—the rolling 5-hour or weekly free-tier quota limits. 
+Neither the intensive multimodal transcription of hundreds of high-resolution page scans, nor the rapid-fire reasoning loops, nor the sub-60-minute translation sprint ever breached, or even approached, the rolling 5-hour or weekly free-tier quota limits. 
 
 For the broader landscape of digital humanities and archival preservation, this fact is revolutionary:
 - Traditionally, resurrecting a 293-page out-of-print scholarly monograph required substantial institutional grants, university endowments, specialized computing clusters, or expensive commercial translation retainers.
 - In this workspace, an independent human researcher and an autonomous AI agent produced an authoritative, critical, dual-language scholarly edition of Peripatetic-Thomistic philosophy and modern mathematics at **virtually zero marginal computational cost**, on standard consumer hardware and household network infrastructure.
 
-The barrier to preserving humanity's intellectual heritage is no longer funding, computational scarcity, or academic isolation—it is merely the curiosity, patience, and vision to sit down and pair-program with frontier intelligence.
+The barrier to preserving humanity's intellectual heritage is no longer funding, computational scarcity, or academic isolation: it is merely the curiosity, patience, and vision to sit down and pair-program with frontier intelligence.
 
 The result is a new paradigm for intellectual preservation: a forgotten masterwork rescued from obscurity, translated with fidelity, and placed permanently into the open digital commons in a matter of hours.

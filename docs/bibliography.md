@@ -15,8 +15,8 @@ This apparatus provides a comprehensive, critical reconstruction of all sources,
 Hoenen's citations reveal his unique intellectual position: trained in theoretical physics under Nobel laureate H. A. Lorentz at Leiden before teaching scholastic philosophy at the Gregorianum, he confronts the foundational crisis of modern mathematics (formalism, logicism, and non-Euclidean geometry) directly with the rigorous epistemology of Aristotle and St. Thomas Aquinas.
 
 The bibliography is organized as follows:
-1. **[Alphabetical Index of Authors](#alphabetical-index-of-authors)** — An A–Z directory of all 64 cited authors with direct links to their entries.
-2. **[Chronological Bibliography](#chronological-bibliography-ordered-by-death-date)** — All authors arranged strictly chronologically by death date (earliest first), spanning 2,400 years from Eudoxus of Cnidus (c. 355 BC) to José Alvarez Laso (1993 AD).
+1. **[Alphabetical Index of Authors](#alphabetical-index-of-authors)**: An A–Z directory of all 64 cited authors with direct links to their entries.
+2. **[Chronological Bibliography](#chronological-bibliography-ordered-by-death-date)**: All authors arranged strictly chronologically by death date (earliest first), spanning 2,400 years from Eudoxus of Cnidus (c. 355 BC) to José Alvarez Laso (1993 AD).
 
 Each entry consistently provides:
 * **Author (Born–Died)**
@@ -356,7 +356,7 @@ Each entry consistently provides:
   *Notes*: Aquinas's profound treatise on the division and methods of the sciences; Question 5, Article 3 is the locus classicus on mathematical abstraction.
   * **Citation**: [Caput IV, [^2] (q. 5, a. 3, ad 3)](caput-4/caput-4-en.md#fn-2)
     * *What Hoenen refers to*: The complete transcribed text: 'Quantitas autem indeterminata... dicitur materia intelligibilis... non tamen abstrahit a materia intelligibili individuali...'
-    * *How it supports the text*: The cornerstone of Hoenen's noetics: St. Thomas establishes that mathematics does not abstract from all matter, but retains **intelligible matter** (materia intelligibilis—continuous extended quantity imagined without sensible qualities). This resolves the problem of exactitude and individuation in geometry.
+    * *How it supports the text*: The cornerstone of Hoenen's noetics: St. Thomas establishes that mathematics does not abstract from all matter, but retains **intelligible matter** (materia intelligibilis: continuous extended quantity imagined without sensible qualities). This resolves the problem of exactitude and individuation in geometry.
 
 * **Summa Theologiae** (*Summa Theologiae*) c. 1265–1274
   *Notes*: The Angelic Doctor's systematic theological synthesis. Primary editions: Leonine (Rome, 1888–1906); Marietti (Turin, 1952).
@@ -655,7 +655,7 @@ Each entry consistently provides:
 * **Psychologie vom empirischen Standpunkt** (*Psychology from an Empirical Standpoint*) 1874
   *Notes*: Brentano's seminal work re-introducing intentionality and establishing the fundamental classification of mental phenomena (Leipzig: Duncker & Humblot).
   * **Citation**: [Appendix, § 7 and [^26]](appendix/appendix-en.md#the-abstract-concept-of-being-ratio-essendi)
-    * *What Hoenen refers to*: Brentano's doctrine that judgment (Urteil—acknowledging or rejecting existence) is fundamentally diverse from representation (Vorstellung), constituting distinct basic classes of mental acts.
+    * *What Hoenen refers to*: Brentano's doctrine that judgment (Urteil: acknowledging or rejecting existence) is fundamentally diverse from representation (Vorstellung), constituting distinct basic classes of mental acts.
     * *How it supports the text*: Hoenen compares Brentano's insight directly to St. Thomas Aquinas: both recognize that judging existence (esse) is fundamentally distinct from apprehending quiddity, validating the realism of judgment.
 
 ---
@@ -1205,7 +1205,3 @@ Each entry consistently provides:
   * **19th-Century Mathematics, Logic, & Philology** (1864 – 1928 AD): Waitz, Möbius, Trendelenburg, Mill, Bonitz, Weierstrass, Hamelin, Poincaré, Couturat, Dedekind, Brentano, Cantor, Wellstein, Killing, Baeumker, Riehl, Klein, Hessenberg, Carteron, Burnet.
   * **20th-Century Axiomatics, Physics, & Neo-Scholasticism** (1930 – 1993 AD): Study, Pasch, Voss, Peano, Meyerson, Pirotta, Heath, Hausdorff, Hilbert, Enriques, Hardy, Geyser, Einstein, Weyl, Scholz, Amaldi, Hoenen, de la Vallée-Poussin, Hadamard, Russell, Maier, Ross, Stammler, Gilson, Hasse, Lonergan, Freudenthal, Alvarez Laso.
 * **Footnote Census**: All 130 footnotes across the 9 sections of *De Noetica Geometriae* are cross-referenced to their respective author, work, and textual function.
-
----
-
-> [Conspectus Totius Operis](index.md) | [Agent Chronicle](agent-chronicle.md) | [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.md)

@@ -1,4 +1,4 @@
-> [← Caput VII Notes](../caput-7/translation-notes-caput-7.md) | [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes
+> [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes
 
 ---
 
@@ -96,6 +96,3 @@
 | **`motus quasi digito monstrat`** | motion points as with a finger | The immediate intentional illation from fluent motion to the existence of subject, place, and cause. |
 | **`facio ergo materia adest`** | I make, therefore matter is present | The operative criterion verifying the objective reality of the external world against illusion. |
 
----
-
-> [← Caput VII Notes](../caput-7/translation-notes-caput-7.md) | [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes

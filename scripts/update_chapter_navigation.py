@@ -2,12 +2,13 @@
 """
 scripts/update_chapter_navigation.py
 
-Updates the top and bottom in-page menu bars across all chapter and document
+Updates and verifies the in-page menu bars across all chapter and document
 Markdown files in docs/ to:
-1. Provide track-preserving [← Prev] and [Next →] navigation (moving within English,
-   Latin, Summary, Notes, or Model 3.1).
-2. Remove redundant [Conspectus Totius Operis] / [Table of Contents] links,
-   as the site header already links home.
+1. Ensure the top menu bar contains only core edition/language links
+   (e.g., Latin | English | Summary | Notes), without track navigation arrows
+   ([← Prev], [Next →]), which are provided by the site header.
+2. Remove any bottom menu blocks and trailing separators.
+3. Clean out redundant [Conspectus Totius Operis] or [Table of Contents] links.
 """
 
 import os
@@ -82,20 +83,13 @@ def extract_core_links(line):
     return ' | '.join(core_parts)
 
 def update_all():
-    file_meta = {}
-    for tname, items in TRACKS.items():
-        for i, (label, path) in enumerate(items):
-            prev_item = items[i-1] if i > 0 else None
-            next_item = items[i+1] if i < len(items) - 1 else None
-            file_meta[path] = {
-                'track': tname,
-                'label': label,
-                'prev': prev_item,
-                'next': next_item
-            }
+    all_paths = set()
+    for items in TRACKS.values():
+        for label, path in items:
+            all_paths.add(path)
 
     updated_files = 0
-    for filepath, meta in file_meta.items():
+    for filepath in sorted(all_paths):
         if not os.path.exists(filepath):
             print(f"Warning: file not found: {filepath}")
             continue
@@ -103,47 +97,46 @@ def update_all():
         with open(filepath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
 
-        file_dir = os.path.dirname(filepath)
-        prev_link = ""
-        if meta['prev']:
-            rel_prev = os.path.relpath(meta['prev'][1], file_dir)
-            prev_link = f"[← {meta['prev'][0]}]({rel_prev})"
-
-        next_link = ""
-        if meta['next']:
-            rel_next = os.path.relpath(meta['next'][1], file_dir)
-            next_link = f"[{meta['next'][0]} →]({rel_next})"
-
-        # Find the top and bottom navigation lines
-        # In all files, index 0 is top menu bar, and the last line starting with '> ' is bottom menu bar
-        bar_indices = [
-            i for i, l in enumerate(lines)
-            if l.startswith('> ') and ('Latin' in l or 'English' in l) and ('|' in l)
-        ]
-
-        if not bar_indices:
-            print(f"No navigation bars found in {filepath}")
+        if not lines:
             continue
 
-        for idx in bar_indices:
-            orig_line = lines[idx]
-            core = extract_core_links(orig_line)
-            parts = []
-            if prev_link:
-                parts.append(prev_link)
-            parts.append(core)
-            if next_link:
-                parts.append(next_link)
-            new_line = '> ' + ' | '.join(parts) + '\n'
-            lines[idx] = new_line
+        # Look for the top menu bar (typically line 0)
+        top_bar_idx = None
+        for i, l in enumerate(lines[:5]):
+            if l.startswith('> ') and ('Latin' in l or 'English' in l) and ('|' in l):
+                top_bar_idx = i
+                break
+
+        if top_bar_idx is not None:
+            core = extract_core_links(lines[top_bar_idx])
+            lines[top_bar_idx] = f"> {core}\n"
+
+        # Check for bottom menu bar (a '> ' line after top_bar_idx)
+        # and strip it along with any preceding '---'
+        # First, strip trailing whitespace lines
+        while lines and not lines[-1].strip():
+            lines.pop()
+
+        # If the last non-empty line is a menu bar, remove it
+        if lines and lines[-1].startswith('> ') and ('Latin' in lines[-1] or 'English' in lines[-1]):
+            lines.pop()
+            while lines and not lines[-1].strip():
+                lines.pop()
+            # If the preceding line is '---', remove it as well
+            if lines and lines[-1].strip() == '---':
+                lines.pop()
+            while lines and not lines[-1].strip():
+                lines.pop()
+
+        lines.append('\n')
 
         with open(filepath, 'w', encoding='utf-8') as f:
             f.writelines(lines)
 
         updated_files += 1
-        print(f"Updated navigation in {filepath}")
+        print(f"Verified/updated navigation in {filepath}")
 
-    print(f"\nSuccessfully updated navigation in {updated_files} files.")
+    print(f"\nSuccessfully verified/updated navigation in {updated_files} files.")
 
 if __name__ == '__main__':
     update_all()

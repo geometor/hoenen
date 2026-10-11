@@ -1,7 +1,3 @@
-> [← Table of Contents](index.md)
-
----
-
 # De Noetica Geometriae: Scan Inventory & Rescan Manifest
 
 - **Total Book Pages Processed:** 287

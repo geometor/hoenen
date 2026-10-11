@@ -1,4 +1,4 @@
-> [← Praefatio](../preface/preface.md) | Latin | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Caput II →](../caput-2/caput-2.md)
+> Latin | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md)
 
 ---
 
@@ -207,6 +207,3 @@ Agitur quoque de complete constituendis fundamentis geometriae ; sed ad hoc nos 
 
 [^14]: « Wir denken uns drei verschiedene Systeme von Dingen : die Dinge des e r s t e n Systems nennen wir Punkte und bezeichnen sie mit A, B, C, ... ; die Dinge des z w e i t e n Systems nennen wir Geraden und bezeichnen sie mit a, b, c, ... ; die Dinge des d r i t t e n Systems nennen wir Ebenen und bezeichnen sie mit α, β, γ... » Op. cit. ed. 7 (1930) pag. 2.
 
----
-
-> [← Praefatio](../preface/preface.md) | Latin | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Caput II →](../caput-2/caput-2.md)

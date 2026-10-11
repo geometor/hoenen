@@ -1,4 +1,4 @@
-> [← Caput V Notes](../caput-5/translation-notes-caput-5.md) | [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes | [Caput VII Notes →](../caput-7/translation-notes-caput-7.md)
+> [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes
 
 ---
 
@@ -87,6 +87,3 @@
 | **`μέτρον`** (*metron*) | measure / unit | That by which quantity is known (*Metaph.* X, 1). |
 | **`συγγενές`** (*syngenes*) | connatural / homogeneous | The requirement that the measuring unit belong to the same genus as the measured object. |
 
----
-
-> [← Caput V Notes](../caput-5/translation-notes-caput-5.md) | [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes | [Caput VII Notes →](../caput-7/translation-notes-caput-7.md)

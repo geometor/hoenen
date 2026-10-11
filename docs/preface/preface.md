@@ -1,4 +1,4 @@
-> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Caput I →](../caput-1/caput-1.md)
+> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md)
 
 ---
 
@@ -30,6 +30,3 @@ P. HOENEN S. J.
 
 [^2]: La théorie du jugement d'après St. Thomas d'Aquin ed. 1, 1946, ed. 2 aucta et emendata, 1953, versio anglica Reality and Judgment according to St. Thomas, Chicago 1952. Ad id referemus sub siglo Th. d. J. resp. R. a J.
 
----
-
-> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Caput I →](../caput-1/caput-1.md)

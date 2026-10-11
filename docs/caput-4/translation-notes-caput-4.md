@@ -1,4 +1,4 @@
-> [← Caput III Notes](../caput-3/translation-notes-caput-3.md) | [Latin](caput-4.md) | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | Notes | [Caput V Notes →](../caput-5/translation-notes-caput-5.md)
+> [Latin](caput-4.md) | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | Notes
 
 ---
 
@@ -119,6 +119,3 @@ In the Latin source `docs/caput-4.md`, 31 numbered footnotes are present, along 
 | **ἴδιον** | *idion* | *proprium* / *passio propria* | Proper attribute flowing necessarily from a subject's essence (*Topics* I, 5). |
 | **ἐφαρμόζειν** | *epharmozein* | *congruere* / *superponere* | To coincide or superpose in Euclid's congruence propositions. |
 
----
-
-> [← Caput III Notes](../caput-3/translation-notes-caput-3.md) | [Latin](caput-4.md) | [English](caput-4-en.md) | [Summary](caput-4-summary.md) | Notes | [Caput V Notes →](../caput-5/translation-notes-caput-5.md)
