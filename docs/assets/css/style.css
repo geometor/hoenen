@@ -9,6 +9,8 @@
    Variables & Color Palette
    -------------------------------------------------------------------------- */
 :root {
+  --header-height: 48px;
+
   /* Warm parchment paper background */
   --bg-color: #faf7f0;
   --bg-color-alpha: rgba(250, 247, 240, 0.94);
@@ -366,12 +368,14 @@ a:hover {
 }
 
 /* --------------------------------------------------------------------------
-   Navigation Toolbar (Markdown blockquotes at top/bottom of chapters)
+   Chapter Navigation & Edition Bar (Sticky Below Header)
    -------------------------------------------------------------------------- */
+.chapter-edition-bar,
 article > blockquote:first-of-type,
 article > blockquote:first-child {
+  position: -webkit-sticky;
   position: sticky;
-  top: 38px;
+  top: var(--header-height, 48px);
   z-index: 100;
   background-color: var(--surface-color-alpha);
   backdrop-filter: blur(8px);
@@ -388,34 +392,18 @@ article > blockquote:first-child {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 
-article > blockquote:last-child,
-article > blockquote:last-of-type {
-  background-color: var(--surface-color);
-  border: 1px solid var(--border-color);
-  border-radius: 6px;
-  padding: 0.35rem 0.75rem;
-  margin: 2rem auto 1.5rem;
-  width: fit-content;
-  max-width: 100%;
-  font-style: normal;
-  font-size: 0.86rem;
-  color: var(--text-muted);
-}
-
+.chapter-edition-bar table,
 article > blockquote:first-of-type table,
-article > blockquote:first-child table,
-article > blockquote:last-child table,
-article > blockquote:last-of-type table {
+article > blockquote:first-child table {
   margin: 0 auto !important;
   width: auto !important;
   border-collapse: collapse !important;
   border: none !important;
 }
 
+.chapter-edition-bar td,
 article > blockquote:first-of-type td,
-article > blockquote:first-child td,
-article > blockquote:last-child td,
-article > blockquote:last-of-type td {
+article > blockquote:first-child td {
   padding: 0.15rem 0.5rem !important;
   border: none !important;
   border-bottom: none !important;
@@ -424,10 +412,9 @@ article > blockquote:last-of-type td {
   font-size: 0.84rem !important;
 }
 
+.chapter-edition-bar p,
 article > blockquote:first-of-type p,
-article > blockquote:first-child p,
-article > blockquote:last-child p,
-article > blockquote:last-of-type p {
+article > blockquote:first-child p {
   margin: 0 !important;
   padding: 0 !important;
   line-height: 1.4 !important;
@@ -435,10 +422,9 @@ article > blockquote:last-of-type p {
   display: block !important;
 }
 
+.chapter-edition-bar a,
 article > blockquote:first-of-type a,
-article > blockquote:first-child a,
-article > blockquote:last-of-type a,
-article > blockquote:last-child a {
+article > blockquote:first-child a {
   color: var(--link-color);
   text-decoration: none;
   font-weight: 500;
@@ -447,10 +433,9 @@ article > blockquote:last-child a {
   transition: color 0.15s ease, background-color 0.15s ease;
 }
 
+.chapter-edition-bar a:hover,
 article > blockquote:first-of-type a:hover,
-article > blockquote:first-child a:hover,
-article > blockquote:last-of-type a:hover,
-article > blockquote:last-child a:hover {
+article > blockquote:first-child a:hover {
   color: var(--link-hover);
   background-color: var(--surface-color);
   text-decoration: underline;
@@ -482,9 +467,10 @@ h2#executive-summary + p + p {
   .header-nav-next {
     display: none;
   }
+  .chapter-edition-bar,
   article > blockquote:first-of-type,
   article > blockquote:first-child {
-    top: 0;
+    top: 0 !important;
     font-size: 0.82rem;
     padding: 0.25rem 0.5rem;
   }

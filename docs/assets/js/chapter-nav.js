@@ -15,11 +15,28 @@
     if (!article) return;
 
     // ------------------------------------------------------------------------
-    // 1. Sync Prev / Next buttons to the Sticky Site Header & remove from menu
+    // 1. Process Menu Bars & Sync Prev / Next buttons to Site Header
     // ------------------------------------------------------------------------
-    const topBar = article.querySelector('blockquote:first-of-type');
     const headerPrev = document.getElementById('header-prev');
     const headerNext = document.getElementById('header-next');
+    const siteHeader = document.querySelector('.site-header');
+
+    function updateHeaderOffset() {
+      if (siteHeader) {
+        if (window.innerWidth <= 640) {
+          document.documentElement.style.setProperty('--header-height', '0px');
+        } else {
+          const rect = siteHeader.getBoundingClientRect();
+          const h = Math.round(rect.height);
+          document.documentElement.style.setProperty('--header-height', h + 'px');
+        }
+      }
+    }
+
+    const topBar = article.querySelector('blockquote:first-of-type');
+    if (topBar) {
+      topBar.classList.add('chapter-edition-bar');
+    }
 
     function removeNavFromMenu(link) {
       const td = link.closest('td');
@@ -77,12 +94,53 @@
       }
     }
 
+    // Remove any redundant bottom menu bar since top menu bar is sticky
+    const allBlockquotes = Array.from(article.querySelectorAll('blockquote'));
+    if (allBlockquotes.length > 1) {
+      const bottomBar = allBlockquotes[allBlockquotes.length - 1];
+      const hasNav = bottomBar.querySelector('a') && (
+        bottomBar.textContent.includes('←') ||
+        bottomBar.textContent.includes('→') ||
+        bottomBar.textContent.includes('Latin') ||
+        bottomBar.textContent.includes('English') ||
+        bottomBar.textContent.includes('Summary') ||
+        bottomBar.textContent.includes('Notes') ||
+        bottomBar.textContent.includes('Model')
+      );
+      if (hasNav) {
+        if (headerPrev && !headerPrev.hasChildNodes()) {
+          const prevLink = Array.from(bottomBar.querySelectorAll('a')).find(a => a.textContent.includes('←'));
+          if (prevLink) {
+            const clone = prevLink.cloneNode(true);
+            clone.className = 'header-nav-btn header-nav-prev-btn';
+            headerPrev.innerHTML = '';
+            headerPrev.appendChild(clone);
+          }
+        }
+        if (headerNext && !headerNext.hasChildNodes()) {
+          const nextLink = Array.from(bottomBar.querySelectorAll('a')).find(a => a.textContent.includes('→'));
+          if (nextLink) {
+            const clone = nextLink.cloneNode(true);
+            clone.className = 'header-nav-btn header-nav-next-btn';
+            headerNext.innerHTML = '';
+            headerNext.appendChild(clone);
+          }
+        }
+
+        const prevEl = bottomBar.previousElementSibling;
+        if (prevEl && prevEl.tagName === 'HR') {
+          prevEl.remove();
+        }
+        bottomBar.remove();
+      }
+    }
+
     if (topBar && (headerPrev || headerNext)) {
       const links = Array.from(topBar.querySelectorAll('a'));
       links.forEach(link => {
         const text = link.textContent.trim();
         if (text.includes('←')) {
-          if (headerPrev) {
+          if (headerPrev && !headerPrev.hasChildNodes()) {
             const clone = link.cloneNode(true);
             clone.className = 'header-nav-btn header-nav-prev-btn';
             headerPrev.innerHTML = '';
@@ -90,7 +148,7 @@
           }
           removeNavFromMenu(link);
         } else if (text.includes('→')) {
-          if (headerNext) {
+          if (headerNext && !headerNext.hasChildNodes()) {
             const clone = link.cloneNode(true);
             clone.className = 'header-nav-btn header-nav-next-btn';
             headerNext.innerHTML = '';
@@ -99,6 +157,16 @@
           removeNavFromMenu(link);
         }
       });
+
+      if (!topBar.textContent.trim()) {
+        topBar.remove();
+      }
+    }
+
+    updateHeaderOffset();
+    window.addEventListener('resize', updateHeaderOffset);
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(updateHeaderOffset);
     }
 
     // ------------------------------------------------------------------------
