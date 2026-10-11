@@ -28,9 +28,10 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](about/pontifical-gregorian-university.md)
 
 ---
 
-## Conspectus Totius Operis (Table of Contents)
-
 <div class="work-toc" markdown="1">
+
+## Conspectus Totius Operis
+*(Table of Contents)*
 
 ### Praefatio
 *(Preface)*
