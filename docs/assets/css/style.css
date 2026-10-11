@@ -410,6 +410,7 @@ table p,
 .no-indent,
 .site-header p,
 .site-footer p,
+.work-toc p,
 article p:has(> strong:first-child) {
   text-indent: 0 !important;
 }
@@ -440,6 +441,73 @@ a:hover {
   text-decoration-thickness: 1.5px;
 }
 
+/* --------------------------------------------------------------------------
+   Conspectus Totius Operis (Homepage Table of Contents)
+   -------------------------------------------------------------------------- */
+.work-toc {
+  max-width: 44rem;
+  margin: 2rem auto 3.5rem;
+  text-align: center;
+}
+
+.work-toc h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: var(--text-color);
+  margin-top: 2.75rem;
+  margin-bottom: 0.25rem;
+  border-bottom: none !important;
+}
+
+.work-toc h3:first-child {
+  margin-top: 1rem;
+}
+
+.work-toc h4 {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.35;
+  text-align: center;
+  color: var(--text-color);
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  border-bottom: none !important;
+}
+
+.work-toc p {
+  text-align: center !important;
+  text-indent: 0 !important;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.work-toc p em {
+  font-family: var(--font-serif);
+  font-size: 1.02rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.35;
+}
+
+.work-toc p a {
+  color: var(--link-color);
+  text-decoration: none;
+  padding: 0.1rem 0.45rem;
+  border-radius: 3px;
+  transition: all 0.15s ease;
+  font-weight: 400;
+}
+
+.work-toc p a:hover {
+  color: var(--link-hover);
+  background-color: var(--surface-color);
+  text-decoration: none;
+}
 
 /* Executive Summary Paragraphs */
 h2#executive-summary + p,
@@ -495,6 +563,16 @@ h2#executive-summary + p + p {
   }
   .header-nav-btn .nav-label {
     display: none;
+  }
+  .work-toc h3 {
+    font-size: 1.15rem;
+    margin-top: 2rem;
+  }
+  .work-toc h4 {
+    font-size: 1.05rem;
+  }
+  .work-toc p em {
+    font-size: 0.95rem;
   }
   h1, h2, h3, h4, h5, h6,
   [id] {
