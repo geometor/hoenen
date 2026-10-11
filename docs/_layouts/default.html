@@ -37,7 +37,32 @@
 
   {% include head-custom.html %}
 </head>
-<body>
+{% assign current_chapter = nil %}
+{% assign current_track_key = nil %}
+{% assign current_chapter_idx = nil %}
+
+{% for ch in site.data.navigation.chapters %}
+  {% assign ch_idx = forloop.index0 %}
+  {% for track_pair in ch.tracks %}
+    {% assign tr_data = track_pair[1] %}
+    {% assign tr_url = tr_data.path | prepend: '/' %}
+    {% assign tr_url_no_ext = tr_url | remove: '.html' %}
+    {% assign page_url_no_ext = page.url | remove: '.html' %}
+    {% if tr_data.src == page.path or tr_url == page.url or tr_url_no_ext == page_url_no_ext %}
+      {% assign current_chapter = ch %}
+      {% assign current_track_key = track_pair[0] %}
+      {% assign current_chapter_idx = ch_idx %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% if current_chapter %}{% break %}{% endif %}
+{% endfor %}
+
+{% assign is_chapter = false %}
+{% if current_chapter %}
+  {% assign is_chapter = true %}
+{% endif %}
+<body class="{% if is_chapter %}is-chapter-page{% else %}is-general-page{% endif %}">
   <header class="site-header">
     <div class="site-header-inner">
       <!-- Level 1: Site Title & Author -->
@@ -48,14 +73,81 @@
       </div>
 
       <!-- Level 2: Document Navigation Row (Prev | Title | Next) -->
-      <div class="header-doc-row" id="header-doc-row" style="display: none;">
-        <div class="header-nav-prev" id="header-prev"></div>
-        <div class="header-doc-title" id="header-doc-title"></div>
-        <div class="header-nav-next" id="header-next"></div>
+      <div class="header-doc-row" id="header-doc-row">
+        <div class="header-nav-prev" id="header-prev">
+          {% if current_chapter_idx and current_chapter_idx > 0 %}
+            {% assign prev_ch = nil %}
+            {% for ch in site.data.navigation.chapters limit: current_chapter_idx reversed %}
+              {% if ch.tracks[current_track_key] %}
+                {% assign prev_ch = ch %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% if prev_ch %}
+              {% assign prev_tr = prev_ch.tracks[current_track_key] %}
+              {% assign prev_title = prev_ch.title %}
+              {% if current_track_key == 'latin' %}
+                {% assign prev_title = prev_ch.title_la %}
+              {% endif %}
+              <a href="{{ prev_tr.path | relative_url }}" class="header-nav-btn header-nav-prev-btn" title="Previous: {{ prev_title }}">
+                <span class="nav-arrow">←</span>
+                <span class="nav-label">{{ prev_title }}</span>
+              </a>
+            {% endif %}
+          {% endif %}
+        </div>
+        <div class="header-doc-title" id="header-doc-title">
+          {% if current_chapter %}
+            {% if current_track_key == 'latin' %}
+              {{ current_chapter.title_la }}
+            {% else %}
+              {{ current_chapter.title }}
+            {% endif %}
+          {% endif %}
+        </div>
+        <div class="header-nav-next" id="header-next">
+          {% if current_chapter_idx %}
+            {% assign next_ch = nil %}
+            {% assign next_offset = current_chapter_idx | plus: 1 %}
+            {% for ch in site.data.navigation.chapters offset: next_offset %}
+              {% if ch.tracks[current_track_key] %}
+                {% assign next_ch = ch %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% if next_ch %}
+              {% assign next_tr = next_ch.tracks[current_track_key] %}
+              {% assign next_title = next_ch.title %}
+              {% if current_track_key == 'latin' %}
+                {% assign next_title = next_ch.title_la %}
+              {% endif %}
+              <a href="{{ next_tr.path | relative_url }}" class="header-nav-btn header-nav-next-btn" title="Next: {{ next_title }}">
+                <span class="nav-label">{{ next_title }}</span>
+                <span class="nav-arrow">→</span>
+              </a>
+            {% endif %}
+          {% endif %}
+        </div>
       </div>
 
       <!-- Level 3: Document Tracks Submenu (Latin | English | Summary | Notes) -->
-      <nav class="header-tracks-nav" id="header-tracks" style="display: none;"></nav>
+      <nav class="header-tracks-nav" id="header-tracks">
+        {% if current_chapter %}
+          {% assign sep_needed = false %}
+          {% for tr_key in site.data.navigation.track_order %}
+            {% assign tr_item = current_chapter.tracks[tr_key] %}
+            {% if tr_item %}
+              {% if sep_needed %}<span class="header-track-sep">·</span>{% endif %}
+              {% if tr_key == current_track_key %}
+                <span class="header-track-item is-active" aria-current="page">{{ tr_item.label }}</span>
+              {% else %}
+                <a href="{{ tr_item.path | relative_url }}" class="header-track-item">{{ tr_item.label }}</a>
+              {% endif %}
+              {% assign sep_needed = true %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </nav>
     </div>
   </header>
 
@@ -92,7 +184,7 @@
     window.HOENEN_BASE_URL = "{{ '/' | relative_url }}".replace(/\/+$/, '');
   </script>
 
-  <!-- Chapter Navigation & TOC Sync -->
+  <!-- Chapter TOC & Navigation Sync -->
   <script src="{{ '/assets/js/chapter-nav.js' | relative_url }}"></script>
 
   <!-- Mermaid Diagram Rendering -->

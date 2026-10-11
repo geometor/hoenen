@@ -48,6 +48,13 @@
         return;
       }
 
+      if (headerDocTitle.textContent.trim()) {
+        // Header was already populated immediately upon parsing; sync offset only
+        updateHeaderOffset();
+        window.addEventListener('resize', updateHeaderOffset);
+        return;
+      }
+
       const baseUrl = window.HOENEN_BASE_URL !== undefined 
         ? window.HOENEN_BASE_URL 
         : (window.location.pathname.startsWith('/hoenen') ? '/hoenen' : '');
