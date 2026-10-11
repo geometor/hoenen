@@ -410,8 +410,6 @@ table p,
 .no-indent,
 .site-header p,
 .site-footer p,
-article > blockquote:first-child p,
-article > blockquote:last-child p,
 article p:has(> strong:first-child) {
   text-indent: 0 !important;
 }
@@ -442,79 +440,6 @@ a:hover {
   text-decoration-thickness: 1.5px;
 }
 
-/* --------------------------------------------------------------------------
-   Chapter Navigation & Edition Bar (Sticky Below Header)
-   -------------------------------------------------------------------------- */
-.chapter-edition-bar,
-article > blockquote:first-of-type,
-article > blockquote:first-child {
-  position: -webkit-sticky;
-  position: sticky;
-  top: var(--header-height, 48px);
-  z-index: 100;
-  background-color: var(--surface-color-alpha);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  border: 1px solid var(--border-color);
-  border-radius: 6px;
-  padding: 0.2rem 0.65rem;
-  margin: 0.5rem auto 1.25rem;
-  width: fit-content;
-  max-width: 100%;
-  font-style: normal;
-  font-size: 0.84rem;
-  color: var(--text-muted);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
-}
-
-.chapter-edition-bar table,
-article > blockquote:first-of-type table,
-article > blockquote:first-child table {
-  margin: 0 auto !important;
-  width: auto !important;
-  border-collapse: collapse !important;
-  border: none !important;
-}
-
-.chapter-edition-bar td,
-article > blockquote:first-of-type td,
-article > blockquote:first-child td {
-  padding: 0.15rem 0.5rem !important;
-  border: none !important;
-  border-bottom: none !important;
-  white-space: nowrap !important;
-  text-align: center !important;
-  font-size: 0.84rem !important;
-}
-
-.chapter-edition-bar p,
-article > blockquote:first-of-type p,
-article > blockquote:first-child p {
-  margin: 0 !important;
-  padding: 0 !important;
-  line-height: 1.4 !important;
-  text-align: center !important;
-  display: block !important;
-}
-
-.chapter-edition-bar a,
-article > blockquote:first-of-type a,
-article > blockquote:first-child a {
-  color: var(--link-color);
-  text-decoration: none;
-  font-weight: 500;
-  padding: 0.1rem 0.3rem;
-  border-radius: 3px;
-  transition: color 0.15s ease, background-color 0.15s ease;
-}
-
-.chapter-edition-bar a:hover,
-article > blockquote:first-of-type a:hover,
-article > blockquote:first-child a:hover {
-  color: var(--link-hover);
-  background-color: var(--surface-color);
-  text-decoration: underline;
-}
 
 /* Executive Summary Paragraphs */
 h2#executive-summary + p,
@@ -1030,5 +955,153 @@ mjx-container[display="true"] {
 .mermaid svg {
   max-width: 100%;
   height: auto;
+}
+
+/* ==========================================================================
+   Print Stylesheet — Classical Monograph Edition
+   ========================================================================== */
+@media print {
+  @page {
+    margin: 1.5cm 2cm;
+    size: auto;
+  }
+
+  /* Reset layout & backgrounds for ink efficiency and clean contrast */
+  body {
+    background: #fff !important;
+    color: #1a1a1a !important;
+    font-size: 11pt !important;
+    line-height: 1.6 !important;
+  }
+
+  .container,
+  .site-header-inner,
+  .site-main,
+  article.manuscript,
+  .markdown-body {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  /* --------------------------------------------------------------------------
+     Navigation & Menus (Hidden in Print)
+     -------------------------------------------------------------------------- */
+  .header-doc-row,
+  .header-tracks-nav,
+  .header-nav-prev,
+  .header-nav-next,
+  .footer-nav {
+    display: none !important;
+  }
+
+  /* Site Header as an elegant static monograph masthead */
+  .site-header {
+    position: static !important;
+    background: transparent !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    box-shadow: none !important;
+    border-bottom: 1px solid #ccc !important;
+    padding: 0 0 0.4rem 0 !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  .header-super {
+    font-size: 9pt !important;
+    letter-spacing: 0.15em !important;
+  }
+
+  .site-title,
+  .site-subtitle {
+    color: #333 !important;
+    text-decoration: none !important;
+  }
+
+  /* Hyperlinks: Clean text without colored web links or underlines */
+  a,
+  a:visited {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  /* Typography & Page Break Hygiene */
+  h1, h2, h3, h4, h5, h6 {
+    color: #000 !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  h1 {
+    font-size: 20pt !important;
+    margin-top: 1rem !important;
+  }
+
+  h2 {
+    font-size: 15pt !important;
+  }
+
+  h3 {
+    font-size: 12pt !important;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+    text-align: justify !important;
+  }
+
+  blockquote {
+    border-left: 2.5pt solid #555 !important;
+    background-color: #f7f7f7 !important;
+    color: #222 !important;
+    padding: 0.5em 1.2em !important;
+    margin: 1em 0 !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .chapter-toc {
+    background: transparent !important;
+    border: 1px solid #ccc !important;
+    box-shadow: none !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    margin: 1.5rem 0 !important;
+  }
+
+  .mermaid {
+    background: transparent !important;
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  table {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .footnotes {
+    border-top: 1px solid #ccc !important;
+    margin-top: 2rem !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .site-footer {
+    border-top: 1px solid #ccc !important;
+    margin-top: 2rem !important;
+    padding-top: 1rem !important;
+    background: transparent !important;
+  }
+
+  .footer-ornament,
+  .footer-title,
+  .footer-meta {
+    color: #555 !important;
+  }
 }
 
