@@ -96,14 +96,34 @@
             {% endif %}
           {% endif %}
         </div>
-        <div class="header-doc-title" id="header-doc-title">
-          {% if current_chapter %}
-            {% if current_track_key == 'latin' %}
-              {{ current_chapter.title_la }}
-            {% else %}
-              {{ current_chapter.title }}
+        <div class="header-doc-center">
+          <div class="header-doc-title" id="header-doc-title">
+            {% if current_chapter %}
+              {% if current_track_key == 'latin' %}
+                {{ current_chapter.title_la }}
+              {% else %}
+                {{ current_chapter.title }}
+              {% endif %}
             {% endif %}
-          {% endif %}
+          </div>
+          <!-- Document Tracks Submenu (Latin | English | Summary | Notes) -->
+          <nav class="header-tracks-nav" id="header-tracks">
+            {% if current_chapter %}
+              {% assign sep_needed = false %}
+              {% for tr_key in site.data.navigation.track_order %}
+                {% assign tr_item = current_chapter.tracks[tr_key] %}
+                {% if tr_item %}
+                  {% if sep_needed %}<span class="header-track-sep">·</span>{% endif %}
+                  {% if tr_key == current_track_key %}
+                    <span class="header-track-item is-active" aria-current="page">{{ tr_item.label }}</span>
+                  {% else %}
+                    <a href="{{ tr_item.path | relative_url }}" class="header-track-item">{{ tr_item.label }}</a>
+                  {% endif %}
+                  {% assign sep_needed = true %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          </nav>
         </div>
         <div class="header-nav-next" id="header-next">
           {% if current_chapter_idx %}
@@ -129,25 +149,6 @@
           {% endif %}
         </div>
       </div>
-
-      <!-- Level 3: Document Tracks Submenu (Latin | English | Summary | Notes) -->
-      <nav class="header-tracks-nav" id="header-tracks">
-        {% if current_chapter %}
-          {% assign sep_needed = false %}
-          {% for tr_key in site.data.navigation.track_order %}
-            {% assign tr_item = current_chapter.tracks[tr_key] %}
-            {% if tr_item %}
-              {% if sep_needed %}<span class="header-track-sep">·</span>{% endif %}
-              {% if tr_key == current_track_key %}
-                <span class="header-track-item is-active" aria-current="page">{{ tr_item.label }}</span>
-              {% else %}
-                <a href="{{ tr_item.path | relative_url }}" class="header-track-item">{{ tr_item.label }}</a>
-              {% endif %}
-              {% assign sep_needed = true %}
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      </nav>
     </div>
   </header>
 

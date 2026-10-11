@@ -9,7 +9,7 @@
    Variables & Color Palette
    -------------------------------------------------------------------------- */
 :root {
-  --header-height: 108px;
+  --header-height: 80px;
   --header-height-general: 42px;
 
   /* Warm parchment paper background */
@@ -152,19 +152,9 @@ body {
   background-color: var(--bg-color-alpha);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  padding: 0.35rem 1.25rem;
+  padding: 0.25rem 1.25rem;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
   box-sizing: border-box;
-}
-
-body.is-chapter-page .site-header {
-  height: var(--header-height);
-  min-height: var(--header-height);
-}
-
-body.is-general-page .site-header {
-  height: var(--header-height-general);
-  min-height: var(--header-height-general);
 }
 
 body.is-general-page {
@@ -177,7 +167,7 @@ body.is-general-page {
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  gap: 0.25rem;
+  gap: 0.2rem;
 }
 
 .header-super {
@@ -187,7 +177,7 @@ body.is-general-page {
   gap: 0.5rem;
   text-align: center;
   flex-wrap: wrap;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .header-doc-row {
@@ -195,23 +185,32 @@ body.is-general-page {
   grid-template-columns: minmax(4.5rem, 1fr) auto minmax(4.5rem, 1fr);
   align-items: center;
   gap: 0.5rem;
-  padding-top: 0.25rem;
+  padding-top: 0.2rem;
   border-top: 1px solid var(--border-light);
-  min-height: 1.85rem;
 }
 
 body.is-chapter-page .header-doc-row {
   display: grid;
 }
 
+.header-doc-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.12rem;
+  text-align: center;
+}
+
 .header-doc-title {
   text-align: center;
   font-family: var(--font-display);
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   font-weight: 600;
   letter-spacing: 0.05em;
   color: var(--text-color);
   white-space: nowrap;
+  line-height: 1.2;
 }
 
 .header-nav-prev {
@@ -224,10 +223,10 @@ body.is-chapter-page .header-doc-row {
 
 .header-nav-btn {
   font-family: var(--font-serif);
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: var(--link-color);
   text-decoration: none;
-  padding: 0.18rem 0.55rem;
+  padding: 0.15rem 0.5rem;
   border-radius: 4px;
   background-color: var(--surface-color);
   border: 1px solid var(--border-color);
@@ -235,8 +234,8 @@ body.is-chapter-page .header-doc-row {
   white-space: nowrap;
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  line-height: 1.3;
+  gap: 0.28rem;
+  line-height: 1.25;
 }
 
 .header-nav-btn:hover {
@@ -247,28 +246,23 @@ body.is-chapter-page .header-doc-row {
 }
 
 .header-tracks-nav {
-  display: none;
+  display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.35rem;
-  font-size: 0.84rem;
+  gap: 0.3rem;
+  font-size: 0.82rem;
   flex-wrap: wrap;
-  padding-top: 0.15rem;
-  line-height: 1.3;
-  min-height: 1.5rem;
-}
-
-body.is-chapter-page .header-tracks-nav {
-  display: flex;
+  line-height: 1.2;
 }
 
 .header-track-item {
   color: var(--link-color);
   text-decoration: none;
-  padding: 0.08rem 0.4rem;
+  padding: 0.04rem 0.35rem;
   border-radius: 3px;
   transition: all 0.15s ease;
   font-weight: 400;
+  line-height: 1.2;
 }
 
 .header-track-item:hover {
@@ -542,37 +536,26 @@ h2#executive-summary + p + p {
 
 @media (max-width: 640px) {
   :root {
-    --header-height: 92px;
-  }
-  body.is-chapter-page .site-header {
-    height: var(--header-height);
-    min-height: var(--header-height);
+    --header-height: 72px;
   }
   .site-header {
-    padding: 0.25rem 0.75rem;
+    padding: 0.2rem 0.6rem;
   }
   .header-super {
-    font-size: 0.85rem;
+    font-size: 0.82rem;
   }
   .site-title {
-    font-size: 0.85rem;
+    font-size: 0.82rem;
   }
   .site-subtitle {
-    font-size: 0.85rem;
+    font-size: 0.82rem;
   }
   .header-doc-row {
     grid-template-columns: auto 1fr auto;
-    gap: 0.35rem;
+    gap: 0.25rem;
   }
   .header-doc-title {
-    font-size: 0.95rem;
-  }
-  .header-nav-btn {
-    font-size: 0.8rem;
-    padding: 0.15rem 0.4rem;
-  }
-  .header-nav-btn .nav-label {
-    display: none;
+    font-size: 0.92rem;
   }
   .header-tracks-nav {
     font-size: 0.78rem;
@@ -580,6 +563,13 @@ h2#executive-summary + p + p {
   }
   .header-track-item {
     padding: 0.05rem 0.25rem;
+  }
+  .header-nav-btn {
+    font-size: 0.78rem;
+    padding: 0.12rem 0.35rem;
+  }
+  .header-nav-btn .nav-label {
+    display: none;
   }
   h1, h2, h3, h4, h5, h6,
   [id] {
