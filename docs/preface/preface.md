@@ -1,4 +1,4 @@
-> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md)
+> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Caput I →](../caput-1/caput-1.md)
 
 ---
 

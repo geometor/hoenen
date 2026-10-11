@@ -83,13 +83,20 @@ def extract_core_links(line):
     return ' | '.join(core_parts)
 
 def update_all():
-    all_paths = set()
-    for items in TRACKS.values():
-        for label, path in items:
-            all_paths.add(path)
+    file_meta = {}
+    for tname, items in TRACKS.items():
+        for i, (label, path) in enumerate(items):
+            prev_item = items[i-1] if i > 0 else None
+            next_item = items[i+1] if i < len(items) - 1 else None
+            file_meta[path] = {
+                'track': tname,
+                'label': label,
+                'prev': prev_item,
+                'next': next_item
+            }
 
     updated_files = 0
-    for filepath in sorted(all_paths):
+    for filepath, meta in file_meta.items():
         if not os.path.exists(filepath):
             print(f"Warning: file not found: {filepath}")
             continue
@@ -100,6 +107,17 @@ def update_all():
         if not lines:
             continue
 
+        file_dir = os.path.dirname(filepath)
+        prev_link = ""
+        if meta['prev']:
+            rel_prev = os.path.relpath(meta['prev'][1], file_dir)
+            prev_link = f"[← {meta['prev'][0]}]({rel_prev})"
+
+        next_link = ""
+        if meta['next']:
+            rel_next = os.path.relpath(meta['next'][1], file_dir)
+            next_link = f"[{meta['next'][0]} →]({rel_next})"
+
         # Look for the top menu bar (typically line 0)
         top_bar_idx = None
         for i, l in enumerate(lines[:5]):
@@ -109,11 +127,16 @@ def update_all():
 
         if top_bar_idx is not None:
             core = extract_core_links(lines[top_bar_idx])
-            lines[top_bar_idx] = f"> {core}\n"
+            parts = []
+            if prev_link:
+                parts.append(prev_link)
+            parts.append(core)
+            if next_link:
+                parts.append(next_link)
+            lines[top_bar_idx] = '> ' + ' | '.join(parts) + '\n'
 
         # Check for bottom menu bar (a '> ' line after top_bar_idx)
         # and strip it along with any preceding '---'
-        # First, strip trailing whitespace lines
         while lines and not lines[-1].strip():
             lines.pop()
 
@@ -134,9 +157,9 @@ def update_all():
             f.writelines(lines)
 
         updated_files += 1
-        print(f"Verified/updated navigation in {filepath}")
+        print(f"Updated navigation in {filepath}")
 
-    print(f"\nSuccessfully verified/updated navigation in {updated_files} files.")
+    print(f"\nSuccessfully updated navigation in {updated_files} files.")
 
 if __name__ == '__main__':
     update_all()

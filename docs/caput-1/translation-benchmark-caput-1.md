@@ -1,4 +1,4 @@
-> [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md)
+> [← Praefatio Notes](../preface/translation-benchmark-preface.md) | [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md) | [Caput II Notes →](../caput-2/translation-notes-caput-2.md)
 
 ---
 

@@ -1,4 +1,4 @@
-> Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md)
+> [← Caput IV](../caput-4/caput-4.md) | Latin | [English](caput-5-en.md) | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Caput VI →](../caput-6/caput-6.md)
 
 ---
 

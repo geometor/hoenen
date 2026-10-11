@@ -1,4 +1,4 @@
-> Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md)
+> [← Caput VII](../caput-7/caput-7.md) | Latin | [English](appendix-en.md) | [Summary](appendix-summary.md) | [Notes](translation-notes-appendix.md) | [Index Analyticus →](../end-index/end_index.md)
 
 ---
 

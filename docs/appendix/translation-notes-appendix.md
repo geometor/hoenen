@@ -1,4 +1,4 @@
-> [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes
+> [← Caput VII Notes](../caput-7/translation-notes-caput-7.md) | [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes
 
 ---
 
