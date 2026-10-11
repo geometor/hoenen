@@ -77,10 +77,9 @@
         <div class="header-nav-prev" id="header-prev">
           {% if current_chapter_idx and current_chapter_idx > 0 %}
             {% assign prev_ch = nil %}
-            {% for ch in site.data.navigation.chapters limit: current_chapter_idx reversed %}
+            {% for ch in site.data.navigation.chapters limit: current_chapter_idx %}
               {% if ch.tracks[current_track_key] %}
                 {% assign prev_ch = ch %}
-                {% break %}
               {% endif %}
             {% endfor %}
             {% if prev_ch %}
