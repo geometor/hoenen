@@ -1,7 +1,3 @@
-> [← Appendix](../appendix/appendix.md) | Latin | [English](end_index-en.md)
-
----
-
 # INDEX ANALYTICUS
 
 *Praefatio* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5

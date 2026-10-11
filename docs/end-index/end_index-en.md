@@ -1,7 +1,3 @@
-> [← Appendix](../appendix/appendix-en.md) | [Latin](end_index.md) | English
-
----
-
 # ANALYTICAL INDEX (TABLE OF CONTENTS)
 
 *(Index Analyticus, pp. 289–293)*

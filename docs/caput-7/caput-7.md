@@ -1,7 +1,3 @@
-> [← Caput VI](../caput-6/caput-6.md) | Latin | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | [Notes](translation-notes-caput-7.md) | [Appendix →](../appendix/appendix.md)
-
----
-
 # CAPUT VII
 
 ## DE EXTENSIONE

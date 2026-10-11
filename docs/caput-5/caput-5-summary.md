@@ -1,7 +1,3 @@
-> [← Caput IV Summary](../caput-4/caput-4-summary.md) | [Latin](caput-5.md) | [English](caput-5-en.md) | Summary | [Notes](translation-notes-caput-5.md) | [Caput VI Summary →](../caput-6/caput-6-summary.md)
-
----
-
 # AI SUMMARY & ANALYSIS
 # Chapter 5: On Axiomatics
 

@@ -1,7 +1,3 @@
-> [← Caput V Notes](../caput-5/translation-notes-caput-5.md) | [Latin](caput-6.md) | [English](caput-6-en.md) | [Summary](caput-6-summary.md) | Notes | [Caput VII Notes →](../caput-7/translation-notes-caput-7.md)
-
----
-
 # TRANSLATION NOTES
 # Chapter 6: On the Fundamental Subject of Geometry
 

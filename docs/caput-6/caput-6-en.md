@@ -1,7 +1,3 @@
-> [← Chapter V](../caput-5/caput-5-en.md) | [Latin](caput-6.md) | English | [Summary](caput-6-summary.md) | [Notes](translation-notes-caput-6.md) | [Chapter VII →](../caput-7/caput-7-en.md)
-
----
-
 # CHAPTER VI
 
 ## ON THE FUNDAMENTAL SUBJECT OF GEOMETRY

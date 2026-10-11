@@ -1,7 +1,3 @@
-> [Latin](preface.md) | [English](preface-en.md) | Notes | [Model 3.1](preface-en-3.1.md) | [Caput I Notes →](../caput-1/translation-benchmark-caput-1.md)
-
----
-
 # TRANSLATION NOTES
 # Preface
 
@@ -17,6 +13,9 @@ The translation of Father Petrus Hoenen's *Praefatio* establishes the technical 
 ---
 
 ## 2. Side-by-Side Comparative Analysis
+
+> [!NOTE]
+> For reference and comparative benchmarking, the earlier unedited raw translation is preserved at [Model 3.1 Translation (`preface-en-3.1.md`)](preface-en-3.1.md).
 
 | Latin Source (Hoenen, 1954) | Model 3.1 Translation | Benchmark Translation | Analytical Note |
 | :--- | :--- | :--- | :--- |

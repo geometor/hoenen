@@ -1,7 +1,3 @@
-> [← Praefatio](../preface/preface.md) | Latin | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Caput II →](../caput-2/caput-2.md)
-
----
-
 # CAPUT I
 
 ## DE ORIGINE COGNITIONIS GEOMETRICAE

@@ -1,7 +1,3 @@
-> [← Chapter III](../caput-3/caput-3-en.md) | [Latin](caput-4.md) | English | [Summary](caput-4-summary.md) | [Notes](translation-notes-caput-4.md) | [Chapter V →](../caput-5/caput-5-en.md)
-
----
-
 # CHAPTER IV
 
 ## ON THE PROBLEM OF EXACTITUDE

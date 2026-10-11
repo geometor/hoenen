@@ -31,10 +31,10 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](about/pontifical-gregorian-university.md)
 ## Conspectus Totius Operis (Table of Contents)
 
 ### Praefatio *(Preface)*
-* [Latin](preface/preface.md) | [English](preface/preface-en.md) | [Notes](preface/translation-benchmark-preface.md) | [Model 3.1](preface/preface-en-3.1.md)
+* [Latin](preface/preface.md) | [English](preface/preface-en.md) | [Notes](preface/translation-notes-preface.md)
 
 ### Caput I: De Origine Cognitionis Geometricae et de Eius Problematica *(On the Origin of Geometric Knowledge and Its Problematics)*
-* [Latin](caput-1/caput-1.md) | [English](caput-1/caput-1-en.md) | [Summary](caput-1/caput-1-summary.md) | [Notes](caput-1/translation-benchmark-caput-1.md) | [Model 3.1](caput-1/caput-1-en-3.1.md)
+* [Latin](caput-1/caput-1.md) | [English](caput-1/caput-1-en.md) | [Summary](caput-1/caput-1-summary.md) | [Notes](caput-1/translation-notes-caput-1.md)
 
 ### Caput II: De Problemate Necessitatis *(On the Problem of Necessity)*
 * [Latin](caput-2/caput-2.md) | [English](caput-2/caput-2-en.md) | [Summary](caput-2/caput-2-summary.md) | [Notes](caput-2/translation-notes-caput-2.md)

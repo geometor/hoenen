@@ -1,7 +1,3 @@
-> [← Caput VII Notes](../caput-7/translation-notes-caput-7.md) | [Latin](appendix.md) | [English](appendix-en.md) | [Summary](appendix-summary.md) | Notes
-
----
-
 # TRANSLATION NOTES
 # Appendix: On the Necessary Connections Between Existential Acts
 

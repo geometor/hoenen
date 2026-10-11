@@ -1,7 +1,3 @@
-> [← Chapter IV](../caput-4/caput-4-en.md) | [Latin](caput-5.md) | English | [Summary](caput-5-summary.md) | [Notes](translation-notes-caput-5.md) | [Chapter VI →](../caput-6/caput-6-en.md)
-
----
-
 # CHAPTER V
 
 ## ON AXIOMATICS

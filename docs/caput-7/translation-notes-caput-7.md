@@ -1,7 +1,3 @@
-> [← Caput VI Notes](../caput-6/translation-notes-caput-6.md) | [Latin](caput-7.md) | [English](caput-7-en.md) | [Summary](caput-7-summary.md) | Notes | [Appendix Notes →](../appendix/translation-notes-appendix.md)
-
----
-
 # TRANSLATION NOTES
 # Chapter 7: On Extension as Intelligible Matter
 

@@ -1,7 +1,3 @@
-> [← Caput II Notes](../caput-2/translation-notes-caput-2.md) | [Latin](caput-3.md) | [English](caput-3-en.md) | [Summary](caput-3-summary.md) | Notes | [Caput IV Notes →](../caput-4/translation-notes-caput-4.md)
-
----
-
 # TRANSLATION NOTES
 # Chapter 3: On the Problem of Exactitude (Part I: On the Existence of Indivisibles)
 

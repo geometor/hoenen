@@ -1,7 +1,3 @@
-> [← Caput VI Summary](../caput-6/caput-6-summary.md) | [Latin](caput-7.md) | [English](caput-7-en.md) | Summary | [Notes](translation-notes-caput-7.md) | [Appendix Summary →](../appendix/appendix-summary.md)
-
----
-
 # AI SUMMARY & ANALYSIS
 # Chapter 7: On Extension as Intelligible Matter
 

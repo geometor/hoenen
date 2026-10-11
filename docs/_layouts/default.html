@@ -40,13 +40,22 @@
 <body>
   <header class="site-header">
     <div class="site-header-inner">
-      <div class="header-nav-prev" id="header-prev"></div>
-      <div class="header-title-box">
+      <!-- Level 1: Site Title & Author -->
+      <div class="header-super">
         <a href="{{ '/' | relative_url }}" class="site-title">DE NOETICA GEOMETRIAE</a>
         <span class="site-sep">·</span>
         <span class="site-subtitle">Petrus Hoenen, S. J.</span>
       </div>
-      <div class="header-nav-next" id="header-next"></div>
+
+      <!-- Level 2: Document Navigation Row (Prev | Title | Next) -->
+      <div class="header-doc-row" id="header-doc-row" style="display: none;">
+        <div class="header-nav-prev" id="header-prev"></div>
+        <div class="header-doc-title" id="header-doc-title"></div>
+        <div class="header-nav-next" id="header-next"></div>
+      </div>
+
+      <!-- Level 3: Document Tracks Submenu (Latin | English | Summary | Notes) -->
+      <nav class="header-tracks-nav" id="header-tracks" style="display: none;"></nav>
     </div>
   </header>
 
@@ -75,7 +84,15 @@
     </div>
   </footer>
 
-  <!-- Chapter TOC & Navigation Sync -->
+  <!-- Centralized Navigation Data -->
+  <script id="nav-data" type="application/json">
+    {{ site.data.navigation | jsonify }}
+  </script>
+  <script>
+    window.HOENEN_BASE_URL = "{{ '/' | relative_url }}".replace(/\/+$/, '');
+  </script>
+
+  <!-- Chapter Navigation & TOC Sync -->
   <script src="{{ '/assets/js/chapter-nav.js' | relative_url }}"></script>
 
   <!-- Mermaid Diagram Rendering -->

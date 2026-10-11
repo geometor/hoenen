@@ -15,158 +15,176 @@
     if (!article) return;
 
     // ------------------------------------------------------------------------
-    // 1. Process Menu Bars & Sync Prev / Next buttons to Site Header
+    // 1. Build Header Navigation from Centralized JSON Data
     // ------------------------------------------------------------------------
+    const siteHeader = document.querySelector('.site-header');
+    const headerDocRow = document.getElementById('header-doc-row');
+    const headerDocTitle = document.getElementById('header-doc-title');
     const headerPrev = document.getElementById('header-prev');
     const headerNext = document.getElementById('header-next');
-    const siteHeader = document.querySelector('.site-header');
+    const headerTracks = document.getElementById('header-tracks');
 
     function updateHeaderOffset() {
       if (siteHeader) {
-        if (window.innerWidth <= 640) {
-          document.documentElement.style.setProperty('--header-height', '0px');
-        } else {
-          const rect = siteHeader.getBoundingClientRect();
-          const h = Math.round(rect.height);
-          document.documentElement.style.setProperty('--header-height', h + 'px');
-        }
+        const h = Math.round(siteHeader.getBoundingClientRect().height);
+        document.documentElement.style.setProperty('--header-height', h + 'px');
       }
     }
 
-    const topBar = article.querySelector('blockquote:first-of-type');
-    if (topBar) {
-      topBar.classList.add('chapter-edition-bar');
+    // Load navigation data from embedded script or fallback to fetch
+    let navData = null;
+    const navScript = document.getElementById('nav-data');
+    if (navScript && navScript.textContent.trim()) {
+      try {
+        navData = JSON.parse(navScript.textContent);
+      } catch (e) {
+        console.warn('Could not parse embedded nav data:', e);
+      }
     }
 
-    function removeNavFromMenu(link) {
-      const td = link.closest('td');
-      if (td) {
-        td.remove();
+    function renderHeaderNav(data) {
+      if (!data || !data.chapters || !headerDocRow || !headerDocTitle) {
+        updateHeaderOffset();
         return;
       }
 
-      const parent = link.parentNode;
+      const baseUrl = window.HOENEN_BASE_URL !== undefined 
+        ? window.HOENEN_BASE_URL 
+        : (window.location.pathname.startsWith('/hoenen') ? '/hoenen' : '');
 
-      // Clean trailing separator: e.g. " | "
-      let next = link.nextSibling;
-      while (next && next.nodeType === Node.TEXT_NODE && !next.textContent.trim()) {
-        const toRemove = next;
-        next = next.nextSibling;
-        toRemove.remove();
+      let currentPath = window.location.pathname;
+      if (baseUrl && currentPath.startsWith(baseUrl)) {
+        currentPath = currentPath.slice(baseUrl.length);
       }
-      if (next && next.nodeType === Node.TEXT_NODE) {
-        next.textContent = next.textContent.replace(/^\s*\|\s*/, '');
-        if (!next.textContent.trim()) {
-          next.remove();
-        }
-      }
+      currentPath = currentPath.replace(/^\/+|\/+$/g, '').replace(/\.(html|md)$/, '');
 
-      // Clean leading separator: e.g. " | "
-      let prev = link.previousSibling;
-      while (prev && prev.nodeType === Node.TEXT_NODE && !prev.textContent.trim()) {
-        const toRemove = prev;
-        prev = prev.previousSibling;
-        toRemove.remove();
-      }
-      if (prev && prev.nodeType === Node.TEXT_NODE) {
-        prev.textContent = prev.textContent.replace(/\s*\|\s*$/, '');
-        if (!prev.textContent.trim()) {
-          prev.remove();
-        }
-      }
+      let currentChapter = null;
+      let currentIndex = -1;
+      let currentTrack = null;
 
-      link.remove();
-
-      // Clean dangling pipes or whitespace at container edges
-      if (parent) {
-        if (parent.firstChild && parent.firstChild.nodeType === Node.TEXT_NODE) {
-          parent.firstChild.textContent = parent.firstChild.textContent.replace(/^\s*\|\s*/, '');
-          if (!parent.firstChild.textContent.trim()) {
-            parent.firstChild.remove();
+      for (let i = 0; i < data.chapters.length; i++) {
+        const ch = data.chapters[i];
+        for (const [tKey, tData] of Object.entries(ch.tracks)) {
+          const p = (tData.path || '').replace(/^\/+|\/+$/g, '').replace(/\.(html|md)$/, '');
+          const s = (tData.src || '').replace(/^\/+|\/+$/g, '').replace(/\.(html|md)$/, '');
+          if (currentPath === p || currentPath === s || currentPath.endsWith(p) || currentPath.endsWith(s)) {
+            currentChapter = ch;
+            currentIndex = i;
+            currentTrack = tKey;
+            break;
           }
         }
-        if (parent.lastChild && parent.lastChild.nodeType === Node.TEXT_NODE) {
-          parent.lastChild.textContent = parent.lastChild.textContent.replace(/\s*\|\s*$/, '');
-          if (!parent.lastChild.textContent.trim()) {
-            parent.lastChild.remove();
-          }
+        if (currentChapter) break;
+      }
+
+      if (!currentChapter) {
+        // Standalone or index page: keep Level 2 & 3 hidden
+        headerDocRow.style.display = 'none';
+        if (headerTracks) headerTracks.style.display = 'none';
+        updateHeaderOffset();
+        return;
+      }
+
+      // Display Level 2 (Sequence Row) and Level 3 (Tracks Submenu)
+      headerDocRow.style.display = 'grid';
+      if (headerTracks) headerTracks.style.display = 'flex';
+
+      // 1. Current Document Title
+      const docTitle = currentTrack === 'latin' ? currentChapter.title_la : currentChapter.title;
+      headerDocTitle.textContent = docTitle;
+
+      // 2. Previous Button
+      let prevCh = null;
+      for (let i = currentIndex - 1; i >= 0; i--) {
+        if (data.chapters[i].tracks[currentTrack]) {
+          prevCh = data.chapters[i];
+          break;
         }
       }
-    }
-
-    // Remove any redundant bottom menu bar since top menu bar is sticky
-    const allBlockquotes = Array.from(article.querySelectorAll('blockquote'));
-    if (allBlockquotes.length > 1) {
-      const bottomBar = allBlockquotes[allBlockquotes.length - 1];
-      const hasNav = bottomBar.querySelector('a') && (
-        bottomBar.textContent.includes('←') ||
-        bottomBar.textContent.includes('→') ||
-        bottomBar.textContent.includes('Latin') ||
-        bottomBar.textContent.includes('English') ||
-        bottomBar.textContent.includes('Summary') ||
-        bottomBar.textContent.includes('Notes') ||
-        bottomBar.textContent.includes('Model')
-      );
-      if (hasNav) {
-        if (headerPrev && !headerPrev.hasChildNodes()) {
-          const prevLink = Array.from(bottomBar.querySelectorAll('a')).find(a => a.textContent.includes('←'));
-          if (prevLink) {
-            const clone = prevLink.cloneNode(true);
-            clone.className = 'header-nav-btn header-nav-prev-btn';
-            headerPrev.innerHTML = '';
-            headerPrev.appendChild(clone);
-          }
-        }
-        if (headerNext && !headerNext.hasChildNodes()) {
-          const nextLink = Array.from(bottomBar.querySelectorAll('a')).find(a => a.textContent.includes('→'));
-          if (nextLink) {
-            const clone = nextLink.cloneNode(true);
-            clone.className = 'header-nav-btn header-nav-next-btn';
-            headerNext.innerHTML = '';
-            headerNext.appendChild(clone);
-          }
-        }
-
-        const prevEl = bottomBar.previousElementSibling;
-        if (prevEl && prevEl.tagName === 'HR') {
-          prevEl.remove();
-        }
-        bottomBar.remove();
+      if (prevCh && prevCh.tracks[currentTrack]) {
+        const prevLabel = currentTrack === 'latin' ? prevCh.title_la : prevCh.title;
+        const prevPath = prevCh.tracks[currentTrack].path;
+        headerPrev.innerHTML = `
+          <a href="${baseUrl}/${prevPath}" class="header-nav-btn header-nav-prev-btn" title="Previous: ${prevLabel}">
+            <span class="nav-arrow">←</span>
+            <span class="nav-label">${prevLabel}</span>
+          </a>
+        `.trim();
+      } else {
+        headerPrev.innerHTML = '';
       }
-    }
 
-    if (topBar && (headerPrev || headerNext)) {
-      const links = Array.from(topBar.querySelectorAll('a'));
-      links.forEach(link => {
-        const text = link.textContent.trim();
-        if (text.includes('←')) {
-          if (headerPrev && !headerPrev.hasChildNodes()) {
-            const clone = link.cloneNode(true);
-            clone.className = 'header-nav-btn header-nav-prev-btn';
-            headerPrev.innerHTML = '';
-            headerPrev.appendChild(clone);
-          }
-          removeNavFromMenu(link);
-        } else if (text.includes('→')) {
-          if (headerNext && !headerNext.hasChildNodes()) {
-            const clone = link.cloneNode(true);
-            clone.className = 'header-nav-btn header-nav-next-btn';
-            headerNext.innerHTML = '';
-            headerNext.appendChild(clone);
-          }
-          removeNavFromMenu(link);
+      // 3. Next Button
+      let nextCh = null;
+      for (let i = currentIndex + 1; i < data.chapters.length; i++) {
+        if (data.chapters[i].tracks[currentTrack]) {
+          nextCh = data.chapters[i];
+          break;
         }
-      });
+      }
+      if (nextCh && nextCh.tracks[currentTrack]) {
+        const nextLabel = currentTrack === 'latin' ? nextCh.title_la : nextCh.title;
+        const nextPath = nextCh.tracks[currentTrack].path;
+        headerNext.innerHTML = `
+          <a href="${baseUrl}/${nextPath}" class="header-nav-btn header-nav-next-btn" title="Next: ${nextLabel}">
+            <span class="nav-label">${nextLabel}</span>
+            <span class="nav-arrow">→</span>
+          </a>
+        `.trim();
+      } else {
+        headerNext.innerHTML = '';
+      }
 
-      if (!topBar.textContent.trim()) {
+      // 4. Submenu Tracks
+      if (headerTracks) {
+        const trackOrder = data.track_order || ['latin', 'english', 'summary', 'notes'];
+        const items = [];
+        for (const tKey of trackOrder) {
+          if (currentChapter.tracks[tKey]) {
+            const tData = currentChapter.tracks[tKey];
+            if (tKey === currentTrack) {
+              items.push(`<span class="header-track-item is-active" aria-current="page">${tData.label}</span>`);
+            } else {
+              items.push(`<a href="${baseUrl}/${tData.path}" class="header-track-item">${tData.label}</a>`);
+            }
+          }
+        }
+        headerTracks.innerHTML = items.join('<span class="header-track-sep">·</span>');
+      }
+
+      // Clean any residual in-page navigation blockquotes
+      const topBar = article.querySelector('blockquote:first-of-type');
+      if (topBar && (
+        topBar.textContent.includes('Latin') ||
+        topBar.textContent.includes('English') ||
+        topBar.textContent.includes('Summary') ||
+        topBar.textContent.includes('Notes')
+      )) {
+        const nextEl = topBar.nextElementSibling;
+        if (nextEl && nextEl.tagName === 'HR') nextEl.remove();
         topBar.remove();
       }
+
+      updateHeaderOffset();
+      window.addEventListener('resize', updateHeaderOffset);
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(updateHeaderOffset);
+      }
     }
 
-    updateHeaderOffset();
-    window.addEventListener('resize', updateHeaderOffset);
-    if (document.fonts && document.fonts.ready) {
-      document.fonts.ready.then(updateHeaderOffset);
+    if (navData) {
+      renderHeaderNav(navData);
+    } else {
+      const baseUrl = window.HOENEN_BASE_URL !== undefined 
+        ? window.HOENEN_BASE_URL 
+        : (window.location.pathname.startsWith('/hoenen') ? '/hoenen' : '');
+      fetch(`${baseUrl}/assets/data/navigation.json`)
+        .then(res => res.json())
+        .then(renderHeaderNav)
+        .catch(err => {
+          console.warn('Could not fetch navigation data:', err);
+          updateHeaderOffset();
+        });
     }
 
     // ------------------------------------------------------------------------

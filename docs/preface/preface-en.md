@@ -1,7 +1,3 @@
-> [Latin](preface.md) | English | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Chapter I →](../caput-1/caput-1-en.md)
-
----
-
 # PREFACE
 
 This work deals with the "noetics of geometry," that is, that branch of philosophical noetics whose proper object is the cognitive nature of the human mind insofar as it constructs geometric science.

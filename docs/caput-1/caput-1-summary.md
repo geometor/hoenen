@@ -1,7 +1,3 @@
-> [Latin](caput-1.md) | [English](caput-1-en.md) | Summary | [Notes](translation-benchmark-caput-1.md) | [Model 3.1](caput-1-en-3.1.md) | [Caput II Summary →](../caput-2/caput-2-summary.md)
-
----
-
 # AI SUMMARY & ANALYSIS
 # Chapter 1: On the Origin of Geometric Knowledge and Its Problematics
 

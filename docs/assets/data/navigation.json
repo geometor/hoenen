@@ -1,0 +1,318 @@
+{
+  "work": {
+    "title": "DE NOETICA GEOMETRIAE",
+    "author": "Petrus Hoenen, S. J.",
+    "subtitle": "Origine Theoriae Cognitionis",
+    "year": 1954
+  },
+  "track_order": [
+    "latin",
+    "english",
+    "summary",
+    "notes"
+  ],
+  "chapters": [
+    {
+      "id": "preface",
+      "number": 0,
+      "title": "Preface",
+      "title_la": "Praefatio",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "preface/preface.html",
+          "src": "preface/preface.md",
+          "title": "Praefatio"
+        },
+        "english": {
+          "label": "English",
+          "path": "preface/preface-en.html",
+          "src": "preface/preface-en.md",
+          "title": "Preface"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "preface/translation-notes-preface.html",
+          "src": "preface/translation-notes-preface.md",
+          "title": "Praefatio Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-1",
+      "number": 1,
+      "title": "Chapter 1",
+      "title_la": "Caput I",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-1/caput-1.html",
+          "src": "caput-1/caput-1.md",
+          "title": "Caput I"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-1/caput-1-en.html",
+          "src": "caput-1/caput-1-en.md",
+          "title": "Chapter I"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-1/caput-1-summary.html",
+          "src": "caput-1/caput-1-summary.md",
+          "title": "Caput I Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-1/translation-notes-caput-1.html",
+          "src": "caput-1/translation-notes-caput-1.md",
+          "title": "Caput I Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-2",
+      "number": 2,
+      "title": "Chapter 2",
+      "title_la": "Caput II",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-2/caput-2.html",
+          "src": "caput-2/caput-2.md",
+          "title": "Caput II"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-2/caput-2-en.html",
+          "src": "caput-2/caput-2-en.md",
+          "title": "Chapter II"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-2/caput-2-summary.html",
+          "src": "caput-2/caput-2-summary.md",
+          "title": "Caput II Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-2/translation-notes-caput-2.html",
+          "src": "caput-2/translation-notes-caput-2.md",
+          "title": "Caput II Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-3",
+      "number": 3,
+      "title": "Chapter 3",
+      "title_la": "Caput III",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-3/caput-3.html",
+          "src": "caput-3/caput-3.md",
+          "title": "Caput III"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-3/caput-3-en.html",
+          "src": "caput-3/caput-3-en.md",
+          "title": "Chapter III"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-3/caput-3-summary.html",
+          "src": "caput-3/caput-3-summary.md",
+          "title": "Caput III Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-3/translation-notes-caput-3.html",
+          "src": "caput-3/translation-notes-caput-3.md",
+          "title": "Caput III Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-4",
+      "number": 4,
+      "title": "Chapter 4",
+      "title_la": "Caput IV",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-4/caput-4.html",
+          "src": "caput-4/caput-4.md",
+          "title": "Caput IV"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-4/caput-4-en.html",
+          "src": "caput-4/caput-4-en.md",
+          "title": "Chapter IV"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-4/caput-4-summary.html",
+          "src": "caput-4/caput-4-summary.md",
+          "title": "Caput IV Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-4/translation-notes-caput-4.html",
+          "src": "caput-4/translation-notes-caput-4.md",
+          "title": "Caput IV Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-5",
+      "number": 5,
+      "title": "Chapter 5",
+      "title_la": "Caput V",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-5/caput-5.html",
+          "src": "caput-5/caput-5.md",
+          "title": "Caput V"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-5/caput-5-en.html",
+          "src": "caput-5/caput-5-en.md",
+          "title": "Chapter V"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-5/caput-5-summary.html",
+          "src": "caput-5/caput-5-summary.md",
+          "title": "Caput V Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-5/translation-notes-caput-5.html",
+          "src": "caput-5/translation-notes-caput-5.md",
+          "title": "Caput V Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-6",
+      "number": 6,
+      "title": "Chapter 6",
+      "title_la": "Caput VI",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-6/caput-6.html",
+          "src": "caput-6/caput-6.md",
+          "title": "Caput VI"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-6/caput-6-en.html",
+          "src": "caput-6/caput-6-en.md",
+          "title": "Chapter VI"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-6/caput-6-summary.html",
+          "src": "caput-6/caput-6-summary.md",
+          "title": "Caput VI Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-6/translation-notes-caput-6.html",
+          "src": "caput-6/translation-notes-caput-6.md",
+          "title": "Caput VI Notes"
+        }
+      }
+    },
+    {
+      "id": "caput-7",
+      "number": 7,
+      "title": "Chapter 7",
+      "title_la": "Caput VII",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "caput-7/caput-7.html",
+          "src": "caput-7/caput-7.md",
+          "title": "Caput VII"
+        },
+        "english": {
+          "label": "English",
+          "path": "caput-7/caput-7-en.html",
+          "src": "caput-7/caput-7-en.md",
+          "title": "Chapter VII"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "caput-7/caput-7-summary.html",
+          "src": "caput-7/caput-7-summary.md",
+          "title": "Caput VII Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "caput-7/translation-notes-caput-7.html",
+          "src": "caput-7/translation-notes-caput-7.md",
+          "title": "Caput VII Notes"
+        }
+      }
+    },
+    {
+      "id": "appendix",
+      "number": 8,
+      "title": "Appendix",
+      "title_la": "Appendix",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "appendix/appendix.html",
+          "src": "appendix/appendix.md",
+          "title": "Appendix"
+        },
+        "english": {
+          "label": "English",
+          "path": "appendix/appendix-en.html",
+          "src": "appendix/appendix-en.md",
+          "title": "Appendix"
+        },
+        "summary": {
+          "label": "Summary",
+          "path": "appendix/appendix-summary.html",
+          "src": "appendix/appendix-summary.md",
+          "title": "Appendix Summary"
+        },
+        "notes": {
+          "label": "Notes",
+          "path": "appendix/translation-notes-appendix.html",
+          "src": "appendix/translation-notes-appendix.md",
+          "title": "Appendix Notes"
+        }
+      }
+    },
+    {
+      "id": "end-index",
+      "number": 9,
+      "title": "Analytical Index",
+      "title_la": "Index Analyticus",
+      "tracks": {
+        "latin": {
+          "label": "Latin",
+          "path": "end-index/end_index.html",
+          "src": "end-index/end_index.md",
+          "title": "Index Analyticus"
+        },
+        "english": {
+          "label": "English",
+          "path": "end-index/end_index-en.html",
+          "src": "end-index/end_index-en.md",
+          "title": "Analytical Index"
+        }
+      }
+    }
+  ]
+}

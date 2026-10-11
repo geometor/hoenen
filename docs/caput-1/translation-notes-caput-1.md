@@ -1,7 +1,3 @@
-> [← Praefatio Notes](../preface/translation-benchmark-preface.md) | [Latin](caput-1.md) | [English](caput-1-en.md) | [Summary](caput-1-summary.md) | Notes | [Model 3.1](caput-1-en-3.1.md) | [Caput II Notes →](../caput-2/translation-notes-caput-2.md)
-
----
-
 # TRANSLATION NOTES
 # Chapter 1: On the Origin of Geometric Knowledge and Its Problematics
 
@@ -17,6 +13,9 @@ The translation of Chapter 1 addresses several critical philological and interpr
 ---
 
 ## 2. Critical Defect Remediations
+
+> [!NOTE]
+> For reference and comparative benchmarking, the earlier unedited raw translation is preserved at [Model 3.1 Translation (`caput-1-en-3.1.md`)](caput-1-en-3.1.md).
 
 ### 2.1. The "Aristotle Bekker Citation" Hallucination
 In § 2 (p. 11 of the 1954 edition), Hoenen cites Aristotle’s *Posterior Analytics* and *De Anima*. The physical text contained citations with numbers such as Book I, chapter 12, Bekker line 77b30:

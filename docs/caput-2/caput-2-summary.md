@@ -1,7 +1,3 @@
-> [← Caput I Summary](../caput-1/caput-1-summary.md) | [Latin](caput-2.md) | [English](caput-2-en.md) | Summary | [Notes](translation-notes-caput-2.md) | [Caput III Summary →](../caput-3/caput-3-summary.md)
-
----
-
 # AI SUMMARY & ANALYSIS
 # Chapter 2: On the Problem of Necessity
 

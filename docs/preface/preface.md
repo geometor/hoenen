@@ -1,7 +1,3 @@
-> Latin | [English](preface-en.md) | [Notes](translation-benchmark-preface.md) | [Model 3.1](preface-en-3.1.md) | [Caput I →](../caput-1/caput-1.md)
-
----
-
 # PRAEFATIO
 
 Hoc opus agit de « noetica geometriae », i. e. de ea scientiae philosophicae noeticae parte, cuius obiectum est natura cognoscitiva mentis humanae in quantum haec scientiam geometricam construit.
