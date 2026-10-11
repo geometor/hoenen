@@ -149,7 +149,7 @@ body {
   background-color: var(--bg-color-alpha);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  padding: 0.65rem 1.5rem;
+  padding: 0.35rem 1.25rem;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
 }
 
@@ -238,7 +238,8 @@ body {
 /* --------------------------------------------------------------------------
    Headings Typography
    -------------------------------------------------------------------------- */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+[id] {
   color: var(--text-color);
   font-family: var(--font-serif);
   font-weight: 600;
@@ -246,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 2rem;
   margin-bottom: 0.75rem;
   text-indent: 0 !important;
-  scroll-margin-top: 6.5rem;
+  scroll-margin-top: 6rem;
 }
 
 h1 {
@@ -367,47 +368,92 @@ a:hover {
 /* --------------------------------------------------------------------------
    Navigation Toolbar (Markdown blockquotes at top/bottom of chapters)
    -------------------------------------------------------------------------- */
+article > blockquote:first-of-type,
 article > blockquote:first-child {
   position: sticky;
-  top: 48px;
+  top: 38px;
   z-index: 100;
   background-color: var(--surface-color-alpha);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border: 1px solid var(--border-color);
-  border-left: 3px solid var(--link-color);
-  border-radius: 4px;
-  padding: 0.65rem 1rem;
-  margin: 1.5rem 0 2rem;
+  border-radius: 6px;
+  padding: 0.2rem 0.65rem;
+  margin: 0.5rem auto 1.25rem;
+  width: fit-content;
+  max-width: 100%;
   font-style: normal;
-  font-size: 0.95rem;
+  font-size: 0.84rem;
   color: var(--text-muted);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 
 article > blockquote:last-child,
 article > blockquote:last-of-type {
   background-color: var(--surface-color);
   border: 1px solid var(--border-color);
-  border-left: 3px solid var(--link-color);
-  border-radius: 4px;
-  padding: 0.65rem 1rem;
-  margin: 2.5rem 0 1.5rem;
+  border-radius: 6px;
+  padding: 0.35rem 0.75rem;
+  margin: 2rem auto 1.5rem;
+  width: fit-content;
+  max-width: 100%;
   font-style: normal;
-  font-size: 0.95rem;
+  font-size: 0.86rem;
   color: var(--text-muted);
 }
 
+article > blockquote:first-of-type table,
+article > blockquote:first-child table,
+article > blockquote:last-child table,
+article > blockquote:last-of-type table {
+  margin: 0 auto !important;
+  width: auto !important;
+  border-collapse: collapse !important;
+  border: none !important;
+}
+
+article > blockquote:first-of-type td,
+article > blockquote:first-child td,
+article > blockquote:last-child td,
+article > blockquote:last-of-type td {
+  padding: 0.15rem 0.5rem !important;
+  border: none !important;
+  border-bottom: none !important;
+  white-space: nowrap !important;
+  text-align: center !important;
+  font-size: 0.84rem !important;
+}
+
+article > blockquote:first-of-type p,
 article > blockquote:first-child p,
 article > blockquote:last-child p,
 article > blockquote:last-of-type p {
-  margin: 0;
-  line-height: 1.5;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 0.5rem;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.4 !important;
+  text-align: center !important;
+  display: block !important;
+}
+
+article > blockquote:first-of-type a,
+article > blockquote:first-child a,
+article > blockquote:last-of-type a,
+article > blockquote:last-child a {
+  color: var(--link-color);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+article > blockquote:first-of-type a:hover,
+article > blockquote:first-child a:hover,
+article > blockquote:last-of-type a:hover,
+article > blockquote:last-child a:hover {
+  color: var(--link-hover);
+  background-color: var(--surface-color);
+  text-decoration: underline;
 }
 
 /* Executive Summary Paragraphs */
@@ -436,12 +482,14 @@ h2#executive-summary + p + p {
   .header-nav-next {
     display: none;
   }
+  article > blockquote:first-of-type,
   article > blockquote:first-child {
     top: 0;
-    font-size: 0.88rem;
-    padding: 0.5rem 0.75rem;
+    font-size: 0.82rem;
+    padding: 0.25rem 0.5rem;
   }
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6,
+  [id] {
     scroll-margin-top: 4.5rem;
   }
 }

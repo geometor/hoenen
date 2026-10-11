@@ -15,26 +15,88 @@
     if (!article) return;
 
     // ------------------------------------------------------------------------
-    // 1. Sync Prev / Next buttons to the Sticky Site Header
+    // 1. Sync Prev / Next buttons to the Sticky Site Header & remove from menu
     // ------------------------------------------------------------------------
     const topBar = article.querySelector('blockquote:first-of-type');
     const headerPrev = document.getElementById('header-prev');
     const headerNext = document.getElementById('header-next');
 
+    function removeNavFromMenu(link) {
+      const td = link.closest('td');
+      if (td) {
+        td.remove();
+        return;
+      }
+
+      const parent = link.parentNode;
+
+      // Clean trailing separator: e.g. " | "
+      let next = link.nextSibling;
+      while (next && next.nodeType === Node.TEXT_NODE && !next.textContent.trim()) {
+        const toRemove = next;
+        next = next.nextSibling;
+        toRemove.remove();
+      }
+      if (next && next.nodeType === Node.TEXT_NODE) {
+        next.textContent = next.textContent.replace(/^\s*\|\s*/, '');
+        if (!next.textContent.trim()) {
+          next.remove();
+        }
+      }
+
+      // Clean leading separator: e.g. " | "
+      let prev = link.previousSibling;
+      while (prev && prev.nodeType === Node.TEXT_NODE && !prev.textContent.trim()) {
+        const toRemove = prev;
+        prev = prev.previousSibling;
+        toRemove.remove();
+      }
+      if (prev && prev.nodeType === Node.TEXT_NODE) {
+        prev.textContent = prev.textContent.replace(/\s*\|\s*$/, '');
+        if (!prev.textContent.trim()) {
+          prev.remove();
+        }
+      }
+
+      link.remove();
+
+      // Clean dangling pipes or whitespace at container edges
+      if (parent) {
+        if (parent.firstChild && parent.firstChild.nodeType === Node.TEXT_NODE) {
+          parent.firstChild.textContent = parent.firstChild.textContent.replace(/^\s*\|\s*/, '');
+          if (!parent.firstChild.textContent.trim()) {
+            parent.firstChild.remove();
+          }
+        }
+        if (parent.lastChild && parent.lastChild.nodeType === Node.TEXT_NODE) {
+          parent.lastChild.textContent = parent.lastChild.textContent.replace(/\s*\|\s*$/, '');
+          if (!parent.lastChild.textContent.trim()) {
+            parent.lastChild.remove();
+          }
+        }
+      }
+    }
+
     if (topBar && (headerPrev || headerNext)) {
-      const links = topBar.querySelectorAll('a');
+      const links = Array.from(topBar.querySelectorAll('a'));
       links.forEach(link => {
         const text = link.textContent.trim();
-        if (text.includes('←') && headerPrev) {
-          const clone = link.cloneNode(true);
-          clone.className = 'header-nav-btn header-nav-prev-btn';
-          headerPrev.innerHTML = '';
-          headerPrev.appendChild(clone);
-        } else if (text.includes('→') && headerNext) {
-          const clone = link.cloneNode(true);
-          clone.className = 'header-nav-btn header-nav-next-btn';
-          headerNext.innerHTML = '';
-          headerNext.appendChild(clone);
+        if (text.includes('←')) {
+          if (headerPrev) {
+            const clone = link.cloneNode(true);
+            clone.className = 'header-nav-btn header-nav-prev-btn';
+            headerPrev.innerHTML = '';
+            headerPrev.appendChild(clone);
+          }
+          removeNavFromMenu(link);
+        } else if (text.includes('→')) {
+          if (headerNext) {
+            const clone = link.cloneNode(true);
+            clone.className = 'header-nav-btn header-nav-next-btn';
+            headerNext.innerHTML = '';
+            headerNext.appendChild(clone);
+          }
+          removeNavFromMenu(link);
         }
       });
     }
