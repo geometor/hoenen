@@ -43,7 +43,7 @@
   * [2. - Again on Theories of Knowledge Relative to Experience](../caput-2/caput-2-en.html#2-once-again-on-theories-of-geometric-knowledge-in-relation-to-experience) *(Iterum de theoriis cognitionis relate ad experientiam)*
   * [3. - Implicit Judgments](../caput-2/caput-2-en.html#3-implicit-judgments) *(Judicia implicita)*
   * [4. - Virtual Judgments](../caput-2/caput-2-en.html#4-virtual-judgments) *(Judicia virtualia)*
-* [**§ 4.** On the Material and Formal Nexus](../caput-2/caput-2-en.html#-4-on-the-material-and-formal-nexus) *(De nexu materiali et formali)*
+* [**§ 4.** On the Material and Formal Nexus](../caput-2/caput-2-en.html#4-on-the-material-and-formal-nexus) *(De nexu materiali et formali)*
   * [1. - On the Material and Formal Nexus Itself](../caput-2/caput-2-en.html#1-on-the-material-and-formal-nexus-itself) *(De ipso nexu materiali et formali)*
   * [2. - Physical Laws and Mathematical Principles](../caput-2/caput-2-en.html#2-physical-laws-and-mathematical-principles) *(Leges physicae et principia mathematica)*
   * [3. - On So-Called Formal Abstraction](../caput-2/caput-2-en.html#3-on-so-called-formal-abstraction) *(De abstractione formali quae dicitur)*
@@ -137,7 +137,7 @@
   * [A. On the Extension of Bodies](../caput-6/caput-6-en.html#a-on-the-extension-of-bodies) *(De extensione corporum)*
   * [B. On Space](../caput-6/caput-6-en.html#b-on-space) *(De spatio)*
   * [C. On the Relative Independence of the Notion of Extension from Experience](../caput-6/caput-6-en.html#c-on-the-relative-independence-of-the-notion-of-extension-from-experience) *(De independentia relativa notionis extensionis ab experientia)*
-* [**§ 3.** On Successive Extension](../caput-6/caput-6-en.html#-3-on-successive-extension) *(De extensione successiva)*
+* [**§ 3.** On Successive Extension](../caput-6/caput-6-en.html#3-on-successive-extension) *(De extensione successiva)*
   * [1. - On the Notion Itself and Its Proper Attributes](../caput-6/caput-6-en.html#1-on-the-notion-itself-and-its-proper-attributes) *(De ipsa notione et eius propriis)*
   * [2. - Conclusions](../caput-6/caput-6-en.html#2-conclusions) *(Conclusiones)*
     * [A. Exactitude in Chronometric Relations](../caput-6/caput-6-en.html#a-exactitude-in-chronometric-relations) *(Exactitudo in relationibus chronometricis)*

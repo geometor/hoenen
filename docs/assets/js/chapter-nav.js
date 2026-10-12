@@ -27,7 +27,22 @@
     function updateHeaderOffset() {
       if (siteHeader) {
         const h = Math.round(siteHeader.getBoundingClientRect().height);
-        document.documentElement.style.setProperty('--header-height', h + 'px');
+        if (h > 0) {
+          document.documentElement.style.setProperty('--header-height', h + 'px');
+          document.documentElement.style.setProperty('--scroll-offset', (h + 28) + 'px');
+        }
+      }
+    }
+
+    if (siteHeader) {
+      updateHeaderOffset();
+      window.addEventListener('resize', updateHeaderOffset);
+      if (window.ResizeObserver) {
+        const ro = new ResizeObserver(updateHeaderOffset);
+        ro.observe(siteHeader);
+      }
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(updateHeaderOffset);
       }
     }
 
@@ -298,6 +313,15 @@
             .toLowerCase()
             .replace(/[^\w\s-]/g, '')
             .replace(/\s+/g, '-');
+        } else {
+          // Provide alias anchor so both with and without leading hyphen (e.g. 1-foo vs -1-foo) resolve
+          const altId = heading.id.startsWith('-') ? heading.id.replace(/^-+/, '') : '-' + heading.id;
+          if (altId && altId !== '-' && !document.getElementById(altId)) {
+            const alias = document.createElement('a');
+            alias.id = altId;
+            alias.className = 'heading-anchor-alias';
+            heading.parentNode.insertBefore(alias, heading);
+          }
         }
 
         const lvl = parseInt(heading.tagName.substring(1), 10);
@@ -474,6 +498,30 @@
       } else {
         const firstSection = candidateHeadings[0];
         firstSection.parentNode.insertBefore(nav, firstSection);
+      }
+    }
+
+    // ------------------------------------------------------------------------
+    // 3. Ensure Page Load #hash Scrolling Clears Sticky Nav Header
+    // ------------------------------------------------------------------------
+    if (window.location.hash) {
+      const scrollHashTarget = () => {
+        try {
+          const raw = window.location.hash.substring(1);
+          const targetId = decodeURIComponent(raw);
+          const target = document.getElementById(targetId) ||
+                         document.getElementById(targetId.replace(/^-+/, '')) ||
+                         document.getElementById('-' + targetId) ||
+                         document.querySelector(`[name="${CSS.escape(targetId)}"]`);
+          if (target) {
+            updateHeaderOffset();
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        } catch (e) {}
+      };
+      setTimeout(scrollHashTarget, 100);
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(() => setTimeout(scrollHashTarget, 50));
       }
     }
   }

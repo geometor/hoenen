@@ -9,8 +9,10 @@
    Variables & Color Palette
    -------------------------------------------------------------------------- */
 :root {
-  --header-height: 80px;
-  --header-height-general: 42px;
+  --header-height-general: 48px;
+  --header-height-chapter: 110px;
+  --header-height: var(--header-height-chapter);
+  --scroll-offset: calc(var(--header-height) + 1.5rem);
 
   /* Warm parchment paper background */
   --bg-color: #faf7f0;
@@ -92,6 +94,7 @@ html {
   background-color: var(--bg-color);
   color: var(--text-color);
   scroll-behavior: smooth;
+  scroll-padding-top: var(--scroll-offset);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -159,6 +162,12 @@ body {
 
 body.is-general-page {
   --header-height: var(--header-height-general);
+  --scroll-offset: calc(var(--header-height) + 1.25rem);
+}
+
+body.is-chapter-page {
+  --header-height: var(--header-height-chapter);
+  --scroll-offset: calc(var(--header-height) + 1.5rem);
 }
 
 .site-header-inner {
@@ -315,8 +324,7 @@ body.is-chapter-page .header-doc-row {
 /* --------------------------------------------------------------------------
    Headings Typography
    -------------------------------------------------------------------------- */
-h1, h2, h3, h4, h5, h6,
-[id] {
+h1, h2, h3, h4, h5, h6 {
   color: var(--text-color);
   font-family: var(--font-serif);
   font-weight: 600;
@@ -324,7 +332,24 @@ h1, h2, h3, h4, h5, h6,
   margin-top: 2rem;
   margin-bottom: 0.75rem;
   text-indent: 0 !important;
-  scroll-margin-top: 6rem;
+}
+
+/* Scroll margin offset to prevent content from scrolling behind the sticky nav header */
+h1, h2, h3, h4, h5, h6,
+:target,
+.markdown-body [id],
+[id] {
+  scroll-margin-top: var(--scroll-offset);
+}
+
+.heading-anchor-alias {
+  display: block;
+  position: relative;
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  scroll-margin-top: var(--scroll-offset);
 }
 
 h1 {
@@ -815,7 +840,21 @@ h2#executive-summary + p + p {
 
 @media (max-width: 640px) {
   :root {
-    --header-height: 72px;
+    --header-height-general: 44px;
+    --header-height-chapter: 85px;
+    --header-height: var(--header-height-chapter);
+    --scroll-offset: calc(var(--header-height) + 1rem);
+  }
+  body.is-general-page {
+    --header-height: var(--header-height-general);
+    --scroll-offset: calc(var(--header-height) + 0.75rem);
+  }
+  body.is-chapter-page {
+    --header-height: var(--header-height-chapter);
+    --scroll-offset: calc(var(--header-height) + 1rem);
+  }
+  html {
+    scroll-padding-top: var(--scroll-offset);
   }
   .site-header {
     padding: 0.2rem 0.6rem;
@@ -883,8 +922,10 @@ h2#executive-summary + p + p {
     font-size: 1.3rem;
   }
   h1, h2, h3, h4, h5, h6,
+  :target,
+  .markdown-body [id],
   [id] {
-    scroll-margin-top: calc(var(--header-height, 48px) + 1rem);
+    scroll-margin-top: var(--scroll-offset);
   }
 }
 

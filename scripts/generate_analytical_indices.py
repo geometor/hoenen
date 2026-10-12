@@ -102,9 +102,7 @@ def kramdown_slug(text):
         else:
             res += '-'
     res = re.sub(r'-+', '-', res)
-    res = res.rstrip('-')
-    if not t.startswith('§') and res.startswith('-'):
-        res = res.lstrip('-')
+    res = res.strip('-')
     return res
 
 def parse_english_index_entries():
