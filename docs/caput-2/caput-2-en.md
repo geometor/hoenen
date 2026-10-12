@@ -2,7 +2,7 @@
 
 ## ON THE PROBLEM OF NECESSITY
 
-*Preliminary Remarks.*
+### Preliminary Remarks
 
 As was already stated in the first chapter, the common conviction of the human race, both learned and unlearned, up to the beginnings of modern critique was this: mathematical knowledge is drawn from the data of sensitive experience. Whence arises for the philosopher the problem of how this can be explained. For the data of our sensitive cognition carry with them of themselves no necessity, whereas mathematical knowledge claims to be necessary. Furthermore: the sensitive data that serve to constitute geometric knowledge (unlike those presupposed for elementary arithmetical cognition) lack exactitude; and yet geometry, no less than arithmetic, presents itself as exact in every respect.
 
@@ -108,6 +108,8 @@ Yet this does not seem to suffice; for it is required, and that completely neces
 #### C) Modern Logistic Deduction (Peano).
 
 We note briefly: neither will the logistic deduction of a specific proposition, such as $7 + 5 = 12$, be able to avoid such an appeal to sensitive observation and such enumeration as occurred above. If, for example, in the axiomatic system of Peano, we define "number" through "recursion" to zero by means of the "successor" relation, neither can be avoided, both for the definition of the terms 5, 7, 12, and for the deduction itself.
+
+#### Conspectus
 
 *Summary Survey.* In these diverse cases of arithmetical operations: division into equal parts, determination and enumeration of prime numbers, principles of the combinatorial art, definition and addition of natural numbers, we make this simple direct verification (*constatatio*): we cannot avoid an "appeal to sensitive data," not only to form notions, but also to understand and affirm the relations in the proposition that follows, an appeal, I say, to sensitive experience and observation. But at the same time we verify that with this experience and perception is associated an intuitive knowledge of the necessity of this relation, and therefore of the proposition that follows; this too is a simple verification of our mind.
 

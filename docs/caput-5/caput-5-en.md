@@ -368,6 +368,8 @@ In the end, however, we tend toward the understanding of the specific meaning of
 
 The human mind, therefore, in its natural mode of deducing, undoubtedly needs elements of procedure elaborated in axiomatics, but which there are pushed to an unjustified extreme.
 
+#### Note on Neo-Positivism
+
 > **Note on Neo-Positivism & Bridgman:** In modern neo-positivism, at least according to the direction followed since P. W. Bridgman, appeal to intuitive data in notions, and then in principles, is again urged; this is customarily called the "operative" or "operational" method. The problem of necessity, which is present in this method too, is tacitly considered as solved, nor undeservedly; but the problem of exactitude, even in the physical part, which in this method is of decisive moment, is not considered where it ought to be considered; in expositions concerning operations "mentally," "conceptually," "theoretically," or "in principle" possible, this problem cannot be neglected, and yet is neglected; moreover, the fundamental datum is neglected: our cognition of "intelligible matter" first attains the "passivity" of this matter, and consequently the activity of our operations (cf. below, Chapter VII, § 2). Hence great deviations of this otherwise excellent method arise. But these things do not directly pertain to our subject (cf. *Théorie du jugement*, 2nd ed., pp. 242–244).
 
 ---

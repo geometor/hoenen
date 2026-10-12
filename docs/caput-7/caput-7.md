@@ -41,7 +41,8 @@ Quae in paragrapho praecedente dicebamus, explicant in genere intelligibilitatem
 
 Utramque materiam intelligibilem (a S. Thoma vocantur « quantitas continua » et « quantitas discreta ») hic breviter recensemus.
 
-A) *De arithmeticis.* Incipimus ab arithmeticis recolentes ea quae supra in capite II exponebamus.
+#### A) De arithmeticis.
+ Incipimus ab arithmeticis recolentes ea quae supra in capite II exponebamus.
 
 *a)* In omni multitudine intelligimus, eam *dividi posse* in multitudines minores sive in unitates (« elementa » multitudinis), in quibus divisionibus elementa manent id quod sunt ; tantum eorum unio solvitur ; et hae multitudines minores sive unitates sunt ea quae necessario resultare intelliguntur. Ecce id quod primo intelligimus, exprimimus dicendo « *dividi* possunt », est passivitas huius materiae, quae est « quantitas discreta ».
 
@@ -55,7 +56,8 @@ A) *De arithmeticis.* Incipimus ab arithmeticis recolentes ea quae supra in capi
 
 *f)* Haec amplius extendi possunt. Supra (V § 4 n. 3) considerabamus operationes, quae efficiuntur in evolvendis scientiis, in arithmetica (algebra), sed etiam in logistica. Ibi specialiter duae transformationes formularum considerantur, quas vocabamus « translationem termini » et « substitutionem ». Et ibi idem redit: intelligimus primo et sponte, formulas tales transformationes pati posse, et simul intelligimus, formulas alias, specifice determinatas, necessario resultare. Et ita hic, sicut in casibus superioribus, habemus in his formulis materiam intelligibilem, cuius respectus passivus de se est intelligibilis.
 
-B) *De geometricis.* In his similia inveniemus.
+#### B) De geometricis.
+ In his similia inveniemus.
 
 Primum quod intelligimus in extensione, erat semper, tum in prima tum in subsequente analysi, id quod extensio *subire potest* et quod ex illo « pati » resultat.
 
@@ -83,7 +85,8 @@ Utique principium causalitatis ipsum intelligimus. Si aliquid mutatur (passio pe
 
 Sed in casibus nostris, in activitate quae passivitati materiae intelligibilis correspondet, quidam respectus activitatis sunt nobis per se intelligibiles. Haec breviter indicabimus.
 
-A) *In arithmeticis.* In casibus supra expositis haec statim inveniuntur : In divisione multitudinum, in earum additione et multiplicatione, in stabilienda correspondentia bi-univoca inter elementa multitudinum, in earum enumeratione, in ordinationibus diversis elementorum multitudinis et earum computatione (cfr. supra II § 1) dein in transformatione formularum (supra V § 4 n. 3), in omnibus his operationibus statim et per se intelligimus quomodo activitatem nostram operantem dirigere debeamus, sive mentaliter sive etiam actualiter, ut passivitas, potentialitas, materiae intelligibilis actuetur ; activitas, quae tali modo dirigitur, necessario ad actuationem effectus ducit. Si mentaliter tantum operamur, sufficit multitudo repraesentata in phantasmate ; si actualiter operamur, requiritur existentia actualis huius materiae ; iuxta adagium « movetur ergo existit » (cfr. *Gregor.* art. cit. et infra appendicem part. I). Et animadverte : etiam in operatione pure mentali circa multitudinem repraesentatam, haec repraesentari, sive cogitari debet ut existens.
+#### A) In arithmeticis.
+ In casibus supra expositis haec statim inveniuntur : In divisione multitudinum, in earum additione et multiplicatione, in stabilienda correspondentia bi-univoca inter elementa multitudinum, in earum enumeratione, in ordinationibus diversis elementorum multitudinis et earum computatione (cfr. supra II § 1) dein in transformatione formularum (supra V § 4 n. 3), in omnibus his operationibus statim et per se intelligimus quomodo activitatem nostram operantem dirigere debeamus, sive mentaliter sive etiam actualiter, ut passivitas, potentialitas, materiae intelligibilis actuetur ; activitas, quae tali modo dirigitur, necessario ad actuationem effectus ducit. Si mentaliter tantum operamur, sufficit multitudo repraesentata in phantasmate ; si actualiter operamur, requiritur existentia actualis huius materiae ; iuxta adagium « movetur ergo existit » (cfr. *Gregor.* art. cit. et infra appendicem part. I). Et animadverte : etiam in operatione pure mentali circa multitudinem repraesentatam, haec repraesentari, sive cogitari debet ut existens.
 
 In singulis casibus huius activitatis invenitur aliquid, quod est directe et per se intelligibile, secundum quod activitas correspondere debet effectui quem causat; sed iste effectus est effectus (forma) in materia intelligibili ; inde est quod ipsa correspondentia in activitate est intelligibilis. In puris physicis, activitas quae agit, sed non in materiam intelligibilem, debet quoque habere talem correspondentiam, ex ipso principio causalitatis, sed haec nos latet, et tantum post inquisitionem forte diuturnam nobis innotescit. In nostris igitur casibus activitas statim intelligitur, quia agitur de materia intelligibili. Circa hanc quoque materiam dari possunt activitates, quae quoad partem sunt contingentes, vel quarum necessitas nos latet. Fac me ex urna continente globulos (sicut in calculo probabilitatis considerari solent) haurire manum plenam globulis ; eos computans invenio me hausisse duodecim; repetendo experimentum, tantum undecim habeo. Si, calculando summam numerorum 7 et 5 una vice invenio 12 et dein 11, saltem in uno ex his calculis erravi ; scio me versari in materia necessaria et activitate necessaria de se. In primo casu exitus sine errore in experimento repetito potest esse diversus ; nam ibi adest elementum contingens in activitate, qua arripio manu globulos ; et est « capacitas » manus quae arripit ; haec facile variari potest, et id novimus. Non omnis operatio circa materiam necessariam est necessaria. (Utique si in experimento repetito omnia in utroque experimento in activitate sunt eadem, et id possibile est, idem erit effectus resultans).
 
@@ -91,7 +94,8 @@ Quod dantur operationes nostrae circa arithmetica, quae sunt necessariae et quar
 
 Habemus igitur activitates de se infallibiles, quae si actuantur, non mentaliter tantum sed etiam actualiter, supponunt materiam intelligibilem correspondentem, quae actu existit ; inde, facientes cognoscunt (cfr. *Th. du Jug.* ch. X § 5).
 
-B) *In geometricis.* In nostra activitate circa arithmetica inveniuntur igitur elementa, quae de se necessario ducunt ad effectum determinatum, quae est igitur intelligibilis pro mente nostra. Nec tantum intelliguntur illae activitates ut necessariae, de se non contingentes, sed insuper intelliguntur ducere ad resultata exacte determinata ; etiam sub hoc respectu sunt intelligibiles.
+#### B) In geometricis.
+ In nostra activitate circa arithmetica inveniuntur igitur elementa, quae de se necessario ducunt ad effectum determinatum, quae est igitur intelligibilis pro mente nostra. Nec tantum intelliguntur illae activitates ut necessariae, de se non contingentes, sed insuper intelliguntur ducere ad resultata exacte determinata ; etiam sub hoc respectu sunt intelligibiles.
 
 In geometricis etiam necessitatem, nobis cognitam, invenimus in materia intelligibili quae est extensio (supra II § 2). In eadem materia detegimus quoque existentiam figurarum exactarum, quae in ea construi possunt, quamquam, in oppositione ad arithmetica, sensus exactitudinem attingere non possunt (supra III et IV).
 
