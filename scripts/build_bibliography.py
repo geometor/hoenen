@@ -7,21 +7,23 @@ def slugify(text):
 import json
 import re
 
-# Load footnote data
-with open('/tmp/hoenen_footnotes.json', 'r', encoding='utf-8') as f:
-    dataset = json.load(f)
-
+# Load footnote data (if present)
 fn_lookup = {}
-for ch in dataset:
-    for fn in ch['footnotes']:
-        fn_lookup[(ch['slug'], fn['num'])] = {
-            'chapter': ch['name'],
-            'pages': ch['pages'],
-            'lat_rel': ch['lat_rel'],
-            'en_rel': ch['en_rel'],
-            'latin': fn['latin'],
-            'english': fn['english']
-        }
+try:
+    with open('/tmp/hoenen_footnotes.json', 'r', encoding='utf-8') as f:
+        dataset = json.load(f)
+    for ch in dataset:
+        for fn in ch['footnotes']:
+            fn_lookup[(ch['slug'], fn['num'])] = {
+                'chapter': ch['name'],
+                'pages': ch['pages'],
+                'lat_rel': ch['lat_rel'],
+                'en_rel': ch['en_rel'],
+                'latin': fn['latin'],
+                'english': fn['english']
+            }
+except FileNotFoundError:
+    pass
 
 authors = []
 
@@ -2122,7 +2124,7 @@ title: "Bibliography & Cited References (Bibliographia et Fontes)"
 description: "Comprehensive critical bibliography and apparatus of cited sources for Petrus Hoenen's De Noetica Geometriae (1954), organized chronologically by death date with an alphabetical index."
 ---
 
-> [Conspectus Totius Operis](index.md) | [Agent Chronicle](agent-chronicle.md) | [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.md)
+> [Conspectus Totius Operis](index.html) | [Agent Chronicle](agent-chronicle.html) | [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.html)
 
 ---
 
@@ -2181,7 +2183,10 @@ for auth in chrono_sorted:
         if work.get('notes'):
             sec += f"  *Notes*: {work['notes']}\n"
         for cit in work['citations']:
-            sec += f"  * **Citation**: [{cit['ref']}]({cit['loc_link']})\n"
+            c_ref = re.sub(r'\[\^(\d+)\]', r'n. \1', cit['ref'])
+            c_link = re.sub(r'\.md(#|\))', r'.html\1', cit['loc_link'])
+            c_link = re.sub(r'#fn-(\d+)', r'#fn:\1', c_link)
+            sec += f"  * **Citation**: [{c_ref}]({c_link})\n"
             sec += f"    * *What Hoenen refers to*: {cit['refers_to']}\n"
             sec += f"    * *How it supports the text*: {cit['supports_text']}\n"
         sec += "\n"
@@ -2203,7 +2208,7 @@ footer = """
 
 ---
 
-> [Conspectus Totius Operis](index.md) | [Agent Chronicle](agent-chronicle.md) | [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.md)
+> [Conspectus Totius Operis](index.html) | [Agent Chronicle](agent-chronicle.html) | [Historical Context: Fr. Peter Hoenen, S.J.](about/peter-hoenen.html)
 """
 
 final_content = header + alpha_toc_str + "".join(chrono_sections) + footer

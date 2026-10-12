@@ -24,14 +24,14 @@ flowchart LR
     A --> I["§ 7. Epistemology: Russell on Euclid I.1 & Intellectus vs. Scientia"]
 ```
 
-### [Preliminary Remarks (*Animadversiones praeviae*)](caput-4.md#de-problemate-exactitudinis)
+### [Preliminary Remarks (*Animadversiones praeviae*)](caput-4.html#de-problemate-exactitudinis)
 - **Recapitulation of the Problem:** Sensitive experience perceives only three-dimensional bodies with fuzzy boundaries. It cannot distinguish a slightly curved line from a straight one, or verify exact congruence.
 - **The Thomistic Criterion:** All human cognition arises from sense (*omnis nostra cognitio originaliter consistit in notitia primorum principiorum... quae ex sensu oritur*, St. Thomas, *De Veritate*, q. 10, a. 6). Every judgment must be resolved back to sense (*resolvere ad sensum quodammodo*, q. 12, a. 3).
 - **Virtual Judgments (*Iudicia Virtualia*):** In constructing geometry, the intellect performs spontaneous intuitive-abstractive operations that grasp necessary connections without explicitly formulating them as propositional premises. These virtual judgments guide and validate the entire construction.
 
 ---
 
-### [§ 1. On the Principle of Individuation in Geometry](caput-4.md#1-de-principio-individuationis-in-geometricis)
+### [§ 1. On the Principle of Individuation in Geometry](caput-4.html#1-de-principio-individuationis-in-geometricis)
 - **The Core Question:** Can multiple figures agree exactly in quantity and form, differing by number alone?
 - **Intelligible Matter (*Materia Intelligibilis*):** Extension as such, considered prior to any limiting figure, is completely uniform and homogeneous. It serves as intelligible matter for geometry (Aristotle, *Met.* VII, 10; St. Thomas, *In De Trin.*, q. 5, a. 3, ad 3).
 - **The Two Fold Elements of Individuation:**
@@ -41,7 +41,7 @@ flowchart LR
 
 ---
 
-### [§ 2. On Motion in Geometry](caput-4.md#2-de-motu-in-geometricis)
+### [§ 2. On Motion in Geometry](caput-4.html#2-de-motu-in-geometricis)
 - **Euclid’s Superposition (Book I, Theorem 4):** Euclid proves SAS congruence by translating triangle $ABC$ onto triangle $DEF$.
 - **Bertrand Russell’s Attack:** In *Principles of Mathematics* (1903), Russell claims motion in geometry has "no logical validity, and strikes every intelligent child as a juggle," arguing that points of space are fixed positions that cannot move.
 - **Hoenen’s Refutation of Russell:**
@@ -53,7 +53,7 @@ flowchart LR
 
 ---
 
-### [§ 3. On the Congruence of Figures](caput-4.md#3-de-congruentia-figurarum)
+### [§ 3. On the Congruence of Figures](caput-4.html#3-de-congruentia-figurarum)
 - **Refutation of Henri Poincaré’s Conventionalism:**
   - Poincaré claimed: *"If there were no rigid bodies in nature, there would be no geometry."*
   - Hoenen counters: Geometry requires only the *passive possibility* of continuous extension to receive congruent forms, not physical atomic rigidity or elasticity.
@@ -65,7 +65,7 @@ flowchart LR
 
 ---
 
-### [§ 4. On Exact Figures](caput-4.md#4-de-figuris-exactis)
+### [§ 4. On Exact Figures](caput-4.html#4-de-figuris-exactis)
 - **1. Axiomatics and David Hilbert:** Hilbert's *Grundlagen der Geometrie* claims to treat terms as uninterpreted symbols, but his introductory *Erklärungen* rely upon virtual judgments grounded in geometric intuition.
 - **2. The Primitive Notion of Direction:** "Line $a$ passes through point $P$" contains more information than "$P$ lies on $a$": it specifies the *mode of passage* (*modus transeundi*). Direction is an irreducible qualitative concept.
 - **3. The Continuum of Directions:** Around every point there exists a continuous pencil/sheaf (*fascis continuus*) of directions. In infinitesimal calculus, direction is rigorously defined as the limit of the mode of coincidence of secant points.
@@ -88,7 +88,7 @@ flowchart LR
 
 ---
 
-### [§ 5. Euclidean and Non-Euclidean Geometry](caput-4.md#5-de-geometria-euclidica-et-non-euclidica)
+### [§ 5. Euclidean and Non-Euclidean Geometry](caput-4.html#5-de-geometria-euclidica-et-non-euclidica)
 - **Rebuttal of Felix Hausdorff:** Hausdorff claimed mathematics can discard any a priori deduction of Euclidean space unexamined (*ungeprüft ad acta legen*).
 - **Three Classical Errors Hoenen Does Not Commit:**
   1. He does *not* try to prove Postulate V from the other axioms alone (Saccheri's error).
@@ -101,7 +101,7 @@ flowchart LR
 
 ---
 
-### [§ 6. Non-Euclidean Geometry and the Human Mind](caput-4.md#6-de-geometria-non-euclidica-relate-ad-cognitionem-humanae-mentis)
+### [§ 6. Non-Euclidean Geometry and the Human Mind](caput-4.html#6-de-geometria-non-euclidica-relate-ad-cognitionem-humanae-mentis)
 - **Did Humanity Err for Two Millennia?**
   - Modern critics claim non-Euclidean geometry proves human reason was deceived in holding Euclidean geometry to be necessary.
   - Hoenen refutes this: Classical geometry defined the straight line and plane by **constant direction**. For *those specific entities*, Euclidean geometry is apodictically necessary and unique.
@@ -110,7 +110,7 @@ flowchart LR
 
 ---
 
-### [§ 7. Classical Geometry and Epistemology: *Intellectus* vs. *Scientia*](caput-4.md#7-de-geometria-classica-relate-ad-philosophiam-cognitionis)
+### [§ 7. Classical Geometry and Epistemology: *Intellectus* vs. *Scientia*](caput-4.html#7-de-geometria-classica-relate-ad-philosophiam-cognitionis)
 - **Bertrand Russell on Euclid I.1:**
   - Russell attacked Euclid's first proposition (constructing an equilateral triangle) for assuming without proof that the two circles intersect.
   - Hoenen shows that direct abstraction of an exact equilateral triangle from a sensory drawing is impossible. Euclid solves this by an *indirect construction*: the intersection of continuous circumferences is an immediately evident connection of intelligible extension.

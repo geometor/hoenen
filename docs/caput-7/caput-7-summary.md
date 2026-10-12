@@ -29,7 +29,7 @@ flowchart LR
 
 ---
 
-### [§ 1. On the Construction of Geometric Figures](caput-7.md#1-de-constructione-figurarum-geometricarum)
+### [§ 1. On the Construction of Geometric Figures](caput-7.html#1-de-constructione-figurarum-geometricarum)
 
 - **1. The Hierarchy of Subjects in Demonstrative Science:**
   - In St. Thomas (*In I Anal. Post.*, lect. 2 & 15), every science has a primary "subject genus" (*genus subiectum*): in geometry, it is **magnitude / continuous extension**.
@@ -50,9 +50,9 @@ flowchart LR
 
 ---
 
-### [§ 2. On the Twofold Intelligibility of Intelligible Matter](caput-7.md#2-de-duplici-intelligibilitate-materiae-intelligibilis)
+### [§ 2. On the Twofold Intelligibility of Intelligible Matter](caput-7.html#2-de-duplici-intelligibilitate-materiae-intelligibilis)
 
-#### [1. On the Intelligibility of Passivity](caput-7.md#1-de-intelligibilitate-passivitatis-materiae-intelligibilis)
+#### [1. On the Intelligibility of Passivity](caput-7.html#1-de-intelligibilitate-passivitatis-materiae-intelligibilis)
 Intelligible matter is divided into **discrete quantity** (multitude / arithmetic) and **continuous quantity** (extension / geometry). Both possess an immediately intelligible passivity (what they can undergo):
 
 - **A) In Arithmetic (Discrete Quantity):**
@@ -68,7 +68,7 @@ Intelligible matter is divided into **discrete quantity** (multitude / arithmeti
   - *Mutual Contact:* Two extended bodies can share common boundaries (*tangi secundum limites*), generating composite systems, addition, and multiplication of magnitudes.
   - *Topography & Motion:* Local relations and local motion flow from mutual contact.
 
-#### [2. On the Intelligibility of Our Activity](caput-7.md#2-de-intelligibilitate-activitatis-nostrae)
+#### [2. On the Intelligibility of Our Activity](caput-7.html#2-de-intelligibilitate-activitatis-nostrae)
 - **The Causality Dilemma:** In physical nature, we understand the principle of causality (*omne quod movetur ab alio movetur*), but the transeunt causal influx itself is imperceptible.
 - **Why Mathematical Activity is Intelligible:**
   - Because it operates directly on intelligible matter, the correspondence between the mental or physical operation and the resulting effect is **per se intelligible**.
@@ -78,9 +78,9 @@ Intelligible matter is divided into **discrete quantity** (multitude / arithmeti
 
 ---
 
-### [§ 3. On the Origin of General Noetics](caput-7.md#3-de-origine-noeticae-generalis)
+### [§ 3. On the Origin of General Noetics](caput-7.html#3-de-origine-noeticae-generalis)
 
-#### [1. General Survey](caput-7.md#1-conspectus-generalis)
+#### [1. General Survey](caput-7.html#1-conspectus-generalis)
 - **St. Thomas's Capital Axiom (*Q.D. de Veritate*, q. 10, a. 6):**
   > *"All our cognition originally consists in the knowledge of first indemonstrable principles. The cognition of these in us arises from sense... Therefore our science arises from sense."*
 - **"To Understand is to Understand Something" (*Intelligere est intelligere aliquid*):**
@@ -90,7 +90,7 @@ Intelligible matter is divided into **discrete quantity** (multitude / arithmeti
   - *Mathematical Cases:* Affirmed **"because I understand this"** (*« quia hoc intelligo »*).
   - *Physical Cases:* Affirmed **"because I see this with my eyes"** (*« quia hoc video oculis »*).
 
-#### [2. On Mathematical Cases](caput-7.md#2-de-casibus-mathematicis)
+#### [2. On Mathematical Cases](caput-7.html#2-de-casibus-mathematicis)
 - **The Experience of Understanding:** In mathematical cases, the mind first experiences what understanding actually is.
 - **Intuitive Formal Abstraction:** The mind sees that figurability flows *uniquely and necessarily* from extension.
 - **Superiority over Sensibility:** Intellect grasps **necessity** and **exactitude** despite the fuzzy, inexact, and necessitated phantasm.
@@ -99,7 +99,7 @@ Intelligible matter is divided into **discrete quantity** (multitude / arithmeti
 - **Vindication of Aristotle:** Refutes modern critics who claimed Aristotelian abstraction cannot justify mathematical knowledge, reminding them that Aristotle called mathematical objects **τὰ ἐξ ἀφαιρέσεως** (*ta ex aphaireseōs*).
 - **Resolution to First Principles (*Resolutio ad Prima Principia*):** Requires cultivation of an intellectual *habitus*.
 
-#### [3. On Physical Cases](caput-7.md#3-de-casibus-physicis)
+#### [3. On Physical Cases](caput-7.html#3-de-casibus-physicis)
 - **Epistemological Contrast:**
   - In mathematics: from understood essence we infer *being* (*ipsum esse*).
   - In physics: from observed *being* we infer that the relation must have an intelligible cause.

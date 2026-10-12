@@ -27,7 +27,7 @@ flowchart LR
 
 ---
 
-### [§ 1. "It is moved, therefore it is" (*« Movetur ergo est »*)](appendix.md#1-movetur-ergo-est)
+### [§ 1. "It is moved, therefore it is" (*« Movetur ergo est »*)](appendix.html#1-movetur-ergo-est)
 
 - **1. Analysis of Descartes' *Cogito Ergo Sum*:**
   - In *Secundae Responsiones*, Descartes explains that the *cogito* is **not a syllogism** (it does not presuppose the major premise *"everything that thinks exists"*).
@@ -51,7 +51,7 @@ flowchart LR
 
 ---
 
-### [§ 2. "This is moved, therefore place is" (*« Hoc movetur ergo locus est »*)](appendix.md#2-hoc-movetur-ergo-locus-est)
+### [§ 2. "This is moved, therefore place is" (*« Hoc movetur ergo locus est »*)](appendix.html#2-hoc-movetur-ergo-locus-est)
 
 - **1. Aristotle's Treatise on Place (*Physica* IV, 1–8):**
   - Place (*topos*) is an accident (the inner boundary of the surrounding body).
@@ -64,7 +64,7 @@ flowchart LR
 
 ---
 
-### [§ 3. "This is moved, therefore another, moving, exists" (*« Hoc movetur, ergo aliud, movens, existit »*)](appendix.md#3-hoc-movetur-ergo-aliud-movens-existit)
+### [§ 3. "This is moved, therefore another, moving, exists" (*« Hoc movetur, ergo aliud, movens, existit »*)](appendix.html#3-hoc-movetur-ergo-aliud-movens-existit)
 
 - **1. The Principle of Causality in Motion:**
   - Pure motion considered in isolation lacks full intelligibility; it demands an external actual agent: *omne quod movetur ab alio movetur*.
@@ -78,7 +78,7 @@ flowchart LR
 
 ---
 
-### [§ 4. On Finality in Motion & Recapitulation](appendix.md#4-de-finalitate-in-motu)
+### [§ 4. On Finality in Motion & Recapitulation](appendix.html#4-de-finalitate-in-motu)
 
 - **1. Teleology in Continuous Motion:**
   - Continuous motion cannot possess unity without an end (*telos*).
@@ -96,7 +96,7 @@ flowchart LR
 
 ---
 
-### [§ 5. Certain Other Existential Relations](appendix.md#5-quaedam-aliae-relationes-existentiales)
+### [§ 5. Certain Other Existential Relations](appendix.html#5-quaedam-aliae-relationes-existentiales)
 
 - **1. The Category "Where" (*Ubi*) and Distance:**
   - "To be somewhere" (*esse alicubi*) is a predication in the line of existence.
@@ -114,7 +114,7 @@ flowchart LR
 
 ---
 
-### [§ 6. Aristotle on the Existential Act](appendix.md#6-aristoteles-de-actu-existentiali)
+### [§ 6. Aristotle on the Existential Act](appendix.html#6-aristoteles-de-actu-existentiali)
 
 - **1. Refuting the Myth of Aristotle's "Essentialism":**
   - Counters the modern claim that Aristotle and Greek commentators ignored the act of existence.
@@ -125,7 +125,7 @@ flowchart LR
 
 ---
 
-### [§ 7. On the Concept of Being Itself (*De conceptu ipsius esse*)](appendix.md#7-de-conceptu-ipsius-esse)
+### [§ 7. On the Concept of Being Itself (*De conceptu ipsius esse*)](appendix.html#7-de-conceptu-ipsius-esse)
 
 - **1. Dialogue with Étienne Gilson:**
   - Gilson (*L'être et l'essence*) argued that *esse* cannot be conceptualized without falling into essentialism.
