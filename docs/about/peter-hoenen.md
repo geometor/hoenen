@@ -1,4 +1,4 @@
-> [Bibliography & References](../bibliography.md)
+> [Bibliography & References](../bibliography.html)
 
 ---
 
@@ -24,4 +24,4 @@ Hoenen is celebrated for bridging mathematical physics, modern non-Euclidean geo
 * ***De noetica geometriae: Origine theoriae cognitionis*** (Analecta Gregoriana, Vol. LXIII, Rome, 1954).
 * A landmark series of articles in ***Gregorianum*** (1933–1953) on first principles, the Cartesian Cogito, the foundations of geometry, and existential connections.
 
-For a comprehensive critical catalogue of all treatises and papers cited in *De Noetica Geometriae*, see the **[Bibliography & Cited References](../bibliography.md)**.
+For a comprehensive critical catalogue of all treatises and papers cited in *De Noetica Geometriae*, see the **[Bibliography & Cited References](../bibliography.html)**.
