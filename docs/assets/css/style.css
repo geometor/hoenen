@@ -411,6 +411,8 @@ table p,
 .site-header p,
 .site-footer p,
 .work-toc p,
+.title-page p,
+.project-docs p,
 article p:has(> strong:first-child) {
   text-indent: 0 !important;
 }
@@ -439,6 +441,221 @@ a {
 a:hover {
   color: var(--link-hover);
   text-decoration-thickness: 1.5px;
+}
+
+/* --------------------------------------------------------------------------
+   Front Matter / Title Page (1954 Monograph Reconstruction)
+   -------------------------------------------------------------------------- */
+.title-page {
+  max-width: 44rem;
+  margin: 1.5rem auto 3.5rem;
+  text-align: center;
+}
+
+.title-series {
+  margin-bottom: 2.75rem;
+}
+
+.title-series .series-name {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  margin-bottom: 0.35rem;
+}
+
+.title-series .series-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.title-series .series-name a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.title-series .series-cura {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+  margin-bottom: 1.25rem;
+}
+
+.title-series .series-cura a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.title-series .series-cura a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.title-series .series-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-family: var(--font-display);
+  font-size: 0.84rem;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+}
+
+.title-page h1 {
+  font-family: var(--font-display);
+  font-size: 2.15rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--text-color);
+  margin-top: 2.5rem;
+  margin-bottom: 0.25rem;
+  border-bottom: none !important;
+}
+
+.title-page h1 + p {
+  text-indent: 0 !important;
+  text-align: center !important;
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.title-page h1 + p em {
+  font-family: var(--font-serif);
+  font-size: 1.12rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.35;
+}
+
+.title-page h2 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.55;
+  color: var(--text-color);
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+  border-bottom: none !important;
+}
+
+.title-page h2 + p {
+  text-indent: 0 !important;
+  text-align: center !important;
+  margin-top: 0;
+  margin-bottom: 2.75rem;
+}
+
+.title-page h2 + p em {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.35;
+}
+
+.title-author {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 2.75rem auto;
+}
+
+.title-author .author-label {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  font-style: italic;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 0.2rem;
+}
+
+.title-author .author-name {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  color: var(--text-color);
+  margin-bottom: 0.35rem;
+}
+
+.title-author .author-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.title-author .author-name a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.title-author .author-title,
+.title-author .author-inst {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.title-author .author-inst a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.title-author .author-inst a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.title-imprint {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.title-imprint .imprint-city {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  letter-spacing: 0.18em;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.title-imprint .imprint-press {
+  font-family: var(--font-display);
+  font-size: 0.84rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.title-imprint .imprint-press a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.title-imprint .imprint-press a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.title-imprint .imprint-year {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  letter-spacing: 0.16em;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
 }
 
 /* --------------------------------------------------------------------------
@@ -544,6 +761,58 @@ h2#executive-summary + p + p {
   margin: 2rem 0;
 }
 
+/* --------------------------------------------------------------------------
+   Project Documentation Section
+   -------------------------------------------------------------------------- */
+.project-docs {
+  max-width: 44rem;
+  margin: 3rem auto 4.5rem;
+  text-align: center;
+}
+
+.project-docs h2 {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: var(--text-color);
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: none !important;
+}
+
+.project-docs ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.project-docs li {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 0.98rem;
+  text-align: center;
+}
+
+.project-docs li a {
+  color: var(--link-color);
+  text-decoration: none;
+  padding: 0.15rem 0.45rem;
+  border-radius: 3px;
+  transition: all 0.15s ease;
+}
+
+.project-docs li a:hover {
+  color: var(--link-hover);
+  background-color: var(--surface-color);
+  text-decoration: none;
+}
+
 @media (max-width: 640px) {
   :root {
     --header-height: 72px;
@@ -581,6 +850,22 @@ h2#executive-summary + p + p {
   .header-nav-btn .nav-label {
     display: none;
   }
+  .title-page h1 {
+    font-size: 1.65rem;
+    letter-spacing: 0.1em;
+  }
+  .title-page h2 {
+    font-size: 1.15rem;
+    letter-spacing: 0.12em;
+  }
+  .title-series .series-name {
+    font-size: 1.2rem;
+    letter-spacing: 0.16em;
+  }
+  .title-author .author-name {
+    font-size: 1.1rem;
+    letter-spacing: 0.12em;
+  }
   .work-toc h2 {
     font-size: 1.35rem;
   }
@@ -593,6 +878,9 @@ h2#executive-summary + p + p {
   }
   .work-toc p em {
     font-size: 0.95rem;
+  }
+  .project-docs h2 {
+    font-size: 1.3rem;
   }
   h1, h2, h3, h4, h5, h6,
   [id] {

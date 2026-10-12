@@ -7,24 +7,38 @@ location: Romae
 year: 1954
 ---
 
+<div class="title-page" markdown="1">
+
+<div class="title-series">
+  <div class="series-name"><a href="about/analecta-gregorian.md">Analecta Gregoriana</a></div>
+  <div class="series-cura">Cura <a href="about/pontifical-gregorian-university.md">Pontificiae Universitatis Gregorianae</a> edita</div>
+  <div class="series-meta">
+    <span>VOL. LXIII</span>
+    <span>SERIES FACULTATIS PHILOSOPHICAE</span>
+    <span>Sectio A (n. 5)</span>
+  </div>
+</div>
+
 # DE NOETICA GEOMETRIAE
+*(The Noetics of Geometry)*
 
-## ORIGINE THEORIAE COGNITIONIS
+## ORIGINE <br> THEORIAE COGNITIONIS
+*(The Origin of the Theory of Knowledge)*
 
-**Auctore**
-**[P. HOENEN S. I.](about/peter-hoenen.md)**
-Professore Philosophiae in [Pontificia Universitate Gregoriana](about/pontifical-gregorian-university.md)
+<div class="title-author">
+  <span class="author-label">auctore</span>
+  <span class="author-name"><a href="about/peter-hoenen.md">P. HOENEN S. I.</a></span>
+  <span class="author-title">PROFESSORE PHILOSOPHIAE</span>
+  <span class="author-inst">IN <a href="about/pontifical-gregorian-university.md">PONTIFICIA UNIVERSITATE GREGORIANA</a></span>
+</div>
 
-*[Analecta Gregoriana](about/analecta-gregorian.md)*
-Cura [Pontificiae Universitatis Gregorianae](about/pontifical-gregorian-university.md) edita
+<div class="title-imprint">
+  <span class="imprint-city">ROMAE</span>
+  <span class="imprint-press">APUD AEDES <a href="about/pontifical-gregorian-university.md">UNIVERSITATIS GREGORIANAE</a></span>
+  <span class="imprint-year">1954</span>
+</div>
 
-* VOL. LXIII
-* SERIES FACULTATIS PHILOSOPHICAE
-* Sectio A (n. 5)
-
-ROMAE
-APUD AEDES [UNIVERSITATIS GREGORIANAE](about/pontifical-gregorian-university.md)
-1954
+</div>
 
 ---
 
@@ -100,6 +114,8 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](about/pontifical-gregorian-university.md)
 
 ---
 
+<div class="project-docs" markdown="1">
+
 ## Project Documentation
 
 * [Bibliography & Cited References (*Bibliographia et Fontes*)](bibliography.md)
@@ -109,3 +125,5 @@ APUD AEDES [UNIVERSITATIS GREGORIANAE](about/pontifical-gregorian-university.md)
 * [Historical Context: Analecta Gregoriana](about/analecta-gregorian.md)
 * [Historical Context: Pontifical Gregorian University](about/pontifical-gregorian-university.md)
 * [PDF Parsing & Extraction Guide](about/pdf-parsing-guide.md)
+
+</div>
