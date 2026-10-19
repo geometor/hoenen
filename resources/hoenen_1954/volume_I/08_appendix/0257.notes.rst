@@ -1,0 +1,36 @@
+Folio 0257 (Page 257) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0256.rst``): Page 256, Appendix [``08_appendix``] — Ends: ``"Prima principia quae mens humana detegit respiciunt relationes..."``
+- **Current Folio** (``0257.rst``): Page 257, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0258.rst``): Page 258, Appendix [``08_appendix``] — Begins: ``"tivus necessitatis ipsius nexus), tantum nexum materialem cogn..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 7: ``E. Meyerson, *Du cheminement de la Pensée* pag. 391 n. 232.``
+- **Glossary & Foreign Terms (``:term:``)** (4): ``abstractionem intuitivam formalem`` (``abstractio-intuitiva``), ``abstractio *formalis*`` (``abstractio-formalis``), ``abstractio *intuitiva*`` (``abstractio-intuitiva``), ``propositio per se`` (``propositio-per-se``)
+- **Bibliographic Citations (``:cite:``)** (1): ``E. Meyerson, *Du cheminement de la Pensée* pag. 391 n. 232`` (``meyerson:1931:391``)
+- **Folio Opening Line**: ``"ad axiomata geometrica. Statim apparet iam differentia inter principium..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In utroque casu nexus qui affirmatur, cognoscitur ut *necessarius*, in c..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0257.png`` -> ``archive/appendix/page-257.png``
+- **Available Scan Files in Section**: ``0257.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 6, right)`` (extracted as ``page-257.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-257.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 6, right)`` with complete margins and legible diplomatic text.

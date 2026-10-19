@@ -1,0 +1,35 @@
+Folio 0215 (Page 215) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0214.rst``): Page 214, Caput VI [``06_caput_6``] — Ends: ``"2. Extensio corporis, nobis ex datis sensuum nota, est tridime..."``
+- **Current Folio** (``0215.rst``): Page 215, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0216.rst``): Page 216, Caput VI [``06_caput_6``] — Begins: ``"Omnis quantitas — etiam quantitas virtutis — mensuratur per «..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"inspectione phantasmatis statim intelligimus : diversitatem inter direct..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"3. Est et alia differentia inter utramque extensionem unidimensionalem ;..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``directio-nem``, ``varia-bilis``, ``direc-tiones``, ``quantita-tivi``, ``di-rectionum``, ``plu-rium``, ``nos-ter``, ``dura-tionis`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0215.png`` -> ``archive/chapter-06/page-215.png``
+- **Available Scan Files in Section**: ``0215.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 12, right)`` (extracted as ``page-215.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-215.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 12, right)`` with complete margins and legible diplomatic text.

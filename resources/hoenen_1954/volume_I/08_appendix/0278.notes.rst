@@ -1,0 +1,36 @@
+Folio 0278 (Page 278) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0277.rst``): Page 277, Appendix [``08_appendix``] — Ends: ``"In *de Pot.* q. 8 a. 1, statuit distinctionem « conceptionis i..."``
+- **Current Folio** (``0278.rst``): Page 278, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0279.rst``): Page 279, Appendix [``08_appendix``] — Begins: ``"8, 1 ; 9, 5 ; *Ver.* 4, 2). Sufficiat hic unus textus (*Pot.*..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 25: ``Cfr. *Th. du J.* Ch. II.``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (6): ``a. 5`` (``aquinas:de-potentia:9.5``), ``*de Ver.* q. 4 a. 2`` (``aquinas:de-veritate:4.2``), ``Op. cit. Ch. II § 5`` (``hoenen:1953:ch2.5``), ``*Met.* I, 1`` (``aristotle:met:1.1``), ``*Pot.* 8, 1`` (``aquinas:de-potentia:8.1``), ``*Th. du J.* Ch. II`` (``hoenen:1953:ch2``)
+- **Folio Opening Line**: ``"9 a. 5, ubi, in utroque casu, hoc verbum dicitur hoc « conceptum » vel «..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Sed iuxta S. Thomam etiam cognitio eorum, quae sunt in anima (sive antec..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0278.png`` -> ``archive/appendix/page-278.png``
+- **Available Scan Files in Section**: ``0278.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 23, left)`` (extracted as ``page-278.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-278.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 23, left)`` with complete margins and legible diplomatic text.

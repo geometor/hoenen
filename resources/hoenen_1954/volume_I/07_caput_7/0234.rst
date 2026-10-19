@@ -5,7 +5,7 @@
 :section: 07_caput_7
 :title: Caput VII — p. 234
 :language: la
-:status: rescan_needed
+:status: ok
 
 intelliguntur ducere ad resultata exacte determinata ; etiam sub hoc respectu sunt intelligibiles.
 
@@ -15,6 +15,6 @@ Expectandum est, etiam in activitate nostra circa geometrica, relate ad ipsam ha
 
 Relate ad primum elementum exactitudinis nulla est difficultas. Activitas dividens corpus solidum i. e. trium dimensionum, producit tanquam limites superficies, quae sunt figurae duarum dimensionum, carentes omni profunditate ; harum divisio producit ut limitem lineam, figuram unius dimensionis, carentem omni latitudine ; et huius divisio producit ut limitem punctum omnimode indivisibile, carens dimensione. Activitas dividens producit non tantum mentaliter, sed etiam realiter talem effectum exactum (cfr. supra III § 2 n. 2 C).
 
-Sed difficultates oriuntur relate ad determinationem ulteriorem harum figurarum, relate ad productionem figurae, quae est exacte congruens figurae datae, ad productionem figurae antecedenter perfecte determinatae. Sumamus exempla simplicissima : superficiem exacte planam vel sphaericam, vel lineam rectam vel circulum perfectum. Si agitur de constructione mentali, hae difficultates nondum urgent. Nam constructio mentalis consistit in « demonstratione operativa », quae existentiam mathematicam harum figurarum demonstrat, adhibens notitiam eorum, quae materia intelligibilis pati potest et ex his manifestat structuram geometricam activitatis, quae exigitur ad perficiendas operationes, etiam si ibi motus figurarum intrat.
+Sed difficultates oriuntur relate ad determinationem ulteriorem harum figurarum, relate ad productionem figurae, quae est exacte congruens figurae datae, ad productionem figurae antecedenter perfecte determinatae. Sumamus exempla simplicissima : superficiem exacte planam vel sphaericam, vel lineam rectam vel circulum perfectum. Si agitur de constructione mentali, hae difficultates nondum urgent. Nam constructio mentalis consistit in « demonstratione operativa », quae existentiam mathematicam harum figurarum demonstrat, adhibens notitiam eorum, quae materia intelligibilis *pati* potest et ex his manifestat structuram geometricam activitatis, quae exigitur ad perficiendas operationes, etiam si ibi motus figurarum intrat.
 
 Sed si agitur de constructione reali in extensis realibus, oritur duplex difficultas. Nam ipsa activitas externa humana naturam habet, quae est partim sensitiva ; ideoque et ipsa participat defectu exactitudinis, quae in cognitione sensitiva invenitur. Dein instrumenta, quibus utitur ad perfi-

@@ -1,0 +1,36 @@
+Folio 0038 (Page 38) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0037.rst``): Page 37, Caput II [``02_caput_2``] — Ends: ``"Independenter ab omni distinctione inter iudicia « analytica »..."``
+- **Current Folio** (``0038.rst``): Page 38, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0039.rst``): Page 39, Caput II [``02_caput_2``] — Begins: ``"Utique non omnis experientia est talis naturae, ut ei intuitus..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 5: ``Operae pretium esset investigare historiam huius infelicis principii.``
+  - Footnote 6: ``De hac doctrina vide opus supra citatum La théorie du jugement d'après St. Thomas d'Aqu...``
+- **Classical Greek Philosophical Terms (1)**: ``νοῦν``
+- **Folio Opening Line**: ``"experientia, cui associata est intuitio intellectiva eorum necessitatis...."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec doctrina, clare a Caietano exposita, per certum tempus a thomistis..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0038.png`` -> ``archive/chapter-02/page-038.png``
+- **Available Scan Files in Section**: ``0038.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 7, left)`` (extracted as ``page-038.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-038.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 7, left)`` with complete margins and legible diplomatic text.

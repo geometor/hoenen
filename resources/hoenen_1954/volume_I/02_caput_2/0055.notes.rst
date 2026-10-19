@@ -1,0 +1,37 @@
+Folio 0055 (Page 55) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0054.rst``): Page 54, Caput II [``02_caput_2``] — Ends: ``"Clarum est, processum mentis nostrae alium esse. Non opus est..."``
+- **Current Folio** (``0055.rst``): Page 55, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0056.rst``): Page 56, Caput II [``02_caput_2``] — Begins: ``"cetur quam hic describitur. Si autem res ita se habet, non tan..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``4. Iudicia virtualia.``
+- **Footnotes on Folio (2)**:
+  - Footnote 14: ``Cfr. articulum supra iam citatum Le « Cogito ergo sum » comme intuition et comme mouvem...``
+  - Footnote 15: ``Haec theoria per longum et latum exponitur in singulis fere capitibus operis nostri sup...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Le « Cogito ergo sum » comme intuition et comme mouvement de la pensée*`` (``hoenen:1937:457-471``), ``*La théorie du jugement d'après St. Thomas d'Aquin*`` (``hoenen:theorie-du-jugement``)
+- **Folio Opening Line**: ``"sic habemus motum oppositum illi motui syllogistico) [^14]. Dein applica..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ita, ni fallimur, processus, qui ducit ad iudicium 7 + 5 = 12, explicand..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0055.png`` -> ``archive/chapter-02/page-055.png``
+- **Available Scan Files in Section**: ``0055.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 15, right)`` (extracted as ``page-055.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-055.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 15, right)`` with complete margins and legible diplomatic text.

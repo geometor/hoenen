@@ -1,0 +1,36 @@
+Folio 0166 (Page 166) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0165.rst``): Page 165, Caput V [``05_caput_5``] — Ends: ``"Logica docens, vel theoretica, quae inde ab hac logica natural..."``
+- **Current Folio** (``0166.rst``): Page 166, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0167.rst``): Page 167, Caput V [``05_caput_5``] — Begins: ``"tur ex activitate mentis humanae, sed non sunt psychologicae,..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 7: ``G. STAMMLER in Begriff, Urteil, Schlusz, Halle-Saale 1928, pagg. 229, 245.``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (4): ``*Théorie du Jugem.* Ch. VI § 4`` (``hoenen:theorie-du-jugement:c6:s4``), ``*Recherches de logique formelle*`` (``hoenen:1947``), ``op. cit. pag. 315`` (``hoenen:1947:p315``), ``G. STAMMLER in *Begriff, Urteil, Schlusz*, Halle-Saale 1928, pagg. 229, 245`` (``stammler:1928:p229``)
+- **Folio Opening Line**: ``"cis ; sed hi syllogismi pertinent ad logicam naturalem, quae intuitive c..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In hac « logica docente », theoretica, poterimus, etiam secundum symboli..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``con-tinere``, ``dic-tum``, ``con-cretum``, ``exa-minare``, ``ratio-cinium``, ``inspec-tione``, ``occur-rere``, ``ver-bis`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0166.png`` -> ``archive/chapter-05/page-166.png``
+- **Available Scan Files in Section**: ``0166.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 6, left)`` (extracted as ``page-166.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-166.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 6, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0077 (Page 77) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0076.rst``): Page 76, Caput III [``03_caput_3``] — Ends: ``"Existuntne indivisibilia haec in rerum natura ? Dicamus primo..."``
+- **Current Folio** (``0077.rst``): Page 77, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0078.rst``): Page 78, Caput III [``03_caput_3``] — Begins: ``"haec notio est perfecte clara ; quid sit, perfecte intelligitu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. De dimensionibus.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"- marie a quaestione utrum hae mathematice existant, utrum possibiles si..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Quid sit dimensio, definitione technica, quae constat ex genere et diffe..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``quae-stio``, ``Respon-sum``, ``cor-poris``, ``es-sent``, ``ma-thematice``, ``in-divisibilis``, ``so-lent``, ``abstractio-nem`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0077.png`` -> ``archive/chapter-03/page-077.png``
+- **Available Scan Files in Section**: ``0077.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 7, right)`` (extracted as ``page-077.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-077.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 7, right)`` with complete margins and legible diplomatic text.

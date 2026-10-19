@@ -1,0 +1,38 @@
+Folio 0137 (Page 137) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0136.rst``): Page 136, Caput IV [``04_caput_4``] — Ends: ``"Quaenam erat in decursu historiae difficultas quae contra post..."``
+- **Current Folio** (``0137.rst``): Page 137, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0138.rst``): Page 138, Caput IV [``04_caput_4``] — Begins: ``"extenso non simul verificatur positio Euclidis et positio haec..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (3)**:
+  - Footnote 22: ``Ita v. g. H. WEYL, Philosophie der Mathematik und Naturwissenschaft (1927) pag. 18 ; J....``
+  - Footnote 23: ``F. KLEIN, Elementarmathematik vom höheren Standpunkte aus (II ed. 3 1925) pagg. 189 sq.``
+  - Footnote 24: ``Cfr. eundem F. Klein (op. cit. pagg. 192-194) qui ibi iterum bene probat, hic agi de pr...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (5): ``H. WEYL, *Philosophie der Mathematik und Naturwissenschaft* (1927) pag. 18`` (``weyl:1927:p18``), ``J. HADAMARD, *Encycl. Franç* I (1937) I-52-7`` (``hadamard:1937:1-52-7``), ``H. REICHENBACH, *Philos. der Raum-Zeit-Lehre* (1928) pag. 10`` (``reichenbach:1928:p10``), ``F. KLEIN, *Elementarmathematik vom höheren Standpunkte aus* (II ed. 3 1925) pagg. 189 sq.`` (``klein:1925:II.p189``), ``op. cit. pagg. 192-194`` (``klein:1925:II.p192``)
+- **Folio Opening Line**: ``"distantia in infinitum crescere potest. Manifestum est : non potest in o..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Si hoc medium non adesset vel non inveniretur, dicendum esset : non cert..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``rec-tas``, ``angu-lorum``, ``Cete-rum``, ``positio-nem``, ``di-recte``, ``su-pra``, ``dicen-dum``, ``duo-rum`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0137.png`` -> ``archive/chapter-04/page-137.png``
+- **Available Scan Files in Section**: ``0137.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 22, right)`` (extracted as ``page-137.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-137.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 22, right)`` with complete margins and legible diplomatic text.

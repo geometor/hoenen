@@ -1,0 +1,35 @@
+Folio 0073 (Page 73) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0072.rst``): Page 72, Caput III [``03_caput_3``] — Ends: ``"Quoad notionem puncti Wellstein ita procedit. Dicit eam notion..."``
+- **Current Folio** (``0073.rst``): Page 73, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0074.rst``): Page 74, Caput III [``03_caput_3``] — Begins: ``"postulanda est ; obiecta harum notionum exactarum in ente exte..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``ibid.`` (``weber-wellstein:enzyklopaedie:II.p9``)
+- **Folio Opening Line**: ``"dendo extensum ; sed addendum est : si diminutio fit per motum continuum..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Revera, si ita tantum notiones exactae geometricae oriri possent, res de..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``ta-men``, ``er-reichen``, ``exis-tere``, ``intelligere-mus``, ``dilucida-tiones``, ``ipsis-sima``, ``intelle-ctivus``, ``super-ficiei`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0073.png`` -> ``archive/chapter-03/page-073.png``
+- **Available Scan Files in Section**: ``0073.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 5, right)`` (extracted as ``page-073.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-073.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 5, right)`` with complete margins and legible diplomatic text.

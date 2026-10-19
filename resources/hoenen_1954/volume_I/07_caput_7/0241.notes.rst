@@ -1,0 +1,34 @@
+Folio 0241 (Page 241) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0240.rst``): Page 240, Caput VII [``07_caput_7``] — Ends: ``"Ipsa scientia mathematica ex his primis principiis derivatur p..."``
+- **Current Folio** (``0241.rst``): Page 241, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0242.rst``): Page 242, Caput VII [``07_caput_7``] — Begins: ``"nostra abstractio, nam est intuitiva. Sed ex alia parte dicend..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``τὰ ἐξ ἀφαιρέσεως``
+- **Folio Opening Line**: ``"gibile est ens, quod est principium fundamentale noeticae generalis. Ins..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Addimus : saepe dicitur unum exemplum « casus mathematici » sufficere ut..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0241.png`` -> ``archive/chapter-07/page-241.png``
+- **Available Scan Files in Section**: ``0241.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 10, right)`` (extracted as ``page-241.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-241.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 10, right)`` with complete margins and legible diplomatic text.

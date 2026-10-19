@@ -1,0 +1,36 @@
+Folio 0256 (Page 256) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0255.rst``): Page 255, Appendix [``08_appendix``] — Ends: ``"« Cogitare aliquid non esse, potest intelligi dupliciter. Uno..."``
+- **Current Folio** (``0256.rst``): Page 256, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0257.rst``): Page 257, Appendix [``08_appendix``] — Begins: ``"ad axiomata geometrica. Statim apparet iam differentia inter p..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 6: ``De motu ut actu existentiali vide *Cosmologiam* nostram ed. 4 n. 161 sq. et not. XIII (...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``in actu exercito`` (``in-actu-exercito``), ``hoc movetur ergo est`` (``movetur-ergo-est``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Th. du Jug.* passim`` (``hoenen:1953``), ``*Gregorianum* XXX, 1949, pagg. 195 sq.`` (``hoenen:1949:195``), ``*Cosmologiam* nostram ed. 4 n. 161 sq. et not. XIII (pagg. 527-530)`` (``hoenen:cosmologia:161``)
+- **Folio Opening Line**: ``"modo ita quod huic apprehensioni assensus adhibeatur ; et sic nullus pot..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Prima principia quae mens humana detegit respiciunt relationes mathemati..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0256.png`` -> ``archive/appendix/page-256.png``
+- **Available Scan Files in Section**: ``0256.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 6, left)`` (extracted as ``page-256.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-256.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 6, left)`` with complete margins and legible diplomatic text.

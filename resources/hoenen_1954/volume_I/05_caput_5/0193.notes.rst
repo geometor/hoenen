@@ -1,0 +1,35 @@
+Folio 0193 (Page 193) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0192.rst``): Page 192, Caput V [``05_caput_5``] — Ends: ``"In tali separatione superba, quasi-aristocratica, geometriae a..."``
+- **Current Folio** (``0193.rst``): Page 193, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0194.rst``): Page 194, Caput V [``05_caput_5``] — Begins: ``"bere debet methodum inquirendi in hanc intellectionem ope hypo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"curare non volunt, iam habent scientiam, quae nihil reale cognoscit nisi..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Physici ergo a tali mathematico nullum auxilium expectare poterunt. Fier..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``mu-nus``, ``intelli-git``, ``sym-bolorum``, ``animad-verte``, ``expec-tare``, ``prae-scientificis``, ``di-scrimen``, ``in-tellective`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0193.png`` -> ``archive/chapter-05/page-193.png``
+- **Available Scan Files in Section**: ``0193.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 19, right)`` (extracted as ``page-193.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-193.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 19, right)`` with complete margins and legible diplomatic text.

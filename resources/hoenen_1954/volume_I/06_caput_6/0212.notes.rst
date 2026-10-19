@@ -1,0 +1,36 @@
+Folio 0212 (Page 212) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0211.rst``): Page 211, Caput VI [``06_caput_6``] — Ends: ``"Salvari non potest in quantum mensurae figurarum et distantiar..."``
+- **Current Folio** (``0212.rst``): Page 212, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0213.rst``): Page 213, Caput VI [``06_caput_6``] — Begins: ``"tates communes, et inde dantur propositiones geometricae, quae..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 3. De extensione successiva [^5].``, ``1. De ipsa notione et eius propriis.``
+- **Footnotes on Folio (1)**:
+  - Footnote 5: ``De hac materia cfr. Gregorianum, 1953, pag. 3-31 De duratione successiva et de quaestio...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Cosmologiam* ed. 4 pagg. 593 sq.`` (``hoenen:1949:cosmologia:p593``), ``*Gregorianum*, 1953, pag. 3-31 *De duratione successiva et de quaestionibus connexis*`` (``hoenen:1953:gregorianum``)
+- **Folio Opening Line**: ``"formula mathematica exacta exprimitur, nescimus utrum exacte valeat de o..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Subiectum geometriae fundamentale est extensio corporum. Praeter hanc au..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``in-digeat``, ``geome-trica``, ``in-versa``, ``ad-mittitur``, ``fun-damentali``, ``exten-sionis``, ``sensiti-vis``, ``expe-rientia`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0212.png`` -> ``archive/chapter-06/page-212.png``
+- **Available Scan Files in Section**: ``0212.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 11, left)`` (extracted as ``page-212-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-212-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0212`` (Page 212) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-6.pdf (p. 11, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

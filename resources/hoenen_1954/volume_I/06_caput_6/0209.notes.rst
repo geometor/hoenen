@@ -1,0 +1,35 @@
+Folio 0209 (Page 209) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0208.rst``): Page 208, Caput VI [``06_caput_6``] — Ends: ``"Et etiam attendendum est : Haec differentia noetica inter utru..."``
+- **Current Folio** (``0209.rst``): Page 209, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0210.rst``): Page 210, Caput VI [``06_caput_6``] — Begins: ``"sionem spectant et quae ex extensione sequuntur (dimensionum,..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"vidit, haec linea in phantasmate latitudinem habet, et quidem necessario..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Saepe in investigando problemate, quomodo et in quo gradu veritates geom..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``In-tellectus``, ``neces-sitatem``, ``exacti-tudinem``, ``intel-lectus``, ``dete-git``, ``neces-sitatem``, ``casi-bus``, ``intel-lectus`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0209.png`` -> ``archive/chapter-06/page-209.png``
+- **Available Scan Files in Section**: ``0209.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 8, right)`` (extracted as ``page-209.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-209.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 8, right)`` with complete margins and legible diplomatic text.

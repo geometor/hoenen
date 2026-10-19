@@ -1,0 +1,36 @@
+Folio 0221 (Page 221) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0220.rst``): Page 220, Caput VI [``06_caput_6``] — Ends: ``"Ceterum similis casus analogiae iam in ipsa extensione permane..."``
+- **Current Folio** (``0221.rst``): Page 221, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0222.rst``): Page 222, Caput VI [``06_caput_6``] — Begins: ``"Inde diiudicare possumus conatus (ex primo tempore theoriae re..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``C) De chronotopo.``
+- **Footnotes on Folio (1)**:
+  - Footnote 7: ``De his cfr. investigationem nostram De connexionibus necessariis inter actus existentia...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*De connexionibus necessariis inter actus existentiales* in *Gregorianum* 1953 pagg. 603-31, praesertim pagg. 635, 637`` (``hoenen:1953:gregorianum:603-631``)
+- **Folio Opening Line**: ``"pant ; sunt igitur analogi ; et singula obiecta sunt extensa, sed singul..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec quae dicuntur de ipsa extensione, valent de eius dimensionibus. Uni..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (4)**: ``exten-sionis``, ``exis-tentialis``, ``quan-titati``, ``me-thodum``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0221.png`` -> ``archive/chapter-06/page-221.png``
+- **Available Scan Files in Section**: ``0221.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 15, right)`` (extracted as ``page-221.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-221.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 15, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,36 @@
+Folio 0044 (Page 44) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0043.rst``): Page 43, Caput II [``02_caput_2``] — Ends: ``"Hisce intellectis possumus dare descriptionem, quae perfecte d..."``
+- **Current Folio** (``0044.rst``): Page 44, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0045.rst``): Page 45, Caput II [``02_caput_2``] — Begins: ``"Dein quaeritur : estne etiam inter B et C ? Post inspectam fig..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``4. De ordine inter puncta.``
+- **Footnotes on Folio (1)**:
+  - Footnote 8: ``De his cfr. nostram communicationem in congresso philosophica Amstelodamensi anni 1948,...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Pour une philosophie de la connaissance de l'étendu physique* in *Gregorianum* 1949 pagg. 193-203`` (``hoenen:1949:193-203``)
+- **Folio Opening Line**: ``"per adest haec « constatatio » huius ligaminis necessarii ; id sese mani..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sumamus exemplum in quo est sermo de iudicio quod respicit ordinem inter..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0044.png`` -> ``archive/chapter-02/page-044.png``
+- **Available Scan Files in Section**: ``0044.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 10, left)`` (extracted as ``page-044.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-044.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 10, left)`` with complete margins and legible diplomatic text.

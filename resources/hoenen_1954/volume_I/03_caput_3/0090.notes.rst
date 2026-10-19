@@ -1,0 +1,35 @@
+Folio 0090 (Page 90) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0089.rst``): Page 89, Caput III [``03_caput_3``] — Ends: ``"Talis formula indicat relationem, quae est inter coordinatas,..."``
+- **Current Folio** (``0090.rst``): Page 90, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0091.rst``): Page 91, Caput III [``03_caput_3``] — Begins: ``"». Comment l'intuition peut-elle nous tromper à ce point ? C'e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*La valeur de la science* pagg. 17 sq.`` (``poincare:valeur-science:p17``)
+- **Folio Opening Line**: ``"aequatio inveniri potest per eliminationem variabilis t ex duabus aequat..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Citons quelques exemples. Nous savons qu'il existe des fonctions continu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``ordina-tarum``, ``abscis-sarum``, ``exprima-tur``, ``se-cundum``, ``argu-mentum``, ``inde-pendentis``, ``cur-vam``, ``intui-tiva`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0090.png`` -> ``archive/chapter-03/page-090.png``
+- **Available Scan Files in Section**: ``0090.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 14, left)`` (extracted as ``page-090.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-090.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 14, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0007 (Page 7) — Transcription & Calibration Notes
+=======================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0006.rst``): Page 6, Praefatio [``00_preface``] — Ends: ``"Cosmologiam scholasticam, sine talibus indagationibus, praevii..."``
+- **Current Folio** (``0007.rst``): Page 7, Praefatio [``00_preface``] — Status: ``ok``
+- **Following Folio** (``0009.rst``): Page 9, Caput I [``01_caput_1``] — Begins: ``"Initium sumimus ab expositione valde concisa evolutionis histo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``PRAEFATIO — 7``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*De connexionibus necessariis inter actus existentiales* ex periodico *Gregorianum* 1953 pag. 603-639`` (``hoenen:1953:603-639``)
+- **Folio Opening Line**: ``"nis philosophicis hoc exercitium practicum continuum, cui mens humana in..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"P. HOENEN S. J."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (5)**: ``perio-dico``, ``geome-trica``, ``deterren-tur``, ``fruc-tus``, ``dici-tur``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0007.png`` -> ``archive/preface/page-007.png``
+- **Available Scan Files in Section**: ``0007.png``
+- **Archival Source Reference**: ``preface-3.png`` (extracted as ``page-007.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-007.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``preface-3.png`` with complete margins and legible diplomatic text.

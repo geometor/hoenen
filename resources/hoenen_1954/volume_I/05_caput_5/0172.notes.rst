@@ -1,0 +1,36 @@
+Folio 0172 (Page 172) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0171.rst``): Page 171, Caput V [``05_caput_5``] — Ends: ``"Ecce enuntiatio huius theorematis 6 : « In quovis numero dato..."``
+- **Current Folio** (``0172.rst``): Page 172, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0173.rst``): Page 173, Caput V [``05_caput_5``] — Begins: ``"illum eundem ordinem, etiam in symbolis, primarie et intuitive..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 9: ``« Sind irgendeine endliche Anzahl von Punkten einer Geraden gegeben, so lassen sich die...``
+- **Glossary & Foreign Terms (``:term:``)** (3): ``einerseits`` (``einerseits``), ``andererseits`` (``andererseits``), ``betweenness`` (``betweenness``)
+- **Bibliographic Citations (``:cite:``)** (1): ``HILBERT, *Grundlagen der Geometrie* ed. 7 (1930) pag. 8`` (``hilbert:grundlagen:p8``)
+- **Folio Opening Line**: ``"designari poterunt, ut punctum designatum per B situm sit inter A ex una..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ordo huius seriei symbolorum aspiciendus est, ut intelligatur quid in th..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``in-telligatur``, ``intuiti-vum``, ``na-turam``, ``spe-cimina``, ``theorema-tis``, ``ordi-nis``, ``in-teritas``, ``Bezeichnungs-weise``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0172.png`` -> ``archive/chapter-05/page-172.png``
+- **Available Scan Files in Section**: ``0172.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 9, left)`` (extracted as ``page-172.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-172.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 9, left)`` with complete margins and legible diplomatic text.

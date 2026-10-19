@@ -1,0 +1,36 @@
+Folio 0145 (Page 145) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0144.rst``): Page 144, Caput IV [``04_caput_4``] — Ends: ``"Manifestum igitur est, in geometria classica quasdam veritates..."``
+- **Current Folio** (``0145.rst``): Page 145, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0146.rst``): Page 146, Caput IV [``04_caput_4``] — Begins: ``": « Non datur ullum argumentum [« evidence »] demonstrans circ..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio (2)**:
+  - Footnote 27: ``Cfr. v. g. TH. WAITZ in suo Commentario in Anal. Priora I 23 ; in eius editione I pagg....``
+  - Footnote 28: ``In eodem opere Principles of Mathematics pagg. 404 sq. : « There is no evidence whateve...``
+- **Classical Greek Philosophical Terms (10)**: ``ὃ ἀνάγκη εἶναι δι``, ``αὑτὸ καὶ δοκεῖν ἀνάγκη``, ``δεικτὰ ὄντα λαμβά``, ``νει αὐτὸς μὴ δείξας``, ``ταῦτ``, ``ἐὰν μὲν δοκοῦντα λαμβάνῃ τῷ μανθάνοντι``, ``ὑπο``, ``τίθεται``, ``ἂν δὲ ἢ μηδεμιᾶς ἐνούσης δόξης ἢ καὶ...``, ``αἰτεῖται``
+- **Folio Opening Line**: ``"19 n. 2 ; Aristoteles habet 76 b 23 : ὃ ἀνάγκη εἶναι δι’ αὑτὸ καὶ δοκεῖν..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Ad classem « dignitatum » pertinebunt ea quae divisibilitatem extensorum..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``com-mune``, ``de-monstrator``, ``eius-dem``, ``contra-riae``, ``differen-tiam``, ``di-versos``, ``divisi-bilitatem``, ``indivisi-bilium`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0145.png`` -> ``archive/chapter-04/page-145.png``
+- **Available Scan Files in Section**: ``0145.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 26, right)`` (extracted as ``page-145.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-145.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 26, right)`` with complete margins and legible diplomatic text.

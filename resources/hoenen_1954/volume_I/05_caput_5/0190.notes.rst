@@ -1,0 +1,35 @@
+Folio 0190 (Page 190) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0189.rst``): Page 189, Caput V [``05_caput_5``] — Ends: ``"Ipsa notio extensionis in his verbis non videtur exprimi ; eri..."``
+- **Current Folio** (``0190.rst``): Page 190, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0191.rst``): Page 191, Caput V [``05_caput_5``] — Begins: ``"more Newtoniano ; nam exactitudo in mensuris in hac quoque sac..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"mantur. Generaliter ita dici poterit : terminis tribui debet sensus quem..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Maior est etiam difficultas, si problema exactitudinis consideratur, ex..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``axioma-tico``, ``pos-sent``, ``axio-mata``, ``co-gnitae``, ``disposi-tiones``, ``necessa-riae``, ``expo-sito``, ``necessi-tatis`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0190.png`` -> ``archive/chapter-05/page-190.png``
+- **Available Scan Files in Section**: ``0190.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 18, left)`` (extracted as ``page-190.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-190.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 18, left)`` with complete margins and legible diplomatic text.

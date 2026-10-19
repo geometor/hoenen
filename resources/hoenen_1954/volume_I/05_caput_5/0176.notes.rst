@@ -1,0 +1,35 @@
+Folio 0176 (Page 176) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0175.rst``): Page 175, Caput V [``05_caput_5``] — Ends: ``"Geometria igitur, propter difficultates tum practicas tum theo..."``
+- **Current Folio** (``0176.rst``): Page 176, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0177.rst``): Page 177, Caput V [``05_caput_5``] — Begins: ``"De connexionibus necessariis inter actus existentiales in appe..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. In statuendis primis principiis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (4): ``*Cosmologiam* nostram`` (``hoenen:cosmologia``), ``*Filosofia della natura inorganica*`` (``hoenen:1949``), ``*Gregorianum* 1953 pagg. 3-31`` (``hoenen:1953:p3``), ``*Phys.* IV c. 1-2`` (``aristotle:phys:4.1``)
+- **Folio Opening Line**: ``"Et videbamus Euclidem laudandum esse eo quod etiam in media deductione a..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"2) Hae relationes locales sunt relationes in ordine existentiae et inter..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``intellec-tionem``, ``ta-cite``, ``vide-bamus``, ``necessa-riam``, ``combina-toria``, ``localisa-tionis``, ``prae-ter``, ``contac-tus`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0176.png`` -> ``archive/chapter-05/page-176.png``
+- **Available Scan Files in Section**: ``0176.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 11, left)`` (extracted as ``page-176-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-176-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0176`` (Page 176) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-5.pdf (p. 11, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

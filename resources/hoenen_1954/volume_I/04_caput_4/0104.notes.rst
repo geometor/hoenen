@@ -1,0 +1,35 @@
+Folio 0104 (Page 104) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0103.rst``): Page 103, Caput IV [``04_caput_4``] — Ends: ``"Dicit igitur Russell, motum pertinere ad corpora, non ad spati..."``
+- **Current Folio** (``0104.rst``): Page 104, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0105.rst``): Page 105, Caput IV [``04_caput_4``] — Begins: ``"sunt numeri pure cardinales, quantitas quae ita mensuratur, no..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Cosmologia* cap. « De mensura qualitatum » ed. 4 pagg. 184-203, 518-527`` (``hoenen:cosmologia:p184-203``), ``*Filosofia della natura inorganica* pagg. 176-186`` (``hoenen:filosofia-natura:p176-186``)
+- **Folio Opening Line**: ``"que valet de eo ente imaginario, sed tantum quia hoc concipitur ut exten..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In motu attendi possunt eius velocitas et eius causa. Prior non pertinet..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``con-cipitur``, ``cor-pore``, ``mo-bile``, ``exten-sum``, ``possi-bilitas``, ``figu-rae``, ``iudi-cium``, ``invol-vitur`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0104.png`` -> ``archive/chapter-04/page-104.png``
+- **Available Scan Files in Section**: ``0104.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 5, left)`` (extracted as ``page-104.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-104.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 5, left)`` with complete margins and legible diplomatic text.

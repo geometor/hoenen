@@ -1,0 +1,35 @@
+Folio 0162 (Page 162) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0161.rst``): Page 161, Caput V [``05_caput_5``] — Ends: ``"1) Termini debent habere sensum ; etiamsi hic nobis ignotus ma..."``
+- **Current Folio** (``0162.rst``): Page 162, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0163.rst``): Page 163, Caput V [``05_caput_5``] — Begins: ``"Syllogizando ratiocinari primarie est activitas mentis humanae..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"terminus in his binis locis eundem sensum habere debet ; supponitur igit..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et hoc est fundamentum possibilitatis axiomaticae. Difficultas illa prae..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``signifi-cant``, ``proposi-tionis``, ``ades-se``, ``possi-bilis``, ``natura-liter``, ``syllogi-smo``, ``praedica-tivas``, ``praedi-cato`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0162.png`` -> ``archive/chapter-05/page-162.png``
+- **Available Scan Files in Section**: ``0162.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 4, left)`` (extracted as ``page-162.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-162.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

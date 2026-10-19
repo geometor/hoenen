@@ -1,0 +1,37 @@
+Folio 0277 (Page 277) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0276.rst``): Page 276, Appendix [``08_appendix``] — Ends: ``"In supra expositis detegebamus, diversas dari relationes neces..."``
+- **Current Folio** (``0277.rst``): Page 277, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0278.rst``): Page 278, Appendix [``08_appendix``] — Begins: ``"9 a. 5, ubi, in utroque casu, hoc verbum dicitur hoc « concept..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 23: ``E. Gilson, *L'être et l'essence*, Paris Vrin 1948, et *Being and some philosophers* Tor...``
+  - Footnote 24: ``De his cfr. egregias elucubrationes P. B. Lonergan, *The concept of « verbum » in the w...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (6): ``*L'être et l'essence* pag. 248`` (``gilson:1948:248``), ``*de Pot.* q. 8 a. 1`` (``aquinas:de-potentia:8.1``), ``ibid. q. 9`` (``aquinas:de-potentia:9.5``), ``E. Gilson, *L'être et l'essence*, Paris Vrin 1948`` (``gilson:1948``), ``*Being and some philosophers* Toronto 1949`` (``gilson:1949``), ``P. B. Lonergan, *The concept of « verbum » in the writings of St. Thomas Aquinas* in *Theological Studies* 1946 pagg. 349-392, 1947 pagg. 35-79, 404-44 ; pro hoc puncto I pag. 353`` (``lonergan:1946:349``)
+- **Folio Opening Line**: ``"Sed inde a nonnullis annis oppositio quaedam statuitur inter « metaphysi..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"In *de Pot.* q. 8 a. 1, statuit distinctionem « conceptionis intellectus..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0277.png`` -> ``archive/appendix/page-277.png``
+- **Available Scan Files in Section**: ``0277.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 22, right)`` (extracted as ``page-277.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-277.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 22, right)`` with complete margins and legible diplomatic text.

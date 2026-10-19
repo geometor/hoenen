@@ -1,0 +1,36 @@
+Folio 0033 (Page 33) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0032.rst``): Page 32, Caput II [``02_caput_2``] — Ends: ``"Poterit adesse. Fac enim nos adhuc nescire, quis sit numerus s..."``
+- **Current Folio** (``0033.rst``): Page 33, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0034.rst``): Page 34, Caput II [``02_caput_2``] — Begins: ``"3)"``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``A) Methodus Leibnizii.``
+- **Footnotes on Folio (1)**:
+  - Footnote 2: ``Nouveaux Essais sur l'entendement L. IV Ch. VII § 10 « Définitions 1) deux est un et un...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Nouveaux Essais sur l'entendement* L. IV Ch. VII § 10`` (``leibniz:nouveaux-essais:IV.7.10``)
+- **Folio Opening Line**: ``"Immo talis experientia videtur esse necessaria in iudiciis de additione..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"3 et 1 est 4 (déf."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0033.png`` -> ``archive/chapter-02/page-033.png``
+- **Available Scan Files in Section**: ``0033.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 4, right)`` (extracted as ``page-033.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-033.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 4, right)`` with complete margins and legible diplomatic text.

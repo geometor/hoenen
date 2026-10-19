@@ -1,0 +1,36 @@
+Folio 0231 (Page 231) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0230.rst``): Page 230, Caput VII [``07_caput_7``] — Ends: ``"Id quod resultat est quoque intelligibile : est extensum maius..."``
+- **Current Folio** (``0231.rst``): Page 231, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0232.rst``): Page 232, Caput VII [``07_caput_7``] — Begins: ``"nenda est (tanquam natura prius) causa efficiens quae est alia..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. De intelligibilitate activitatis nostrae.``
+- **Footnotes on Folio (1)**:
+  - Footnote 2: ``Sunt quaedam experimenta in psychologia experimentali secundum quae in certis circumsta...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"contactu duorum cuborum intelligitur oriri corpus quod est sicut paralle..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Utique principium causalitatis ipsum intelligimus. Si aliquid mutatur (p..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0231.png`` -> ``archive/chapter-07/page-231.png``
+- **Available Scan Files in Section**: ``0231.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 5, right)`` (extracted as ``page-231.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-231.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 5, right)`` with complete margins and legible diplomatic text.

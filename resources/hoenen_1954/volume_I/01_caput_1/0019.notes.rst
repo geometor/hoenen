@@ -1,0 +1,37 @@
+Folio 0019 (Page 19) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0018.rst``): Page 18, Caput I [``01_caput_1``] — Ends: ``"« In regione ideali Arithmeticae non datur valor liminaris fin..."``
+- **Current Folio** (``0019.rst``): Page 19, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0020.rst``): Page 20, Caput I [``01_caput_1``] — Begins: ``"sunt. Illae definitiones irreprehensibiles sub respectu mathem..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 19``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 9: ``In opere La valeur de la science pag. 17. « L'intuition ne peut nous donner la rigueur,...``
+  - Footnote 10: ``« Nous avons donc plusieurs sortes d'intuitions ; d'abord l'appel aux sens et à l'imagi...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``Praezisionsmathemathik`` (``praezisionsmathematik``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Dernières Pensées*`` (``poincare:dernieres-pensees``), ``*La valeur de la science* pag. 17`` (``poincare:valeur-science:p17``), ``pagg. 22 sq.`` (``poincare:valeur-science:p22``)
+- **Folio Opening Line**: ``"Difficultatem quamdam, quam habemus, omittimus sicut etiam modum quo dei..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"In his omnibus Poincaré negligere videtur nostram intuitionem intellecti..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``Praezisionsmathe-mathik``, ``pos-sunt``, ``in-tuitionem``, ``nos-tram``, ``in-tellectivus``, ``quan-dam``, ``pen-dere``, ``divi-tias``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0019.png`` -> ``archive/chapter-01/page-019.png``
+- **Available Scan Files in Section**: ``0019.png``
+- **Archival Source Reference**: ``caput-1-11.png`` (extracted as ``page-019.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-019.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-11.png`` with complete margins and legible diplomatic text.

@@ -1,0 +1,34 @@
+Folio 0045 (Page 45) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0044.rst``): Page 44, Caput II [``02_caput_2``] — Ends: ``"Sumamus exemplum in quo est sermo de iudicio quod respicit ord..."``
+- **Current Folio** (``0045.rst``): Page 45, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0046.rst``): Page 46, Caput II [``02_caput_2``] — Begins: ``"metrico, quod a cl. Pasch (anno 1882 !) [^9] primo enuntiatum..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``5. De axiomate Pasch.``
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φ...``
+- **Folio Opening Line**: ``"Dein quaeritur : estne etiam inter B et C ? Post inspectam figuram respo..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Consideremus figuram « superficialem », triangulum. Sumimus veritatem qu..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0045.png`` -> ``archive/chapter-02/page-045.png``
+- **Available Scan Files in Section**: ``0045.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 10, right)`` (extracted as ``page-045.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-045.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 10, right)`` with complete margins and legible diplomatic text.

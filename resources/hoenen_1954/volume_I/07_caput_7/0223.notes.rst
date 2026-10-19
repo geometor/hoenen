@@ -1,0 +1,35 @@
+Folio 0223 (Page 223) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0222.rst``): Page 222, Caput VI [``06_caput_6``] — Ends: ``"Inde diiudicare possumus conatus (ex primo tempore theoriae re..."``
+- **Current Folio** (``0223.rst``): Page 223, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0224.rst``): Page 224, Caput VII [``07_caput_7``] — Begins: ``"ad aliquod primum in scientia illa, quod ita accipitur ut subi..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT VII``, ``DE EXTENSIONE``, ``UT EST MATERIA INTELLIGIBILIS``, ``§ 1. De constructione figurarum geometricarum.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Anal. Post.* I l. 15`` (``aquinas:anal-post:I.15``), ``*Anal. Post.* I lect. 2 n. 5`` (``aquinas:anal-post:I.2.5``)
+- **Folio Opening Line**: ``"Subiectum igitur fundamentale geometriae dicebamus esse extensionem. Id..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Haec optime explicantur in doctrina, quam S. Thomas de hac materia tradi..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0223.png`` -> ``archive/chapter-07/page-223.png``
+- **Available Scan Files in Section**: ``0223.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 1, right)`` (extracted as ``page-223.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-223.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

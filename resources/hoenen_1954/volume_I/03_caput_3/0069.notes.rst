@@ -1,0 +1,35 @@
+Folio 0069 (Page 69) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0068.rst``): Page 68, Caput III [``03_caput_3``] — Ends: ``"In critica mathematica moderna, mathematici non solent multum..."``
+- **Current Folio** (``0069.rst``): Page 69, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0070.rst``): Page 70, Caput III [``03_caput_3``] — Begins: ``"de sententia cl. Study, qui reconstructionem geometriae classi..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``rigueur`` (``rigueur``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"sionem pervenire videntur, transitum ex datis geometricis sensitivis ine..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Exacte, sed breviter, id iam in capite primo descriptum audiebamus a Kle..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (15)**: ``ille-gitimum``, ``con-struere``, ``arith-meticis``, ``in-tuitionem``, ``proble-ma``, ``pro-blemate``, ``geome-trica``, ``postu-lati`` (+7 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0069.png`` -> ``archive/chapter-03/page-069.png``
+- **Available Scan Files in Section**: ``0069.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 3, right)`` (extracted as ``page-069.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-069.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 3, right)`` with complete margins and legible diplomatic text.

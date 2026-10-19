@@ -1,0 +1,35 @@
+Folio 0168 (Page 168) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0167.rst``): Page 167, Caput V [``05_caput_5``] — Ends: ``"Hoc systema axiomatum necessario satisfacere debet exigentiae..."``
+- **Current Folio** (``0168.rst``): Page 168, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0169.rst``): Page 169, Caput V [``05_caput_5``] — Begins: ``"intrinsecae) et difficultas in applicatione geometriae, quae e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Théorie du jugem.* ch. IV § 3 B`` (``hoenen:theorie-du-jugement:c4:s3``)
+- **Folio Opening Line**: ``"realitate constructum est. Et axiomatici stricti invenerunt methodos ing..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Si pars scientiae modo axiomatico construitur, vel potius si eius partes..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``immuni-tatem``, ``quae-dam``, ``pro-positio``, ``mate-riali``, ``si-gnificat``, ``po-tius``, ``axioma-ticae``, ``axio-matici`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0168.png`` -> ``archive/chapter-05/page-168.png``
+- **Available Scan Files in Section**: ``0168.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 8, left)`` (extracted as ``page-168.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-168.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

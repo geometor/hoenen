@@ -1,0 +1,35 @@
+Folio 0012 (Page 12) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0011.rst``): Page 11, Caput I [``01_caput_1``] — Ends: ``"Haec doctrina magis evoluta, ut videtur, apud Aristotelem redi..."``
+- **Current Folio** (``0012.rst``): Page 12, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0013.rst``): Page 13, Caput I [``01_caput_1``] — Begins: ``"nunc afferimus, cetera in decursu operis visuri. Haec theoria..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``12 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``Si quis putaret Aristotelem, ubi de postulatis loquitur, cogitasse de propositione, qua...``
+- **Classical Greek Philosophical Terms (4)**: ``ὑποθέσεις``, ``αἰτήματα``, ``ἀξίωμα``, ``ὁμολογία``
+- **Folio Opening Line**: ``"quae sunt sive ὑποθέσεις (suppositiones) sive αἰτήματα (petitiones, post..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed est et alter finis huius inquisitionis philosophicae : inveniemus co..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``peti-tiones``, ``metaphy-sica``, ``natu-ralis``, ``philo-sophi``, ``cogni-tionis``, ``operatio-nibus``, ``com-pletae``, ``ten-demus``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0012.png`` -> ``archive/chapter-01/page-012.png``
+- **Available Scan Files in Section**: ``0012.png``
+- **Archival Source Reference**: ``caput-1-04.png`` (extracted as ``page-012.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-012.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-04.png`` with complete margins and legible diplomatic text.

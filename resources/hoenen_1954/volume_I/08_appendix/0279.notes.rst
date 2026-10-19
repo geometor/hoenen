@@ -1,0 +1,35 @@
+Folio 0279 (Page 279) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0278.rst``): Page 278, Appendix [``08_appendix``] — Ends: ``"Sed iuxta S. Thomam etiam cognitio eorum, quae sunt in anima (..."``
+- **Current Folio** (``0279.rst``): Page 279, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0280.rst``): Page 280, Appendix [``08_appendix``] — Begins: ``"Haec conceptio vocatur quoque « ratio essendi », cuius cogniti..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (8): ``9, 5`` (``aquinas:de-potentia:9.5``), ``*Ver.* 4, 2`` (``aquinas:de-veritate:4.2``), ``*Pot.* 9, 5`` (``aquinas:de-potentia:9.5``), ``*de Pot.* q. 7, a. 2, ad 9`` (``aquinas:de-potentia:7.2.ad9``), ``« principio Perihermeneias »`` (``aristotle:periherm:1``), ``loc. cit.`` (``aquinas:de-potentia:7.2.ad9``), ``*Peri Herm.* I l. 5, n. 5`` (``aquinas:periherm:1.5.5``), ``ibid. n. 17`` (``aquinas:periherm:1.5.17``)
+- **Folio Opening Line**: ``"8, 1 ; 9, 5 ; *Ver.* 4, 2). Sufficiat hic unus textus (*Pot.* 9, 5) : «..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"In talibus propositionibus terminus « esse » (« hoc quod dico esse ») es..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0279.png`` -> ``archive/appendix/page-279.png``
+- **Available Scan Files in Section**: ``0279.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 23, right)`` (extracted as ``page-279.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-279.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 23, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0109 (Page 109) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0108.rst``): Page 108, Caput IV [``04_caput_4``] — Ends: ``"Idem B. Russell de quo supra, diversa illa elementa miscet et..."``
+- **Current Folio** (``0109.rst``): Page 109, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0110.rst``): Page 110, Caput IV [``04_caput_4``] — Begins: ``"cl. Poincaré : « si ergo non darentur corpora rigida, in rerum..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Ait : corpora quae ita moventur ut ad invicem applicentur, supponuntur e..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Haec obiectio plane valeret, si possibilitas figurae congruentis, perfec..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``appli-centur``, ``con-gruentis``, ``nos-tro``, ``mo-tus``, ``intelli-gitur``, ``ne-cessario``, ``resis-tat``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0109.png`` -> ``archive/chapter-04/page-109.png``
+- **Available Scan Files in Section**: ``0109.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 8, right)`` (extracted as ``page-109.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-109.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 8, right)`` with complete margins and legible diplomatic text.

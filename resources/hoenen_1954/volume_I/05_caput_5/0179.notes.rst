@@ -1,0 +1,36 @@
+Folio 0179 (Page 179) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0178.rst``): Page 178, Caput V [``05_caput_5``] — Ends: ``"Inde habemus quod primo observamus : in omni tali processu in..."``
+- **Current Folio** (``0179.rst``): Page 179, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0180.rst``): Page 180, Caput V [``05_caput_5``] — Begins: ``"diata, cognoscitur sine medio syllogistico, ex appellatione ad..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 10: ``Haec iam observata sunt a mathematico Hardy in articulo quem supra iam citavimus (Mind...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Mind* 38 pag. 12`` (``hardy:1929:p12``)
+- **Folio Opening Line**: ``"Et talis operatio videtur adesse in singulis fere gressibus huius scient..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Sub respectu abstractionis casus omnino idem ac casus axiomatum, quae su..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``gressi-bus``, ``operatio-ne``, ``Inter-rogamus``, ``execu-tioni``, ``phantas-mate``, ``nos-tra``, ``ne-cessaria``, ``papy-raceo``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0179.png`` -> ``archive/chapter-05/page-179.png``
+- **Available Scan Files in Section**: ``0179.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 12, right)`` (extracted as ``page-179.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-179.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 12, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0158 (Page 158) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0157.rst``): Page 157, Caput V [``05_caput_5``] — Ends: ``"Quia haec methodus, perfecte elaborata a mathematicis, tanquam..."``
+- **Current Folio** (``0158.rst``): Page 158, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0159.rst``): Page 159, Caput V [``05_caput_5``] — Begins: ``"ratiocinium est « demonstratio ». Et haec veritas ut necessari..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. De methodo Aristotelis.``
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``Ita Th. Heath in suo opere famoso A History of Greek Mathematics, Oxford 1921, I pagg....``
+- **Classical Greek Philosophical Terms (2)**: ``νοῦς``, ``ἐπιστημή``
+- **Folio Opening Line**: ``"ronea, ea rejicere sive corrigere. Huic labori epistemologi scholastici..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed est diversum ab axiomatica sensu moderno. Aristoteles pro veri nomin..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``dic-tum``, ``In-tellectus``, ``sys-tema``, ``vo-cari``, ``qui-bus``, ``Aris-toteles``, ``rectitu-dinem``, ``insu-per`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0158.png`` -> ``archive/chapter-05/page-158.png``
+- **Available Scan Files in Section**: ``0158.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 2, left)`` (extracted as ``page-158.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-158.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 2, left)`` with complete margins and legible diplomatic text.

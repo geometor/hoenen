@@ -1,0 +1,35 @@
+Folio 0050 (Page 50) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0049.rst``): Page 49, Caput II [``02_caput_2``] — Ends: ``"Comparemus hoc iterum cum iudicio physico, etiam certo, quod l..."``
+- **Current Folio** (``0050.rst``): Page 50, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0051.rst``): Page 51, Caput II [``02_caput_2``] — Begins: ``"quod in physica deest intuitio naturae necessariae nexus, quae..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. Iterum de theoriis cognitionis geometricae relate ad experientiam.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"plum potest esse : « corpus grave quod hic sibi permittitur, cadit in te..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Breviter dici potest : empirismus negligit diversitatem inter casus phys..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0050.png`` -> ``archive/chapter-02/page-050.png``
+- **Available Scan Files in Section**: ``0050.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 13, left)`` (extracted as ``page-050.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-050.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 13, left)`` with complete margins and legible diplomatic text.

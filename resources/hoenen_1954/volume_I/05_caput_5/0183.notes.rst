@@ -1,0 +1,35 @@
+Folio 0183 (Page 183) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0182.rst``): Page 182, Caput V [``05_caput_5``] — Ends: ``"Notamus insuper : in logistica, secundum Whitehead et Russell,..."``
+- **Current Folio** (``0183.rst``): Page 183, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0184.rst``): Page 184, Caput V [``05_caput_5``] — Begins: ``"applicatur axiomatica, nec, nisi in casibus specialibus, opera..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``, ``Recapitulatio.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"et propositiones, quae de eis valent, modo logistico, post immensum labo..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Interrogare possumus de aliis scientiis ; ibi in genere ad sensum verbor..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``natura-lium``, ``sal-tem``, ``axio-matica``, ``requi-rit``, ``ex-pressarum``, ``rectitu-dinem``, ``illu-cesceret``, ``In-veniebamus`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0183.png`` -> ``archive/chapter-05/page-183.png``
+- **Available Scan Files in Section**: ``0183.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 11, right)`` (extracted as ``page-183.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-183.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 11, right)`` with complete margins and legible diplomatic text.

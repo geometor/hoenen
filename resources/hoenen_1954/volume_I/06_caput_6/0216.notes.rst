@@ -1,0 +1,35 @@
+Folio 0216 (Page 216) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0215.rst``): Page 215, Caput VI [``06_caput_6``] — Ends: ``"3. Est et alia differentia inter utramque extensionem unidimen..."``
+- **Current Folio** (``0216.rst``): Page 216, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0217.rst``): Page 217, Caput VI [``06_caput_6``] — Begins: ``"variari, potest haberi secundum alias et alias partes (cfr. su..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 6: ``Adsunt exceptiones ; in theoria « dimensionum physicarum » genus commune interdum deriv...``
+- **Classical Greek Philosophical Terms (3)**: ``συγγενές``, ``ᾧ τὸ ποσὸν γιγνώσκεται``, ``ἄτομον``
+- **Folio Opening Line**: ``"Omnis quantitas — etiam quantitas virtutis — mensuratur per « unitatem »..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"4. In considerando modo, quo haec operatio mensurandi perficitur, iterum..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``men-suratur``, ``prae-supponitur``, ``Prop-ter``, ``animadverten-dum``, ``ade-rat``, ``quan-titati``, ``phy-sica``, ``discre-pantia`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0216.png`` -> ``archive/chapter-06/page-216.png``
+- **Available Scan Files in Section**: ``0216.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 13, left)`` (extracted as ``page-216-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-216-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0216`` (Page 216) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-6.pdf (p. 13, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

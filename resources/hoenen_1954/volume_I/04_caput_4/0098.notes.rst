@@ -1,0 +1,35 @@
+Folio 0098 (Page 98) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0097.rst``): Page 97, Caput IV [``04_caput_4``] — Ends: ``"Agitur de omni nostra cognitione in eius origine, « originalit..."``
+- **Current Folio** (``0098.rst``): Page 98, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0099.rst``): Page 99, Caput IV [``04_caput_4``] — Begins: ``"Hic igitur tantum sermo est de geometricis i. e. de figuris qu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``, ``§ 1. DE PRINCIPIO INDIVIDUATIONIS IN GEOMETRICIS.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Q. D. de Ver.* q. 12 a. 3 ad 2`` (``aquinas:de-veritate:q12-a3``)
+- **Folio Opening Line**: ``"perspectum habeamus debemus instituere « resolutionem » ad prima princip..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Non agimus hic de principio individuationis metaphysico et de celebri qu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``sen-sum``, ``obiec-tum``, ``aequali-tate``, ``rec-tae``, ``proportio-num``, ``punc-to``, ``relatio-nibus``, ``oria-tur`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0098.png`` -> ``archive/chapter-04/page-098.png``
+- **Available Scan Files in Section**: ``0098.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 3, left)`` (extracted as ``page-098.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-098.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 3, left)`` with complete margins and legible diplomatic text.

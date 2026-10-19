@@ -1,0 +1,35 @@
+Folio 0146 (Page 146) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0145.rst``): Page 145, Caput IV [``04_caput_4``] — Ends: ``"Ad classem « dignitatum » pertinebunt ea quae divisibilitatem..."``
+- **Current Folio** (``0146.rst``): Page 146, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0147.rst``): Page 147, Caput IV [``04_caput_4``] — Begins: ``"postulato III constat), inter se secare, est veritas quam stat..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote note: ``Addimus verba Euclidis secundum versionem quam legimus apud Heiberg (pagg. 11 sq.) : «...``
+- **Classical Greek Philosophical Terms (2)**: ``κ``, ``ἔνν``
+- **Folio Opening Line**: ``": « Non datur ullum argumentum [« evidence »] demonstrans circulos quos..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Euclides carpitur ex eo quod sine argumento assumit, duos illos circulos..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``cir-culos``, ``as-sumptionem``, ``rec-tam``, ``Eucli-dem``, ``existen-tiam``, ``veris-simum``, ``sup-ponere``, ``argu-mentatione`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0146.png`` -> ``archive/chapter-04/page-146.png``
+- **Available Scan Files in Section**: ``0146.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 7, left)`` (extracted as ``page-146.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-146.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 7, left)`` with complete margins and legible diplomatic text.

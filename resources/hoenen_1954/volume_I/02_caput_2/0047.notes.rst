@@ -1,0 +1,35 @@
+Folio 0047 (Page 47) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0046.rst``): Page 46, Caput II [``02_caput_2``] — Ends: ``"Haec sunt alia exempla ex « topologia » (quae in nostro casu «..."``
+- **Current Folio** (``0047.rst``): Page 47, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0048.rst``): Page 48, Caput II [``02_caput_2``] — Begins: ``"cylindrica resultabant. Quid ex hac scissione orietur ? Plurim..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"in primo casu ? Ut ex inspectione phantasmatis vel ex executione physica..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Scindamus nunc hoc folium secundum lineam quae in medio folio, parallela..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0047.png`` -> ``archive/chapter-02/page-047.png``
+- **Available Scan Files in Section**: ``0047.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 11, right)`` (extracted as ``page-047.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-047.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 11, right)`` with complete margins and legible diplomatic text.

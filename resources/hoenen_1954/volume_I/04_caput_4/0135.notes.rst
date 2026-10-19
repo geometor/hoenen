@@ -1,0 +1,36 @@
+Folio 0135 (Page 135) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0134.rst``): Page 134, Caput IV [``04_caput_4``] — Ends: ``"Altera animadversio haec est. In theoria unicae parallelae red..."``
+- **Current Folio** (``0135.rst``): Page 135, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0136.rst``): Page 136, Caput IV [``04_caput_4``] — Begins: ``"sensus quidam logicus et ex eo diversi sensus reales derivari..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 5. De geometria Euclidica et non-Euclidica.``
+- **Footnotes on Folio (1)**:
+  - Footnote 21: ``F. HAUSDORF, Das Raumproblem in Annalen der Naturphilosophie III (1904) pag. 3 : « Die...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``F. HAUSDORF, *Das Raumproblem* in *Annalen der Naturphilosophie* III (1904) pag. 3`` (``hausdorff:1904:p3``)
+- **Folio Opening Line**: ``"« gaussianam » « valoris zero » habent, quae ideo ad planum applicari po..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Geometria non-Euclidica habet quidem sensum verum et realem, immo plures..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``in-tuitivam``, ``tempori-bus``, ``prae-ter``, ``inter-dum``, ``vo-cantur``, ``po-tius``, ``Eucli-dicae``, ``geome-triae`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0135.png`` -> ``archive/chapter-04/page-135.png``
+- **Available Scan Files in Section**: ``0135.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 21, right)`` (extracted as ``page-135.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-135.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 21, right)`` with complete margins and legible diplomatic text.

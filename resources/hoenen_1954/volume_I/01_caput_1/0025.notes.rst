@@ -1,0 +1,35 @@
+Folio 0025 (Page 25) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0024.rst``): Page 24, Caput I [``01_caput_1``] — Ends: ``"Insuper hae methodi permittunt inquisitiones in particularitat..."``
+- **Current Folio** (``0025.rst``): Page 25, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0027.rst``): Page 27, Caput II [``02_caput_2``] — Begins: ``"Ut iam in primo capite dictum est, communis opinio generis hum..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 25``
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"ticis Posterioribus quoad structuram generalem fecit. Non omnes conclusi..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Agitur quoque de complete constituendis fundamentis geometriae ; sed ad..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``casi-bus``, ``distin-gui``, ``Habe-mus``, ``axio-matum``, ``lo-gica``, ``contradictio-nem``, ``cohae-ret``, ``appli-cari`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0025.png`` -> ``archive/chapter-01/page-025.png``
+- **Available Scan Files in Section**: ``0025.png``
+- **Archival Source Reference**: ``caput-1-17.png`` (extracted as ``page-025.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-025.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-17.png`` with complete margins and legible diplomatic text.

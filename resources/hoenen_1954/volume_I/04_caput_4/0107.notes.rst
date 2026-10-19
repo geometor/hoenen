@@ -1,0 +1,36 @@
+Folio 0107 (Page 107) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0106.rst``): Page 106, Caput IV [``04_caput_4``] — Ends: ``"ἐπεὶ δὲ τὸ κινούμενον κινεῖται ἔκ τινος εἴς τι καὶ πᾶν μέγεθος..."``
+- **Current Folio** (``0107.rst``): Page 107, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0108.rst``): Page 108, Caput IV [``04_caput_4``] — Begins: ``"lineas, superficies, solida, sed eam ascribit imaginationi geo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 7: ``Cfr. ibid. b 15 sqq. et cap. 12, 220 b 24 sqq. Textus desumptus est ex editione W. D. R...``
+  - Footnote 8: ``Trendelenburg in sua editione adnotat (in loc. cit.) « Quinam sunt qui dicant ? Utrum u...``
+- **Classical Greek Philosophical Terms (10)**: ``ἔκ τινος εἴς τι``, ``τὸ δὴ πρότερον καὶ ὕστερον ἐν τόπῳ πρ...``, ``ἐνταῦθα μὲν δὲ τῇ θέσει``, ``ἐπεὶ δ``, ``ἐν τῷ μεγέθει ἔστι τὸ πρότερον καὶ ὕσ...``, ``ἀνάγκη καὶ ἐν κινήσει εἶναι τὸ πρότερ...``, ``ἀνάλογον τοῖς ἐκεῖ``, ``φασι κινηθεῖσαν γραμμὴν ἐπίπεδον ποιεῖν``, ``στιγμὴν δὲ γραμμήν``, ``ῥύσιν τοῦ σημείου``
+- **Folio Opening Line**: ``"Prius igitur continuitas invenitur in extenso et inde haec sequitur in m..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Inde non mirum est, apud geometras motum adhiberi ut medium demonstratio..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (4)**: ``sequi-tur``, ``tem-pore``, ``tan-quam``, ``Pi-rotta``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0107.png`` -> ``archive/chapter-04/page-107.png``
+- **Available Scan Files in Section**: ``0107.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 7, right)`` (extracted as ``page-107.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-107.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 7, right)`` with complete margins and legible diplomatic text.

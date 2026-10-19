@@ -1,0 +1,37 @@
+Folio 0020 (Page 20) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0019.rst``): Page 19, Caput I [``01_caput_1``] — Ends: ``"In his omnibus Poincaré negligere videtur nostram intuitionem..."``
+- **Current Folio** (``0020.rst``): Page 20, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0021.rst``): Page 21, Caput I [``01_caput_1``] — Begins: ``"« Decisiva ad diiudicandum statum rerum nobis videtur esse cir..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``20 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 11: ``Op. cit. pag. 65. « Cette définition fait bon marché de l'origine intuitive de la notio...``
+  - Footnote 12: ``« Je ne veux pas dire que cette ” arithmétisation ” des mathématiques soit une mauvaise...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``eine Utopie`` (``utopie``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Die realistische Weltansicht und die Lehre vom Raume* (Braunschweig 1914 pag. 131)`` (``study:1914:p131``), ``Op. cit. pag. 65`` (``poincare:dernieres-pensees:p65``), ``ibid.`` (``poincare:dernieres-pensees:p65``)
+- **Folio Opening Line**: ``"sunt. Illae definitiones irreprehensibiles sub respectu mathematico, ut..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Non desunt qui ideo affirment hanc methodum classicam construendi geomet..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``mathe-matico``, ``ana-lyseos``, ``arithmetiza-tionem``, ``in-terdum``, ``nume-rorum``, ``con-struendam``, ``in-exactitudinem``, ``examina-bimus`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0020.png`` -> ``archive/chapter-01/page-020.png``
+- **Available Scan Files in Section**: ``0020.png``
+- **Archival Source Reference**: ``caput-1-12.png`` (extracted as ``page-020.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-020.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-12.png`` with complete margins and legible diplomatic text.

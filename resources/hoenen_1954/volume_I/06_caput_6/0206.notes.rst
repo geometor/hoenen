@@ -1,0 +1,36 @@
+Folio 0206 (Page 206) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0205.rst``): Page 205, Caput VI [``06_caput_6``] — Ends: ``"Sed vox « spatii » per excellentiam in alio sensu adhibetur, s..."``
+- **Current Folio** (``0206.rst``): Page 206, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0207.rst``): Page 207, Caput VI [``06_caput_6``] — Begins: ``"Et ita perfecte redimus ad doctrinam S. Thomae ; etiam in hac..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 3: ``A. EINSTEIN in periodico Forum I 1930 pag. 173 ; cfr. Cosmologiam ed. 4 pag. 468, ubi t...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*Forum* I 1930 pag. 173`` (``einstein:1930:forum``), ``*Cosmologiam* ed. 4 pag. 468`` (``hoenen:1949:cosmologia``), ``*Filos. d. nat. inorg.* pag. 110`` (``hoenen:1949:filosofia-natura``)
+- **Folio Opening Line**: ``"versae i. e. huic « spatio » tribuuntur proprietates, quae receptaculo c..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed eas iterum invenit Einstein in suis meditationibus de hac materia. E..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``re-ceptaculo``, ``Poin-caré``, ``cogni-tionis``, ``vide-tur``, ``activita-tem``, ``mo-dernos``, ``La-gen``, ``tan-quam`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0206.png`` -> ``archive/chapter-06/page-206.png``
+- **Available Scan Files in Section**: ``0206.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 12, left)`` (extracted as ``page-206.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-206.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 12, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,36 @@
+Folio 0258 (Page 258) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0257.rst``): Page 257, Appendix [``08_appendix``] — Ends: ``"In utroque casu nexus qui affirmatur, cognoscitur ut *necessar..."``
+- **Current Folio** (``0258.rst``): Page 258, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0259.rst``): Page 259, Appendix [``08_appendix``] — Begins: ``"stantiae », alter « accidentis », una est « ens », alterum est..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 8: ``Immo dici posset « maxime formalis » iuxta dictum S. Thomae : « illud quod est maxime f...``
+- **Glossary & Foreign Terms (``:term:``)** (12): ``propositionem per accidens`` (``propositio-per-accidens``), ``per se`` (``propositio-per-se``), ``per accidens`` (``propositio-per-accidens``), ``abstractionem formalem`` (``abstractio-formalis``), ``propositiones per se`` (``propositio-per-se``), ``per accidens`` (``propositio-per-accidens``), ``cogito ergo sum`` (``cogito-ergo-sum``), ``propositionem per accidens`` (``propositio-per-accidens``), ``propositione per accidens`` (``propositio-per-accidens``), ``hoc movetur ergo est`` (``movetur-ergo-est``), ``propositione per accidens`` (``propositio-per-accidens``), ``abstractionis intuitivae formalis`` (``abstractio-intuitiva``)
+- **Bibliographic Citations (``:cite:``)** (2): ``*Th. du Jug.* ch. III et IV`` (``hoenen:1953:ch3``), ``S. Th. I q. 7 a. 1`` (``aquinas:st:I.7.1``)
+- **Folio Opening Line**: ``"tivus necessitatis ipsius nexus), tantum nexum materialem cognoscimus (i..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec est ergo prima convenientia cum discrepantia inter utrumque casum,..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0258.png`` -> ``archive/appendix/page-258.png``
+- **Available Scan Files in Section**: ``0258.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 7, left)`` (extracted as ``page-258.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-258.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 7, left)`` with complete margins and legible diplomatic text.

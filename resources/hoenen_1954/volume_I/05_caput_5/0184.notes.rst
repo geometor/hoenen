@@ -1,0 +1,35 @@
+Folio 0184 (Page 184) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0183.rst``): Page 183, Caput V [``05_caput_5``] — Ends: ``"Interrogare possumus de aliis scientiis ; ibi in genere ad sen..."``
+- **Current Folio** (``0184.rst``): Page 184, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0185.rst``): Page 185, Caput V [``05_caput_5``] — Begins: ``"extremum, sed minus extrema frequenter occurrunt. Et in method..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``C) Deductio in aliis scientiis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``distinguo`` (``distinguo``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Anal. Post.* I 12 77 b 30-33`` (``aristotle:anal-post:1.12:77b30``)
+- **Folio Opening Line**: ``"applicatur axiomatica, nec, nisi in casibus specialibus, operatio in sym..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Extremum specimen in hoc contextu est illud quod Aristoteles per transen..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``ope-ratio``, ``metho-dus``, ``sche-matismus``, ``con-nexionem``, ``sen-sum``, ``operan-di``, ``ter-minum``, ``prae-sertim``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0184.png`` -> ``archive/chapter-05/page-184.png``
+- **Available Scan Files in Section**: ``0184.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 15, left)`` (extracted as ``page-184.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-184.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 15, left)`` with complete margins and legible diplomatic text.

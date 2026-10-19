@@ -1,0 +1,35 @@
+Folio 0186 (Page 186) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0185.rst``): Page 185, Caput V [``05_caput_5``] — Ends: ``"Homo in scientiis realitatem attingere intendit, sed propter i..."``
+- **Current Folio** (``0186.rst``): Page 186, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0187.rst``): Page 187, Caput V [``05_caput_5``] — Begins: ``"sum est divisibile », plus etiam in hac : « extensum est divis..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Analyticorum*`` (``aristotle:anal-post:2.19``)
+- **Folio Opening Line**: ``"gistico. Hi syllogismi sunt primarie mentales et conducunt ad conclusion..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Id iam agnoscere possumus, ubi agitur de intuitionibus quibus phantasma..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``pro-positiones``, ``scien-tificas``, ``expres-sos``, ``pro-gressu``, ``habitua-lis``, ``exposi-tione``, ``mathe-maticis``, ``ori-tur`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0186.png`` -> ``archive/chapter-05/page-186.png``
+- **Available Scan Files in Section**: ``0186.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 16, left)`` (extracted as ``page-186.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-186.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 16, left)`` with complete margins and legible diplomatic text.

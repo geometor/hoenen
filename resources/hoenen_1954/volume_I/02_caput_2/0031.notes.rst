@@ -1,0 +1,35 @@
+Folio 0031 (Page 31) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0030.rst``): Page 30, Caput II [``02_caput_2``] — Ends: ``"Undenam proveniat differentia inter hos casus (et alios quoque..."``
+- **Current Folio** (``0031.rst``): Page 31, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0032.rst``): Page 32, Caput II [``02_caput_2``] — Begins: ``"tationes i. e. series ex his elementis compositae, quae solo o..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. De numeris primis.``, ``3. De initiis artis combinatoriae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"habemus cognitionem necessariam ; et : ex tali experientia non tantum no..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Initia deductionis huius theorematis necessarii sunt haec. Si habemus du..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0031.png`` -> ``archive/chapter-02/page-031.png``
+- **Available Scan Files in Section**: ``0031.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 3, right)`` (extracted as ``page-031.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-031.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 3, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0182 (Page 182) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0181.rst``): Page 181, Caput V [``05_caput_5``] — Ends: ``"Videamus specimen substitutionis, et quidem eam quae constitui..."``
+- **Current Folio** (``0182.rst``): Page 182, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0183.rst``): Page 183, Caput V [``05_caput_5``] — Begins: ``"et propositiones, quae de eis valent, modo logistico, post imm..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"bolo p in axiomate quod vocatur « tautologia » et quod dicit : « p vel p..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Notamus insuper : in logistica, secundum Whitehead et Russell, et in ali..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``di-cit``, ``re-sultat``, ``neces-saria``, ``intui-tionem``, ``deduc-tionis``, ``su-pra``, ``resultan-tem``, ``ne-cessarium`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0182.png`` -> ``archive/chapter-05/page-182.png``
+- **Available Scan Files in Section**: ``0182.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 11, left)`` (extracted as ``page-182.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-182.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 11, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0123 (Page 123) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0122.rst``): Page 122, Caput IV [``04_caput_4``] — Ends: ``"Utrum in geometria exacta, recta, planum et eorum connexiones,..."``
+- **Current Folio** (``0123.rst``): Page 123, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0124.rst``): Page 124, Caput IV [``04_caput_4``] — Begins: ``"», sint possibiles. Problema igitur est, utrum et quo medio in..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``6. De existentia rectae et plani.``
+- **Footnotes on Folio (1)**:
+  - Footnote 13: ``Dicimus « consequenter » ; nam, ut ex dictis manifestum est, « directio » non definitur...``
+- **Classical Greek Philosophical Terms (3)**: ``ἐπίπεδος ἐπιφάνειά ἐστιν``, ``ἥτις ἐξ ἴσου ταῖς ἐφ``, ``ἑαυτῆς εὐθείαις κεῖται``
+- **Folio Opening Line**: ``"Praecipua quae inquirenda sunt, ut ex supra dictis sequitur, haec fere s..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Iam inquirendum est, utrum figurae exactae, in primis recta et superfici..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``simi-litudo``, ``conti-neatur``, ``constan-tem``, ``superfi-ciei``, ``de-finitio``, ``sensibi-libus``, ``dis-tinguit``, ``quaes-tione`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0123.png`` -> ``archive/chapter-04/page-123.png``
+- **Available Scan Files in Section**: ``0123.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 15, right)`` (extracted as ``page-123.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-123.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 15, right)`` with complete margins and legible diplomatic text.

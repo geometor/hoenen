@@ -1,0 +1,36 @@
+Folio 0052 (Page 52) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0051.rst``): Page 51, Caput II [``02_caput_2``] — Ends: ``"Haec est doctrina quam S. Thomas profitetur, ubi originem prin..."``
+- **Current Folio** (``0052.rst``): Page 52, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0053.rst``): Page 53, Caput II [``02_caput_2``] — Begins: ``"verum est id quod Caietanus dicit : Datum sensitivum est « mot..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 12: ``Cfr. de hac re articulum nostrum in libro commemorativo Universitatis catholicae Mediol...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``I *Sent.* Dist. III q. 1 a. 2`` (``aquinas:sent:I.3.1.2``), ``art. cit. in *Gregorianum* 1933`` (``hoenen:1933:153-184``), ``*Cartesio* (1937) cui titulus *Le « Cogito ergo sum » comme intuition et comme mouvement de la pensée* pagg. 457-471`` (``hoenen:1937:457-471``)
+- **Folio Opening Line**: ``"utilem comparationem iterum instituendam ducunt. In I Sent. Dist. III q...."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ut melius intelligamus quomodo data sensitiva iuxta verba Caietani sint..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0052.png`` -> ``archive/chapter-02/page-052.png``
+- **Available Scan Files in Section**: ``0052.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 14, left)`` (extracted as ``page-052.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-052.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 14, left)`` with complete margins and legible diplomatic text.

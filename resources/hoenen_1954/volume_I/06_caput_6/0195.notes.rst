@@ -1,0 +1,35 @@
+Folio 0195 (Page 195) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0194.rst``): Page 194, Caput V [``05_caput_5``] — Ends: ``"Omnia autem haec invitare videntur philosophum scholasticum, p..."``
+- **Current Folio** (``0195.rst``): Page 195, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0196.rst``): Page 196, Caput VI [``06_caput_6``] — Begins: ``"intelligitur ut linea constantis directionis) quae eandem (spe..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT VI``, ``DE SUBIECTO FUNDAMENTALI GEOMETRIAE``, ``§ 1. Iterata comparatio geometriae euclidicae et non-euclidicae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Gregorianum*, 1951, pagg. 432 et 451`` (``hoenen:1951:gregorianum``)
+- **Folio Opening Line**: ``"Ex iis quae supra exponebamus diversae sequuntur conclusiones relate ad..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Constat : si (praeter alia axiomata consueta) postulatum V Euclidis ut p..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``univer-sale``, ``compa-ratione``, ``sen-tentiam``, ``in-veniri``, ``fundamen-talem``, ``ha-bere``, ``Imme-diate``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0195.png`` -> ``archive/chapter-06/page-195.png``
+- **Available Scan Files in Section**: ``0195.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 1, right)`` (extracted as ``page-195.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-195.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

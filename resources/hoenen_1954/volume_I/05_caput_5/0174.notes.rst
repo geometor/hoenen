@@ -1,0 +1,35 @@
+Folio 0174 (Page 174) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0173.rst``): Page 173, Caput V [``05_caput_5``] — Ends: ``"Etiam finis enuntiationis theorematis 6 ad eandem ducit conclu..."``
+- **Current Folio** (``0174.rst``): Page 174, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0175.rst``): Page 175, Caput V [``05_caput_5``] — Begins: ``"deductione. Tantum logistici in unum corpus « axiomatum » inte..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Théorie du Jug.* Ch. VI § 4 ed. 2 pag. 201`` (``hoenen:theorie-du-jugement:c6:s4``)
+- **Folio Opening Line**: ``"dum est : Haec dispositio litterarum in serie lineari est dispositio spa..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec quae detegimus in examine noetico propositionum relationalium, simi..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``introduc-tio``, ``arith-metici``, ``secun-dum``, ``dic-tum``, ``propositio-num``, ``dan-tur``, ``ver-bale``, ``axio-matica`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0174.png`` -> ``archive/chapter-05/page-174.png``
+- **Available Scan Files in Section**: ``0174.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 10, left)`` (extracted as ``page-174.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-174.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 10, left)`` with complete margins and legible diplomatic text.

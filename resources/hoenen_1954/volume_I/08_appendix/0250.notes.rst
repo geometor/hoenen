@@ -1,0 +1,35 @@
+Folio 0250 (Page 250) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0249.rst``): Page 249, Appendix [``08_appendix``] — Ends: ``"Formula, quae est titulus huius primae partis, similis est ada..."``
+- **Current Folio** (``0250.rst``): Page 250, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0251.rst``): Page 251, Appendix [``08_appendix``] — Begins: ``"cogitat, est. Sed S. Thomas simili modo (aliter ac Cartesius)..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``cogito ergo sum`` (``cogito-ergo-sum``)
+- **Bibliographic Citations (``:cite:``)** (2): ``*Discours de la Méthode* (A. et T. VI 32, 17)`` (``descartes:discours:VI.32``), ``id. cap. in *Th. du. J.*`` (``hoenen:1953:ch12``)
+- **Folio Opening Line**: ``"Et homo hanc necessitatem in ipsa illa experientia sua interna detegit,..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Positio Aristotelis et S. Thomae quoad essentialia est eadem ac positio..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0250.png`` -> ``archive/appendix/page-250.png``
+- **Available Scan Files in Section**: ``0250.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 3, left)`` (extracted as ``page-250.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-250.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 3, left)`` with complete margins and legible diplomatic text.

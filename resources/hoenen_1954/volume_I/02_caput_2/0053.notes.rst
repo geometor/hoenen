@@ -1,0 +1,36 @@
+Folio 0053 (Page 53) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0052.rst``): Page 52, Caput II [``02_caput_2``] — Ends: ``"Ut melius intelligamus quomodo data sensitiva iuxta verba Caie..."``
+- **Current Folio** (``0053.rst``): Page 53, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0054.rst``): Page 54, Caput II [``02_caput_2``] — Begins: ``"quae tamen necessario praesupponuntur, non explicite enuntiant..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. Iudicia implicita.``
+- **Footnotes on Folio (1)**:
+  - Footnote 13: ``De distinguendo « determinativo » a « motivo » vide Théorie du Jug. ed. 2 pagg. 25 sqq.``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Théorie du Jug.* ed. 2 pagg. 25 sqq.`` (``hoenen:theorie-du-jugement:25``)
+- **Folio Opening Line**: ``"verum est id quod Caietanus dicit : Datum sensitivum est « motivum seu d..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Simili modo res sese habet, ubi sermo est de multitudine numerorum primo..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0053.png`` -> ``archive/chapter-02/page-053.png``
+- **Available Scan Files in Section**: ``0053.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 14, right)`` (extracted as ``page-053.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-053.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 14, right)`` with complete margins and legible diplomatic text.

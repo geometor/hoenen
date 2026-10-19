@@ -1,0 +1,35 @@
+Folio 0178 (Page 178) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0177.rst``): Page 177, Caput V [``05_caput_5``] — Ends: ``"Dicimus : in deductione arithmetica talis recursus ad phantasm..."``
+- **Current Folio** (``0178.rst``): Page 178, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0179.rst``): Page 179, Caput V [``05_caput_5``] — Begins: ``"Et talis operatio videtur adesse in singulis fere gressibus hu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``": translatio termini (vel complexus terminorum) ex uno membro aequationi..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Inde habemus quod primo observamus : in omni tali processu in mente fit..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``mem-bro``, ``ma-iorem``, ``va-lida``, ``univer-salia``, ``indi-vidualiter``, ``expri-mitur``, ``con-clusionem``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0178.png`` -> ``archive/chapter-05/page-178.png``
+- **Available Scan Files in Section**: ``0178.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 12, left)`` (extracted as ``page-178.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-178.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 12, left)`` with complete margins and legible diplomatic text.

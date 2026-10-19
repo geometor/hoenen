@@ -1,0 +1,35 @@
+Folio 0129 (Page 129) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0128.rst``): Page 128, Caput IV [``04_caput_4``] — Ends: ``"Inde statim sequitur existere circulos qui in plano de-"``
+- **Current Folio** (``0129.rst``): Page 129, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0130.rst``): Page 130, Caput IV [``04_caput_4``] — Begins: ``"Haec conclusio maximi momenti sequitur ex ipsa notione directi..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"scribi possunt ex quovis puncto tanquam centro et cum quocumque radio. C..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et haec consequentia constituit geometriam Euclidicam in sensu praegnant..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``geo-metria``, ``linea-rum``, ``no-tionem``, ``diffe-runt``, ``pos-sunt``, ``cen-trum``, ``compre-hensi``, ``Conse-quenter`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0129.png`` -> ``archive/chapter-04/page-129.png``
+- **Available Scan Files in Section**: ``0129.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 18, right)`` (extracted as ``page-129.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-129.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 18, right)`` with complete margins and legible diplomatic text.

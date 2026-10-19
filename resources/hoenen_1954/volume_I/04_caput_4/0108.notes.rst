@@ -1,0 +1,36 @@
+Folio 0108 (Page 108) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0107.rst``): Page 107, Caput IV [``04_caput_4``] — Ends: ``"Inde non mirum est, apud geometras motum adhiberi ut medium de..."``
+- **Current Folio** (``0108.rst``): Page 108, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0109.rst``): Page 109, Caput IV [``04_caput_4``] — Begins: ``"Ait : corpora quae ita moventur ut ad invicem applicentur, sup..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 3. DE CONGRUENTIA FIGURARUM.``
+- **Footnotes on Folio (1)**:
+  - Footnote 9: ``De Caelo I lect. 2 n. 9 « Utitur modo loquendi quo utuntur geometrae, imaginantes quod...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*De Caelo* I lect. 2 n. 9`` (``aquinas:de-caelo:b1-l2``), ``ibid. II lect. 2 n. 11`` (``aquinas:de-caelo:b2-l2``), ``*Phys.* IV lect. 18 n. 4`` (``aquinas:phys:b4-l18``)
+- **Folio Opening Line**: ``"lineas, superficies, solida, sed eam ascribit imaginationi geometrarum [..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Idem B. Russell de quo supra, diversa illa elementa miscet et inde ansam..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``li-neas``, ``notan-dum``, ``introduceba-tur``, ``condi-tiones``, ``individua-tionis``, ``inva-riabilis``, ``per-veniemus``, ``se-quentibus`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0108.png`` -> ``archive/chapter-04/page-108.png``
+- **Available Scan Files in Section**: ``0108.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 8, left)`` (extracted as ``page-108.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-108.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

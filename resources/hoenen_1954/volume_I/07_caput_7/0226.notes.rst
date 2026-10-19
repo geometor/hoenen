@@ -1,0 +1,34 @@
+Folio 0226 (Page 226) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0225.rst``): Page 225, Caput VII [``07_caput_7``] — Ends: ``"Supra (III § 2 n. 7) iam dicebamus geometriam (in oppositione..."``
+- **Current Folio** (``0226.rst``): Page 226, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0227.rst``): Page 227, Caput VII [``07_caput_7``] — Begins: ``"fectam perpoliri possunt (quoad « quid sint ») et denique ex c..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``ποιοῦντες γιγνώσκουσιν``
+- **Folio Opening Line**: ``"obiecta geometriae a mente creari, immo id fieri per creationem liberam...."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Dein in ipsa illa extensione, ex qua figurae magis specificatae, sed in..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0226.png`` -> ``archive/chapter-07/page-226.png``
+- **Available Scan Files in Section**: ``0226-partial.png``, ``0226.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 3, left)`` (extracted as ``page-226-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-226-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0226`` (Page 226) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 3, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

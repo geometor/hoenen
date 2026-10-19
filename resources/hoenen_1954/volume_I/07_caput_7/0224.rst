@@ -5,7 +5,7 @@
 :section: 07_caput_7
 :title: Caput VII — p. 224
 :language: la
-:status: rescan_needed
+:status: ok
 
 ad aliquod primum in scientia illa, quod ita accipitur ut subiectum, quod nullo modo sit passio ». Et casus noster ut specimen ponitur : « sicut in mathematicis scientiis, quae sunt de quantitate continua vel discreta ». Quantitas continua est id quod supra vocabamus extensionem, obiectum, vel subiectum fundamentale geometriae [#f1]_. Et haec distinctio dein clare exponitur.
 
@@ -13,4 +13,4 @@ Figurae igitur quae merito ut subiecta propriarum passionum et « per se acciden
 
 Constructionem apud Graecos esse demonstrationem existentiae mathematicae illorum subiectorum, quae iuxta demonstrationem construuntur, post demonstrationem huius facti, quam Zeuthen dedit, communiter, ni fallimur, admittitur. Doctrina quae tenet « construi posse » esse idem ac
 
-.. [#f1] Haec a S. Thoma exponuntur in commentario in textum quemdam Aristotelis (*Anal. Post.* I cap. 1, 71 a 14 sq.) ubi « trigonon », quae vox « subiectum » quoddam indicare solet, tanquam « passio » consideratur. Hic textus est crux quaedam commentatorum. Vide egregiam expositionem apud J. ALVAREZ LASO C. M. F. *La Filosofia de las Matemáticas en Santo Tomás* Mexico, 1952, pagg. 2-6. Hic non agitur de quadam subtilitate logicae formalis, sed de doctrina noetica, quae in se momentum habet, relate ad activitatem mentis in construenda scientia et relate ad conclusiones quae inde profluunt.
+.. [#f1] Haec a :person:`S. Thoma <aquinas>` exponuntur in commentario in textum quemdam :person:`Aristotelis <aristotle>` (:cite:`*Anal. Post.* I cap. 1, 71 a 14 sq. <aristotle:anal-post:I.1.71a14>`) ubi « trigonon », quae vox « subiectum » quoddam indicare solet, tanquam « passio » consideratur. Hic textus est crux quaedam commentatorum. Vide egregiam expositionem apud J. ALVAREZ LASO C. M. F. :cite:`*La Filosofia de las Matemáticas en Santo Tomás* Mexico, 1952, pagg. 2-6 <alvarez-laso:1952:filosofia:2-6>`. Hic non agitur de quadam subtilitate logicae formalis, sed de doctrina noetica, quae in se momentum habet, relate ad activitatem mentis in construenda scientia et relate ad conclusiones quae inde profluunt.

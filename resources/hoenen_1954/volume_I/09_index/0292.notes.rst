@@ -1,0 +1,35 @@
+Folio 0292 (Page 292) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0291.rst``): Page 291, Index Analyticus [``09_index``] — Ends: ``"A. De arithmetica . . . . . . . . . . . . . . . . . . . . 177"``
+- **Current Folio** (``0292.rst``): Page 292, Index Analyticus [``09_index``] — Status: ``ok``
+- **Following Folio** (``0293.rst``): Page 293, Index Analyticus [``09_index``] — Begins: ``"*De connexionibus necessariis inter actus existentiales*"``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"PAG."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"3. - De casibus physicis . . . . . . . . . . . . . . . . . 242"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0292.png`` -> ``archive/index/page-292.png``
+- **Available Scan Files in Section**: ``0292.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 8, left)`` (extracted as ``page-292.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-292.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

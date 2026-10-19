@@ -1,0 +1,35 @@
+Folio 0173 (Page 173) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0172.rst``): Page 172, Caput V [``05_caput_5``] — Ends: ``"Ordo huius seriei symbolorum aspiciendus est, ut intelligatur..."``
+- **Current Folio** (``0173.rst``): Page 173, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0174.rst``): Page 174, Caput V [``05_caput_5``] — Begins: ``"dum est : Haec dispositio litterarum in serie lineari est disp..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (4): ``Bezeichnungsweise`` (``bezeichnungsweise``), ``Beschaffenheit`` (``beschaffenheit``), ``die umgekehrte`` (``umgekehrt``), ``umgekehrt`` (``umgekehrt``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"illum eundem ordinem, etiam in symbolis, primarie et intuitive esse « ge..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Etiam finis enuntiationis theorematis 6 ad eandem ducit conclusionem. Ib..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (15)**: ``intui-tive``, ``saepis-sime``, ``evi-tari``, ``or-dinis``, ``intro-ducit``, ``legi-time``, ``proposi-tiones``, ``super-fluum`` (+7 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0173.png`` -> ``archive/chapter-05/page-173.png``
+- **Available Scan Files in Section**: ``0173.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 9, right)`` (extracted as ``page-173.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-173.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 9, right)`` with complete margins and legible diplomatic text.

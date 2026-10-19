@@ -1,0 +1,35 @@
+Folio 0014 (Page 14) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0013.rst``): Page 13, Caput I [``01_caput_1``] — Ends: ``"Usque ad medium fere saeculum praecedens, communis opinio tum..."``
+- **Current Folio** (``0014.rst``): Page 14, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0015.rst``): Page 15, Caput I [``01_caput_1``] — Begins: ``"ter theoriam illam empiristicam, sed propter modernas theorias..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``14 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 3: ``De his postea plura. Cfr. interim GEYSER, Die Erkenntnistheorie des Aristoteles, cap. V...``
+- **Classical Greek Philosophical Terms (5)**: ``τὰ ἐξ ἀφαι``, ``ρέσεως``, ``ταῦτα``, ``δ``, ``ἐστὶν οἷον ὁρᾶν τῇ νοήσει``
+- **Folio Opening Line**: ``"Meno 82b-85b et alibi). Et ipsae formae mathematicae, ut videtur, nec po..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Hanc theoriam empiristicam postea brevi negotio tanquam ineptam expedire..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``re-ferunt``, ``simi-lis``, ``geo-metricae``, ``no-tasse``, ``geo-metricae``, ``necessi-tate``, ``cogni-tioni``, ``exac-titudinem`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0014.png`` -> ``archive/chapter-01/page-014.png``
+- **Available Scan Files in Section**: ``0014.png``
+- **Archival Source Reference**: ``caput-1-06.png`` (extracted as ``page-014.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-014.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-06.png`` with complete margins and legible diplomatic text.

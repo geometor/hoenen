@@ -1,0 +1,34 @@
+Folio 0040 (Page 40) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0039.rst``): Page 39, Caput II [``02_caput_2``] — Ends: ``"Clarum est, ibi duplicem cognitionem necessariam, intuitivam,..."``
+- **Current Folio** (``0040.rst``): Page 40, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0041.rst``): Page 41, Caput II [``02_caput_2``] — Begins: ``"Sed est etiam ingens discrimen inter utramque scientiam. Nam d..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 2. DE NECESSITATE IN IUDICIIS IMMEDIATIS GEOMETRICIS``, ``1. In geometricis duplex problema.``
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (2)**: ``ὁ ἀριθμός``, ``ἐμπειρίας ἐστὶ παραδοῦναι``
+- **Folio Opening Line**: ``"quidem maior) oriatur. Id melius etiam patet in enuntiatione graeca, in..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sicut in § 1 inveniebamus iudicia quaedam arithmetica immediata (quia ha..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0040.png`` -> ``archive/chapter-02/page-040.png``
+- **Available Scan Files in Section**: ``0040.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 8, left)`` (extracted as ``page-040.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-040.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

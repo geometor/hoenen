@@ -1,0 +1,34 @@
+Folio 0251 (Page 251) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0250.rst``): Page 250, Appendix [``08_appendix``] — Ends: ``"Positio Aristotelis et S. Thomae quoad essentialia est eadem a..."``
+- **Current Folio** (``0251.rst``): Page 251, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0252.rst``): Page 252, Appendix [``08_appendix``] — Begins: ``"Haec de omni motu dicuntur. Altera consideratio Aristotelis, q..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (4)**: ``τὸ δὲ ἁπλῶς μὴ τόδε οὐδαμῶς``, ``ἐνδέχεται κινεῖσθαι``, ``ἀδύνατον γὰρ τὸ μὴ ὂν κινεῖσθαι``, ``τόδε``
+- **Folio Opening Line**: ``"cogitat, est. Sed S. Thomas simili modo (aliter ac Cartesius) veritatem..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In *Phys.* V 1 (225 a 25 sqq.), ubi Aristoteles motum stricte dictum ab..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0251.png`` -> ``archive/appendix/page-251.png``
+- **Available Scan Files in Section**: ``0251.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 3, right)`` (extracted as ``page-251.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-251.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 3, right)`` with complete margins and legible diplomatic text.

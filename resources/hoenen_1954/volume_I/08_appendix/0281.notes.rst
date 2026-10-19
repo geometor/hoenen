@@ -1,0 +1,35 @@
+Folio 0281 (Page 281) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0280.rst``): Page 280, Appendix [``08_appendix``] — Ends: ``"Conceptus « ipsius esse », etiam non concreti, plene agnosci v..."``
+- **Current Folio** (``0281.rst``): Page 281, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0282.rst``): Page 282, Appendix [``08_appendix``] — Begins: ``"ditatibus et earum relationibus necessariis agunt. Et hoc « es..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``Gilson, *L'être et l'essence*, pag. 284`` (``gilson:1948:284``), ``*Sent.* I D. 2 q. 1 a. 3`` (``aquinas:sent:1.2.1.3``)
+- **Folio Opening Line**: ``"Potestne « definitio » dari huius conceptus « ipsius esse » ? Si quis in..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Hoc « esse » iam detegimus, et eius « rationem » dein concipimus, in pri..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0281.png`` -> ``archive/appendix/page-281.png``
+- **Available Scan Files in Section**: ``0281.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 26, right)`` (extracted as ``page-281.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-281.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 26, right)`` with complete margins and legible diplomatic text.

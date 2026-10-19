@@ -1,0 +1,35 @@
+Folio 0246 (Page 246) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0245.rst``): Page 245, Caput VII [``07_caput_7``] — Ends: ``"4. Iam supra (V § 5 A) dictum est, in applicatione geometriae..."``
+- **Current Folio** (``0246.rst``): Page 246, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0247.rst``): Page 247, Caput VII [``07_caput_7``] — Begins: ``"hunc finem iam fecit Dalton per suam legem stoechiometricam pa..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (4): ``*Th. du Jug.* Ch. XI § 3 B et Ch. IX § 3 in ed. 2 pagg. 319 resp. 262-263 ; ed. 1 323 resp. 265-266`` (``hoenen:1953:theorie:319``), ``*R. a. J.* pagg. 269 resp. 223`` (``hoenen:1947:reality:269``), ``*Gregorianum* 1953 pag. 30`` (``hoenen:1953:gregorianum:30``), ``*Gregorianum* 1953 pag. 23`` (``hoenen:1953:gregorianum:23``)
+- **Folio Opening Line**: ``"nostram necessitatis relationum, sed eius exactitudinem interire. Huius..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Quaedam indicare possumus. Primum gressum versus"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0246.png`` -> ``archive/chapter-07/page-246.png``
+- **Available Scan Files in Section**: ``0246-partial.png``, ``0246.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 13, left)`` (extracted as ``page-246-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-246-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0246`` (Page 246) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 13, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

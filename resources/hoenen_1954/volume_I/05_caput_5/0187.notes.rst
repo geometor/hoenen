@@ -1,0 +1,35 @@
+Folio 0187 (Page 187) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0186.rst``): Page 186, Caput V [``05_caput_5``] — Ends: ``"Id iam agnoscere possumus, ubi agitur de intuitionibus quibus..."``
+- **Current Folio** (``0187.rst``): Page 187, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0188.rst``): Page 188, Caput V [``05_caput_5``] — Begins: ``"num tendimus, et aciem mentis ad dispositiones rerum non tantu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``S. Th.`` (``aquinas:anal-post``)
+- **Folio Opening Line**: ``"sum est divisibile », plus etiam in hac : « extensum est divisibile » ha..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed in fine ad intellectionem sensus specifici conclusio-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``divi-sibile``, ``phan-tasmate``, ``divi-sibile``, ``suffi-cienter``, ``negli-gitur``, ``intuitio-nem``, ``su-scitetur``, ``per-mittunt`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0187.png`` -> ``archive/chapter-05/page-187.png``
+- **Available Scan Files in Section**: ``0187.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 16, right)`` (extracted as ``page-187.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-187.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 16, right)`` with complete margins and legible diplomatic text.

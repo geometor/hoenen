@@ -1,0 +1,37 @@
+Folio 0056 (Page 56) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0055.rst``): Page 55, Caput II [``02_caput_2``] — Ends: ``"Ita, ni fallimur, processus, qui ducit ad iudicium 7 + 5 = 12,..."``
+- **Current Folio** (``0056.rst``): Page 56, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0057.rst``): Page 57, Caput II [``02_caput_2``] — Begins: ``"nam explicationem alibi dabimus ; hic quaedam, sufficientia ut..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 4. DE NEXU MATERIALI ET FORMALI [^17]``
+- **Footnotes on Folio (2)**:
+  - Footnote 16: ``In editione altera (1926) eius operis, supra (pag. 46) iam citati, inveniuntur pagg. 5-...``
+  - Footnote 17: ``De his cfr. Théor. du jug. ch. III et IV.``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``Pasch (1882)`` (``pasch:1882``), ``pagg. 5-8, 19 sq.`` (``pasch:1926:5-8``), ``*Théor. du jug.* ch. III et IV`` (``hoenen:theorie-du-jugement:ch3-4``)
+- **Folio Opening Line**: ``"cetur quam hic describitur. Si autem res ita se habet, non tantum non co..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Theoria igitur Aristotelis videtur esse unica, quae rationem tenet eorum..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0056.png`` -> ``archive/chapter-02/page-056.png``
+- **Available Scan Files in Section**: ``0056.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 16, left)`` (extracted as ``page-056.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-056.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 16, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0222 (Page 222) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0221.rst``): Page 221, Caput VI [``06_caput_6``] — Ends: ``"Haec quae dicuntur de ipsa extensione, valent de eius dimensio..."``
+- **Current Folio** (``0222.rst``): Page 222, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0223.rst``): Page 223, Caput VII [``07_caput_7``] — Begins: ``"Subiectum igitur fundamentale geometriae dicebamus esse extens..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Filos. d. nat. inorg.* pagg. 221 sq.`` (``hoenen:1949:filosofia-natura:221``), ``*Cosmolog.* ed. 4 pag. 259`` (``hoenen:1949:cosmologia:259``)
+- **Folio Opening Line**: ``"Inde diiudicare possumus conatus (ex primo tempore theoriae relativitati..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Inde diiudicare possumus conatus (ex primo tempore theoriae relativitati..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (3)**: ``consti-tuendi``, ``aequipa-randa``, ``ana-logiam``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0222.png`` -> ``archive/chapter-06/page-222.png``
+- **Available Scan Files in Section**: ``0222.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 16, left)`` (extracted as ``page-222-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-222-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0222`` (Page 222) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-6.pdf (p. 16, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

@@ -1,0 +1,35 @@
+Folio 0293 (Page 293) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0292.rst``): Page 292, Index Analyticus [``09_index``] — Ends: ``"3. - De casibus physicis . . . . . . . . . . . . . . . . . 242"``
+- **Current Folio** (``0293.rst``): Page 293, Index Analyticus [``09_index``] — Status: ``ok``
+- **Following Folio**: None (Final transcribed folio of Volume I, *Index Analyticus*)
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``APPENDIX``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (3): ``Movetur ergo est`` (``movetur-ergo-est``), ``Hoc movetur ergo locus est`` (``hoc-movetur-ergo-locus-est``), ``Hoc movetur ergo aliud, movens, existit`` (``hoc-movetur-ergo-aliud-movens-existit``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"*De connexionibus necessariis inter actus existentiales*"`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Additiones . . . . . . . . . . . . . . . . . . . . . . . . . . 286"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0293.png`` -> ``archive/index/page-293.png``
+- **Available Scan Files in Section**: ``0293.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 8, right)`` (extracted as ``page-293.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-293.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 8, right)`` with complete margins and legible diplomatic text.

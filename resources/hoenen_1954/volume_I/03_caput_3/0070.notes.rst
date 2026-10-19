@@ -1,0 +1,36 @@
+Folio 0070 (Page 70) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0069.rst``): Page 69, Caput III [``03_caput_3``] — Ends: ``"Exacte, sed breviter, id iam in capite primo descriptum audieb..."``
+- **Current Folio** (``0070.rst``): Page 70, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0071.rst``): Page 71, Caput III [``03_caput_3``] — Begins: ``"inexactitudinem intuitionis sensitivae ; et ideo incipit a ser..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 5: ``E. STUDY, Die realistische Weltansicht und die Lehre vom Raume pagg. 74 sqq.``
+  - Footnote 6: ``Op. cit. pag. 9 « Die Entwicklung der modernen Funktionentheorie hat gezeigt, dass die...``
+- **Classical Greek Philosophical Terms (1)**: ``σημεῖόν ἐστιν οὗ μέρος οὐθέν``
+- **Folio Opening Line**: ``"de sententia cl. Study, qui reconstructionem geometriae classicae, indep..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"His verbis problema exactitudinis clare ponitur ; nam haec theoria moder..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``expo-suit``, ``Enzy-klopädie``, ``criti-cam``, ``imme-diate``, ``geo-metricis``, ``consta-bat``, ``conti-nuum``, ``Funktionen-theorie``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0070.png`` -> ``archive/chapter-03/page-070.png``
+- **Available Scan Files in Section**: ``0070.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 4, left)`` (extracted as ``page-070.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-070.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

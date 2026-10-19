@@ -1,0 +1,36 @@
+Folio 0046 (Page 46) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0045.rst``): Page 45, Caput II [``02_caput_2``] — Ends: ``"Consideremus figuram « superficialem », triangulum. Sumimus ve..."``
+- **Current Folio** (``0046.rst``): Page 46, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0047.rst``): Page 47, Caput II [``02_caput_2``] — Begins: ``"in primo casu ? Ut ex inspectione phantasmatis vel ex executio..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``6. De sectione cylindri et « folii Moebii ».``
+- **Footnotes on Folio (1)**:
+  - Footnote 9: ``In opere Vorlesungen über neuere Geometrie. In editione altera (1926) axioma, ad quod a...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Vorlesungen über neuere Geometrie*`` (``pasch:1926:20``)
+- **Folio Opening Line**: ``"metrico, quod a cl. Pasch (anno 1882 !) [^9] primo enuntiatum est. Delin..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec sunt alia exempla ex « topologia » (quae in nostro casu « inexactit..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0046.png`` -> ``archive/chapter-02/page-046.png``
+- **Available Scan Files in Section**: ``0046.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 11, left)`` (extracted as ``page-046.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-046.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 11, left)`` with complete margins and legible diplomatic text.

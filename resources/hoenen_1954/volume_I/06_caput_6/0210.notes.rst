@@ -1,0 +1,35 @@
+Folio 0210 (Page 210) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0209.rst``): Page 209, Caput VI [``06_caput_6``] — Ends: ``"Saepe in investigando problemate, quomodo et in quo gradu veri..."``
+- **Current Folio** (``0210.rst``): Page 210, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0211.rst``): Page 211, Caput VI [``06_caput_6``] — Begins: ``"cessarium : ibi habetur origo geometriae, in intellectu, et ha..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Théorie du Jugement* Ch. IV § 5`` (``hoenen:1953:theorie:ch4.5``)
+- **Folio Opening Line**: ``"sionem spectant et quae ex extensione sequuntur (dimensionum, distantiar..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Incipit, ut dictum est, investigatio in activitatem intellectus geometri..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``dimen-sionum``, ``iterum-que``, ``inexacti-tudinis``, ``psy-chologica``, ``conclusio-nem``, ``absen-tiae``, ``corri-gendum``, ``ope-rationes`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0210.png`` -> ``archive/chapter-06/page-210.png``
+- **Available Scan Files in Section**: ``0210.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 13, left)`` (extracted as ``page-210.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-210.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 13, left)`` with complete margins and legible diplomatic text.

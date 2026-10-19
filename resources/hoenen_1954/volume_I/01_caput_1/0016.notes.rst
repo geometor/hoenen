@@ -1,0 +1,36 @@
+Folio 0016 (Page 16) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0015.rst``): Page 15, Caput I [``01_caput_1``] — Ends: ``"Non omnes alterum hoc problema bene describunt ; Kant videtur..."``
+- **Current Folio** (``0016.rst``): Page 16, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0017.rst``): Page 17, Caput I [``01_caput_1``] — Begins: ``"Haec evolutio moderna secundum duplicem praesertim viam progre..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``16 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 4: ``A. EINSTEIN, Geometrie und Erfahrung, Berlin 1921 « Wie ist es möglich, dasz die Mathem...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``A. EINSTEIN, *Geometrie und Erfahrung*, Berlin 1921`` (``einstein:geometrie-und-erfahrung:1921``)
+- **Folio Opening Line**: ``"moderna primas habet partes, quamquam, uti videbimus, non omnes in omni..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Tales sententias, etiamsi abstrahas ab exaggeratione pure rhetorica, exi..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``prae-sertim``, ``mathe-maticam``, ``exac-titudinis``, ``ma-thematicae``, ``evolu-tionem``, ``Gegen-stände``, ``men-schliche``, ``Eigenschaf-ten``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0016.png`` -> ``archive/chapter-01/page-016.png``
+- **Available Scan Files in Section**: ``0016.png``
+- **Archival Source Reference**: ``caput-1-08.png`` (extracted as ``page-016.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-016.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-08.png`` with complete margins and legible diplomatic text.

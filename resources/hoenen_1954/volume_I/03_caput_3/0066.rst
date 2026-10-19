@@ -4,49 +4,28 @@
 :book: Caput III
 :section: 03_caput_3
 :title: Caput III — p. 66
+:header: 66 — CAPUT III
 :language: la
 :status: ok
 
-a rectis ; consequenter nunquam possunt decidere, lineam
-datam esse rectam. Aequalitatem inter duas lineas vel su-
-perficies fere poterunt percipere, sed non exacte ; idem dicen-
-dum de proportionibus. Ea quae valde distant percipi non
-possunt, et tamen geometria agit de extensis quae in infi-
-nitum extenduntur.
-Si igitur geometria in origine sua dependet a datis
-sensitivis, quomodo potest hic transitus ad exactitudinem
-perfectam explicari ; vel estne forte illusio tantum ?
-Animadverte bene : in problemate necessitatis, prae-
-sertim si non unice, agebatur de nexibus inter notiones, qui
-iudiciis affirmantur ; hic de utroque quaestio agitur, de
-nexibus, sed non minus de existentia ipsarum notionum.
+a rectis ; consequenter nunquam possunt decidere, lineam datam esse rectam. Aequalitatem inter duas lineas vel superficies *fere* poterunt percipere, sed *non exacte* ; idem dicendum de proportionibus. Ea quae valde distant percipi non possunt, et tamen geometria agit de extensis quae in infinitum extenduntur.
 
-2. Quaedam historica.
-Ad hoc problema philosophi non solent valde attendere
-et multi forte omnino non attenderunt ; sed eo magis ma-
-thematici moderniores id fecerunt.
+Si igitur geometria in origine sua dependet a datis sensitivis, quomodo potest hic transitus ad exactitudinem perfectam explicari ; vel estne forte illusio tantum ?
 
-A) Philosophi. Aristoteles problema optime novit, sed
-perpauca de eo dicit. In Analyt. Post. I 31 id tangit ubi ait :
-« etiamsi possibile esset sentire triangulum habere angu-
-los duobus rectis aequales, quaereremus utique demonstra-
-tionem et non, ut quidam contendunt, scientiam habere-
-mus » 1.
-Principale, ad quod nunc attendendum, non est conse-
-quens huius conditionalis, scil. quod ad scientiam (propter
-necessitatem et universalitatem huius propositionis de trian-
-gulo) requireretur demonstratio ; sed potius ad hoc atten-
-damus : Aristoteles optime indicat diversitatem quae est
-inter data sensitiva, quae nunquam exacte indicant sum-
-mam angulorum, et veritatem geometricam, intellectui ma-
-nifestam. Et S. Thomas in suo commentario (lect. 42 n. 7)
-etiam hoc optime exponit ubi addit : hoc esse « exemplum
-de his quae sensu percipi non possunt ». Perfecta enim aequa-
-litas inter summam angulorum trianguli et duas rectas nullo
-sensu percipi, nulla methodo experimentali attingi potest.
+Animadverte bene : in problemate necessitatis, praesertim si non unice, agebatur de *nexibus* inter notiones, qui iudiciis affirmantur ; hic de utroque quaestio agitur, de *nexibus*, sed non minus de existentia ipsarum *notionum*.
 
-1 87 b 35 : καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας
-ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστά-
-μεθα. Cfr. Met. III 2, 997 b 35 (S. Th. lect. 7 n. 416). Ibi Protagorae
-obiectio profertur, quae ex eo movetur, quod in lineis sensilibus
-recta non tangit circulum in uno puncto.
+2. *Quaedam historica.*
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Ad hoc problema philosophi non solent valde attendere et multi forte omnino non attenderunt ; sed eo magis mathematici moderniores id fecerunt.
+
+A) *Philosophi.*
+^^^^^^^^^^^^^^^^
+
+:person:`Aristoteles <aristotle>` problema optime novit, sed perpauca de eo dicit. In :cite:`*Analyt. Post.* I 31 <aristotle:anal-post:I.31>` id tangit ubi ait :
+
+   « etiamsi possibile esset sentire triangulum habere angulos duobus rectis aequales, quaereremus utique demonstrationem et non, ut quidam contendunt, scientiam haberemus » [#f1]_.
+
+Principale, ad quod nunc attendendum, non est consequens huius conditionalis, scil. quod ad *scientiam* (propter necessitatem et universalitatem huius propositionis de triangulo) requireretur demonstratio ; sed potius ad hoc attendamus : :person:`Aristoteles <aristotle>` optime indicat diversitatem quae est inter data sensitiva, quae nunquam exacte indicant summam angulorum, et veritatem geometricam, intellectui manifestam. Et :person:`S. Thomas <aquinas>` in suo commentario (:cite:`lect. 42 n. 7 <aquinas:anal-post:I.42.7>`) etiam hoc optime exponit ubi addit : hoc esse « exemplum de his quae sensu percipi non possunt ». Perfecta enim aequalitas inter summam angulorum trianguli et duas rectas nullo sensu percipi, nulla methodo experimentali attingi potest.
+
+.. [#f1] :cite:`87 b 35 <aristotle:anal-post:I.31.87b35>` : καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας, ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ φασί τινες ἠπιστάμεθα. Cfr. :cite:`*Met.* III 2, 997 b 35 <aristotle:met:III.2.997b35>` (:cite:`*S. Th.* lect. 7 n. 416 <aquinas:met:III.7.416>`). Ibi :person:`Protagorae <protagoras>` obiectio profertur, quae ex eo movetur, quod in lineis sensibilibus recta non tangit circulum in uno puncto.

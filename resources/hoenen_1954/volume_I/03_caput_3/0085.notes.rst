@@ -1,0 +1,35 @@
+Folio 0085 (Page 85) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0084.rst``): Page 84, Caput III [``03_caput_3``] — Ends: ``"Ex iis quae videbamus nunc etiam quaedam dicta a Stuart Mill i..."``
+- **Current Folio** (``0085.rst``): Page 85, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0086.rst``): Page 86, Caput III [``03_caput_3``] — Begins: ``"Notio indivisibilium (exactitudinis igitur) permittit ampliati..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``*minimi visibilis*`` (``minimum-visibile``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"tem possibilem) indivisibilium : puncti, lineae sine latitudine. Utrum i..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Supra per transennam attendimus ad sententiam, quae in cognitione sensit..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``latitu-dine``, ``per-fecte``, ``con-stat``, ``exactitu-dinis``, ``de-pendet``, ``aspec-tus``, ``audieba-mus``, ``limi-tis`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0085.png`` -> ``archive/chapter-03/page-085.png``
+- **Available Scan Files in Section**: ``0085.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 11, right)`` (extracted as ``page-085.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-085.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 11, right)`` with complete margins and legible diplomatic text.

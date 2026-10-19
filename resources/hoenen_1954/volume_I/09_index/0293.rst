@@ -4,21 +4,22 @@
 :book: Index Analyticus
 :section: 09_index
 :title: Index Analyticus — p. 293
+:header: INDEX ANALYTICUS — 293
 :language: la
 :status: ok
 
 APPENDIX
---------
+========
 
-*De connexionibus necessariis inter actus existentiales*
+| *De connexionibus necessariis inter actus existentiales*
 
-PAG.
-§ 1. « Movetur ergo est » . . . . . . . . . . . . . . . . . . 249
-§ 2. « Hoc movetur ergo locus est » . . . . . . . . . . . . . 261
-§ 3. « Hoc movetur ergo aliud, movens, existit » . . . . . . . 264
-§ 4. De finalitate in motu . . . . . . . . . . . . . . . . . . 267
-Recapitulatio . . . . . . . . . . . . . . . . . . . . . . . . 268
-§ 5. Quaedam aliae relationes existentiales . . . . . . . . . 270
-§ 6. Aristoteles de actu existentiali . . . . . . . . . . . . 274
-§ 7. De conceptu ipsius esse . . . . . . . . . . . . . . . . . 276
-Additiones . . . . . . . . . . . . . . . . . . . . . . . . . . 286
+| PAG.
+|  § 1. « :term:`Movetur ergo est <movetur-ergo-est>` » . . . . . . . . . . . . . . . . . . 249
+|  § 2. « :term:`Hoc movetur ergo locus est <hoc-movetur-ergo-locus-est>` » . . . . . . . . . . . . . 261
+|  § 3. « :term:`Hoc movetur ergo aliud, movens, existit <hoc-movetur-ergo-aliud-movens-existit>` » . . . . . . . 264
+|  § 4. De finalitate in motu . . . . . . . . . . . . . . . . . . 267
+|           Recapitulatio . . . . . . . . . . . . . . . . . . . . 268
+|  § 5. Quaedam aliae relationes existentiales . . . . . . . . . 270
+|  § 6. :person:`Aristoteles <aristotle>` de actu existentiali . . . . . . . . . . . . 274
+|  § 7. De conceptu ipsius esse . . . . . . . . . . . . . . . . . 276
+|           Additiones . . . . . . . . . . . . . . . . . . . . . . 286

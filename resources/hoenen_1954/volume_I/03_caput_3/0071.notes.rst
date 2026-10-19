@@ -1,0 +1,35 @@
+Folio 0071 (Page 71) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0070.rst``): Page 70, Caput III [``03_caput_3``] — Ends: ``"His verbis problema exactitudinis clare ponitur ; nam haec the..."``
+- **Current Folio** (``0071.rst``): Page 71, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0072.rst``): Page 72, Caput III [``03_caput_3``] — Begins: ``"tur lineae rectae, sphaerae perfectae, figurae congruentes ; e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. Solutio quaerenda.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"inexactitudinem intuitionis sensitivae ; et ideo incipit a serie numeror..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Clarum est problema involvere quaestiones de existentia tum notionum tum..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``notio-nem``, ``existen-tia``, ``ine-xactitudo``, ``hu-manus``, ``mini-mis``, ``ipsa-rum``, ``essen-tiis``, ``exis-tere`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0071.png`` -> ``archive/chapter-03/page-071.png``
+- **Available Scan Files in Section**: ``0071.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 4, right)`` (extracted as ``page-071.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-071.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 4, right)`` with complete margins and legible diplomatic text.

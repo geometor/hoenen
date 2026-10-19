@@ -1,0 +1,36 @@
+Folio 0161 (Page 161) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0160.rst``): Page 160, Caput V [``05_caput_5``] — Ends: ``"In diiudicanda axiomatica statim difficultas quaedam generalis..."``
+- **Current Folio** (``0161.rst``): Page 161, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0162.rst``): Page 162, Caput V [``05_caput_5``] — Begins: ``"terminus in his binis locis eundem sensum habere debet ; suppo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``1. De syllogismo verbis expresso.``
+- **Footnotes on Folio (1)**:
+  - Footnote 3: ``Ita formam syllogismi « Barbara » exprimit et eius valorem affirmat dicendo : « si A pr...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``termini transcendentes`` (``termini-transcendentes``)
+- **Bibliographic Citations (``:cite:``)** (4): ``*Summae totius logicae*`` (``pseudo-thomas:summa-totius-logicae``), ``*Théorie du Jug.* Ch. VII § 6`` (``hoenen:theorie-du-jugement:c7:s6``), ``*Anal. Priora* I, 4 25 b 37-39`` (``aristotle:anal-prior:1.4.25b37``), ``*Recherches de logique formelle. La structure du système des syllogismes et des sorites . La logique des notions « au moins » et « tout au plus »*. Romae 1947`` (``hoenen:1947``)
+- **Folio Opening Line**: ``"Haec « abstractio symbolica » consistit in hac simplici perceptione ment..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"1) Termini debent habere sensum ; etiamsi hic nobis ignotus maneat. In e..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``speci-ficum``, ``distin-guendum``, ``negli-gere``, ``rectitudi-nem``, ``materia-lium``, ``philoso-phus``, ``con-sequentia``, ``exponen-da`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0161.png`` -> ``archive/chapter-05/page-161.png``
+- **Available Scan Files in Section**: ``0161.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 3, right)`` (extracted as ``page-161.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-161.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 3, right)`` with complete margins and legible diplomatic text.

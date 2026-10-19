@@ -1,0 +1,36 @@
+Folio 0037 (Page 37) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0036.rst``): Page 36, Caput II [``02_caput_2``] — Ends: ``"Postea videbimus, tales « appellationes ad experientiam sensit..."``
+- **Current Folio** (``0037.rst``): Page 37, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0038.rst``): Page 38, Caput II [``02_caput_2``] — Begins: ``"experientia, cui associata est intuitio intellectiva eorum nec..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``5. Comparatio horum factorum cum theoriis.``
+- **Footnotes on Folio (1)**:
+  - Footnote 4: ``Kritik der reinen Vernunft ed. 2 pagg. 14-15 « Zuvörderst musz bemerkt werden dasz eige...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*Criticae rationis purae*`` (``kant:krv:B14-15``), ``*Kritik der reinen Vernunft* ed. 2 pagg. 14-15`` (``kant:krv:B14-15``), ``*Proleg.* § 2 c n. 2`` (``kant:prolegomena:2c.2``)
+- **Folio Opening Line**: ``"sitatis, frequentissimas esse etiam in elaboratione deductiva scientiae,..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Independenter ab omni distinctione inter iudicia « analytica » et « synt..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0037.png`` -> ``archive/chapter-02/page-037.png``
+- **Available Scan Files in Section**: ``0037.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 6, right)`` (extracted as ``page-037.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-037.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 6, right)`` with complete margins and legible diplomatic text.

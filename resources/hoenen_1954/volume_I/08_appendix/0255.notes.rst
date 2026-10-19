@@ -1,0 +1,35 @@
+Folio 0255 (Page 255) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0254.rst``): Page 254, Appendix [``08_appendix``] — Ends: ``"In detegendo igitur principio de necessitate existentiae subie..."``
+- **Current Folio** (``0255.rst``): Page 255, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0256.rst``): Page 256, Appendix [``08_appendix``] — Begins: ``"modo ita quod huic apprehensioni assensus adhibeatur ; et sic..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (5): ``cogito ergo sum`` (``cogito-ergo-sum``), ``hoc movetur ergo est`` (``movetur-ergo-est``), ``agere sequitur (i. e. praesupponit) ad esse in actu`` (``agere-sequitur-esse``), ``moveri (vel pati) sequitur esse`` (``moveri-sequitur-esse``), ``cogito ergo sum`` (``cogito-ergo-sum``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Q. D. de Ver.* q. 10 a. 12 ad 7`` (``aquinas:de-veritate:10.12.ad7``)
+- **Folio Opening Line**: ``"» prius nobis actualitas cogitationis et in ea (vel sub ea) actualitas s..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"« Cogitare aliquid non esse, potest intelligi dupliciter. Uno modo ut ha..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0255.png`` -> ``archive/appendix/page-255.png``
+- **Available Scan Files in Section**: ``0255.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 5, right)`` (extracted as ``page-255.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-255.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 5, right)`` with complete margins and legible diplomatic text.

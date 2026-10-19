@@ -1,0 +1,34 @@
+Folio 0115 (Page 115) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0114.rst``): Page 114, Caput IV [``04_caput_4``] — Ends: ``"Si una tantum linea consideratur, ut supra iam dictum est, in..."``
+- **Current Folio** (``0115.rst``): Page 115, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0116.rst``): Page 116, Caput IV [``04_caput_4``] — Begins: ``"tionis supprimi nequit ; nec tantum post longam geometriae evo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``θέσιν``
+- **Folio Opening Line**: ``"videri aequivalentes. Tamen iam duae directiones in linea distingui poss..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Duae lineae a et b transeant per idem punctum P ; id plus dicit quam loc..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``in-vicem``, ``possibilita-tem``, ``dimen-sionis``, ``ex-primimus``, ``dimensio-nem``, ``dimen-siones``, ``par-vorum``, ``transeun-tium``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0115.png`` -> ``archive/chapter-04/page-115.png``
+- **Available Scan Files in Section**: ``0115.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 6, right)`` (extracted as ``page-115.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-115.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 6, right)`` with complete margins and legible diplomatic text.

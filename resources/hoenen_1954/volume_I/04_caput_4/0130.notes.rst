@@ -1,0 +1,36 @@
+Folio 0130 (Page 130) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0129.rst``): Page 129, Caput IV [``04_caput_4``] — Ends: ``"Et haec consequentia constituit geometriam Euclidicam in sensu..."``
+- **Current Folio** (``0130.rst``): Page 130, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0131.rst``): Page 131, Caput IV [``04_caput_4``] — Begins: ``": « Angulus mensura est diversitatis directionis duarum rectar..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``8. Iterum de notione directionis.``
+- **Footnotes on Folio (1)**:
+  - Footnote 16: ``W. KILLING, Einführung in die Grundlagen der Geometrie, Münster I (1893) II (1898) ; qu...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``W. KILLING, *Einführung in die Grundlagen der Geometrie*, Münster I (1893) II (1898)`` (``killing:1893``), ``T. I § 3 pagg. 5 sqq.`` (``killing:1893:I.p5``)
+- **Folio Opening Line**: ``"Haec conclusio maximi momenti sequitur ex ipsa notione directionis, uti..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Uberiora et meliora sunt quae inveniuntur apud Killing, ad quem etiam ap..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``no-tione``, ``move-rint``, ``ob-viam``, ``directio-nem``, ``definire-mus``, ``trans-eundi``, ``inexac-tae``, ``di-rectione`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0130.png`` -> ``archive/chapter-04/page-130.png``
+- **Available Scan Files in Section**: ``0130.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 19, left)`` (extracted as ``page-130.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-130.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 19, left)`` with complete margins and legible diplomatic text.

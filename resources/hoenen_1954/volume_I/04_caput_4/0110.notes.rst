@@ -1,0 +1,36 @@
+Folio 0110 (Page 110) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0109.rst``): Page 109, Caput IV [``04_caput_4``] — Ends: ``"Haec obiectio plane valeret, si possibilitas figurae congruent..."``
+- **Current Folio** (``0110.rst``): Page 110, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0111.rst``): Page 111, Caput IV [``04_caput_4``] — Begins: ``"Singula elementa quibus usi sumus, inveniuntur in demonstratio..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 10: ``H. POINCARÉ, La science et l'hypothèse pag. 80 ; cfr. ibid. pag. 60. Ipse auctor integr...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``materia intelligibilis`` (``materia-intelligibilis``)
+- **Bibliographic Citations (``:cite:``)** (2): ``H. POINCARÉ, *La science et l'hypothèse* pag. 80`` (``poincare:science-hypothese:p80``), ``ibid. pag. 60`` (``poincare:science-hypothese:p60``)
+- **Folio Opening Line**: ``"cl. Poincaré : « si ergo non darentur corpora rigida, in rerum natura, n..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Demonstratio enim Euclidica sine notione translationis ita construi pote..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``impor-tant``, ``ha-bet``, ``inva-riabilis``, ``exten-sionis``, ``ean-dem``, ``seg-mentum``, ``igi-tur``, ``determina-tur`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0110.png`` -> ``archive/chapter-04/page-110.png``
+- **Available Scan Files in Section**: ``0110.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 9, left)`` (extracted as ``page-110.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-110.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 9, left)`` with complete margins and legible diplomatic text.

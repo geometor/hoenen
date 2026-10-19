@@ -1,0 +1,35 @@
+Folio 0207 (Page 207) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0206.rst``): Page 206, Caput VI [``06_caput_6``] — Ends: ``"Sed eas iterum invenit Einstein in suis meditationibus de hac..."``
+- **Current Folio** (``0207.rst``): Page 207, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0208.rst``): Page 208, Caput VI [``06_caput_6``] — Begins: ``"in corpore, affirmamus « corpus est figurabile » ; observantes..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``C) De independentia relativa notionis extensionis ab experientia.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Théorie du Jugement* ch. VI praesertim § 5`` (``hoenen:1953:theorie:ch6.5``)
+- **Folio Opening Line**: ``"Et ita perfecte redimus ad doctrinam S. Thomae ; etiam in hac materia ge..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Id sese in reflexione etiam praescientifica manifestat. Comparemus affir..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``fundamen-tale``, ``collo-cari``, ``Insista-mus``, ``expe-rientia``, ``ex-perientia``, ``obti-net``, ``princi-piis``, ``experien-tia`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0207.png`` -> ``archive/chapter-06/page-207.png``
+- **Available Scan Files in Section**: ``0207.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 12, right)`` (extracted as ``page-207.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-207.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 12, right)`` with complete margins and legible diplomatic text.

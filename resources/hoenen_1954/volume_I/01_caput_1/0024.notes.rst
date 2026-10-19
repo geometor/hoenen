@@ -1,0 +1,34 @@
+Folio 0024 (Page 24) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0023.rst``): Page 23, Caput I [``01_caput_1``] — Ends: ``"« Cogitamus tria diversa systemata rerum : res p r i m i syste..."``
+- **Current Folio** (``0024.rst``): Page 24, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0025.rst``): Page 25, Caput I [``01_caput_1``] — Begins: ``"ticis Posterioribus quoad structuram generalem fecit. Non omne..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``24 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (3)**: ``α``, ``β``, ``γ``
+- **Folio Opening Line**: ``"Igitur nec valor nec sensus importat sed tantum requirunt ut ex hypothes..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Insuper hae methodi permittunt inquisitiones in particularitates structu..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``requi-runt``, ``discri-men``, ``proban-dum``, ``sys-tema``, ``deduc-tionem``, ``requi-ritur``, ``fu-turis``, ``du-bio`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0024.png`` -> ``archive/chapter-01/page-024.png``
+- **Available Scan Files in Section**: ``0024.png``
+- **Archival Source Reference**: ``caput-1-16.png`` (extracted as ``page-024.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-024.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-16.png`` with complete margins and legible diplomatic text.

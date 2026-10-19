@@ -1,0 +1,35 @@
+Folio 0140 (Page 140) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0139.rst``): Page 139, Caput IV [``04_caput_4``] — Ends: ``"Unum breviter addimus : modo descripto geometria non-Euclidica..."``
+- **Current Folio** (``0140.rst``): Page 140, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0141.rst``): Page 141, Caput IV [``04_caput_4``] — Begins: ``"cessariam agnoscunt ; et illi qui eam movent, hoc potius affir..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``, ``§ 6. De geometria non-Euclidica relate ad cognitionem humanae mentis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"modo geometria non-Euclidica tridimensionalis sit realis, dependet evide..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ex praedictis facile est solvere difficultatem quae movetur contra theor..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``spa-tium``, ``possi-bile``, ``in-ternam``, ``pro-positiones``, ``con-tradicens``, ``con-tradictionem``, ``reti-nentur``, ``propin-quus`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0140.png`` -> ``archive/chapter-04/page-140.png``
+- **Available Scan Files in Section**: ``0140.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 24, left)`` (extracted as ``page-140.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-140.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 24, left)`` with complete margins and legible diplomatic text.

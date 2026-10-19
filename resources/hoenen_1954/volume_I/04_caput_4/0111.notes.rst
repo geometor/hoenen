@@ -1,0 +1,34 @@
+Folio 0111 (Page 111) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0110.rst``): Page 110, Caput IV [``04_caput_4``] — Ends: ``"Demonstratio enim Euclidica sine notione translationis ita con..."``
+- **Current Folio** (``0111.rst``): Page 111, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0112.rst``): Page 112, Caput IV [``04_caput_4``] — Begins: ``"gruentiae ex intellecto extenso, ut est principium individuati..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (3)**: ``ἐφαρ``, ``μοζομένου τοῦ τριγώνου``, ``τιθεμένου τοῦ σημείου``
+- **Folio Opening Line**: ``"Singula elementa quibus usi sumus, inveniuntur in demonstratione Euclidi..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Concludere possumus : sicut in abstrahendis notionibus exactis superfici..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``prin-cipium``, ``sensibi-litatis``, ``iudi-cium``, ``ope-ratur``, ``Eucli-dis``, ``Eucli-des``, ``figu-rae``, ``demons-tratione`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0111.png`` -> ``archive/chapter-04/page-111.png``
+- **Available Scan Files in Section**: ``0111.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 9, right)`` (extracted as ``page-111.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-111.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 9, right)`` with complete margins and legible diplomatic text.

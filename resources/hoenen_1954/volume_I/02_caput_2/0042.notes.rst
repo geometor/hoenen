@@ -1,0 +1,35 @@
+Folio 0042 (Page 42) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0041.rst``): Page 41, Caput II [``02_caput_2``] — Ends: ``"Obiectum geometriae est ens extensum ut extensum. Saepe dicitu..."``
+- **Current Folio** (``0042.rst``): Page 42, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0043.rst``): Page 43, Caput II [``02_caput_2``] — Begins: ``"tur per punctum A ; alteram : hoc album (vel nigrum) dividitur..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. De divisibilitate.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"« extensi » antecedit notionem « spatii » ; hoc enim concipitur ut recep..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Quomodo intelligimus hanc veritatem ? Ecce in delineatione reali sive in..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0042.png`` -> ``archive/chapter-02/page-042.png``
+- **Available Scan Files in Section**: ``0042.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 9, left)`` (extracted as ``page-042.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-042.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 9, left)`` with complete margins and legible diplomatic text.

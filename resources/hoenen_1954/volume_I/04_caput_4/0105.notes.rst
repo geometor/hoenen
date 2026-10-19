@@ -1,0 +1,36 @@
+Folio 0105 (Page 105) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0104.rst``): Page 104, Caput IV [``04_caput_4``] — Ends: ``"In motu attendi possunt eius velocitas et eius causa. Prior no..."``
+- **Current Folio** (``0105.rst``): Page 105, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0106.rst``): Page 106, Caput IV [``04_caput_4``] — Begins: ``"Alter respectus secundum quem ad eam pertinet est hic : motus..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 6: ``Inde patet eos qui (forte iuxta ea quae Wellstein dicebat) incipere volunt a figuris, e...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Gregorianum* 1951 pagg. 449 sq.`` (``hoenen:1951:p449``)
+- **Folio Opening Line**: ``"sunt numeri pure cardinales, quantitas quae ita mensuratur, non est quan..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Duo autem sunt aspectus in ipso motu, secundum quos pertinet ad geometri..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``virtu-tis``, ``natura-lem``, ``effi-cientem``, ``geome-tria``, ``aspec-tus``, ``pro-priis``, ``mo-vetur``, ``posi-tione`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0105.png`` -> ``archive/chapter-04/page-105.png``
+- **Available Scan Files in Section**: ``0105.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 5, right)`` (extracted as ``page-105.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-105.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 5, right)`` with complete margins and legible diplomatic text.

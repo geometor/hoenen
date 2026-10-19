@@ -1,0 +1,36 @@
+Folio 0150 (Page 150) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0149.rst``): Page 149, Caput IV [``04_caput_4``] — Ends: ``"Hinc fit ut opus scientiae stricte dictae — scientiae conclusi..."``
+- **Current Folio** (``0150.rst``): Page 150, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0151.rst``): Page 151, Caput IV [``04_caput_4``] — Begins: ``"tia stricte dicta iam disparet. Attendentes ad formam syllogis..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 31: ``Repetimus : supponi tamen debet terminos sensum habere (id quod quidam axiomatici obliv...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"stricte dicti ; ad primam sufficit intuitus rectitudinis formae syllogis..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ea quae dicebamus spectant necessitatem propositionum. Sed in casu nostr..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``necessi-tatis``, ``con-sequentiae``, ``intui-tus``, ``principio-rum``, ``for-mae``, ``intelligi-mus``, ``uti-litas``, ``propositio-num`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0150.png`` -> ``archive/chapter-04/page-150.png``
+- **Available Scan Files in Section**: ``0150.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 29, left)`` (extracted as ``page-150.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-150.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 29, left)`` with complete margins and legible diplomatic text.

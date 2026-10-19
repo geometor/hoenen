@@ -1,0 +1,35 @@
+Folio 0081 (Page 81) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0080.rst``): Page 80, Caput III [``03_caput_3``] — Ends: ``"« Sumamus folium (v. g. papyraceum) quod habet figuram rectang..."``
+- **Current Folio** (``0081.rst``): Page 81, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0082.rst``): Page 82, Caput III [``03_caput_3``] — Begins: ``"In supra dictis legere possumus : In ente extenso, ut est exte..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (6): ``Zusammenhang`` (``zusammenhang``), ``folii Moebii`` (``folium-moebii``), ``folium Moebii`` (``folium-moebii``), ``folia Moebii`` (``folium-moebii``), ``foliis Moebii`` (``folium-moebii``), ``foliis Moebii`` (``folium-moebii``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Attendamus nunc ad id quod ex nostra operatione resultat. Estne vere sup..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Quia de tali corpore mentionem facimus, aliud animadvertere liceat, quod..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``re-sultat``, ``pla-num``, ``pro-funditate``, ``super-ficies``, ``animad-vertere``, ``unilatera-lem``, ``quae-dam``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0081.png`` -> ``archive/chapter-03/page-081.png``
+- **Available Scan Files in Section**: ``0081.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 1, right)`` (extracted as ``page-081.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-081.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

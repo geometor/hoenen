@@ -1,0 +1,36 @@
+Folio 0163 (Page 163) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0162.rst``): Page 162, Caput V [``05_caput_5``] — Ends: ``"Et hoc est fundamentum possibilitatis axiomaticae. Difficultas..."``
+- **Current Folio** (``0163.rst``): Page 163, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0164.rst``): Page 164, Caput V [``05_caput_5``] — Begins: ``"mens eam exercet antecedenter ad omnem theoriam logicam, quae..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. De syllogismo mentali et verbali noetice spectato.``, ``A) Activitas syllogizans est intuitiva.``, ``B) Activitas syllogizans est naturalis.``
+- **Footnotes on Folio (1)**:
+  - Footnote 4: ``De termino « dispositio rei » apud S. Thomam (qui est aequivalens termino germanico mod...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``dispositio rei`` (``dispositio-rei``), ``Sachverhalt`` (``sachverhalt``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Théorie du Jugement* Ch. II § 5`` (``hoenen:theorie-du-jugement:c2:s5``)
+- **Folio Opening Line**: ``"Syllogizando ratiocinari primarie est activitas mentis humanae, et quide..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Supra iam dicebamus hanc activitatem esse menti humanae naturalem, i. e."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``ratio-cinari``, ``acti-vitas``, ``opera-tione``, ``dua-bus``, ``ter-tiam``, ``ac-tivitas``, ``neces-sarium``, ``con-creto`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0163.png`` -> ``archive/chapter-05/page-163.png``
+- **Available Scan Files in Section**: ``0163.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 4, right)`` (extracted as ``page-163.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-163.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 4, right)`` with complete margins and legible diplomatic text.

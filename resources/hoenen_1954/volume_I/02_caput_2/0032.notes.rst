@@ -1,0 +1,35 @@
+Folio 0032 (Page 32) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0031.rst``): Page 31, Caput II [``02_caput_2``] — Ends: ``"Initia deductionis huius theorematis necessarii sunt haec. Si..."``
+- **Current Folio** (``0032.rst``): Page 32, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0033.rst``): Page 33, Caput II [``02_caput_2``] — Begins: ``"Immo talis experientia videtur esse necessaria in iudiciis de..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``4. Iudicium de additione numerorum : 7 + 5 = 12.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"tationes i. e. series ex his elementis compositae, quae solo ordine diff..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Poterit adesse. Fac enim nos adhuc nescire, quis sit numerus specificus..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0032.png`` -> ``archive/chapter-02/page-032.png``
+- **Available Scan Files in Section**: ``0032.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 4, left)`` (extracted as ``page-032.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-032.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

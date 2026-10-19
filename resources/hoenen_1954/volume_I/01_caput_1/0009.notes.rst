@@ -1,0 +1,34 @@
+Folio 0009 (Page 9) — Transcription & Calibration Notes
+=======================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0007.rst``): Page 7, Praefatio [``00_preface``] — Ends: ``"P. HOENEN S. J."``
+- **Current Folio** (``0009.rst``): Page 9, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0010.rst``): Page 10, Caput I [``01_caput_1``] — Begins: ``"materia, contentum, consideranda sunt. Ecce paraphrasim commen..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT I``, ``DE ORIGINE COGNITIONIS GEOMETRICAE``, ``ET DE EIUS PROBLEMATICA``, ``§ 1. DE LOCO PROPRIO HUIUS INQUISITIONIS IN PHILOSOPHIA.``
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (2)**: ``ἐπιστήμη``, ``νοῦς``
+- **Folio Opening Line**: ``"Initium sumimus ab expositione valde concisa evolutionis historicae prob..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Epistemologia generalis Aristotelis praesertim in eius Analyticis exponi..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``evolu-tionis``, ``se-quuntur``, ``inve-niantur``, ``Aris-totelis``, ``mo-dernorum``, ``prae-sertim``, ``de-monstrationes``, ``in-tellectu`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0009.png`` -> ``archive/chapter-01/page-009.png``
+- **Available Scan Files in Section**: ``0009.png``
+- **Archival Source Reference**: ``caput-1-01.png`` (extracted as ``page-009.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-009.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-01.png`` with complete margins and legible diplomatic text.

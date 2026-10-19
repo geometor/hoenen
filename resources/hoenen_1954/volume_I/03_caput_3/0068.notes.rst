@@ -1,0 +1,37 @@
+Folio 0068 (Page 68) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0067.rst``): Page 67, Caput III [``03_caput_3``] — Ends: ``"Immo nec possibiles sunt illae figurae : Secundum quodvis crit..."``
+- **Current Folio** (``0068.rst``): Page 68, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0069.rst``): Page 69, Caput III [``03_caput_3``] — Begins: ``"sionem pervenire videntur, transitum ex datis geometricis sens..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) Mathematici.``
+- **Footnotes on Folio (2)**:
+  - Footnote 3: ``J. STUART MILL, System of Logic I ed. 5 (1862) pag. 255 : « There exist no points witho...``
+  - Footnote 4: ``Ibid. pag. 257 : « The peculiar accuracy, supposed to be characteristic of the first pr...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``*minimi visibilis*`` (``minimum-visibile``), ``*minimum visibile*`` (``minimum-visibile``)
+- **Bibliographic Citations (``:cite:``)** (2): ``J. STUART MILL, *System of Logic* I ed. 5 (1862) pag. 255`` (``mill:1862:I.p255``), ``Ibid. pag. 257`` (``mill:1862:I.p257``)
+- **Folio Opening Line**: ``"propter « constitutionem planetae nostrae saltem, si non totius universi..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In critica mathematica moderna, mathematici non solent multum immorari i..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``ima-gines``, ``cir-culorum``, ``nos-tram``, ``defi-nitur``, ``positio-nem``, ``figu-rarum``, ``exac-tis``, ``diver-sas`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0068.png`` -> ``archive/chapter-03/page-068.png``
+- **Available Scan Files in Section**: ``0068.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 3, left)`` (extracted as ``page-068.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-068.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 3, left)`` with complete margins and legible diplomatic text.

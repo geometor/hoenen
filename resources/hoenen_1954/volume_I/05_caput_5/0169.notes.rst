@@ -1,0 +1,36 @@
+Folio 0169 (Page 169) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0168.rst``): Page 168, Caput V [``05_caput_5``] — Ends: ``"Si pars scientiae modo axiomatico construitur, vel potius si e..."``
+- **Current Folio** (``0169.rst``): Page 169, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0170.rst``): Page 170, Caput V [``05_caput_5``] — Begins: ``"etiam figura geometrica illustrari. Haec sane non additur, ut..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. Difficultates intrinsecae.``, ``A) Difficultas practica.``
+- **Footnotes on Folio (1)**:
+  - Footnote 8: ``« I believe the prime Number Theorem because of de la Vallée-Poussin's proof of it, but...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``in ed. 7 pag. 5-8`` (``hilbert:grundlagen:p5``), ``*Principia Mathematica*`` (``whitehead-russell:principia``), ``G. H. HARDY, *Mathematical proof* in periodico *Mind* 38 (1929) pag. 17`` (``hardy:1929:p17``)
+- **Folio Opening Line**: ``"intrinsecae) et difficultas in applicatione geometriae, quae est magis e..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Diximus demonstrationem theorematis 5 apud Hilbert"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``theo-rematis``, ``expri-muntur``, ``axio-maticam``, ``demonstra-tionem``, ``theo-rema``, ``sta-bilitum``, ``platoni-corum``, ``hilber-tianam`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0169.png`` -> ``archive/chapter-05/page-169.png``
+- **Available Scan Files in Section**: ``0169.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 8, right)`` (extracted as ``page-169.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-169.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 8, right)`` with complete margins and legible diplomatic text.

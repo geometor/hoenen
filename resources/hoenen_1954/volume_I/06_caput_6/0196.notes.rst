@@ -1,0 +1,35 @@
+Folio 0196 (Page 196) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0195.rst``): Page 195, Caput VI [``06_caput_6``] — Ends: ``"Constat : si (praeter alia axiomata consueta) postulatum V Euc..."``
+- **Current Folio** (``0196.rst``): Page 196, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0197.rst``): Page 197, Caput VI [``06_caput_6``] — Begins: ``"Notio directionis lineae relate ad « spatium » ambiens ad prim..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"intelligitur ut linea constantis directionis) quae eandem (specifice) ha..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et id fieri potest, immo debet. Nam haec structura nobis est pervia per..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``spe-cifice``, ``conse-quenter``, ``tan-tum``, ``directio-nem``, ``po-stulatum``, ``euclidi-cum``, ``direc-tionum``, ``gaussia-nam`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0196.png`` -> ``archive/chapter-06/page-196.png``
+- **Available Scan Files in Section**: ``0196.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 2, left)`` (extracted as ``page-196.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-196.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 2, left)`` with complete margins and legible diplomatic text.

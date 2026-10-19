@@ -1,0 +1,35 @@
+Folio 0065 (Page 65) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0064.rst``): Page 64, Caput II [``02_caput_2``] — Ends: ``"Et ita in his considerationibus iam finis noster principalis o..."``
+- **Current Folio** (``0065.rst``): Page 65, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0066.rst``): Page 66, Caput III [``03_caput_3``] — Begins: ``"a rectis ; consequenter nunquam possunt decidere, lineam datam..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT III``, ``DE PROBLEMATE EXACTITUDINIS``, ``PARS I``, ``DE EXISTENTIA INDIVISIBILIUM``, ``§ 1. DE POSITIONE PROBLEMATIS.``, ``1. In quonam consistat problema.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (2): ``principii individuationis`` (``principium-individuationis``), ``principii individuationis`` (``principium-individuationis``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Iam agendum erit de altero problemate, quod solvendum inveniebamus, de p..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Recolamus ex praecedentibus, problema exactitudinis in hoc consistere :..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``solven-dum``, ``exacti-tudo``, ``po-stulant``, ``me-dio``, ``indi-viduationis``, ``consi-derantur``, ``dimensio-nes``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0065.png`` -> ``archive/chapter-03/page-065.png``
+- **Available Scan Files in Section**: ``0065.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 1, right)`` (extracted as ``page-065.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-065.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0269 (Page 269) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0268.rst``): Page 268, Appendix [``08_appendix``] — Ends: ``"Ultimum in hoc differt a caeteris, quod in his subiectum mobil..."``
+- **Current Folio** (``0269.rst``): Page 269, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0270.rst``): Page 270, Appendix [``08_appendix``] — Begins: ``"Ex eis, quae supra describuntur, quaedam aliae relationes exis..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (3): ``cogito ergo sum, sive existo`` (``cogito-ergo-sum``), ``actu exercito`` (``in-actu-exercito``), ``actum signatum`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"attingi, debet per medium motum, existit tantum intentionaliter. Sed hoc..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Formulae igitur hoc commune habent, quod id quod a nobis prius cognoscit..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0269.png`` -> ``archive/appendix/page-269.png``
+- **Available Scan Files in Section**: ``0269.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 16, right)`` (extracted as ``page-269.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-269.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 16, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0218 (Page 218) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0217.rst``): Page 217, Caput VI [``06_caput_6``] — Ends: ``"6. A parte rei, antecedenter ad observationem nostram, cuius e..."``
+- **Current Folio** (``0218.rst``): Page 218, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0219.rst``): Page 219, Caput VI [``06_caput_6``] — Begins: ``"statim intelligimus, inter quae propria « exacta », et ita ori..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"relationes in quantum sunt durationes. Omnes quae simul incipiunt, sive..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Notio simultaneitatis est notio primitiva. Inde definitione technica def..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``exis-tentia``, ``exis-tentiam``, ``Ex-tensio``, ``definitio-ne``, ``intelli-guntur``, ``illo-rum``, ``nos-trae``, ``prae-ter``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0218.png`` -> ``archive/chapter-06/page-218.png``
+- **Available Scan Files in Section**: ``0218.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 14, left)`` (extracted as ``page-218.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-218.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 14, left)`` with complete margins and legible diplomatic text.

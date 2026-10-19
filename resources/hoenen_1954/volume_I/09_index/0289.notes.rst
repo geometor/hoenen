@@ -1,0 +1,35 @@
+Folio 0289 (Page 289) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0288.rst``): Page 288, Appendix [``08_appendix``] — Ends: ``"In omnibus his materiis adesse videtur occasio abundans, ex ca..."``
+- **Current Folio** (``0289.rst``): Page 289, Index Analyticus [``09_index``] — Status: ``ok``
+- **Following Folio** (``0290.rst``): Page 290, Index Analyticus [``09_index``] — Begins: ``"PAG."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``INDEX ANALYTICUS``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"PAG."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"2. - Iterum de theoriis cognitionis relate ad experientiam . . . . 50"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0289.png`` -> ``archive/index/page-289.png``
+- **Available Scan Files in Section**: ``0289.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 4, right)`` (extracted as ``page-289.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-289.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 4, right)`` with complete margins and legible diplomatic text.

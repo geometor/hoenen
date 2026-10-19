@@ -1,0 +1,36 @@
+Folio 0075 (Page 75) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0074.rst``): Page 74, Caput III [``03_caput_3``] — Ends: ``"Hic igitur limes est superficies et describi potest : « id per..."``
+- **Current Folio** (``0075.rst``): Page 75, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0076.rst``): Page 76, Caput III [``03_caput_3``] — Begins: ``"Linea sub alio respectu (in quantum est « iuxta » partes) est..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) Linea et punctum.``
+- **Footnotes on Folio (1)**:
+  - Footnote 7: ``Forte aliquis ex hac inspectione in superficiem corporis limitati iam vellet habere ide...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"aliam » ; et tunc praecise sub respectu sub quo per id fit transitus, es..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Relate ad hanc divisibilitatem superficiei similis consideratio, ac supr..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``in-tellective``, ``neces-sitatem``, ``exacti-tudo``, ``tran-situs``, ``uti-que``, ``se-cundum``, ``mani-festat``, ``indivisi-bilis`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0075.png`` -> ``archive/chapter-03/page-075.png``
+- **Available Scan Files in Section**: ``0075.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 6, right)`` (extracted as ``page-075.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-075.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 6, right)`` with complete margins and legible diplomatic text.

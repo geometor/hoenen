@@ -1,0 +1,35 @@
+Folio 0204 (Page 204) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0203.rst``): Page 203, Caput VI [``06_caput_6``] — Ends: ``"Extensio ut est origo, subiectum fundamentale, geometriae saep..."``
+- **Current Folio** (``0204.rst``): Page 204, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0205.rst``): Page 205, Caput VI [``06_caput_6``] — Begins: ``"hanc igitur similitudinem, sine ulla quaestione intelligitur,..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (4): ``*Gregorianum*, 1951, pag. 441`` (``hoenen:1951:gregorianum``), ``*Filosof. della nat. inorg.* pagg. 131 sqq.`` (``hoenen:1949:filosofia-natura``), ``*Cosmologia* Lib. I cap. I art. 1, in ed. 4 pagg. 7-40`` (``hoenen:1949:cosmologia``), ``*Filos. d. nat. inorg.* cap. II § 1 pagg. 57-72`` (``hoenen:1949:filosofia-natura``)
+- **Folio Opening Line**: ``"supra II § 2 n. 2, IV § 2, contra Russell, cfr. etiam Gregorianum, 1951,..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In hac consideratione unum praesertim est clarum : haec possibilitas con..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (17)**: ``Grego-rianum``, ``di-camus``, ``se-cundum``, ``prae-sentia``, ``inter-medium``, ``dis-tantia``, ``se-cundum``, ``compo-nitur`` (+9 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0204.png`` -> ``archive/chapter-06/page-204.png``
+- **Available Scan Files in Section**: ``0204.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 6, left)`` (extracted as ``page-204.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-204.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 6, left)`` with complete margins and legible diplomatic text.

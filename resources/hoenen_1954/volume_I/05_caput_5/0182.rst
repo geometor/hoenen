@@ -7,46 +7,10 @@
 :language: la
 :status: ok
 
-bolo p in axiomate quod vocatur « tautologia » et quod di-
-cit : « p vel p implicat p » (\*1.2). Ex hac substitutione re-
-sultat (1) : « non-p vel non-p implicat non-p ». Affirmatio
-huius resultati non est nisi applicatio regulae generalis
-primitivae substitutionis legitimae (Propositio quae per
-talem substitutionem legitimam resultat ex propositione
-valida, vel vera, est valida). Sed ipsum contentum resultati
+bolo *p* in axiomate quod vocatur « tautologia » et quod dicit : « *p* vel *p* implicat *p* » (\*1.2). Ex hac substitutione resultat (1) : « non-*p* vel non-*p* implicat non-*p* ». *Affirmatio* huius resultati non est nisi applicatio regulae generalis primitivae substitutionis legitimae (Propositio quae per talem substitutionem legitimam resultat ex propositione valida, vel vera, est valida). Sed ipsum *contentum* resultati i. e. propositio *specifica* resultans, non cognoscitur nisi per manipulationem realem et intuitionem in data sensitiva. Nam interrogamus : undenam scimus, formulam (1) et non aliam resultare per substitutionem indicatam in formulam axiomatis ? Est casus similis casui algebraico supra exposito. Non videtur in regula generali ; haec affirmat tantum modo universali legitimitatem substitutionis ; ut inde habeatur resultatum *specificum* ulterius determinanda est — hoc fit in singulis applicationibus regulae generalis — et necessaria est inspectio datorum sensitivorum, appellatio ad intuitionem. In nostro casu, in ipsissimo primo gressu deductionis, haec operatio est simplicissima, sed possunt dari casus etiam valde complicati. Iste intuitus sensitivus simul est cum intuitione intellectiva necessitatis, sicut in casu algebraico ; resultatum, etiam quoad « contentum » sive « determinationem » specificam cognoscitur ut necessarium non contingens. Dein ex applicatione regulae generalis supra enuntiatae substitutionis legitimae, formulam resultantem, cum contento specifico, affirmamus; est iudicium necessarium, non contingens.
 
-i. e. propositio specifica resultans, non cognoscitur nisi per
-manipulationem realem et intuitionem in data sensitiva.
-Nam interrogamus : undenam scimus, formulam (1) et non
-aliam resultare per substitutionem indicatam in formulam
-axiomatis ? Est casus similis casui algebraico supra exposito.
-Non videtur in regula generali ; haec affirmat tantum modo
-universali legitimatem substitutionis ; ut inde habeatur
-resultatum specificum ulterius determinanda est — hoc
-fit in singulis applicationibus regulae generalis — et neces-
-saria est inspectio datorum sensitivorum, appellatio ad intui-
-tionem. In nostro casu, in ipsissimo primo gressu deduc-
-tionis, haec operatio est simplicissima, sed possunt dari
-casus etiam valde complicati. Iste intuitus sensitivus simul
-est cum intuitione intellectiva necessitatis, sicut in casu
-algebraico ; resultatum, etiam quoad « contentum » sive
-« determinationem » specificam cognoscitur ut necessarium
-non contingens. Dein ex applicatione regulae generalis su-
-pra enuntiatae substitutionis legitimae, formulam resultan-
-tem, cum contento specifico, affirmamus; est iudicium ne-
-cessarium, non contingens.
-Et haec semper iterum recurrunt, in singulis fere gres-
-sibus deductionis logisticae, quae est ars quaedam combi-
-natoria secundum regulas determinatas, primitivas et de-
-ductas.
-Et animadvertamus adhuc : haec phantasmata vel data
-sensitiva in genere, non tantum continent multitudinem
-symbolorum, sed etiam eorum ordinem spatialem, geome-
-tricum. In ipsis scientiis non geometricis, in ipsa deductione
-necessarius est recursus ad phantasmata geometrica ; et
-hae methodi valde laudantur propter suum « rigorem » de-
-ductivum. Quare igitur, nomine rigoris hic recursus in ipsa
-geometria excluditur ?
-Notamus insuper : in logistica, secundum Whitehead
-et Russell, et in aliis quoque systematibus, ipsi numeri
-arithmetici non ut cogniti supponuntur ; eorum notiones
+Et haec semper iterum recurrunt, in singulis fere gressibus deductionis logisticae, quae est ars quaedam combinatoria secundum regulas determinatas, primitivas et deductas.
+
+Et animadvertamus adhuc : haec phantasmata vel data sensitiva in genere, non tantum continent *multitudinem* symbolorum, sed etiam eorum ordinem spatialem, geometricum. In ipsis scientiis non geometricis, in ipsa deductione necessarius est recursus ad phantasmata geometrica ; et hae methodi valde laudantur propter suum « rigorem » deductivum. Quare igitur, nomine rigoris hic recursus in ipsa geometria excluditur ?
+
+Notamus insuper : in logistica, secundum :person:`Whitehead <whitehead>` et :person:`Russell <russell>`, et in aliis quoque systematibus, ipsi numeri arithmetici non ut cogniti supponuntur ; eorum notiones

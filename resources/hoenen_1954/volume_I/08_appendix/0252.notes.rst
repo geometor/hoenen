@@ -1,0 +1,34 @@
+Folio 0252 (Page 252) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0251.rst``): Page 251, Appendix [``08_appendix``] — Ends: ``"In *Phys.* V 1 (225 a 25 sqq.), ubi Aristoteles motum stricte..."``
+- **Current Folio** (``0252.rst``): Page 252, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0253.rst``): Page 253, Appendix [``08_appendix``] — Begins: ``"tia attentione dignissima est. Aristoteles hunc processum desc..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (3)**: ``εἰ πᾶν τὸ κινούμενον ἐν τόπῳ``, ``τὸ δὲ μὴ ὂν οὐκ ἔστιν ἐν τόπῳ``, ``εἴη γὰρ ἄν που``
+- **Folio Opening Line**: ``"Haec de omni motu dicuntur. Altera consideratio Aristotelis, quae direct..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"*C).* Iuxta auctores nostros et alia convenientia existit inter haec pri..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0252.png`` -> ``archive/appendix/page-252.png``
+- **Available Scan Files in Section**: ``0252.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 4, left)`` (extracted as ``page-252.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-252.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

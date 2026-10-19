@@ -1,0 +1,35 @@
+Folio 0171 (Page 171) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0170.rst``): Page 170, Caput V [``05_caput_5``] — Ends: ``"Et in tali casu « appellationis » ad phantasma disposi-"``
+- **Current Folio** (``0171.rst``): Page 171, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0172.rst``): Page 172, Caput V [``05_caput_5``] — Begins: ``"designari poterunt, ut punctum designatum per B situm sit inte..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Dernières Pensées* pagg. 93-95`` (``poincare:dernieres-pensees:p93``), ``ibid. pag. 271`` (``poincare:dernieres-pensees:p271``)
+- **Folio Opening Line**: ``"tio rei quae aspicitur, est potius geometrica quam « logica » ; et habeb..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ecce enuntiatio huius theorematis 6 : « In quovis numero dato punctorum..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``immedia-tam``, ``cam-pus``, ``commen-dentur``, ``geome-tricum``, ``exami-nandae``, ``deduc-tione``, ``con-struit``, ``deductioni-bus`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0171.png`` -> ``archive/chapter-05/page-171.png``
+- **Available Scan Files in Section**: ``0171.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 9, right)`` (extracted as ``page-171.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-171.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 9, right)`` with complete margins and legible diplomatic text.

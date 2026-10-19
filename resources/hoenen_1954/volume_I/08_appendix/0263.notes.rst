@@ -1,0 +1,36 @@
+Folio 0263 (Page 263) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0262.rst``): Page 262, Appendix [``08_appendix``] — Ends: ``"Hume docuisse dicitur possibilitatem relationis necessariae in..."``
+- **Current Folio** (``0263.rst``): Page 263, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0264.rst``): Page 264, Appendix [``08_appendix``] — Begins: ``"ipsa impossibilitatem suggerit. Sed et in hoc casu, simili mod..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 12: ``Propria generica eius entis actualis, quod munere loci fungitur, et conditiones quae, p...``
+- **Glossary & Foreign Terms (``:term:``)** (3): ``hoc movetur localiter ergo locus est`` (``hoc-movetur-ergo-locus-est``), ``hoc movetur ergo est`` (``movetur-ergo-est``), ``cogito ergo sum`` (``cogito-ergo-sum``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Cosmologiam* de « ubi »`` (``hoenen:cosmologia:ubi``)
+- **Folio Opening Line**: ``"§ 27). Immo videtur id etiam extendendum esse ad substantiam et accidens..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Hume tantum in problema causalitatis (efficientis) inquirebat et ibi sua..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0263.png`` -> ``archive/appendix/page-263.png``
+- **Available Scan Files in Section**: ``0263.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 13, right)`` (extracted as ``page-263.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-263.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

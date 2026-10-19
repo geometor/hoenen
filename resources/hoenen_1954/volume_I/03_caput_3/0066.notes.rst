@@ -1,0 +1,35 @@
+Folio 0066 (Page 66) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0065.rst``): Page 65, Caput III [``03_caput_3``] — Ends: ``"Recolamus ex praecedentibus, problema exactitudinis in hoc con..."``
+- **Current Folio** (``0066.rst``): Page 66, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0067.rst``): Page 67, Caput III [``03_caput_3``] — Begins: ``"Inde haec propositio de summa angulorum trianguli nunquam pote..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. Quaedam historica.``, ``A) Philosophi.``
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``87 b 35 : καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι δυσὶν ὀρθαῖς ἴσας ἔχει τὰς γωνίας, ἐζητ...``
+- **Classical Greek Philosophical Terms (3)**: ``καὶ εἰ ἦν αἰσθάνεσθαι τὸ τρίγωνον ὅτι...``, ``ἐζητοῦμεν ἂν ἀπόδειξιν καὶ οὐχ ὥσπερ...``, ``μεθα``
+- **Folio Opening Line**: ``"a rectis ; consequenter nunquam possunt decidere, lineam datam esse rect..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Principale, ad quod nunc attendendum, non est consequens huius condition..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``su-perficies``, ``dicen-dum``, ``infi-nitum``, ``prae-sertim``, ``ma-thematici``, ``angu-los``, ``demonstra-tionem``, ``habere-mus`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0066.png`` -> ``archive/chapter-03/page-066.png``
+- **Available Scan Files in Section**: ``0066.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 2, left)`` (extracted as ``page-066.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-066.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 2, left)`` with complete margins and legible diplomatic text.

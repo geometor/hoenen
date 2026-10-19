@@ -1,0 +1,36 @@
+Folio 0159 (Page 159) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0158.rst``): Page 158, Caput V [``05_caput_5``] — Ends: ``"Sed est diversum ab axiomatica sensu moderno. Aristoteles pro..."``
+- **Current Folio** (``0159.rst``): Page 159, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0160.rst``): Page 160, Caput V [``05_caput_5``] — Begins: ``"natura noetica intellectus ; tunc in altera scientia versamur,..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. Semi-axiomatica.``
+- **Footnotes on Folio (1)**:
+  - Footnote 2: ``Cfr. discussionem inter Cl. Freudenthal et auctorem in Gregor. 1951. H. FR., De fontibu...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``la doctrine préalable`` (``doctrine-prealable``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Analytica Posteriora*`` (``aristotle:anal-post``), ``H. FR., *De fontibus geometriae in intuitione et abstractione quaerendis* pagg. 425-433`` (``freudenthal:1951:p425``), ``*De noetica geometriae, responsum ad animadversiones Cl. Fr.* pagg. 434-452`` (``hoenen:1951:p434``)
+- **Folio Opening Line**: ``"ratiocinium est « demonstratio ». Et haec veritas ut necessaria etiam co..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Etiam systema quoddam, quodammodo intermedium, describitur, vel saltem i..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``neces-saria``, ``axio-matibus``, ``sys-temate``, ``no-mine``, ``scien-tiam``, ``concre-tionis``, ``scien-tia``, ``psycholo-gia`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0159.png`` -> ``archive/chapter-05/page-159.png``
+- **Available Scan Files in Section**: ``0159.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 2, right)`` (extracted as ``page-159.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-159.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 2, right)`` with complete margins and legible diplomatic text.

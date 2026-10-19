@@ -1,0 +1,36 @@
+Folio 0122 (Page 122) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0121.rst``): Page 121, Caput IV [``04_caput_4``] — Ends: ``"Dantur igitur lineae sensibiliter rectae et curvae et de earum..."``
+- **Current Folio** (``0122.rst``): Page 122, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0123.rst``): Page 123, Caput IV [``04_caput_4``] — Begins: ``"Praecipua quae inquirenda sunt, ut ex supra dictis sequitur, h..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 12: ``Bene tamen notandum est : propositiones « geometriae inexactae » vel « approximativae »...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"sunt incurvatae ; quae habent faciem concavam et oppositam, convexam. Da..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Utrum in geometria exacta, recta, planum et eorum connexiones, secundum..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``sen-sibiliter``, ``su-perficie``, ``sen-sibiliter``, ``observan-dum``, ``conti-neant``, ``praecedenti-bus``, ``ex-plicite``, ``iudi-cia`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0122.png`` -> ``archive/chapter-04/page-122.png``
+- **Available Scan Files in Section**: ``0122.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 15, left)`` (extracted as ``page-122.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-122.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 15, left)`` with complete margins and legible diplomatic text.

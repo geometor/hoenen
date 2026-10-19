@@ -1,0 +1,35 @@
+Folio 0185 (Page 185) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0184.rst``): Page 184, Caput V [``05_caput_5``] — Ends: ``"Extremum specimen in hoc contextu est illud quod Aristoteles p..."``
+- **Current Folio** (``0185.rst``): Page 185, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0186.rst``): Page 186, Caput V [``05_caput_5``] — Begins: ``"gistico. Hi syllogismi sunt primarie mentales et conducunt ad..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``distinguo`` (``distinguo``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"extremum, sed minus extrema frequenter occurrunt. Et in methodo classica..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Homo in scientiis realitatem attingere intendit, sed propter imperfectio..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``ra-tiocinium``, ``deduc-tionis``, ``adhi-bentur``, ``rigo-rem``, ``sacri-ficat``, ``in-venire``, ``con-structione``, ``suf-ficienter`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0185.png`` -> ``archive/chapter-05/page-185.png``
+- **Available Scan Files in Section**: ``0185.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 15, right)`` (extracted as ``page-185.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-185.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 15, right)`` with complete margins and legible diplomatic text.

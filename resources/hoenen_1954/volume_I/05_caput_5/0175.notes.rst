@@ -1,0 +1,35 @@
+Folio 0175 (Page 175) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0174.rst``): Page 174, Caput V [``05_caput_5``] — Ends: ``"Haec quae detegimus in examine noetico propositionum relationa..."``
+- **Current Folio** (``0175.rst``): Page 175, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0176.rst``): Page 176, Caput V [``05_caput_5``] — Begins: ``"Et videbamus Euclidem laudandum esse eo quod etiam in media de..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 4. De appellatione ad phantasma in aliis scientiis.``, ``1. Animadversiones generales.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"deductione. Tantum logistici in unum corpus « axiomatum » interdum simul..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Geometria igitur, propter difficultates tum practicas tum theoreticas, c..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``agi-tur``, ``ta-citae``, ``ma-gnam``, ``inve-niuntur``, ``axio-maticus``, ``con-siderabimus``, ``indi-get``, ``sym-bolorum`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0175.png`` -> ``archive/chapter-05/page-175.png``
+- **Available Scan Files in Section**: ``0175.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 10, right)`` (extracted as ``page-175.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-175.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 10, right)`` with complete margins and legible diplomatic text.

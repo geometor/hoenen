@@ -1,0 +1,36 @@
+Folio 0006 (Page 6) — Transcription & Calibration Notes
+=======================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0005.rst``): Page 5, Praefatio [``00_preface``] — Ends: ``"Sed habemus quoque rationem profundiorem et decisivam, quare s..."``
+- **Current Folio** (``0006.rst``): Page 6, Praefatio [``00_preface``] — Status: ``ok``
+- **Following Folio** (``0007.rst``): Page 7, Praefatio [``00_preface``] — Begins: ``"nis philosophicis hoc exercitium practicum continuum, cui mens..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``6 — PRAEFATIO``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 2: ``La théorie du jugement d'après St. Thomas d'Aquin ed. 1, 1946, ed. 2 aucta et emendata,...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``in actu exercito`` (``in-actu-exercito``), ``actum signatum`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*La théorie du jugement d'après St. Thomas d'Aquin* ed. 1, 1946`` (``hoenen:theorie-du-jugement:1946``), ``ed. 2 aucta et emendata, 1953`` (``hoenen:theorie-du-jugement:1953``), ``*Reality and Judgment according to St. Thomas*, Chicago 1952`` (``hoenen:reality-and-judgment:1952``)
+- **Folio Opening Line**: ``"rum, indemonstrabilium, contenti simus, immo contenti esse debeamus. Nam..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Cosmologiam scholasticam, sine talibus indagationibus, praeviis vel simu..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (5)**: ``inqui-rendi``, ``gi-gnit``, ``noe-tica``, ``in-tendimus``, ``fre-quenter``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0006.png`` -> ``archive/preface/page-006.png``
+- **Available Scan Files in Section**: ``0006.png``
+- **Archival Source Reference**: ``preface-2.png`` (extracted as ``page-006.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-006.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``preface-2.png`` with complete margins and legible diplomatic text.

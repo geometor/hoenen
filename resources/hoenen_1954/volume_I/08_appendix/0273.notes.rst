@@ -1,0 +1,35 @@
+Folio 0273 (Page 273) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0272.rst``): Page 272, Appendix [``08_appendix``] — Ends: ``"Universalem relationem inter actus existentiales iam describeb..."``
+- **Current Folio** (``0273.rst``): Page 273, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0274.rst``): Page 274, Appendix [``08_appendix``] — Begins: ``"tis, relatio necessaria est inter actualitatem nobis prius not..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 18: ``Hoc adagium in illo loco originaliter applicatur ad arguendam prioritatem actus relate...``
+- **Classical Greek Philosophical Terms (1)**: ``ποιοῦντες γιγνώσκουσιν``
+- **Folio Opening Line**: ``"§ 5). Ibi via describitur secundum quam S. Thomas conditiones stabilire..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Et in hoc quoque casu, sicut in casibus supra examina-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0273.png`` -> ``archive/appendix/page-273.png``
+- **Available Scan Files in Section**: ``0273.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 19, right)`` (extracted as ``page-273.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-273.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 19, right)`` with complete margins and legible diplomatic text.

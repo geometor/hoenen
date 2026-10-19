@@ -1,0 +1,35 @@
+Folio 0078 (Page 78) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0077.rst``): Page 77, Caput III [``03_caput_3``] — Ends: ``"Quid sit dimensio, definitione technica, quae constat ex gener..."``
+- **Current Folio** (``0078.rst``): Page 78, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0079.rst``): Page 79, Caput III [``03_caput_3``] — Begins: ``"ficie, quam in capite secundo (§ 2 n. 6 pag. 46) iam considera..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``4. De obiectione ex « folio Moebii » desumpta.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``*folio Moebii*`` (``folium-moebii``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Cosmologiam* ed. 4 pagg. 471-474`` (``hoenen:cosmologia:p471-474``)
+- **Folio Opening Line**: ``"haec notio est perfecte clara ; quid sit, perfecte intelligitur ex proce..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Methodus nostra investigandi notiones superficiei, dein lineae, dein pun..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``dimen-siones``, ``dimen-sionis``, ``dimensio-nis``, ``dimen-sionum``, ``positio-nem``, ``quaestio-nem``, ``tan-quam``, ``qui-busdam``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0078.png`` -> ``archive/chapter-03/page-078.png``
+- **Available Scan Files in Section**: ``0078.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 8, left)`` (extracted as ``page-078.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-078.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

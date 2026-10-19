@@ -1,0 +1,35 @@
+Folio 0154 (Page 154) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0153.rst``): Page 153, Caput IV [``04_caput_4``] — Ends: ``"Inter eos sunt quidam qui non sunt syllogismi formales, sed vi..."``
+- **Current Folio** (``0154.rst``): Page 154, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0155.rst``): Page 155, Caput IV [``04_caput_4``] — Begins: ``"tuitione sensitiva coniunguntur, in analysi accurate deteguntu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"gismi virtuales absque dubio occurrunt in modo procedendi mentis humanae."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Relate ad hos processus mentis humanae adhuc observari potest : saepius..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``exis-tentia``, ``de-tegitur``, ``mate-rialia``, ``contine-tur``, ``pro-positione``, ``fa-cile``, ``obser-vari``, ``con-sulere`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0154.png`` -> ``archive/chapter-04/page-154.png``
+- **Available Scan Files in Section**: ``0154.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 31, left)`` (extracted as ``page-154.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-154.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 31, left)`` with complete margins and legible diplomatic text.

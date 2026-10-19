@@ -1,0 +1,35 @@
+Folio 0051 (Page 51) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0050.rst``): Page 50, Caput II [``02_caput_2``] — Ends: ``"Breviter dici potest : empirismus negligit diversitatem inter..."``
+- **Current Folio** (``0051.rst``): Page 51, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0052.rst``): Page 52, Caput II [``02_caput_2``] — Begins: ``"utilem comparationem iterum instituendam ducunt. In I Sent. Di..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 11: ``Hoc adagium mitigandum est per additum : « nisi ipse intellectus ». Id tribuitur Leibni...``
+- **Classical Greek Philosophical Terms (2)**: ``διὸ τὰς μὲν ἀρχὰς τὰς περὶ ἕκαστον ἐμ...``, ``τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φ...``
+- **Folio Opening Line**: ``"quod in physica deest intuitio naturae necessariae nexus, quae in geomet..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec est doctrina quam S. Thomas profitetur, ubi originem principiorum n..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0051.png`` -> ``archive/chapter-02/page-051.png``
+- **Available Scan Files in Section**: ``0051.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 13, right)`` (extracted as ``page-051.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-051.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0177 (Page 177) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0176.rst``): Page 176, Caput V [``05_caput_5``] — Ends: ``"2) Hae relationes locales sunt relationes in ordine existentia..."``
+- **Current Folio** (``0177.rst``): Page 177, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0178.rst``): Page 178, Caput V [``05_caput_5``] — Begins: ``": translatio termini (vel complexus terminorum) ex uno membro..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. In deductione scientifica.``, ``A) De arithmetica.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"De connexionibus necessariis inter actus existentiales in appendice)."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Dicimus : in deductione arithmetica talis recursus ad phantasma iterum i..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``ap-pendice``, ``successi-vus``, ``prin-cipium``, ``ex-tensionis``, ``rigi-dorum``, ``prio-ritas``, ``debeba-mus``, ``cor-pora`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0177.png`` -> ``archive/chapter-05/page-177.png``
+- **Available Scan Files in Section**: ``0177.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 11, right)`` (extracted as ``page-177.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-177.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 11, right)`` with complete margins and legible diplomatic text.

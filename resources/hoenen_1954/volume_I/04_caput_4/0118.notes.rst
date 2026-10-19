@@ -1,0 +1,35 @@
+Folio 0118 (Page 118) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0117.rst``): Page 117, Caput IV [``04_caput_4``] — Ends: ``"Et nota insuper : figurae congruentes « solo situ » in extensi..."``
+- **Current Folio** (``0118.rst``): Page 118, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0119.rst``): Page 119, Caput IV [``04_caput_4``] — Begins: ``"rando duo parva segmenta linearum (etiam sensibiliter curvarum..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. De continuo directionum.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"versis punctis ambientis coincidant. Post introductam comparationem dire..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Nam etiam alio modo continuitas in hoc problemate consideranda est. Inci..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``com-parationem``, ``intelli-gimus``, ``occu-patis``, ``admit-tit``, ``quae-dam``, ``directio-num``, ``di-rectiones``, ``trans-eunt`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0118.png`` -> ``archive/chapter-04/page-118.png``
+- **Available Scan Files in Section**: ``0118.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 13, left)`` (extracted as ``page-118.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-118.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 13, left)`` with complete margins and legible diplomatic text.

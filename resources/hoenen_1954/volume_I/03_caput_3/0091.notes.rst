@@ -1,0 +1,34 @@
+Folio 0091 (Page 91) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0090.rst``): Page 90, Caput III [``03_caput_3``] — Ends: ``"Citons quelques exemples. Nous savons qu'il existe des fonctio..."``
+- **Current Folio** (``0091.rst``): Page 91, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0092.rst``): Page 92, Caput III [``03_caput_3``] — Begins: ``"finitur, in origine non habet tangentem, quamvis et ibi sit co..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``π``
+- **Folio Opening Line**: ``"». Comment l'intuition peut-elle nous tromper à ce point ? C'est que qua..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Functio autem ita definita est ubique continua : et tamen in ipsa origin..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``par-venons``, ``tra-verser``, ``expri-mitur``, ``correspon-det``, ``coordina-tarum``, ``ampli-tudinem``, ``Ver-sus``, ``ratio-nabiliter`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0091.png`` -> ``archive/chapter-03/page-091.png``
+- **Available Scan Files in Section**: ``0091.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 14, right)`` (extracted as ``page-091.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-091.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 14, right)`` with complete margins and legible diplomatic text.

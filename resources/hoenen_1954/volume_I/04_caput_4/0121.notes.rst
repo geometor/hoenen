@@ -1,0 +1,34 @@
+Folio 0121 (Page 121) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0120.rst``): Page 120, Caput IV [``04_caput_4``] — Ends: ``"Quae de diversis lineis dicebamus, applicari possunt ad partes..."``
+- **Current Folio** (``0121.rst``): Page 121, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0122.rst``): Page 122, Caput IV [``04_caput_4``] — Begins: ``"sunt incurvatae ; quae habent faciem concavam et oppositam, co..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``5. De superficie.``
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (5)**: ``εὐθεῖα γραμμή ἐστιν``, ``ἥτις ἐξ ἴσου τοῖς ἐφ``, ``ἑαυτῆς σημείοις κεῖται``, ``ἑπόμενόν ἐστι τῷ ῥύσιν εἶναι τοῦ σημε...``, ``θεῖαν ὁμαλὴν καὶ ἀπαρέγκλιτον ῥύσιν``
+- **Folio Opening Line**: ``"Si in uno puncto habetur abrupte mutatio directionis, erit « linea fract..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Dantur igitur lineae sensibiliter rectae et curvae et de earum definitio..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``exis-tere``, ``loqui-tur``, ``rectitu-dine``, ``respon-dere``, ``insti-tuebamus``, ``quaecum-que``, ``in-fert``, ``inves-tigandum`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0121.png`` -> ``archive/chapter-04/page-121.png``
+- **Available Scan Files in Section**: ``0121.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 14, right)`` (extracted as ``page-121.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-121.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 14, right)`` with complete margins and legible diplomatic text.

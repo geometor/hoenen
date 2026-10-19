@@ -1,0 +1,37 @@
+Folio 0018 (Page 18) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0017.rst``): Page 17, Caput I [``01_caput_1``] — Ends: ``"Moderniores, certe inde a Cartesio, has proportiones omnes ut..."``
+- **Current Folio** (``0018.rst``): Page 18, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0019.rst``): Page 19, Caput I [``01_caput_1``] — Begins: ``"Difficultatem quamdam, quam habemus, omittimus sicut etiam mod..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``18 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 7: ``Op. cit. in ed. 2 (Leipzig 1907) pag. 7. « In allen diesen praktischen Gebieten gibt es...``
+  - Footnote 8: ``« Im ideellen Gebiet der Arithmetik gibt es keinen endlichen Schwellenwert, wie im empi...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``insieme`` (``insieme``), ``*limen exactitudinis*`` (``limen-exactitudinis``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Anwendung der Differential- und Integralrechnung. Eine Revision der Prinzipien*`` (``klein:1907``), ``Op. cit. in ed. 2 (Leipzig 1907) pag. 7`` (``klein:1907:p7``), ``op. cit. pag. 11`` (``klein:1907:p11``)
+- **Folio Opening Line**: ``"proportionum in continuo, ita moderni habent continuum numerorum, « insi..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"« In regione ideali Arithmeticae non datur valor liminaris finitus, sicu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``con-tinet``, ``transcen-dentes``, ``deduceba-tur``, ``difficul-tates``, ``defec-tum``, ``dedu-ceretur``, ``Inte-gralrechnung``, ``men-sura`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0018.png`` -> ``archive/chapter-01/page-018.png``
+- **Available Scan Files in Section**: ``0018.png``
+- **Archival Source Reference**: ``caput-1-10.png`` (extracted as ``page-018.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-018.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-10.png`` with complete margins and legible diplomatic text.

@@ -4,20 +4,25 @@
 :book: Appendix
 :section: 08_appendix
 :title: Appendix — p. 274
+:header: 274 — APPENDIX
 :language: la
 :status: ok
 
 tis, relatio necessaria est inter actualitatem nobis prius notam, et aliam quae est natura prior, et in illa attingitur [#f19]_.
 
-§ 6. ARISTOTELES DE ACTU EXISTENTIALI.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+§ 6. Aristoteles de actu existentiali.
+--------------------------------------
 
-Frequenter legimus Aristotelem actum existendi nimium negligere, immo fere non agnoscere ; et idem dicitur de commentatoribus Graecis ; sed id videtur erroneum esse. Verum utique est S. Thomam, occasione datorum revelationis, magnopere evolvisse hanc doctrinam ; sed evolvit ea, quae apud Aristotelem aderant, nec tantum in germine.
-Istam opinionem erroneam esse, tum pro Aristotele ipso tum pro commentatoribus, iam sequitur ex eis, quae antea scribebamus de actibus pure existentialibus, quos in constituenda cosmologia inde ab eius fundamentis, obviam habebamus [#f20]_.
-Haec confirmantur ex eis, quae supra videbamus, in quibus Aristoteles principia prima exponebat, quae ipsos modos essendi respiciunt, et nexus statuit inter has actualitates. In his casibus, ubi relatio necessaria — et quidem determinatae « directionis » — statuitur inter motum et eius subiectum, inter motum et eius causam efficientem, inter motum localem et eius conditionem i. e. locum, haec relatio valet et enuntiatur primarie de ipsis actualitatibus, de ipsis actibus essendi et eorum modis essendi. Hoc etiam inveniebamus in adagio, quod principium Cartesii exprimit, et quod eius originem describit : in eo, vel ex eo, quod percipimus nos sentire et intelligere, intelligimus nos esse.
-Haec etiam ab Aristotele enuntiantur in textu ad quem supra iam alludebamus (*Phys.* VIII cap. 1, 251 a 8-16) et ab eo praemittuntur ut principia universaliter admissa ex quibus dein tuto ratiocinari poterit. Et id decisivum est in eius ratiocinio quod dein, inde a linea 16, sequitur.
-In eo loco (lin. 10) ut principium asserit : ἀναγκαῖον ἄρα ὑπάρχειν τὰ πράγματα τὰ δυνάμενα κινεῖσθαι καθ᾽ ἑκάστην κίνησιν. Id ex sua definitione motus (lib. III) derivatur, sed, ut dein asserit, independenter a sua analysi communiter admittitur. Res, πράγματα, quae mobiles sunt motu stricto, debent actu adesse, ὑπάρχειν ut moveantur ; ita alterabile pro alteratione, mobile secundum locum pro motu locali ; unum specificum nominatur ; et « combustibile antequam com-
+Frequenter legimus :person:`Aristotelem <aristotle>` actum existendi nimium negligere, immo fere non agnoscere ; et idem dicitur de commentatoribus Graecis ; sed id videtur erroneum esse. Verum utique est :person:`S. Thomam <aquinas>`, occasione datorum revelationis, magnopere evolvisse hanc doctrinam ; sed evolvit ea, quae apud :person:`Aristotelem <aristotle>` aderant, nec tantum in germine.
 
-.. [#f19] Ipsi hoc adagio utimur ad stabiliendam actualitatem extensionis et consequenter continuorum in *Cosmologia* ed. 4 pag. 40 nota.
+Istam opinionem erroneam esse, tum pro :person:`Aristotele <aristotle>` ipso tum pro commentatoribus, iam sequitur ex eis, quae antea scribebamus de actibus pure existentialibus, quos in constituenda cosmologia inde ab eius fundamentis, obviam habebamus [#f20]_.
 
-.. [#f20] Cfr. *Cosmologiam* nn. 152, 161 not. XIII « de motu ut est actus existentialis » in ed. 4 pagg. 527-530. Ea iam in prima editione (1931) leguntur.
+Haec confirmantur ex eis, quae supra videbamus, in quibus :person:`Aristoteles <aristotle>` principia prima exponebat, quae ipsos modos essendi respiciunt, et nexus statuit inter has actualitates. In his casibus, ubi relatio necessaria — et quidem determinatae « directionis » — statuitur inter motum et eius subiectum, inter motum et eius causam efficientem, inter motum localem et eius conditionem i. e. locum, haec relatio valet et enuntiatur primarie de ipsis actualitatibus, de ipsis actibus essendi et eorum modis essendi. Hoc etiam inveniebamus in adagio, quod principium :person:`Cartesii <descartes>` exprimit, et quod eius originem describit : in eo, vel ex eo, quod percipimus nos sentire et intelligere, intelligimus nos esse.
+
+Haec etiam ab :person:`Aristotele <aristotle>` enuntiantur in textu ad quem supra iam alludebamus (:cite:`*Phys.* VIII cap. 1, 251 a 8-16 <aristotle:phys:251a8>`) et ab eo praemittuntur ut principia universaliter admissa ex quibus dein tuto ratiocinari poterit. Et id decisivum est in eius ratiocinio quod dein, inde a linea 16, sequitur.
+
+In eo loco (:cite:`lin. 10 <aristotle:phys:251a10>`) ut principium asserit : ἀναγκαῖον ἄρα :term:`ὑπάρχειν <hyparchein>` τὰ :term:`πράγματα <pragma>` τὰ δυνάμενα κινεῖσθαι καθ᾽ ἑκάστην :term:`κίνησιν <kinesis>`. Id ex sua definitione motus (:cite:`lib. III <aristotle:phys:3>`) derivatur, sed, ut dein asserit, independenter a sua analysi communiter admittitur. Res, :term:`πράγματα <pragma>`, quae mobiles sunt motu stricto, debent actu adesse, :term:`ὑπάρχειν <hyparchein>` ut moveantur ; ita alterabile pro alteratione, mobile secundum locum pro motu locali ; unum specificum nominatur ; et « combustibile antequam com-
+
+.. [#f19] Ipsi hoc adagio utimur ad stabiliendam actualitatem extensionis et consequenter continuorum in :cite:`*Cosmologia* ed. 4 pag. 40 nota <hoenen:cosmologia:40>`.
+
+.. [#f20] Cfr. :cite:`*Cosmologiam* nn. 152, 161 not. XIII « de motu ut est actus existentialis » in ed. 4 pagg. 527-530 <hoenen:cosmologia:152>`. Ea iam in prima editione (1931) leguntur.

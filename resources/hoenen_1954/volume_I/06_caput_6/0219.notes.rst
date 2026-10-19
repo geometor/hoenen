@@ -1,0 +1,35 @@
+Folio 0219 (Page 219) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0218.rst``): Page 218, Caput VI [``06_caput_6``] — Ends: ``"Notio simultaneitatis est notio primitiva. Inde definitione te..."``
+- **Current Folio** (``0219.rst``): Page 219, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0220.rst``): Page 220, Caput VI [``06_caput_6``] — Begins: ``"sibiles) perfecte eandem habere durationem. Supponitur id quod..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. Conclusiones.``, ``A) Exactitudo in relationibus chronometricis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*Cosmologia* ed. 4 pagg. 257-259 ; 532-541`` (``hoenen:1949:cosmologia:257-259,532-541``), ``*Filos. d. nat. inorg.* pagg. 214-222`` (``hoenen:1949:filosofia-natura:214-222``), ``*Acta* 2ⁱ congr. thom. Romae 1937 pagg. 367-374`` (``hoenen:1937:acta:367-374``)
+- **Folio Opening Line**: ``"statim intelligimus, inter quae propria « exacta », et ita oriuntur alia..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Indicamus unum experimentum huius generis, quod quoad exactitudinem est..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``direc-tionis``, ``simultanei-tatis``, ``mensu-randa``, ``conditio-nibus``, ``etiam-si``, ``defi-nitione``, ``necessita-tem``, ``dura-tionis`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0219.png`` -> ``archive/chapter-06/page-219.png``
+- **Available Scan Files in Section**: ``0219.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 14, right)`` (extracted as ``page-219.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-219.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 14, right)`` with complete margins and legible diplomatic text.

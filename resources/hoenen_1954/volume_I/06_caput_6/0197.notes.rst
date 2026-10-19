@@ -1,0 +1,35 @@
+Folio 0197 (Page 197) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0196.rst``): Page 196, Caput VI [``06_caput_6``] — Ends: ``"Et id fieri potest, immo debet. Nam haec structura nobis est p..."``
+- **Current Folio** (``0197.rst``): Page 197, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0198.rst``): Page 198, Caput VI [``06_caput_6``] — Begins: ``"De ipsa notione harum linearum tunc constat, nondum autem de e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Notio directionis lineae relate ad « spatium » ambiens ad primitivas per..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Haec dein applicari potest (IV § 4 n. 4) ad comparandas directiones sive..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``trans-eundi``, ``differen-tes``, ``dif-ferentia``, ``super-ficie``, ``deter-minant``, ``opti-mam``, ``intel-lectionem``, ``sensibili-ter``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0197.png`` -> ``archive/chapter-06/page-197.png``
+- **Available Scan Files in Section**: ``0197.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 2, right)`` (extracted as ``page-197.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-197.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 2, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,36 @@
+Folio 0164 (Page 164) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0163.rst``): Page 163, Caput V [``05_caput_5``] — Ends: ``"Supra iam dicebamus hanc activitatem esse menti humanae natura..."``
+- **Current Folio** (``0164.rst``): Page 164, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0165.rst``): Page 165, Caput V [``05_caput_5``] — Begins: ``"gicae, nam respiciunt obiecta. Saepe nominantur « leges cogita..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 5: ``J. LOCKE, An essay concerning human understanding Bk. IV ch. 17 § 4 (in ed. Fraser II p...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``physi`` (``physis``)
+- **Bibliographic Citations (``:cite:``)** (3): ``J. LOCKE, *An essay concerning human understanding* Bk. IV ch. 17 § 4 (in ed. Fraser II pagg. 390 sqq.)`` (``locke:1690:b4:c17:s4``), ``*Nouveaux Essais* ap. Gerhardt V pagg. 458 sqq.`` (``leibniz:nouveaux-essais:p458``), ``HEGEL , *Wissenschaft der Logik* II I k. 3 Anmerkung. *Werke* (ed. 1834) pagg. 142 sq.`` (``hegel:1834:p142``)
+- **Folio Opening Line**: ``"mens eam exercet antecedenter ad omnem theoriam logicam, quae de hac act..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Illae « leges logicae » nec dicendae sunt leges psycholo-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (6)**: ``cons-truendo``, ``ho-mines``, ``Aristo-telem``, ``speci-mina``, ``impro-prie``, ``spar-ing``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0164.png`` -> ``archive/chapter-05/page-164.png``
+- **Available Scan Files in Section**: ``0164.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 5, left)`` (extracted as ``page-164.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-164.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 5, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0057 (Page 57) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0056.rst``): Page 56, Caput II [``02_caput_2``] — Ends: ``"Theoria igitur Aristotelis videtur esse unica, quae rationem t..."``
+- **Current Folio** (``0057.rst``): Page 57, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0058.rst``): Page 58, Caput II [``02_caput_2``] — Begins: ``"In omnibus hisce casibus non habetur nexus materialis tantum (..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``1. De ipso nexu materiali et formali.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (5): ``*S. c. G.* I 36`` (``aquinas:scg:I.36``), ``*S. Th.* I q. 13 a. 12`` (``aquinas:st:I.13.12``), ``q. 85 a. 5 ad 3`` (``aquinas:st:I.85.5.ad3``), ``I *Sent.* Dist. 4 q. 2 a. 1 ad 1`` (``aquinas:sent:I.4.2.1.ad1``), ``S. Thomas *Analyt. Post.* I lect. 10 n. 7`` (``aquinas:anal-post:I.10.7``)
+- **Folio Opening Line**: ``"nam explicationem alibi dabimus ; hic quaedam, sufficientia ut speramus,..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Alii sunt casus in quibus forma subiecti necessario praesupponit formam..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0057.png`` -> ``archive/chapter-02/page-057.png``
+- **Available Scan Files in Section**: ``0057.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 16, right)`` (extracted as ``page-057.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-057.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 16, right)`` with complete margins and legible diplomatic text.

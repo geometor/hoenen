@@ -1,0 +1,35 @@
+Folio 0238 (Page 238) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0237.rst``): Page 237, Caput VII [``07_caput_7``] — Ends: ``"Sed haec obiecta, prout a nobis cognoscuntur, facile dividuntu..."``
+- **Current Folio** (``0238.rst``): Page 238, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0239.rst``): Page 239, Caput VII [``07_caput_7``] — Begins: ``"Et haec est diversitas fundamentalis, ob quam noetica distingu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. De casibus mathematicis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (3): ``in actu exercito`` (``in-actu-exercito``), ``in actu signato`` (``in-actu-signato``), ``actum signatum`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"tionem ». Si nihil amplius inquirimus, casus videntur esse omnino simile..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Plus etiam detegit ; nam statim invenit rationem quoque huius discrimini..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0238.png`` -> ``archive/chapter-07/page-238.png``
+- **Available Scan Files in Section**: ``0238-partial.png``, ``0238.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 9, left)`` (extracted as ``page-238-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-238-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0238`` (Page 238) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 9, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

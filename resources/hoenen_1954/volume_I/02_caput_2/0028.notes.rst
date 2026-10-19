@@ -1,0 +1,35 @@
+Folio 0028 (Page 28) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0027.rst``): Page 27, Caput II [``02_caput_2``] — Ends: ``"Aristoteles per theoriam abstractionis formalis, quae experien..."``
+- **Current Folio** (``0028.rst``): Page 28, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0029.rst``): Page 29, Caput II [``02_caput_2``] — Begins: ``"Veniamus ad constatationes nostras. Quomodo determinari potest..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 1. DE QUIBUSDAM EXEMPLIS ARITHMETICIS.``, ``1. De divisibilitate multitudinis in partes aequales.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*De Legibus* (737 e - 738 b)`` (``plato:leges:737e-738b``), ``(738 a)`` (``plato:leges:738a``)
+- **Folio Opening Line**: ``"In critica mathematica moderna problemati necessitatis vix ulla (nisi in..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"« Dicamus autem, eum numerum aptiorem esse, qui plurimas, et praesertim..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0028.png`` -> ``archive/chapter-02/page-028.png``
+- **Available Scan Files in Section**: ``0028.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 2, left)`` (extracted as ``page-028.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-028.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 2, left)`` with complete margins and legible diplomatic text.

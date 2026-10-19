@@ -1,0 +1,35 @@
+Folio 0095 (Page 95) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0094.rst``): Page 94, Caput III [``03_caput_3``] — Ends: ``"Et in hoc inveniendo, simul intelligimus dependentiam nostram..."``
+- **Current Folio** (``0095.rst``): Page 95, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0096.rst``): Page 96, Caput IV [``04_caput_4``] — Begins: ``"Quoad existentiam obiectorum quae notionibus exactis puncti, l..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT IV``, ``DE PROBLEMATE EXACTITUDINIS``, ``PARS II``, ``DE FIGURIS ET RELATIONIBUS EXACTIS``, ``Animadversiones praeviae``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"In praecedentibus capitibus agebamus de duobus problematibus principalib..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Si igitur geometria in origine sua dependet a datis sensitivis, quomodo..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``pro-blematibus``, ``consi-derabatur``, ``indi-get``, ``individuatio-nis``, ``exacti-tudinis``, ``pro-portionibus``, ``exacti-tudinem``, ``distin-guere`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0095.png`` -> ``archive/chapter-04/page-095.png``
+- **Available Scan Files in Section**: ``0095.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 1, right)`` (extracted as ``page-095.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-095.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

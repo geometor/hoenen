@@ -1,0 +1,38 @@
+Folio 0270 (Page 270) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0269.rst``): Page 269, Appendix [``08_appendix``] — Ends: ``"Formulae igitur hoc commune habent, quod id quod a nobis prius..."``
+- **Current Folio** (``0270.rst``): Page 270, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0271.rst``): Page 271, Appendix [``08_appendix``] — Begins: ``"Dicebamus : ex contactu inter duo existentia extensa oritur «..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 5. Quaedam aliae relationes existentiales``
+- **Footnotes on Folio (3)**:
+  - Footnote 14: ``De his cfr. *Gregorianum*, 1953, pagg. 3-19, quae de duratione successiva agunt.``
+  - Footnote 15: ``De his cfr. *Cosmologia* nn. 58-63 de praedicamento « ubi », insuper n. 45, et notam *D...``
+  - Footnote 16: ``De hoc principio cfr. Notam IV *de relativitate motus* n. 1 ed. 4 pag. 456, notam XV de...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (5): ``*Cosmologia*`` (``hoenen:cosmologia``), ``*Gregorianum*, 1953, pagg. 3-19, quae *de duratione successiva* agunt`` (``hoenen:1953:greg:3``), ``*Cosmologia* nn. 58-63 *de praedicamento « ubi »*, insuper n. 45, et notam *De ubi* in ed. 4 pagg. 467-470`` (``hoenen:cosmologia:58``), ``Notam IV *de relativitate motus* n. 1 ed. 4 pag. 456, notam XV de principio neo-positivismi n. 3 pag. 538`` (``hoenen:cosmologia:not4``), ``*Filosofia della natura inorganica* pagg. 112, 220`` (``hoenen:filosofia-natura:112``)
+- **Folio Opening Line**: ``"Ex eis, quae supra describuntur, quaedam aliae relationes existentiales..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Si haec accuratius examinantur nova relatio detegitur, hucusque nondum f..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0270.png`` -> ``archive/appendix/page-270.png``
+- **Available Scan Files in Section**: ``0270.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 17, left)`` (extracted as ``page-270.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-270.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 17, left)`` with complete margins and legible diplomatic text.

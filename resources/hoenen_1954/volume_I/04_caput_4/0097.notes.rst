@@ -1,0 +1,36 @@
+Folio 0097 (Page 97) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0096.rst``): Page 96, Caput IV [``04_caput_4``] — Ends: ``"Diligenter examinandi sunt processus qui in mente humana absol..."``
+- **Current Folio** (``0097.rst``): Page 97, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0098.rst``): Page 98, Caput IV [``04_caput_4``] — Begins: ``"perspectum habeamus debemus instituere « resolutionem » ad pri..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``Ea quae Hilbert in opere Grundlagen der Geometrie tanquam « explicationes » (« Erklärun...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``Erklärungen`` (``erklaerungen``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Q. D. de Ver.* q. 10 a. 6 « sed contra » 2`` (``aquinas:de-veritate:q10-a6``), ``*Posteriorum*`` (``aristotle:anal-post``), ``*Grundlagen der Geometrie*`` (``hilbert:grundlagen``)
+- **Folio Opening Line**: ``"sultat. Talia iudicia virtualia praevia etiam in examinando problemate e..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Agitur de omni nostra cognitione in eius origine, « originaliter », cons..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``exami-nando``, ``cogni-tionis``, ``mo-dum``, ``vir-tualia``, ``ha-bitudinum``, ``ha-bitudines``, ``axio-matum``, ``primo-rum`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0097.png`` -> ``archive/chapter-04/page-097.png``
+- **Available Scan Files in Section**: ``0097.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 2, right)`` (extracted as ``page-097.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-097.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 2, right)`` with complete margins and legible diplomatic text.

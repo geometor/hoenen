@@ -1,0 +1,35 @@
+Folio 0189 (Page 189) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0188.rst``): Page 188, Caput V [``05_caput_5``] — Ends: ``"Geometria classica, tanquam scientia deductive constructa, ind..."``
+- **Current Folio** (``0189.rst``): Page 189, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0190.rst``): Page 190, Caput V [``05_caput_5``] — Begins: ``"mantur. Generaliter ita dici poterit : terminis tribui debet s..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) De applicabilitate geometriae axiomatice constructae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (2): ``Approximationsmathematik`` (``approximationsmathematik``), ``Praezisionsmathematik`` (``praezisionsmathematik``)
+- **Bibliographic Citations (``:cite:``)** (2): ``*Philosophiae naturalis principia mathematica*`` (``newton:1687``), ``*Théorie du Jug.* Ch. IX § 3`` (``hoenen:theorie-du-jugement:c9:s3``)
+- **Folio Opening Line**: ``"quitate ad extensa physica applicabatur ; non tantum ad astronomiam, sed..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ipsa notio extensionis in his verbis non videtur exprimi ; erit illud in..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``acusti-cam``, ``Philoso-phiae``, ``for-malem``, ``cognoscan-tur``, ``im-perfectionem``, ``in-fluxum``, ``geometri-cas``, ``deter-minari`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0189.png`` -> ``archive/chapter-05/page-189.png``
+- **Available Scan Files in Section**: ``0189.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 17, right)`` (extracted as ``page-189.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-189.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 17, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,38 @@
+Folio 0017 (Page 17) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0016.rst``): Page 16, Caput I [``01_caput_1``] — Ends: ``"Tales sententias, etiamsi abstrahas ab exaggeratione pure rhet..."``
+- **Current Folio** (``0017.rst``): Page 17, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0018.rst``): Page 18, Caput I [``01_caput_1``] — Begins: ``"proportionum in continuo, ita moderni habent continuum numeror..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 17``
+- **Document Headings on Folio**: ``§ 4. DE ARITHMETIZATIONE CONTINUI.``
+- **Footnotes on Folio (2)**:
+  - Footnote 5: ``Vide Cosmologiam nostram ed. 4 not. III pagg. 446-455, VII pagg. 471-482.``
+  - Footnote 6: ``Vide H. HASSE und H. SCHOLZ, Die Grundlagenkrisis der Griechischen Mathematik in Kantst...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``insieme`` (``insieme``)
+- **Bibliographic Citations (``:cite:``)** (4): ``*Elementorum* Euclidis`` (``euclid:elements:V``), ``*Cosmologiam* nostram ed. 4 not. III pagg. 446-455, VII pagg. 471-482`` (``hoenen:cosmologia:ed4``), ``H. HASSE und H. SCHOLZ, *Die Grundlagenkrisis der Griechischen Mathematik* in *Kantstudien* (1928) pagg. 4-34`` (``hasse-scholz:1928:4-34``), ``H. SCHOLZ, *Warum haben die Griechen die Irrazionalzahlen nich aufgebaut ?* ibid. pagg. 35-72`` (``scholz:1928:35-72``)
+- **Folio Opening Line**: ``"Haec evolutio moderna secundum duplicem praesertim viam progressa est; e..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Moderniores, certe inde a Cartesio, has proportiones omnes ut numeros co..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``evolutio-nem``, ``quan-titatem``, ``divi-sione``, ``inte-ger``, ``Aegyp-tii``, ``nu-merum``, ``diverso-rum``, ``dia-gonalem`` (+2 more)
+- **Bottom Printer Signature / Catch-Number**: ``2 — P. HOENEN, S. I. - De Noetica Geometriae``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0017.png`` -> ``archive/chapter-01/page-017.png``
+- **Available Scan Files in Section**: ``0017.png``
+- **Archival Source Reference**: ``caput-1-09.png`` (extracted as ``page-017.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-017.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-09.png`` with complete margins and legible diplomatic text.

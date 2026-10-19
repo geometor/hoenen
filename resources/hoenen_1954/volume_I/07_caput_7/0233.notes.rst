@@ -1,0 +1,35 @@
+Folio 0233 (Page 233) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0232.rst``): Page 232, Caput VII [``07_caput_7``] — Ends: ``"In singulis casibus huius activitatis invenitur aliquid, quod..."``
+- **Current Folio** (``0233.rst``): Page 233, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0234.rst``): Page 234, Caput VII [``07_caput_7``] — Begins: ``"intelliguntur ducere ad resultata exacte determinata ; etiam s..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) In geometricis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Th. du Jug.* ch. X § 5`` (``hoenen:1953:theorie:X.5``)
+- **Folio Opening Line**: ``"post inquisitionem forte diuturnam nobis innotescit. In nostris igitur c..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In nostra activitate circa arithmetica inveniuntur igitur elementa, quae..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0233.png`` -> ``archive/chapter-07/page-233.png``
+- **Available Scan Files in Section**: ``0233.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 6, right)`` (extracted as ``page-233.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-233.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 6, right)`` with complete margins and legible diplomatic text.

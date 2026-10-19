@@ -1,0 +1,35 @@
+Folio 0199 (Page 199) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0198.rst``): Page 198, Caput VI [``06_caput_6``] — Ends: ``"Et ita videmus : subiectum fundamentale geometriarum non const..."``
+- **Current Folio** (``0199.rst``): Page 199, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0200.rst``): Page 200, Caput VI [``06_caput_6``] — Begins: ``"Ait (La science et l'hypothèse ch. V n. 2 pag. 92) : « realize..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 2. De extensione ut est subiectum fundamentale geometriae.``, ``A. De extensione corporum.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Nota. Hic adhuc inquirendum esset in illos casus in quibus « curvatura g..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Opinio illa fortiter propugnatur a Poincaré ubi, sensu valde exaggerato,..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``geo-metriarum``, ``ex-tensio``, ``re-ceptaculum``, ``col-locantur``, ``notio-num``, ``respi-ciunt``, ``per-venit``, ``experimen-talem`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0199.png`` -> ``archive/chapter-06/page-199.png``
+- **Available Scan Files in Section**: ``0199.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 3, right)`` (extracted as ``page-199.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-199.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 3, right)`` with complete margins and legible diplomatic text.

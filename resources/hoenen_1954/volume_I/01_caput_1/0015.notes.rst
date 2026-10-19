@@ -1,0 +1,35 @@
+Folio 0015 (Page 15) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0014.rst``): Page 14, Caput I [``01_caput_1``] — Ends: ``"Hanc theoriam empiristicam postea brevi negotio tanquam inepta..."``
+- **Current Folio** (``0015.rst``): Page 15, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0016.rst``): Page 16, Caput I [``01_caput_1``] — Begins: ``"moderna primas habet partes, quamquam, uti videbimus, non omne..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 15``
+- **Document Headings on Folio**: ``§ 3. DUPLEX PROBLEMA FUNDAMENTALE.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``limen exactitudinis`` (``limen-exactitudinis``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"ter theoriam illam empiristicam, sed propter modernas theorias, quae ex..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Non omnes alterum hoc problema bene describunt ; Kant videtur omnino non..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``pro-blemata``, ``sensibili-tatis``, ``prae-sentant``, ``geome-tria``, ``pro-blema``, ``exten-sione``, ``sensi-tiva``, ``trian-gulo``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0015.png`` -> ``archive/chapter-01/page-015.png``
+- **Available Scan Files in Section**: ``0015.png``
+- **Archival Source Reference**: ``caput-1-07.png`` (extracted as ``page-015.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-015.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-07.png`` with complete margins and legible diplomatic text.

@@ -1,0 +1,36 @@
+Folio 0079 (Page 79) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0078.rst``): Page 78, Caput III [``03_caput_3``] — Ends: ``"Methodus nostra investigandi notiones superficiei, dein lineae..."``
+- **Current Folio** (``0079.rst``): Page 79, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0080.rst``): Page 80, Caput III [``03_caput_3``] — Begins: ``"limitare corpora, quae non possunt esse superficies limitantes..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 8: ``COUTURAT, Revue de Métaph. et de Morale 1904 pag. 810 : « Certains auteurs définissent...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``folium Moebii`` (``folium-moebii``), ``folium Moebii`` (``folium-moebii``)
+- **Bibliographic Citations (``:cite:``)** (1): ``COUTURAT, *Revue de Métaph. et de Morale* 1904 pag. 810`` (``couturat:1904:p810``)
+- **Folio Opening Line**: ``"ficie, quam in capite secundo (§ 2 n. 6 pag. 46) iam considerabamus, qua..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"« In formando conceptu superficiei tantum ex superficie externa vel ab e..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``con-siderabamus``, ``construc-tionem``, ``reman-sit``, ``appa-renter``, ``neces-sitatis``, ``metho-dum``, ``limi-tem``, ``soli-dum`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0079.png`` -> ``archive/chapter-03/page-079.png``
+- **Available Scan Files in Section**: ``0079.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 8, right)`` (extracted as ``page-079.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-079.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 8, right)`` with complete margins and legible diplomatic text.

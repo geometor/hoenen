@@ -1,0 +1,35 @@
+Folio 0039 (Page 39) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0038.rst``): Page 38, Caput II [``02_caput_2``] — Ends: ``"Haec doctrina, clare a Caietano exposita, per certum tempus a..."``
+- **Current Folio** (``0039.rst``): Page 39, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0040.rst``): Page 40, Caput II [``02_caput_2``] — Begins: ``"quidem maior) oriatur. Id melius etiam patet in enuntiatione g..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``6. Iudicia praevia.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Du cheminement de la pensée* II pagg. 333-339, III 877-879`` (``meyerson:1931:II.333-339``)
+- **Folio Opening Line**: ``"Utique non omnis experientia est talis naturae, ut ei intuitus intellect..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Clarum est, ibi duplicem cognitionem necessariam, intuitivam, praesuppon..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0039.png`` -> ``archive/chapter-02/page-039.png``
+- **Available Scan Files in Section**: ``0039.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 7, right)`` (extracted as ``page-039.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-039.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 7, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0248 (Page 248) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0247.rst``): Page 247, Caput VII [``07_caput_7``] — Ends: ``"« Hoc movetur ergo existit ». In hoc casu uterque actus"``
+- **Current Folio** (``0248.rst``): Page 248, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0249.rst``): Page 249, Appendix [``08_appendix``] — Begins: ``"Formula, quae est titulus huius primae partis, similis est ada..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"existentialis, motus et esse substantiale praevium, est in eodem subiecto."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Videtur ergo summi momenti esse in construenda ipsa noetica et in ea evo..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0248.png`` -> ``archive/chapter-07/page-248.png``
+- **Available Scan Files in Section**: ``0248.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 2, left)`` (extracted as ``page-248.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-248.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 2, left)`` with complete margins and legible diplomatic text.

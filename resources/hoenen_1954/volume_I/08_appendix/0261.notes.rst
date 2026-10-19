@@ -1,0 +1,35 @@
+Folio 0261 (Page 261) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0260.rst``): Page 260, Appendix [``08_appendix``] — Ends: ``"« Movetur ergo est » est igitur principium, quod affirmat nexu..."``
+- **Current Folio** (``0261.rst``): Page 261, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0262.rst``): Page 262, Appendix [``08_appendix``] — Begins: ``"Nota est difficultas quae inde oritur relate ad motum ultimae..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 2. « Hoc movetur ergo locus est »``
+- **Footnotes on Folio (1)**:
+  - Footnote 10: ``In versione nostra supplevimus voces « est id », quae indicant subiectum superficiei, q...``
+- **Classical Greek Philosophical Terms (3)**: ``εἰ ἔστιν``, ``πῶς ἔστιν``, ``τί ἐστιν``
+- **Folio Opening Line**: ``"Aristoteles incipiens tractatum de loco (*Phys.* IV 1-8) tres ponit quae..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Et ipse Aristoteles, post stabilitam quidditatem loci (quid est et quomo..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0261.png`` -> ``archive/appendix/page-261.png``
+- **Available Scan Files in Section**: ``0261.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 9, right)`` (extracted as ``page-261.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-261.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 9, right)`` with complete margins and legible diplomatic text.

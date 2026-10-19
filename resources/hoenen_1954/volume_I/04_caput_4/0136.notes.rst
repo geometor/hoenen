@@ -1,0 +1,35 @@
+Folio 0136 (Page 136) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0135.rst``): Page 135, Caput IV [``04_caput_4``] — Ends: ``"Geometria non-Euclidica habet quidem sensum verum et realem, i..."``
+- **Current Folio** (``0136.rst``): Page 136, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0137.rst``): Page 137, Caput IV [``04_caput_4``] — Begins: ``"distantia in infinitum crescere potest. Manifestum est : non p..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"sensus quidam logicus et ex eo diversi sensus reales derivari possunt ;..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Quaenam erat in decursu historiae difficultas quae contra postulatum V,..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``geome-triae``, ``ex-tensum``, ``co-nantur``, ``axiomati-bus``, ``mathe-maticis``, ``du-cere``, ``ideo-que``, ``exposi-tis`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0136.png`` -> ``archive/chapter-04/page-136.png``
+- **Available Scan Files in Section**: ``0136.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 22, left)`` (extracted as ``page-136.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-136.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 22, left)`` with complete margins and legible diplomatic text.

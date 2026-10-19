@@ -1,0 +1,36 @@
+Folio 0048 (Page 48) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0047.rst``): Page 47, Caput II [``02_caput_2``] — Ends: ``"Scindamus nunc hoc folium secundum lineam quae in medio folio,..."``
+- **Current Folio** (``0048.rst``): Page 48, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0049.rst``): Page 49, Caput II [``02_caput_2``] — Begins: ``"non haurimus ex hac ultima experientia, eam intuemur per abstr..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 10: ``Haec exempla simul cum comparatione cum iudiciis physicis iam habentur apud Hessenberg...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Kritik und System in Mathematik und Philosophie* in *Abhandlungen der Friesschen Schule* II pagg. 102-106`` (``hessenberg:1908:102-106``)
+- **Folio Opening Line**: ``"cylindrica resultabant. Quid ex hac scissione orietur ? Plurimorum homin..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Quod hic adest intuitio necessitatis, tum quoad genus tum quoad differen..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0048.png`` -> ``archive/chapter-02/page-048.png``
+- **Available Scan Files in Section**: ``0048.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 12, left)`` (extracted as ``page-048.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-048.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 12, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0023 (Page 23) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0022.rst``): Page 22, Caput I [``01_caput_1``] — Ends: ``"Manet tamen aliud problema gravissimum : genus humanum integru..."``
+- **Current Folio** (``0023.rst``): Page 23, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0024.rst``): Page 24, Caput I [``01_caput_1``] — Begins: ``"Igitur nec valor nec sensus importat sed tantum requirunt ut e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 23``
+- **Document Headings on Folio**: ``§ 6. DE AXIOMATICA QUAE DICITUR.``
+- **Footnotes on Folio (1)**:
+  - Footnote 14: ``« Wir denken uns drei verschiedene Systeme von Dingen : die Dinge des e r s t e n Syste...``
+- **Classical Greek Philosophical Terms (3)**: ``α``, ``β``, ``γ``
+- **Folio Opening Line**: ``"postulato V non erant contenti, geometriam Euclidicam ut unicam necessar..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"« Cogitamus tria diversa systemata rerum : res p r i m i systematis voca..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``moder-na``, ``ha-bet``, ``theo-remata``, ``logi-cae``, ``contradic-tione``, ``enun-tiari``, ``geo-metria``, ``con-ditionalis`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0023.png`` -> ``archive/chapter-01/page-023.png``
+- **Available Scan Files in Section**: ``0023.png``
+- **Archival Source Reference**: ``caput-1-15.png`` (extracted as ``page-023.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-023.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-15.png`` with complete margins and legible diplomatic text.

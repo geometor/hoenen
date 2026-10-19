@@ -1,0 +1,35 @@
+Folio 0290 (Page 290) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0289.rst``): Page 289, Index Analyticus [``09_index``] — Ends: ``"2. - Iterum de theoriis cognitionis relate ad experientiam . ...."``
+- **Current Folio** (``0290.rst``): Page 290, Index Analyticus [``09_index``] — Status: ``ok``
+- **Following Folio** (``0291.rst``): Page 291, Index Analyticus [``09_index``] — Begins: ``"PAG."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``abstractione formali`` (``abstractio-formalis``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"PAG."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"§ 2. De motu in geometricis . . . . . . . . . . . . . . . . . . . 102"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0290.png`` -> ``archive/index/page-290.png``
+- **Available Scan Files in Section**: ``0290.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 5, left)`` (extracted as ``page-290.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-290.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 5, left)`` with complete margins and legible diplomatic text.

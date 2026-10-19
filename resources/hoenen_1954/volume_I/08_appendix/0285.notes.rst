@@ -1,0 +1,35 @@
+Folio 0285 (Page 285) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0284.rst``): Page 284, Appendix [``08_appendix``] — Ends: ``"Sed alia quoque in hac constructione a S. Thoma descri-"``
+- **Current Folio** (``0285.rst``): Page 285, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0286.rst``): Page 286, Appendix [``08_appendix``] — Begins: ``"1. Inter modos essendi sunt quidam, qui propria habent, quae a..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Additiones``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Cosmologia* nostra, in tractatu de « ubi » et de « motu », et in notis correspondentibus ad calcem operis`` (``hoenen:cosmologia``)
+- **Folio Opening Line**: ``"buntur ; haec respiciunt illa praedicamenta, quae sunt denominationes, i..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ad has breves animadversiones restringere debebamus expositionem nostram..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0285.png`` -> ``archive/appendix/page-285.png``
+- **Available Scan Files in Section**: ``0285.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 2, right)`` (extracted as ``page-285.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-285.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 2, right)`` with complete margins and legible diplomatic text.

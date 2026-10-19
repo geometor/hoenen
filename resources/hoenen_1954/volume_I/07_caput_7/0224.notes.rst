@@ -1,0 +1,36 @@
+Folio 0224 (Page 224) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0223.rst``): Page 223, Caput VII [``07_caput_7``] — Ends: ``"Haec optime explicantur in doctrina, quam S. Thomas de hac mat..."``
+- **Current Folio** (``0224.rst``): Page 224, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0225.rst``): Page 225, Caput VII [``07_caput_7``] — Begins: ``"« mathematice existere » est doctrina Graecorum pro subiecto g..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``Haec a S. Thoma exponuntur in commentario in textum quemdam Aristotelis (*Anal. Post.*...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Anal. Post.* I cap. 1, 71 a 14 sq.`` (``aristotle:anal-post:I.1.71a14``), ``*La Filosofia de las Matemáticas en Santo Tomás* Mexico, 1952, pagg. 2-6`` (``alvarez-laso:1952:filosofia:2-6``)
+- **Folio Opening Line**: ``"ad aliquod primum in scientia illa, quod ita accipitur ut subiectum, quo..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Constructionem apud Graecos esse demonstrationem existentiae mathematica..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0224.png`` -> ``archive/chapter-07/page-224.png``
+- **Available Scan Files in Section**: ``0224-partial.png``, ``0224-photo.png``, ``0224.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 2, left)`` (extracted as ``page-224-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-224-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0224`` (Page 224) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 2, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

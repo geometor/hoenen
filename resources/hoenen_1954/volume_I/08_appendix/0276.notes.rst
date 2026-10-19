@@ -1,0 +1,35 @@
+Folio 0276 (Page 276) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0275.rst``): Page 275, Appendix [``08_appendix``] — Ends: ``"Dicendum utique est : in solutione specifica problematis, vel..."``
+- **Current Folio** (``0276.rst``): Page 276, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0277.rst``): Page 277, Appendix [``08_appendix``] — Begins: ``"Sed inde a nonnullis annis oppositio quaedam statuitur inter «..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 7. De conceptu ipsius esse``
+- **Footnotes on Folio (1)**:
+  - Footnote 22: ``Vide *Cosmologiam* nn. 98-99, 214-218, et nostram collectionem textuum *De origine form...``
+- **Classical Greek Philosophical Terms (2)**: ``πῶς ἔστιν``, ``τί ἐστιν``
+- **Folio Opening Line**: ``"quomodo constitutio entis, quod fieri potest, ut tale, intelligibilis es..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In supra expositis detegebamus, diversas dari relationes necessarias (ha..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0276.png`` -> ``archive/appendix/page-276.png``
+- **Available Scan Files in Section**: ``0276.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 22, left)`` (extracted as ``page-276.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-276.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 22, left)`` with complete margins and legible diplomatic text.

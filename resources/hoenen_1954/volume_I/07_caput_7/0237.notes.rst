@@ -1,0 +1,35 @@
+Folio 0237 (Page 237) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0236.rst``): Page 236, Caput VII [``07_caput_7``] — Ends: ``"Ibi agitur de cognitione nostra intellectiva, non de sensitiva..."``
+- **Current Folio** (``0237.rst``): Page 237, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0238.rst``): Page 238, Caput VII [``07_caput_7``] — Begins: ``"tionem ». Si nihil amplius inquirimus, casus videntur esse omn..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``noeseos`` (``noesis``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"piis illis mathematicis ut ex origine ; non utique ita ut ex eis per dem..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed haec obiecta, prout a nobis cognoscuntur, facile dividuntur in duas..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0237.png`` -> ``archive/chapter-07/page-237.png``
+- **Available Scan Files in Section**: ``0237.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 8, right)`` (extracted as ``page-237.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-237.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 8, right)`` with complete margins and legible diplomatic text.

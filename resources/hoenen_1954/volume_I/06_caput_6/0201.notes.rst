@@ -1,0 +1,34 @@
+Folio 0201 (Page 201) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0200.rst``): Page 200, Caput VI [``06_caput_6``] — Ends: ``"Quae citavimus sufficiunt, post omnia, quae supra videbamus (v..."``
+- **Current Folio** (``0201.rst``): Page 201, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0202.rst``): Page 202, Caput VI [``06_caput_6``] — Begins: ``"agebamus de quibusdam aliis, speciatim de comparatione longitu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``ἤλεκτρον``
+- **Folio Opening Line**: ``"mini « proprietas geometrica corporum », responsum iam invenitur inde ab..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Plus etiam dein inveniebamus, ea scil. quae respiciunt problema exactitu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``pro-blemate``, ``figura-bile``, ``univer-salem``, ``in-telligimus``, ``de-finitionem``, ``pro-prietatem``, ``electriza-bile``, ``electriza-bilitas`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0201.png`` -> ``archive/chapter-06/page-201.png``
+- **Available Scan Files in Section**: ``0201.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 4, right)`` (extracted as ``page-201.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-201.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 4, right)`` with complete margins and legible diplomatic text.

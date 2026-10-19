@@ -1,0 +1,36 @@
+Folio 0192 (Page 192) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0191.rst``): Page 191, Caput V [``05_caput_5``] — Ends: ``"Directe igitur geometria axiomatica (post introductum « sensum..."``
+- **Current Folio** (``0192.rst``): Page 192, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0193.rst``): Page 193, Caput V [``05_caput_5``] — Begins: ``"curare non volunt, iam habent scientiam, quae nihil reale cogn..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 12: ``Quomodo propria physica obiectorum interdum impedire possint realisationem exactitudini...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``Approximationsmathematik`` (``approximationsmathematik``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Cosmologia* in nota « de ente extenso physico » in ed. 4 pagg. 438-445`` (``hoenen:cosmologia:p438``)
+- **Folio Opening Line**: ``"quia haec extensio in obiectis physicis invenitur, ideo etiam de hac ext..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In tali separatione superba, quasi-aristocratica, geometriae axiomatice..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``exactitu-dine``, ``appro-ximatio``, ``Approxi-mationsmathematik``, ``requiri-tur``, ``propositio-nes``, ``appli-candi``, ``exten-sionem``, ``mathe-maticam`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0192.png`` -> ``archive/chapter-05/page-192.png``
+- **Available Scan Files in Section**: ``0192.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 19, left)`` (extracted as ``page-192.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-192.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 19, left)`` with complete margins and legible diplomatic text.

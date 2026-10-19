@@ -1,0 +1,35 @@
+Folio 0235 (Page 235) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0234.rst``): Page 234, Caput VII [``07_caput_7``] — Ends: ``"Sed si agitur de constructione reali in extensis realibus, ori..."``
+- **Current Folio** (``0235.rst``): Page 235, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0236.rst``): Page 236, Caput VII [``07_caput_7``] — Begins: ``"intuitive intelligimus, sicut in casibus geometricis, de quibu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"ciendas constructiones, eodem defectu exactitudinis magis vel minus affi..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ut momentum proprium noeticum huius facti cognitionis nostrae magis eluc..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0235.png`` -> ``archive/chapter-07/page-235.png``
+- **Available Scan Files in Section**: ``0235.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 7, right)`` (extracted as ``page-235.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-235.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 7, right)`` with complete margins and legible diplomatic text.

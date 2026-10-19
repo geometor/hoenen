@@ -1,0 +1,35 @@
+Folio 0167 (Page 167) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0166.rst``): Page 166, Caput V [``05_caput_5``] — Ends: ``"In hac « logica docente », theoretica, poterimus, etiam secund..."``
+- **Current Folio** (``0167.rst``): Page 167, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0168.rst``): Page 168, Caput V [``05_caput_5``] — Begins: ``"realitate constructum est. Et axiomatici stricti invenerunt me..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 3. De executione programmatis axiomatici.``, ``1. Animadversiones praeviae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*In Boet. de Trin.* q. 6 a. 1`` (``aquinas:de-trin:q6.a1``)
+- **Folio Opening Line**: ``"tur ex activitate mentis humanae, sed non sunt psychologicae, sed noeticae."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Hoc systema axiomatum necessario satisfacere debet exigentiae immunitati..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``psycholo-gicae``, ``Tho-mae``, ``meta-physica``, ``specifi-cum``, ``conclusio-nem``, ``axioma-tica``, ``axio-mati``, ``con-tradictio``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0167.png`` -> ``archive/chapter-05/page-167.png``
+- **Available Scan Files in Section**: ``0167.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 6, right)`` (extracted as ``page-167.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-167.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 6, right)`` with complete margins and legible diplomatic text.

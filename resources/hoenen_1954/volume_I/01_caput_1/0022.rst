@@ -4,50 +4,17 @@
 :book: Caput I
 :section: 01_caput_1
 :title: Caput I — p. 22
+:header: 22 — CAPUT I
 :language: la
 :status: ok
 
-.. rubric:: 22                                  CAPUT I
-
 § 5. DE CRITICA POSTULATI V EUCLIDIS.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
 
-Altera via qua evolutio moderna philosophiae mathe-
-seos progressa est, erat critica postulati V Euclidis, sive
-postulati unicae parallelae. Principium quod hoc postulato
-exprimitur sane non est immediate evidens, non potest im-
-mediate ex datis sensitivis abstrahi; iterum propter defec-
-tum exactitudinis in his datis, ut postea suo loco videbimus.
-(Mirum est : permulti mathematici, qui hoc principium
-« minus evidens » quam alia axiomata vocant, videntur non
-posse indicare radicem hanc defectus evidentiae). Pertinet
-ergo ad illa principia, quae iuxta Aristotelem non sunt
-ἀξιώματα sed αἰτήματα ; quae proinde in geometria ut
-ὑποθέσεις admittuntur sed ex alia scientia, « une science pré-
-alable », a philosophia explicanda et iustificanda sunt; hanc
-si vis, « dialecticam » vocare poteris.
-Iam in antiquitate, teste Proclo, difficultates relate ad
-hoc postulatum movebantur et, loco eius, alia proponeban-
-tur, quae tamen eodem defectu laborant. Critica saeculi
-praecedentis ad hanc conclusionem, saltem nunc a mathe-
-maticis generaliter admissam, ducebat : praeter geometriam
-classicam, Euclidicam, alia possibilis est, quae postulatum
-V reiicit et loco eius aliud, ei oppositum, introducit. Multa
-— non utique omnia — theoremata, inde deducta, contra-
-dicunt thesibus classicis ; sed contradictio interna in sin-
-gulis systematibus geometricis deest nec in posterum inve-
-niri poterit. Inde concludunt : per multa saecula geome-
-tria Euclidica menti humanae videbatur esse unica possi-
-bilis, necessaria ; id nunc patet esse falsum; iuxta eam alia
-systemata adsunt, quae non minus possibilia sunt. Incidi-
-mus in problema, quod a theoria cognitionis solvendum est.
-Prima facie geometriae necessitas denegari videtur ; et
-revera sunt quidam, qui hoc sensu geometriam iam inter
-scientias pure physicas, quae simili modo necessitate nobis
-perspecta carent, annumerent. Id sine ullo dubio falsum
-est, ut facile ostendi potest ; singula systemata intrinsece
-sunt necessaria et ut talia a nobis cognoscuntur. Sed haec
-comparatio inter scientias geometricas et physicas atten-
-tione nostra digna erit.
-Manet tamen aliud problema gravissimum : genus hu-
-manum integrum et omnes mathematici, etiam ii qui de
+Altera via qua evolutio moderna philosophiae matheseos progressa est, erat critica postulati V :person:`Euclidis <euclid>`, sive postulati unicae parallelae. Principium quod hoc postulato exprimitur sane non est immediate evidens, non potest immediate ex datis sensitivis abstrahi ; iterum propter defectum exactitudinis in his datis, ut postea suo loco videbimus. (Mirum est : permulti mathematici, qui hoc principium « minus evidens » quam alia axiomata vocant, videntur non posse indicare radicem hanc defectus evidentiae). Pertinet ergo ad illa principia, quae iuxta :person:`Aristotelem <aristotle>` non sunt :term:`ἀξιώματα <axioma>` sed :term:`αἰτήματα <aitema>` ; quae proinde in geometria ut :term:`ὑποθέσεις <hypothesis>` admittuntur sed ex alia scientia, « une science préalable », a philosophia explicanda et iustificanda sunt ; hanc si vis, « dialecticam » vocare poteris.
+
+Iam in antiquitate, teste :person:`Proclo <proclus>`, difficultates relate ad hoc postulatum movebantur et, loco eius, alia proponebantur, quae tamen eodem defectu laborant. Critica saeculi praecedentis ad hanc conclusionem, saltem nunc a mathematicis generaliter admissam, ducebat : praeter geometriam classicam, Euclidicam, alia possibilis est, quae postulatum V reiicit et loco eius aliud, ei oppositum, introducit. Multa — non utique omnia — theoremata, inde deducta, contradicunt thesibus classicis ; sed contradictio interna in singulis systematibus geometricis deest nec in posterum inveniri poterit. Inde concludunt : per multa saecula geometria Euclidica menti humanae videbatur esse unica possibilis, necessaria ; id nunc patet esse falsum ; iuxta eam alia systemata adsunt, quae non minus possibilia sunt. Incidimus in problema, quod a theoria cognitionis solvendum est.
+
+Prima facie geometriae necessitas denegari videtur ; et revera sunt quidam, qui hoc sensu geometriam iam inter scientias pure physicas, quae simili modo necessitate nobis perspecta carent, annumerent. Id sine ullo dubio falsum est, ut facile ostendi potest ; singula systemata intrinsece sunt necessaria et ut talia a nobis cognoscuntur. Sed haec comparatio inter scientias geometricas et physicas attentione nostra digna erit.
+
+Manet tamen aliud problema gravissimum : genus humanum integrum et omnes mathematici, etiam ii qui de

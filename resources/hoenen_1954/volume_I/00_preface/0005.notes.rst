@@ -1,0 +1,37 @@
+Folio 0005 (Page 5) — Transcription & Calibration Notes
+=======================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio**: None (First transcribed folio of Volume I, *Praefatio*)
+- **Current Folio** (``0005.rst``): Page 5, Praefatio [``00_preface``] — Status: ``ok``
+- **Following Folio** (``0006.rst``): Page 6, Praefatio [``00_preface``] — Begins: ``"rum, indemonstrabilium, contenti simus, immo contenti esse deb..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``PRAEFATIO``
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``1938, 498-514, De philosophia scholastica cognitionis geometricae; 1939, 19-54, De prob...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (6): ``anni 1943 pag. 234`` (``hoenen:1943:p234``), ``1938, 498-514, *De philosophia scholastica cognitionis geometricae*`` (``hoenen:1938:498-514``), ``1939, 19-54, *De problemate necessitatis geometricae*`` (``hoenen:1939:19-54``), ``1939, 321-350, *De problemate exactitudinis geometricae* I`` (``hoenen:1939:321-350``), ``1943, 171-234, *De problemate exactitudinis geometricae* II`` (``hoenen:1943:171-234``), ``*Gregorianum*, 1951, 434-452, *De noetica geometriae, responsum ad animadversiones clmi. H. Freudenthal*`` (``hoenen:1951:434-452``)
+- **Folio Opening Line**: ``"Hoc opus agit de « noetica geometriae », i. e. de ea scientiae philosoph..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Sed habemus quoque rationem profundiorem et decisivam, quare systemate i..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+- **Bottom Printer Signature / Catch-Number**: ``835``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0005.png`` -> ``archive/preface/page-005.png``
+- **Available Scan Files in Section**: ``0005.png``
+- **Archival Source Reference**: ``preface-1.png`` (extracted as ``page-005.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-005.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``preface-1.png`` with complete margins and legible diplomatic text.

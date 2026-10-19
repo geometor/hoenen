@@ -1,0 +1,38 @@
+Folio 0103 (Page 103) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0102.rst``): Page 102, Caput IV [``04_caput_4``] — Ends: ``"Euclides motum figurarum adhibet in primo theoremate quod de c..."``
+- **Current Folio** (``0103.rst``): Page 103, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0104.rst``): Page 104, Caput IV [``04_caput_4``] — Begins: ``"que valet de eo ente imaginario, sed tantum quia hoc concipitu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (3)**:
+  - Footnote 3: ``B. RUSSELL, Principles of Mathematics 1903, ed. 2 1937, n. 390 sq., pagg. 405-407.``
+  - Footnote 4: ``« It has no logical validity, and strikes every intelligent child as a juggle » (loc. c...``
+  - Footnote 5: ``« In the first place, to speak of motion implies that our triangles are not spatial but...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``B. RUSSELL, *Principles of Mathematics* 1903, ed. 2 1937, n. 390 sq., pagg. 405-407`` (``russell:1903:p405-407``)
+- **Folio Opening Line**: ``"Euclides igitur in argumento applicat translationem, motum ergo, figurar..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Dicit igitur Russell, motum pertinere ad corpora, non ad spatium, quod a..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (4)**: ``spa-tiales``, ``cor-poris``, ``sta-tim``, ``con-siderabuntur``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0103.png`` -> ``archive/chapter-04/page-103.png``
+- **Available Scan Files in Section**: ``0103.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 5, right)`` (extracted as ``page-103.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-103.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 5, right)`` with complete margins and legible diplomatic text.

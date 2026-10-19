@@ -1,0 +1,35 @@
+Folio 0244 (Page 244) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0243.rst``): Page 243, Caput VII [``07_caput_7``] — Ends: ``"3. Dictum est in « casibus physicis », in oppositione ad « cas..."``
+- **Current Folio** (``0244.rst``): Page 244, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0245.rst``): Page 245, Caput VII [``07_caput_7``] — Begins: ``"in noetica speciali, quae de indole harum scientiarum iudicare..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``in actu signato`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (4): ``*Cosmologia*`` (``hoenen:1949:cosmologia``), ``*Gregorianum*, 1953, pagg. 3-19`` (``hoenen:1953:gregorianum:3-19``), ``*Cosmologiam* ed. 4 Not. XI *de sensibilibus propriis*`` (``hoenen:1949:cosmologia:not.XI``), ``*Gregor.*, 1948, pagg. 295-303`` (``hoenen:1948:gregorianum:295-303``)
+- **Folio Opening Line**: ``"tis » talium qualitatum, pertinentium ad genus subalternum qualitatum pa..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Hae abstractiones, quae tantum conferunt ad construendas scientias natur..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0244.png`` -> ``archive/chapter-07/page-244.png``
+- **Available Scan Files in Section**: ``0244-partial.png``, ``0244.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 12, left)`` (extracted as ``page-244-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-244-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0244`` (Page 244) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 12, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

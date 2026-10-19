@@ -1,0 +1,35 @@
+Folio 0198 (Page 198) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0197.rst``): Page 197, Caput VI [``06_caput_6``] — Ends: ``"Haec dein applicari potest (IV § 4 n. 4) ad comparandas direct..."``
+- **Current Folio** (``0198.rst``): Page 198, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0199.rst``): Page 199, Caput VI [``06_caput_6``] — Begins: ``"Nota. Hic adhuc inquirendum esset in illos casus in quibus « c..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"De ipsa notione harum linearum tunc constat, nondum autem de earum exist..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Et ita videmus : subiectum fundamentale geometriarum non constituitur a..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``introduc-tionem``, ``nega-tivae``, ``exten-sionis``, ``pot-est``, ``mo-tum``, ``exten-sionis``, ``curva-tura``, ``direc-tionum`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0198.png`` -> ``archive/chapter-06/page-198.png``
+- **Available Scan Files in Section**: ``0198.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 3, left)`` (extracted as ``page-198.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-198.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 3, left)`` with complete margins and legible diplomatic text.

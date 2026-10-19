@@ -1,0 +1,37 @@
+Folio 0132 (Page 132) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0131.rst``): Page 131, Caput IV [``04_caput_4``] — Ends: ``"« Tantum dici potest : illae rectae habent similem vel dissimi..."``
+- **Current Folio** (``0132.rst``): Page 132, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0133.rst``): Page 133, Caput IV [``04_caput_4``] — Begins: ``"Recte igitur dicitur, consequentiam quam supra ex notione elab..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 19: ``« Man darf nur sagen : sie haben gleiche oder ungleiche Richtung in Bezung auf eine bes...``
+  - Footnote 20: ``Difficultas quam ex cl. Killing exponebamus, etiam invenitur apud cl. U. Amaldi quem su...``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``le cheminement de la pensée`` (``cheminement-de-la-pensee``)
+- **Bibliographic Citations (``:cite:``)** (1): ``op. cit. § 3 pag. 46`` (``amaldi:concetti-retta-piano:p46``)
+- **Folio Opening Line**: ``"» [^19]. Haec optime et verissime dicuntur in suppositione illius propos..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Et de toto hoc processu dici potest : haec ex experientia quidem patent..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``stabi-lita``, ``uni-versalis``, ``direc-tionis``, ``existen-tiam``, ``experien-tia``, ``princi-pium``, ``spe-cialis``, ``ad-hibebantur`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0132.png`` -> ``archive/chapter-04/page-132.png``
+- **Available Scan Files in Section**: ``0132.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 20, left)`` (extracted as ``page-132.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-132.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 20, left)`` with complete margins and legible diplomatic text.

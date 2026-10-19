@@ -1,0 +1,36 @@
+Folio 0148 (Page 148) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0147.rst``): Page 147, Caput IV [``04_caput_4``] — Ends: ``"Qualis est affirmatio intuitiva intersectionis duorum"``
+- **Current Folio** (``0148.rst``): Page 148, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0149.rst``): Page 149, Caput IV [``04_caput_4``] — Begins: ``"Sed nunc attendenti hoc est manifestum : necessitas huius conn..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 29: ``S. ALBERTUS MAGNUS, Anal. Prior. I tract. I cap. 9 (in ed. Jammy, 1651, I pag. 298 a) :...``
+- **Glossary & Foreign Terms (``:term:``)** (3): ``terminis transcendentibus`` (``termini-transcendentes``), ``termini transcendentes`` (``termini-transcendentes``), ``termini significativi`` (``termini-significativi``)
+- **Bibliographic Citations (``:cite:``)** (3): ``S. ALBERTUS MAGNUS, *Anal. Prior.* I tract. I cap. 9 (in ed. Jammy, 1651, I pag. 298 a)`` (``albertus:anal-prior:I.1.9``), ``*Summa totius logicae*`` (``pseudo-thomas:summa-totius-logicae``), ``op. cit. tract. VII cap. 2 et 6 (in editione Mandonnet pagg. 102-104, pag. 111)`` (``pseudo-thomas:summa-totius-logicae:VII.2``)
+- **Folio Opening Line**: ``"illorum circulorum, talia sunt principia quae nec demonstrari possunt ne..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed bene attendenti utrique necessitati, sese manifestat mira quaedam di..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``suppo-nuntur``, ``di-versitatem``, ``conclusio-num``, ``princi-piorum``, ``ter-mino``, ``ta-men``, ``sin-gulas``, ``trans-cendentibus`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0148.png`` -> ``archive/chapter-04/page-148.png``
+- **Available Scan Files in Section**: ``0148.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 28, left)`` (extracted as ``page-148.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-148.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 28, left)`` with complete margins and legible diplomatic text.

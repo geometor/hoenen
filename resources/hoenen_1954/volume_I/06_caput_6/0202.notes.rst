@@ -1,0 +1,34 @@
+Folio 0202 (Page 202) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0201.rst``): Page 201, Caput VI [``06_caput_6``] — Ends: ``"Plus etiam dein inveniebamus, ea scil. quae respiciunt problem..."``
+- **Current Folio** (``0202.rst``): Page 202, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0203.rst``): Page 203, Caput VI [``06_caput_6``] — Begins: ``"Non omnis usus termini « spatii » nec omnis usus notionum, qua..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``π``
+- **Folio Opening Line**: ``"agebamus de quibusdam aliis, speciatim de comparatione longitudinum line..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Si hi casus debite considerantur, invenimus responsum clarum ad eius int..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``axio-matum``, ``deter-minatione``, ``considera-tionem``, ``physi-cis``, ``pro-prietates``, ``rela-tiones``, ``necessa-riae``, ``dato-rum`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0202.png`` -> ``archive/chapter-06/page-202.png``
+- **Available Scan Files in Section**: ``0202.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 5, left)`` (extracted as ``page-202.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-202.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 5, left)`` with complete margins and legible diplomatic text.

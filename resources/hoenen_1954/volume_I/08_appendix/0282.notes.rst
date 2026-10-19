@@ -1,0 +1,37 @@
+Folio 0282 (Page 282) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0281.rst``): Page 281, Appendix [``08_appendix``] — Ends: ``"Hoc « esse » iam detegimus, et eius « rationem » dein concipim..."``
+- **Current Folio** (``0282.rst``): Page 282, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0283.rst``): Page 283, Appendix [``08_appendix``] — Begins: ``"in iudiciis, ad quae conducunt, implicat diversitatem in modis..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 27: ``Id iam antea dicebamus in *Th. du J.* pagg. 193-194 in ed. 2 pagg. 190-191, in vers. An...``
+  - Footnote 28: ``Cfr. casum supra expositum de « extensione » pagg. 256 sq.``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``cogito ergo sum`` (``cogito-ergo-sum``), ``abstractionem intuitivam`` (``abstractio-intuitiva``)
+- **Bibliographic Citations (``:cite:``)** (5): ``Op. cit. pagg. 148, 267-268, resp. 145, 264-265, resp. 132, 224-225`` (``hoenen:1953:148``), ``cap. IX-XI`` (``hoenen:1953:ch9``), ``ibid. c. XII`` (``hoenen:1953:ch12``), ``*Th. du J.* pagg. 193-194 in ed. 2 pagg. 190-191, in vers. Anglic. pagg. 165-166`` (``hoenen:1953:193``), ``casum supra expositum de « extensione » pagg. 256 sq.`` (``hoenen:1954:256``)
+- **Folio Opening Line**: ``"ditatibus et earum relationibus necessariis agunt. Et hoc « esse » est «..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Si haec in diversis casibus consideramus, invenimus iudicia et consequen..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0282.png`` -> ``archive/appendix/page-282.png``
+- **Available Scan Files in Section**: ``0282.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 1, left)`` (extracted as ``page-282.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-282.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 1, left)`` with complete margins and legible diplomatic text.

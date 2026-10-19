@@ -1,0 +1,35 @@
+Folio 0232 (Page 232) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0231.rst``): Page 231, Caput VII [``07_caput_7``] — Ends: ``"Utique principium causalitatis ipsum intelligimus. Si aliquid..."``
+- **Current Folio** (``0232.rst``): Page 232, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0233.rst``): Page 233, Caput VII [``07_caput_7``] — Begins: ``"post inquisitionem forte diuturnam nobis innotescit. In nostri..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``A) In arithmeticis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Gregor.* 1953 pagg. 617-619`` (``hoenen:1953:gregorianum:617-619``), ``*Gregor.* art. cit.`` (``hoenen:1953:gregorianum``)
+- **Folio Opening Line**: ``"nenda est (tanquam natura prius) causa efficiens quae est alia ab ipso m..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In singulis casibus huius activitatis invenitur aliquid, quod est direct..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0232.png`` -> ``archive/chapter-07/page-232.png``
+- **Available Scan Files in Section**: ``0232-partial.png``, ``0232.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 6, left)`` (extracted as ``page-232-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-232-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0232`` (Page 232) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 6, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

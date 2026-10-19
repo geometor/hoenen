@@ -1,0 +1,35 @@
+Folio 0191 (Page 191) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0190.rst``): Page 190, Caput V [``05_caput_5``] — Ends: ``"Maior est etiam difficultas, si problema exactitudinis conside..."``
+- **Current Folio** (``0191.rst``): Page 191, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0192.rst``): Page 192, Caput V [``05_caput_5``] — Begins: ``"quia haec extensio in obiectis physicis invenitur, ideo etiam..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Cosmologiam* ed. 4 pag. 40`` (``hoenen:cosmologia:p40``), ``*Théorie du Jug.* ch. X`` (``hoenen:theorie-du-jugement:c10``)
+- **Folio Opening Line**: ``"more Newtoniano ; nam exactitudo in mensuris in hac quoque sacrificari d..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Directe igitur geometria axiomatica (post introductum « sensum » symbolo..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (18)**: ``quo-que``, ``clas-sica``, ``cognosci-mus``, ``relationi-bus``, ``approxima-tione``, ``obiec-tivis``, ``possu-mus``, ``con-structae`` (+10 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0191.png`` -> ``archive/chapter-05/page-191.png``
+- **Available Scan Files in Section**: ``0191.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 18, right)`` (extracted as ``page-191.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-191.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 18, right)`` with complete margins and legible diplomatic text.

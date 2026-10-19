@@ -1,0 +1,35 @@
+Folio 0208 (Page 208) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0207.rst``): Page 207, Caput VI [``06_caput_6``] — Ends: ``"Id sese in reflexione etiam praescientifica manifestat. Compar..."``
+- **Current Folio** (``0208.rst``): Page 208, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0209.rst``): Page 209, Caput VI [``06_caput_6``] — Begins: ``"vidit, haec linea in phantasmate latitudinem habet, et quidem..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"in corpore, affirmamus « corpus est figurabile » ; observantes attractio..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et etiam attendendum est : Haec differentia noetica inter utrumque casum..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``In-terroganti``, ``responde-mus``, ``res-pondemus``, ``possu-mus``, ``figura-bile``, ``pos-sumus``, ``geometri-cum``, ``requisi-tum`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0208.png`` -> ``archive/chapter-06/page-208.png``
+- **Available Scan Files in Section**: ``0208.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 8, left)`` (extracted as ``page-208.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-208.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

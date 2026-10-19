@@ -1,0 +1,36 @@
+Folio 0274 (Page 274) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0273.rst``): Page 273, Appendix [``08_appendix``] — Ends: ``"Et in hoc quoque casu, sicut in casibus supra examina-"``
+- **Current Folio** (``0274.rst``): Page 274, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0275.rst``): Page 275, Appendix [``08_appendix``] — Begins: ``"buritur » καυστὸν εἶναι πρὶν κάεσθαι ; sed ibi addit etiam rem..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 6. Aristoteles de actu existentiali``
+- **Footnotes on Folio (2)**:
+  - Footnote 19: ``Ipsi hoc adagio utimur ad stabiliendam actualitatem extensionis et consequenter continu...``
+  - Footnote 20: ``Cfr. *Cosmologiam* nn. 152, 161 not. XIII « de motu ut est actus existentialis » in ed....``
+- **Classical Greek Philosophical Terms (3)**: ``ἀναγκαῖον ἄρα ὑπάρχειν τὰ πράγματα τὰ...``, ``πράγματα``, ``ὑπάρχειν``
+- **Folio Opening Line**: ``"tis, relatio necessaria est inter actualitatem nobis prius notam, et ali..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In eo loco (lin. 10) ut principium asserit : ἀναγκαῖον ἄρα ὑπάρχειν τὰ π..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0274.png`` -> ``archive/appendix/page-274.png``
+- **Available Scan Files in Section**: ``0274.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 20, left)`` (extracted as ``page-274.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-274.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 20, left)`` with complete margins and legible diplomatic text.

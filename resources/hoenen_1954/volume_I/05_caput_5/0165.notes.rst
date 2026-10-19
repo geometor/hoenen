@@ -1,0 +1,36 @@
+Folio 0165 (Page 165) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0164.rst``): Page 164, Caput V [``05_caput_5``] — Ends: ``"Illae « leges logicae » nec dicendae sunt leges psycholo-"``
+- **Current Folio** (``0165.rst``): Page 165, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0166.rst``): Page 166, Caput V [``05_caput_5``] — Begins: ``"cis ; sed hi syllogismi pertinent ad logicam naturalem, quae i..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 6: ``Ita bene A. RIEHL. Logik und Erkenntnistheorie in Kultur der Gegenwart Abt. VI ed. 3 (1...``
+- **Glossary & Foreign Terms (``:term:``)** (4): ``Denkgesetze`` (``denkgesetze``), ``des Gedachten`` (``das-gedachte``), ``logica utens`` (``logica-utens``), ``Logica docens`` (``logica-docens``)
+- **Bibliographic Citations (``:cite:``)** (2): ``*Met.* IV lect. 4 n. 577`` (``aquinas:met:4.l4.n577``), ``A. RIEHL. *Logik und Erkenntnistheorie* in *Kultur der Gegenwart* Abt. VI ed. 3 (1921) pag. 71`` (``riehl:1921:p71``)
+- **Folio Opening Line**: ``"gicae, nam respiciunt obiecta. Saepe nominantur « leges cogitationis » (..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Logica docens, vel theoretica, quae inde ab hac logica naturali evolvitu..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``no-men``, ``cogi-tandorum``, ``di-cuntur``, ``ter-minis``, ``adhibean-tur``, ``specifi-catis``, ``propo-sitione``, ``ter-minorum`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0165.png`` -> ``archive/chapter-05/page-165.png``
+- **Available Scan Files in Section**: ``0165.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 5, right)`` (extracted as ``page-165.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-165.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 5, right)`` with complete margins and legible diplomatic text.

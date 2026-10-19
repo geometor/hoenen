@@ -1,0 +1,35 @@
+Folio 0087 (Page 87) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0086.rst``): Page 86, Caput III [``03_caput_3``] — Ends: ``"Hoc principium divisibilitatis in infinitum ope elementorum ex..."``
+- **Current Folio** (``0087.rst``): Page 87, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0088.rst``): Page 88, Caput III [``03_caput_3``] — Begins: ``"; sed sensus est : omne punctum aeque distans a cruribus angul..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) De linea ut « collectione » punctorum.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Cosmologiam* ed. 4 pagg. 27-40`` (``hoenen:cosmologia:p27-40``), ``*Filosofia della natura inorganica*, pagg. 57-72`` (``hoenen:filosofia-natura:p57-72``)
+- **Folio Opening Line**: ``"resultent. Quaeri potest : nonne id effici posset per divisionem unicam,..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Iam in antiqua geometria sermo est de linea, ut est « locus punctorum »,..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``divisio-nem``, ``superio-ribus``, ``quae-dam``, ``Manife-stum``, ``distingui-tur``, ``uti-que``, ``de-scribere``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0087.png`` -> ``archive/chapter-03/page-087.png``
+- **Available Scan Files in Section**: ``0087.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 12, right)`` (extracted as ``page-087.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-087.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 12, right)`` with complete margins and legible diplomatic text.

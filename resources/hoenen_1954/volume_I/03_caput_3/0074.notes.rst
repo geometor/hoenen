@@ -1,0 +1,35 @@
+Folio 0074 (Page 74) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0073.rst``): Page 73, Caput III [``03_caput_3``] — Ends: ``"Revera, si ita tantum notiones exactae geometricae oriri posse..."``
+- **Current Folio** (``0074.rst``): Page 74, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0075.rst``): Page 75, Caput III [``03_caput_3``] — Begins: ``"aliam » ; et tunc praecise sub respectu sub quo per id fit tra..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. Divisio entis extensi.``, ``A) Superficies.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"postulanda est ; obiecta harum notionum exactarum in ente extenso existe..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Hic igitur limes est superficies et describi potest : « id per quod fit..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``da-tum``, ``dimensio-nes``, ``in-tellectus``, ``tran-situm``, ``indi-visibilis``, ``consideratio-nem``, ``divisi-bile``, ``des-cribi``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0074.png`` -> ``archive/chapter-03/page-074.png``
+- **Available Scan Files in Section**: ``0074.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 6, left)`` (extracted as ``page-074.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-074.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 6, left)`` with complete margins and legible diplomatic text.

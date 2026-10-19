@@ -1,0 +1,34 @@
+Folio 0268 (Page 268) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0267.rst``): Page 267, Appendix [``08_appendix``] — Ends: ``"Haec exprimuntur per adagium, prima facie sat mirum, secundum..."``
+- **Current Folio** (``0268.rst``): Page 268, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0269.rst``): Page 269, Appendix [``08_appendix``] — Begins: ``"attingi, debet per medium motum, existit tantum intentionalite..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Recapitulatio``
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (4)**: ``τὸ γιγνόμενον ἀτελὲς καὶ ἐπ᾽ ἀρχὴν ἴον``, ``ἅπαν ἐπ᾽ ἀρχὴν βαδίζει τὸ γιγνόμενον...``, ``τέλος``, ``ἀρχὴ``
+- **Folio Opening Line**: ``"cedens versus suum principium » τὸ γιγνόμενον ἀτελὲς καὶ ἐπ᾽ ἀρχὴν ἴον (..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ultimum in hoc differt a caeteris, quod in his subiectum mobile, locus,..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0268.png`` -> ``archive/appendix/page-268.png``
+- **Available Scan Files in Section**: ``0268.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 16, left)`` (extracted as ``page-268.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Rescanned & Verified (``page-268.png`` / ``:status: ok``)**
+
+   This folio was previously listed among the partial scans and has since been rescanned and resolved in ``appendix-2.pdf (p. 16, left)``.

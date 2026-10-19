@@ -1,0 +1,35 @@
+Folio 0153 (Page 153) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0152.rst``): Page 152, Caput IV [``04_caput_4``] — Ends: ``"Scientia quae principia iustificat, apud Platonem erat dialect..."``
+- **Current Folio** (``0153.rst``): Page 153, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0154.rst``): Page 154, Caput IV [``04_caput_4``] — Begins: ``"gismi virtuales absque dubio occurrunt in modo procedendi ment..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Difficultas quaedam praevia hic oriri poterit ex eis quae videbamus. Eti..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Inter eos sunt quidam qui non sunt syllogismi formales, sed virtuales ta..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``syl-logismi``, ``axio-matum``, ``paralle-litatis``, ``occur-runt``, ``dif-ficultates``, ``ana-lysi``, ``geo-metriam``, ``inve-niuntur`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0153.png`` -> ``archive/chapter-04/page-153.png``
+- **Available Scan Files in Section**: ``0153.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 30, right)`` (extracted as ``page-153.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-153.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 30, right)`` with complete margins and legible diplomatic text.

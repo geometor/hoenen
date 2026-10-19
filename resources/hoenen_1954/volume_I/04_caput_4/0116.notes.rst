@@ -1,0 +1,35 @@
+Folio 0116 (Page 116) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0115.rst``): Page 115, Caput IV [``04_caput_4``] — Ends: ``"Duae lineae a et b transeant per idem punctum P ; id plus dici..."``
+- **Current Folio** (``0116.rst``): Page 116, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0117.rst``): Page 117, Caput IV [``04_caput_4``] — Begins: ``"existentiam mathematicam tribuunt et eorum propria tanquam nec..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"tionis supprimi nequit ; nec tantum post longam geometriae evolutionem e..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Aliud proprium est valde curiosum. Divergentia in uno sensu potest fieri..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (4)**: ``examinan-da``, ``direc-tionis``, ``pro-fluentia``, ``in-tuitione``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0116.png`` -> ``archive/chapter-04/page-116.png``
+- **Available Scan Files in Section**: ``0116.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 12, left)`` (extracted as ``page-116.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-116.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 12, left)`` with complete margins and legible diplomatic text.

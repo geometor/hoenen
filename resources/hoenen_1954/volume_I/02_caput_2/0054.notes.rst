@@ -1,0 +1,35 @@
+Folio 0054 (Page 54) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0053.rst``): Page 53, Caput II [``02_caput_2``] — Ends: ``"Simili modo res sese habet, ubi sermo est de multitudine numer..."``
+- **Current Folio** (``0054.rst``): Page 54, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0055.rst``): Page 55, Caput II [``02_caput_2``] — Begins: ``"sic habemus motum oppositum illi motui syllogistico) [^14]. De..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"quae tamen necessario praesupponuntur, non explicite enuntiantur ab eo,..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Clarum est, processum mentis nostrae alium esse. Non opus est ut tres il..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0054.png`` -> ``archive/chapter-02/page-054.png``
+- **Available Scan Files in Section**: ``0054.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 15, left)`` (extracted as ``page-054.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-054.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 15, left)`` with complete margins and legible diplomatic text.

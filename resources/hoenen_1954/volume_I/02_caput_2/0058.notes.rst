@@ -1,0 +1,35 @@
+Folio 0058 (Page 58) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0057.rst``): Page 57, Caput II [``02_caput_2``] — Ends: ``"Alii sunt casus in quibus forma subiecti necessario praesuppon..."``
+- **Current Folio** (``0058.rst``): Page 58, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0059.rst``): Page 59, Caput II [``02_caput_2``] — Begins: ``"ficiat, praerequiritur etiam in mathematicis diuturna experien..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. Leges physicae et principia mathematica.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``III *Sent.* Dist. 11 q. 1 a. 4 ad 6`` (``aquinas:sent:III.11.1.4.ad6``)
+- **Folio Opening Line**: ``"In omnibus hisce casibus non habetur nexus materialis tantum (pure mater..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Inde differentiam, quam supra de facto inveniebamus inter casus physicos..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0058.png`` -> ``archive/chapter-02/page-058.png``
+- **Available Scan Files in Section**: ``0058.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 17, left)`` (extracted as ``page-058.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-058.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 17, left)`` with complete margins and legible diplomatic text.

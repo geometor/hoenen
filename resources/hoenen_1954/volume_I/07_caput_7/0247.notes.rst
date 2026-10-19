@@ -1,0 +1,36 @@
+Folio 0247 (Page 247) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0246.rst``): Page 246, Caput VII [``07_caput_7``] — Ends: ``"Quaedam indicare possumus. Primum gressum versus"``
+- **Current Folio** (``0247.rst``): Page 247, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0248.rst``): Page 248, Caput VII [``07_caput_7``] — Begins: ``"existentialis, motus et esse substantiale praevium, est in eod..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 3: ``De hoc puncto legi potest ampla expositio quam edidimus in *Gregorianum* 1953 pagg. 603...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Cosmologia*`` (``hoenen:1949:cosmologia``), ``*Gregorianum* 1953 pagg. 603-639 *De connexionibus necessariis inter actus existentiales*`` (``hoenen:1953:gregorianum:603-639``)
+- **Folio Opening Line**: ``"hunc finem iam fecit Dalton per suam legem stoechiometricam parvorum num..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"« Hoc movetur ergo existit ». In hoc casu uterque actus"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0247.png`` -> ``archive/chapter-07/page-247.png``
+- **Available Scan Files in Section**: ``0247.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 13, right)`` (extracted as ``page-247.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-247.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

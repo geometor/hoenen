@@ -1,0 +1,35 @@
+Folio 0094 (Page 94) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0093.rst``): Page 93, Caput III [``03_caput_3``] — Ends: ``"Hic modus interpretandi constructionem obiectorum in scientia..."``
+- **Current Folio** (``0094.rst``): Page 94, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0095.rst``): Page 95, Caput IV [``04_caput_4``] — Begins: ``"In praecedentibus capitibus agebamus de duobus problematibus p..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``materia intelligibilis`` (``materia-intelligibilis``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"superioribus patet. Nam in casibus simplicibus, quos hucusque examinabam..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et in hoc inveniendo, simul intelligimus dependentiam nostram ab hac mat..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``huc-usque``, ``praeia-cente``, ``mo-menti``, ``detegi-mus``, ``tan-quam``, ``intelligi-mus``, ``pos-sint``, ``experi-mentalibus`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0094.png`` -> ``archive/chapter-03/page-094.png``
+- **Available Scan Files in Section**: ``0094.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 16, left)`` (extracted as ``page-094.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-094.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 16, left)`` with complete margins and legible diplomatic text.

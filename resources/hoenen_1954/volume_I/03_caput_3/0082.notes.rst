@@ -1,0 +1,35 @@
+Folio 0082 (Page 82) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0081.rst``): Page 81, Caput III [``03_caput_3``] — Ends: ``"Quia de tali corpore mentionem facimus, aliud animadvertere li..."``
+- **Current Folio** (``0082.rst``): Page 82, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0083.rst``): Page 83, Caput III [``03_caput_3``] — Begins: ``"vum de indivisibilitate limitum ; sed id quod iudicium affirma..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``5. Quae ex his colligantur pro noetica generali.``, ``A) Theoria Aristotelis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*S. Th.* I. q. 84 a. 6 in fine`` (``aquinas:st:I.q84.a6``), ``resp. 3 eiusdem articuli`` (``aquinas:st:I.q84.a6.ad3``)
+- **Folio Opening Line**: ``"In supra dictis legere possumus : In ente extenso, ut est extensum, poss..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Ex datis igitur sensitivis hauritur iudicium intellecti-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (15)**: ``phan-tasmate``, ``inspec-tione``, ``descripsi-mus``, ``inspi-cientibus``, ``episte-mologica``, ``viden-tur``, ``requiri-tur``, ``affirma-tur`` (+7 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0082.png`` -> ``archive/chapter-03/page-082.png``
+- **Available Scan Files in Section**: ``0082.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 10, left)`` (extracted as ``page-082.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-082.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 10, left)`` with complete margins and legible diplomatic text.

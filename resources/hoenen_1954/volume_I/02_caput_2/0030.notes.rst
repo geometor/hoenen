@@ -1,0 +1,35 @@
+Folio 0030 (Page 30) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0029.rst``): Page 29, Caput II [``02_caput_2``] — Ends: ``"Possumus ulterius progredi. Nos divisiones possibiles invenieb..."``
+- **Current Folio** (``0030.rst``): Page 30, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0031.rst``): Page 31, Caput II [``02_caput_2``] — Begins: ``"habemus cognitionem necessariam ; et : ex tali experientia non..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``1 — 3 — 5 ..... et in fine invenimus 5039``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"1 3 5 ..... et in fine invenimus 5039"`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Undenam proveniat differentia inter hos casus (et alios quoque, in quibu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0030.png`` -> ``archive/chapter-02/page-030.png``
+- **Available Scan Files in Section**: ``0030.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 3, left)`` (extracted as ``page-030.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-030.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 3, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0086 (Page 86) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0085.rst``): Page 85, Caput III [``03_caput_3``] — Ends: ``"Supra per transennam attendimus ad sententiam, quae in cogniti..."``
+- **Current Folio** (``0086.rst``): Page 86, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0087.rst``): Page 87, Caput III [``03_caput_3``] — Begins: ``"resultent. Quaeri potest : nonne id effici posset per division..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``6. De divisibilitate in infinitum.``, ``A) De divisibilitate in extensa.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (2): ``*minimum imaginabile*`` (``minimum-imaginabile``), ``minimum imaginabile`` (``minimum-imaginabile``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Notio indivisibilium (exactitudinis igitur) permittit ampliationem eorum..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Hoc principium divisibilitatis in infinitum ope elementorum exactorum (p..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``uti-que``, ``ean-dem``, ``imagina-bile``, ``inci-piebamus``, ``possu-mus``, ``mini-mum``, ``re-manet``, ``elemen-torum`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0086.png`` -> ``archive/chapter-03/page-086.png``
+- **Available Scan Files in Section**: ``0086.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 12, left)`` (extracted as ``page-086.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-086.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 12, left)`` with complete margins and legible diplomatic text.

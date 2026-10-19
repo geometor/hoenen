@@ -1,0 +1,35 @@
+Folio 0084 (Page 84) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0083.rst``): Page 83, Caput III [``03_caput_3``] — Ends: ``"Alia quoque animadversio, quae supra exposita in genere, spect..."``
+- **Current Folio** (``0084.rst``): Page 84, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0085.rst``): Page 85, Caput III [``03_caput_3``] — Begins: ``"tem possibilem) indivisibilium : puncti, lineae sine latitudin..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) Theoria Platonis.``, ``C) Theoria Kantii.``, ``D) Theoria empirismi.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"sensitivis. Et quidem necessitatem in ipso obiecto. Putare quis posset h..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ex iis quae videbamus nunc etiam quaedam dicta a Stuart Mill iam refutat..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``invenieba-mus``, ``obiec-tum``, ``Sci-licet``, ``limi-tes``, ``lati-tudinem``, ``necessi-tatem``, ``theo-riam``, ``sensibi-litatis`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0084.png`` -> ``archive/chapter-03/page-084.png``
+- **Available Scan Files in Section**: ``0084.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 11, left)`` (extracted as ``page-084.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-084.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 11, left)`` with complete margins and legible diplomatic text.

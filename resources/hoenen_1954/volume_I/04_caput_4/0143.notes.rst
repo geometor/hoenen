@@ -1,0 +1,36 @@
+Folio 0143 (Page 143) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0142.rst``): Page 142, Caput IV [``04_caput_4``] — Ends: ``"Sed 2°, iuxta supra exposita etiam plus dicendum est : haec al..."``
+- **Current Folio** (``0143.rst``): Page 143, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0144.rst``): Page 144, Caput IV [``04_caput_4``] — Begins: ``"in initiis geometriae ponitur : postulatum V vel eius aequival..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 7. De geometria classica relate ad philosophiam cognitionis.``
+- **Footnotes on Folio (1)**:
+  - Footnote 26: ``Notari potest, ita etiam constitui posse alias geometrias Euclidicas quae scilicet dedu...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``Weber-Wellstein in *Enzyklopaedie der Elementarmathematik* II *Elemente der Geometrie* (ed. 3 1915) pagg. 33-62`` (``weber-wellstein:enzyklopaedie:II.p33``)
+- **Folio Opening Line**: ``"latum V continere (potius perficere) definitionem « rectae » ; addimus :..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Invenimus axioma quoddam in geometria classica, quod non est immediate e..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``geo-metria``, ``syste-mate``, ``axio-matibus``, ``admira-bilem``, ``investiga-tionis``, ``Eucli-dicas``, ``axioma-tibus``, ``geome-tria``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0143.png`` -> ``archive/chapter-04/page-143.png``
+- **Available Scan Files in Section**: ``0143.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 25, right)`` (extracted as ``page-143.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-143.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 25, right)`` with complete margins and legible diplomatic text.

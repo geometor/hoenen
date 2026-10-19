@@ -1,0 +1,36 @@
+Folio 0013 (Page 13) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0012.rst``): Page 12, Caput I [``01_caput_1``] — Ends: ``"Sed est et alter finis huius inquisitionis philosophicae : inv..."``
+- **Current Folio** (``0013.rst``): Page 13, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0014.rst``): Page 14, Caput I [``01_caput_1``] — Begins: ``"Meno 82b-85b et alibi). Et ipsae formae mathematicae, ut videt..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 13``
+- **Document Headings on Folio**: ``§ 2. DE ORIGINE NOTIONUM MATHEMATICARUM.``
+- **Footnotes on Folio (1)**:
+  - Footnote 2: ``Vide opus nostrum La théorie du jugement d'après St. Thomas d'Aquin. Supra citatum.``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*La théorie du jugement d'après St. Thomas d'Aquin*`` (``hoenen:theorie-du-jugement``)
+- **Folio Opening Line**: ``"nunc afferimus, cetera in decursu operis visuri. Haec theoria sane const..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Usque ad medium fere saeculum praecedens, communis opinio tum philosopho..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``hu-manae``, ``praemit-tamus``, ``consi-derentur``, ``uni-versalia``, ``determi-natis``, ``necessi-tatem``, ``mathe-maticam``, ``ulte-riori`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0013.png`` -> ``archive/chapter-01/page-013.png``
+- **Available Scan Files in Section**: ``0013.png``
+- **Archival Source Reference**: ``caput-1-05.png`` (extracted as ``page-013.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-013.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-05.png`` with complete margins and legible diplomatic text.

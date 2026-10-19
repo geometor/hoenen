@@ -1,0 +1,35 @@
+Folio 0288 (Page 288) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0287.rst``): Page 287, Appendix [``08_appendix``] — Ends: ``"Addimus : similes imitationes oriuntur, ubi ad unitatem accide..."``
+- **Current Folio** (``0288.rst``): Page 288, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0289.rst``): Page 289, Index Analyticus [``09_index``] — Begins: ``"PAG."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"In omnibus his materiis adesse videtur occasio abundans, ex casibus conc..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"In omnibus his materiis adesse videtur occasio abundans, ex casibus conc..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0288.png`` -> ``archive/appendix/page-288.png``
+- **Available Scan Files in Section**: ``0288.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 4, left)`` (extracted as ``page-288.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-288.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

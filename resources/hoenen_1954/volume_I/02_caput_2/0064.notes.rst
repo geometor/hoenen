@@ -1,0 +1,35 @@
+Folio 0064 (Page 64) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0063.rst``): Page 63, Caput II [``02_caput_2``] — Ends: ``"Unum adhuc notare volumus relate ad dictum Einstein de quo in..."``
+- **Current Folio** (``0064.rst``): Page 64, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0065.rst``): Page 65, Caput III [``03_caput_3``] — Begins: ``"Iam agendum erit de altero problemate, quod solvendum invenieb..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"physicis ; propter intuitionem necessitatis, quae prioribus associatur,..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et ita in his considerationibus iam finis noster principalis optime atti..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0064.png`` -> ``archive/chapter-02/page-064.png``
+- **Available Scan Files in Section**: ``0064.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 20, left)`` (extracted as ``page-064.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-064.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 20, left)`` with complete margins and legible diplomatic text.

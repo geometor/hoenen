@@ -1,0 +1,35 @@
+Folio 0112 (Page 112) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0111.rst``): Page 111, Caput IV [``04_caput_4``] — Ends: ``"Concludere possumus : sicut in abstrahendis notionibus exactis..."``
+- **Current Folio** (``0112.rst``): Page 112, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0113.rst``): Page 113, Caput IV [``04_caput_4``] — Begins: ``"inter alias quae in eadem superficie constructae sunt, sita es..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 4. DE FIGURIS EXACTIS.``, ``1. Animadversiones praeviae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``materia intelligibilis`` (``materia-intelligibilis``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"gruentiae ex intellecto extenso, ut est principium individuationis, figu..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Iam in secundo capite, in « geometria inexacta », poteramus loqui de pun..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (17)**: ``individua-tionis``, ``dete-gimus``, ``in-telligibilis``, ``applica-tum``, ``pro-bat``, ``quo-cumque``, ``ele-mentis``, ``por-ro`` (+9 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0112.png`` -> ``archive/chapter-04/page-112.png``
+- **Available Scan Files in Section**: ``0112.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 10, left)`` (extracted as ``page-112.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-112.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 10, left)`` with complete margins and legible diplomatic text.

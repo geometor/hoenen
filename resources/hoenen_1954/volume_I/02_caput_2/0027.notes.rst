@@ -1,0 +1,36 @@
+Folio 0027 (Page 27) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0025.rst``): Page 25, Caput I [``01_caput_1``] — Ends: ``"Agitur quoque de complete constituendis fundamentis geometriae..."``
+- **Current Folio** (``0027.rst``): Page 27, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0028.rst``): Page 28, Caput II [``02_caput_2``] — Begins: ``"In critica mathematica moderna problemati necessitatis vix ull..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT II``, ``DE PROBLEMATE NECESSITATIS``, ``Animadversiones praeviae``
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``Vide articulum nostrum De origine primorum principiorum scientiae apud Gregorianum XIV...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*De origine primorum principiorum scientiae* apud *Gregorianum* XIV (1933) pagg. 153-184`` (``hoenen:1933:153-184``)
+- **Folio Opening Line**: ``"Ut iam in primo capite dictum est, communis opinio generis humani — tum..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Aristoteles per theoriam abstractionis formalis, quae experientia utitur..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0027.png`` -> ``archive/chapter-02/page-027.png``
+- **Available Scan Files in Section**: ``0027.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 1, right)`` (extracted as ``page-027.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-027.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

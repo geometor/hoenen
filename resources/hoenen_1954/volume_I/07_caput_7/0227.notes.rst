@@ -1,0 +1,35 @@
+Folio 0227 (Page 227) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0226.rst``): Page 226, Caput VII [``07_caput_7``] — Ends: ``"Dein in ipsa illa extensione, ex qua figurae magis specificata..."``
+- **Current Folio** (``0227.rst``): Page 227, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0228.rst``): Page 228, Caput VII [``07_caput_7``] — Begins: ``"possibilia, mathematice existant. Ex extensione construuntur f..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``Heiberg`` (``euclid:elements:I.post1-3``)
+- **Folio Opening Line**: ``"fectam perpoliri possunt (quoad « quid sint ») et denique ex cognitione..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Clarum est quomodo geometria sit « scientia constructiva suorum subiecto..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0227.png`` -> ``archive/chapter-07/page-227.png``
+- **Available Scan Files in Section**: ``0227.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 3, right)`` (extracted as ``page-227.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-227.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 3, right)`` with complete margins and legible diplomatic text.

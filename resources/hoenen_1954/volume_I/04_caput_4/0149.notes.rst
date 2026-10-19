@@ -1,0 +1,35 @@
+Folio 0149 (Page 149) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0148.rst``): Page 148, Caput IV [``04_caput_4``] — Ends: ``"Sed bene attendenti utrique necessitati, sese manifestat mira..."``
+- **Current Folio** (``0149.rst``): Page 149, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0150.rst``): Page 150, Caput IV [``04_caput_4``] — Begins: ``"stricte dicti ; ad primam sufficit intuitus rectitudinis forma..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 30: ``Ita principium generale syllogismi iam ab Aristotele exprimitur (Anal. Prior. I 4, 25 b...``
+- **Classical Greek Philosophical Terms (2)**: ``εἰ τὸ Α κατὰ παντὸς τοῦ Β καὶ τὸ Β κα...``, ``ἀνάγκη τὸ Α κατὰ παντὸς τοῦ Γ κατηγορ...``
+- **Folio Opening Line**: ``"Sed nunc attendenti hoc est manifestum : necessitas huius connexionis fo..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Hinc fit ut opus scientiae stricte dictae — scientiae conclusionum — iam..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (17)**: ``expri-mere``, ``ex-primit``, ``ante-cedens``, ``con-servatur``, ``spe-cificum``, ``at-tendamus``, ``con-clusionis``, ``ter-minis`` (+9 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0149.png`` -> ``archive/chapter-04/page-149.png``
+- **Available Scan Files in Section**: ``0149.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 28, right)`` (extracted as ``page-149.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-149.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 28, right)`` with complete margins and legible diplomatic text.

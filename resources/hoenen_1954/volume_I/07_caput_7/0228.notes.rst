@@ -1,0 +1,35 @@
+Folio 0228 (Page 228) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0227.rst``): Page 227, Caput VII [``07_caput_7``] — Ends: ``"Clarum est quomodo geometria sit « scientia constructiva suoru..."``
+- **Current Folio** (``0228.rst``): Page 228, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0229.rst``): Page 229, Caput VII [``07_caput_7``] — Begins: ``"cognita praesupponuntur. Est iterum passivi quid simul cum eo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 2. De duplici intelligibilitate materiae intelligibilis.``, ``1. De intelligibilitate passivitatis materiae intelligibilis.``, ``A) De arithmeticis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"possibilia, mathematice existant. Ex extensione construuntur figurae, no..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"*b)* E converso multitudines ut tales ad invicem *addi* possunt ; et res..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0228.png`` -> ``archive/chapter-07/page-228.png``
+- **Available Scan Files in Section**: ``0228.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 4, left)`` (extracted as ``page-228.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-228.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

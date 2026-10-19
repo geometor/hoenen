@@ -1,0 +1,35 @@
+Folio 0093 (Page 93) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0092.rst``): Page 92, Caput III [``03_caput_3``] — Ends: ``"Postea, primo a Weiersztrasz, constructae sunt functiones, qua..."``
+- **Current Folio** (``0093.rst``): Page 93, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0094.rst``): Page 94, Caput III [``03_caput_3``] — Begins: ``"superioribus patet. Nam in casibus simplicibus, quos hucusque..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``7. De geometria ut scientia constructiva.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*Anwendung der Differential- und Integralrechnung* (neuer Abdruck 1907) pagg. 39 sq., 51 sq., 78 sq., 83-102`` (``klein:1907:p39``), ``*Beiträge zur phaenomenologischen Begründung der Geometrie und ihrer physikalischen Anwendungen* (in *Jahrbuch fur Philos. und phaenomenologische Forschung* VI 1923) pagg. 90-93`` (``becker:1923:p90``), ``*Les étapes de la philosophie mathématique* pag. 338`` (``brunschvicg:etapes:p338``)
+- **Folio Opening Line**: ``"tant. Construuntur curvae « approximativae » sed hae sunt normales i. e...."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Hic modus interpretandi constructionem obiectorum in scientia mathematic..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``phaenomenologi-schen``, ``phaenomenolo-gische``, ``diffi-cultatis``, ``describi-tur``, ``mathemati-cam``, ``divi-sionem``, ``priori-bus``, ``su-menda``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0093.png`` -> ``archive/chapter-03/page-093.png``
+- **Available Scan Files in Section**: ``0093.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 15, right)`` (extracted as ``page-093.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-093.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 15, right)`` with complete margins and legible diplomatic text.

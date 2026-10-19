@@ -1,0 +1,35 @@
+Folio 0152 (Page 152) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0151.rst``): Page 151, Caput IV [``04_caput_4``] — Ends: ``"Theoria classica, sicut ab Aristotele in sua theoria cognition..."``
+- **Current Folio** (``0152.rst``): Page 152, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0153.rst``): Page 153, Caput IV [``04_caput_4``] — Begins: ``"Difficultas quaedam praevia hic oriri poterit ex eis quae vide..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``préalable`` (``prealable``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"phiam, et ita vult antecedenter iustificare ea. Sed insuper in ipsa scie..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Scientia quae principia iustificat, apud Platonem erat dialectica, apud..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``rela-tionum``, ``ele-mento``, ``pro-blema``, ``fa-cillime``, ``ha-rum``, ``dedu-cendis``, ``exac-tis``, ``exac-tarum`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0152.png`` -> ``archive/chapter-04/page-152.png``
+- **Available Scan Files in Section**: ``0152.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 30, left)`` (extracted as ``page-152.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-152.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 30, left)`` with complete margins and legible diplomatic text.

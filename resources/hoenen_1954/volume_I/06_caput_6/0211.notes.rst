@@ -1,0 +1,36 @@
+Folio 0211 (Page 211) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0210.rst``): Page 210, Caput VI [``06_caput_6``] — Ends: ``"Incipit, ut dictum est, investigatio in activitatem intellectu..."``
+- **Current Folio** (``0211.rst``): Page 211, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0212.rst``): Page 212, Caput VI [``06_caput_6``] — Begins: ``"formula mathematica exacta exprimitur, nescimus utrum exacte v..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 4: ``In casibus physicis quibusdam etiam talis intuitio invenitur, scilicet ubi de intensita...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``*Cosmologia* ed. 4 notam de sensibilibus propriis pagg. 508-517`` (``hoenen:1949:cosmologia:p508``), ``*Gregorianum*, 1948, pagg. 295-303`` (``hoenen:1948:gregorianum``)
+- **Folio Opening Line**: ``"cessarium : ibi habetur origo geometriae, in intellectu, et haec relatio..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Salvari non potest in quantum mensurae figurarum et distantiarum, etiam..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``geo-metrica``, ``sensiti-vis``, ``casi-bus``, ``sacrifica-mus``, ``inde-pendentiam``, ``applica-tione``, ``mo-menti``, ``depende-mus`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0211.png`` -> ``archive/chapter-06/page-211.png``
+- **Available Scan Files in Section**: ``0211.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 13, right)`` (extracted as ``page-211.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-211.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

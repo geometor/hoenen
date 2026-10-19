@@ -1,0 +1,35 @@
+Folio 0266 (Page 266) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0265.rst``): Page 265, Appendix [``08_appendix``] — Ends: ``"Ex hoc deduci potest, aliud praesuppositum, quod apud Hume et..."``
+- **Current Folio** (``0266.rst``): Page 266, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0267.rst``): Page 267, Appendix [``08_appendix``] — Begins: ``"relationes necessarias inter existentias ; hae sunt relationes..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``agere sequitur esse`` (``agere-sequitur-esse``)
+- **Bibliographic Citations (``:cite:``)** (2): ``*Th. du Jug.* Ch. XI § 3 n. 3 B ed. 1 pagg. 318-324, 2 pagg. 314-318`` (``hoenen:1953:314``), ``*R. a. J.* pagg. 264-269`` (``hoenen:reality-and-judgment:264``)
+- **Folio Opening Line**: ``"sum ad quaestionem quodnam sit illud existens determinatum quod movet. P..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Habemus igitur, etiam apud Aristotelem, principium : « hoc movetur, ergo..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0266.png`` -> ``archive/appendix/page-266.png``
+- **Available Scan Files in Section**: ``0266.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 15, left)`` (extracted as ``page-266.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-266.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 15, left)`` with complete margins and legible diplomatic text.

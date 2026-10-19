@@ -1,0 +1,35 @@
+Folio 0259 (Page 259) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0258.rst``): Page 258, Appendix [``08_appendix``] — Ends: ``"Haec est ergo prima convenientia cum discrepantia inter utrumq..."``
+- **Current Folio** (``0259.rst``): Page 259, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0260.rst``): Page 260, Appendix [``08_appendix``] — Begins: ``"Finaliter notamus : non tantum S. Thomas, sed etiam Aristotele..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (6): ``in actu exercito`` (``in-actu-exercito``), ``in actu signato`` (``in-actu-signato``), ``cogito ergo sum`` (``cogito-ergo-sum``), ``hoc movetur ergo est`` (``movetur-ergo-est``), ``in actu exercito`` (``in-actu-exercito``), ``in actum signatum`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"stantiae », alter « accidentis », una est « ens », alterum est « entis e..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Propositio rationalis in omnibus his casibus merito adhibetur : « cogito..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0259.png`` -> ``archive/appendix/page-259.png``
+- **Available Scan Files in Section**: ``0259.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 7, right)`` (extracted as ``page-259.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-259.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 7, right)`` with complete margins and legible diplomatic text.

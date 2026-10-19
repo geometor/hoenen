@@ -1,0 +1,35 @@
+Folio 0236 (Page 236) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0235.rst``): Page 235, Caput VII [``07_caput_7``] — Ends: ``"Ut momentum proprium noeticum huius facti cognitionis nostrae..."``
+- **Current Folio** (``0236.rst``): Page 236, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0237.rst``): Page 237, Caput VII [``07_caput_7``] — Begins: ``"piis illis mathematicis ut ex origine ; non utique ita ut ex e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 3. De origine noeticae generalis.``, ``1. Conspectus generalis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (5): ``*Cosmologiam*`` (``hoenen:1949:cosmologia``), ``ed. 4 notam XI`` (``hoenen:1949:cosmologia:nota-XI``), ``*Posteriorum*`` (``aristotle:anal-post:II.19``), ``*Q. D. de Ver.* q. 10 a. 6 « sed contra » 2`` (``aquinas:de-veritate:10.6.sc2``), ``*Th. du Jug.* Introduction, I § 3 B, V § 3, 5, VII § 5, in ed. 2 pagg. 1, 25, 164, 188, 227`` (``hoenen:1953:theorie:1,25,164,188,227``)
+- **Folio Opening Line**: ``"intuitive intelligimus, sicut in casibus geometricis, de quibus supra, i..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ibi agitur de cognitione nostra intellectiva, non de sensitiva ; nam hae..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0236.png`` -> ``archive/chapter-07/page-236.png``
+- **Available Scan Files in Section**: ``0236.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 8, left)`` (extracted as ``page-236.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-236.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 8, left)`` with complete margins and legible diplomatic text.

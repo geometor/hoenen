@@ -1,0 +1,37 @@
+Folio 0249 (Page 249) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0248.rst``): Page 248, Caput VII [``07_caput_7``] — Ends: ``"Videtur ergo summi momenti esse in construenda ipsa noetica et..."``
+- **Current Folio** (``0249.rst``): Page 249, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0250.rst``): Page 250, Appendix [``08_appendix``] — Begins: ``"Et homo hanc necessitatem in ipsa illa experientia sua interna..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``APPENDIX``, ``DE CONNEXIONIBUS NECESSARIIS``, ``INTER ACTUS EXISTENTIALES``, ``§ 1. « Movetur ergo est »``
+- **Footnotes on Folio (2)**:
+  - Footnote 1: ``*Le « cogito ergo sum » comme intuition et comme mouvement de la pensée* in fasciculo c...``
+  - Footnote 2: ``*In secundis responsionibus* (ed. Adam et Tannery VII) 140, 18-141, 2.``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``cogito ergo sum`` (``cogito-ergo-sum``)
+- **Bibliographic Citations (``:cite:``)** (4): ``*Le « cogito ergo sum » comme intuition et comme mouvement de la pensée* in fasciculo commemorativo periodici *Riv. di Filos. Neoscolastica* 1937 *Cartesio nel terzo centenario del « Discorso del Metodo »* pagg. 457-471`` (``hoenen:1937``), ``*La Théorie du Jugement d'après St. Thomas d'Aquin* ch. 12 ed. 2 Romae 1953`` (``hoenen:1953:ch12``), ``*Reality and Judgment according to St. Thomas* Chicago 1952`` (``hoenen:reality-and-judgment``), ``*In secundis responsionibus* (ed. Adam et Tannery VII) 140, 18-141, 2`` (``descartes:resp2:VII.140``)
+- **Folio Opening Line**: ``"Formula, quae est titulus huius primae partis, similis est adagio cartes..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Formula, quae est titulus huius primae partis, similis est adagio cartes..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0249.png`` -> ``archive/appendix/page-249.png``
+- **Available Scan Files in Section**: ``0249.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 2, right)`` (extracted as ``page-249.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-249.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 2, right)`` with complete margins and legible diplomatic text.

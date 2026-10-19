@@ -1,0 +1,35 @@
+Folio 0157 (Page 157) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0156.rst``): Page 156, Caput IV [``04_caput_4``] — Ends: ``"litatis quantitativae, similitudinis qualitativae, similitudin..."``
+- **Current Folio** (``0157.rst``): Page 157, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0158.rst``): Page 158, Caput V [``05_caput_5``] — Begins: ``"ronea, ea rejicere sive corrigere. Huic labori epistemologi sc..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``CAPUT V``, ``DE AXIOMATICA``, ``§ 1. De methodo axiomatica.``, ``1. De axiomatica stricte dicta.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"In capitibus praecedentibus saepe sermo erat de « axiomatica sensu moder..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Quia haec methodus, perfecte elaborata a mathematicis, tanquam methodus..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (10)**: ``axio-matica``, ``scien-tiam``, ``propo-sitionum``, ``axio-mata``, ``deduc-tis``, ``adhi-bentur``, ``adhiben-tur``, ``in-tuitiva`` (+2 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0157.png`` -> ``archive/chapter-05/page-157.png``
+- **Available Scan Files in Section**: ``0157.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 1, right)`` (extracted as ``page-157.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-157.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

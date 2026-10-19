@@ -1,0 +1,35 @@
+Folio 0240 (Page 240) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0239.rst``): Page 239, Caput VII [``07_caput_7``] — Ends: ``"Uno verbo hic memoramus similes relationes noeticas"``
+- **Current Folio** (``0240.rst``): Page 240, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0241.rst``): Page 241, Caput VII [``07_caput_7``] — Begins: ``"gibile est ens, quod est principium fundamentale noeticae gene..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"inveniri in arithmeticis et similibus, et ibi intuitiones primitivae, pr..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ipsa scientia mathematica ex his primis principiis derivatur per ratioci..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0240.png`` -> ``archive/chapter-07/page-240.png``
+- **Available Scan Files in Section**: ``0240-partial.png``, ``0240.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 10, left)`` (extracted as ``page-240-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-240-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0240`` (Page 240) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 10, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

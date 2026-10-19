@@ -1,0 +1,35 @@
+Folio 0245 (Page 245) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0244.rst``): Page 244, Caput VII [``07_caput_7``] — Ends: ``"Hae abstractiones, quae tantum conferunt ad construendas scien..."``
+- **Current Folio** (``0245.rst``): Page 245, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0246.rst``): Page 246, Caput VII [``07_caput_7``] — Begins: ``"nostram necessitatis relationum, sed eius exactitudinem interi..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*Th. du Jug.* Ch. XI § 3 n. 2 et n. 3 C et D`` (``hoenen:1953:theorie:XI.3``), ``*Cosmologia*`` (``hoenen:1949:cosmologia``), ``*Th. du Jug.* Ch. XI § 3 n. 3 D`` (``hoenen:1953:theorie:XI.3``)
+- **Folio Opening Line**: ``"in noetica speciali, quae de indole harum scientiarum iudicare debet, se..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"4. Iam supra (V § 5 A) dictum est, in applicatione geometriae ad res phy..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0245.png`` -> ``archive/chapter-07/page-245.png``
+- **Available Scan Files in Section**: ``0245.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 12, right)`` (extracted as ``page-245.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-245.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 12, right)`` with complete margins and legible diplomatic text.

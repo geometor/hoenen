@@ -1,0 +1,35 @@
+Folio 0125 (Page 125) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0124.rst``): Page 124, Caput IV [``04_caput_4``] — Ends: ``"Incipiamus a linea recta. Vidimus quomodo idea directionis lin..."``
+- **Current Folio** (``0125.rst``): Page 125, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0126.rst``): Page 126, Caput IV [``04_caput_4``] — Begins: ``"quae prima divisione extensi, nobis originaliter dati, (quod d..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) De superficie plana.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Sed insuper vidimus, diversitatem directionum apprehendi posse in lineis..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Prima figura cuius existentia a nobis inveniebatur, erat superficies, ta..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``ap-prehendi``, ``trans-eunt``, ``ap-prehendimus``, ``exten-sum``, ``punc-to``, ``exis-tit``, ``sin-gulis``, ``qui-dem`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0125.png`` -> ``archive/chapter-04/page-125.png``
+- **Available Scan Files in Section**: ``0125.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 16, right)`` (extracted as ``page-125.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-125.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 16, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0036 (Page 36) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0035.rst``): Page 35, Caput II [``02_caput_2``] — Ends: ``"Attamen ita nondum habemus cognitionem speciei huius summae ;..."``
+- **Current Folio** (``0036.rst``): Page 36, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0037.rst``): Page 37, Caput II [``02_caput_2``] — Begins: ``"sitatis, frequentissimas esse etiam in elaboratione deductiva..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``C) Deductio logistica.``, ``Conspectus.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Sed id non videtur sufficere ; requiritur enim, idque omnino necessario,..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Postea videbimus, tales « appellationes ad experientiam sensitivam » qui..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0036.png`` -> ``archive/chapter-02/page-036.png``
+- **Available Scan Files in Section**: ``0036.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 6, left)`` (extracted as ``page-036.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-036.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 6, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,34 @@
+Folio 0011 (Page 11) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0010.rst``): Page 10, Caput I [``01_caput_1``] — Ends: ``"Clarum esse videtur haec omnia non in abstracto con-"``
+- **Current Folio** (``0011.rst``): Page 11, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0012.rst``): Page 12, Caput I [``01_caput_1``] — Begins: ``"quae sunt sive ὑποθέσεις (suppositiones) sive αἰτήματα (petiti..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 11``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (3)**: ``ὑποθέσεις``, ``ἀναιρεῖ``, ``ἀξιώματα``
+- **Folio Opening Line**: ``"siderari i. e. ita ut nulla scientia specialis examinetur et quidem id p..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Haec doctrina magis evoluta, ut videtur, apud Aristotelem redit. Disting..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``ha-beat``, ``geo-metria``, ``induc-tionem``, ``cer-tissimum``, ``mor-tem``, ``quodam-modo``, ``per-fectiones``, ``exa-minanda`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0011.png`` -> ``archive/chapter-01/page-011.png``
+- **Available Scan Files in Section**: ``0011.png``
+- **Archival Source Reference**: ``caput-1-03.png`` (extracted as ``page-011.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-011.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-03.png`` with complete margins and legible diplomatic text.

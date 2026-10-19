@@ -1,0 +1,34 @@
+Folio 0151 (Page 151) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0150.rst``): Page 150, Caput IV [``04_caput_4``] — Ends: ``"Ea quae dicebamus spectant necessitatem propositionum. Sed in..."``
+- **Current Folio** (``0151.rst``): Page 151, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0152.rst``): Page 152, Caput IV [``04_caput_4``] — Begins: ``"phiam, et ita vult antecedenter iustificare ea. Sed insuper in..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``τὰ ἐξ ἀφαιρέσεως``
+- **Folio Opening Line**: ``"tia stricte dicta iam disparet. Attendentes ad formam syllogisticam, in..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Theoria classica, sicut ab Aristotele in sua theoria cognitionis intelli..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``syllo-gisticam``, ``proposi-tionibus``, ``superan-dum``, ``ne-cessitas``, ``exac-titudo``, ``origi-naliter``, ``syllo-gistica``, ``scien-tiam`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0151.png`` -> ``archive/chapter-04/page-151.png``
+- **Available Scan Files in Section**: ``0151.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 29, right)`` (extracted as ``page-151.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-151.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 29, right)`` with complete margins and legible diplomatic text.

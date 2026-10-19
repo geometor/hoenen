@@ -1,0 +1,36 @@
+Folio 0253 (Page 253) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0252.rst``): Page 252, Appendix [``08_appendix``] — Ends: ``"*C).* Iuxta auctores nostros et alia convenientia existit inte..."``
+- **Current Folio** (``0253.rst``): Page 253, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0254.rst``): Page 254, Appendix [``08_appendix``] — Begins: ``"sint signa intelligibilium conceptionum, illis primo imponimus..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 3: ``Textus desumptus est ex recensione Ross ; cfr. quoque eius commentarium II pagg. 245 sq...``
+  - Footnote 4: ``Alexander in *Met.* (ed. Hayduck) 573, 16. Ibi (573, 24 et 26) habetur ut primum cognit...``
+- **Classical Greek Philosophical Terms (15)**: ``ἐλήλυθε δ᾽ ἡ ἐνέργεια τοὔνομα``, ``ἡ πρὸς τὴν ἐντελέχειαν συντιθεμένη``, ``καὶ ἐπὶ τὰ ἄλλα ἐκ τῶν κινήσεων μάλιστα``, ``δοκεῖ γὰρ ἡ ἐνέργεια μάλιστα ἡ κίνησι...``, ``διὸ καὶ τοῖς μὴ οὖσιν οὐκ ἀποδιδόασι...``, ``ἄλλας δέ τινας κατηγορίας``, ``οἷον διανοητὰ καὶ ἐπιθυμητὰ εἶναι τὰ...``, ``κινούμενα δὲ οὔ``, ``τοῦτο δέ ὅτι οὐκ ὄντα ἐνεργείᾳ ἔσοντα...``, ``τῶν γὰρ μὴ ὄντων ἔνια δυνάμει ἐστίν``, ``οὐκ ἔστι δέ``, ``ὅτι οὐκ ἐντελεχείᾳ ἐστίν``, ``ἡ ἐνέργεια ἐν κινήσει θεωρεῖται``, ``θεωρεῖται``, ``τὸ κινούμενον ἢ ἐνεργοῦν ὄν τί ἐστιν``
+- **Folio Opening Line**: ``"tia attentione dignissima est. Aristoteles hunc processum describit in *..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Dein nomen « actualitas », energeia, extenditur ad alias actualitates ;..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0253.png`` -> ``archive/appendix/page-253.png``
+- **Available Scan Files in Section**: ``0253.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 4, right)`` (extracted as ``page-253.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-253.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 4, right)`` with complete margins and legible diplomatic text.

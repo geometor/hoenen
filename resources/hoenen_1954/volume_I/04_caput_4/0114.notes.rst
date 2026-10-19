@@ -1,0 +1,35 @@
+Folio 0114 (Page 114) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0113.rst``): Page 113, Caput IV [``04_caput_4``] — Ends: ``"Hilbert quidem in eligendis (« creandis ») notionibus et axiom..."``
+- **Current Folio** (``0114.rst``): Page 114, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0115.rst``): Page 115, Caput IV [``04_caput_4``] — Begins: ``"videri aequivalentes. Tamen iam duae directiones in linea dist..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``2. De notione directionis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"exprimit, has relationes esse proprias passiones horum obiectorum, ex eo..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Si una tantum linea consideratur, ut supra iam dictum est, in qua situm..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``obiec-torum``, ``prin-cipalis``, ``tan-quam``, ``sta-tim``, ``affirma-tionem``, ``pas-siones``, ``punc-tum``, ``mo-menti`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0114.png`` -> ``archive/chapter-04/page-114.png``
+- **Available Scan Files in Section**: ``0114.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 6, left)`` (extracted as ``page-114.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-114.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 6, left)`` with complete margins and legible diplomatic text.

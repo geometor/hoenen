@@ -1,0 +1,36 @@
+Folio 0262 (Page 262) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0261.rst``): Page 261, Appendix [``08_appendix``] — Ends: ``"Et ipse Aristoteles, post stabilitam quidditatem loci (quid es..."``
+- **Current Folio** (``0262.rst``): Page 262, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0263.rst``): Page 263, Appendix [``08_appendix``] — Begins: ``"§ 27). Immo videtur id etiam extendendum esse ad substantiam e..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 11: ``S. Thomas praefert solutionem quam Themistio tribuit.``
+- **Glossary & Foreign Terms (``:term:``)** (1): ``hoc movetur ergo locus est`` (``hoc-movetur-ergo-locus-est``)
+- **Bibliographic Citations (``:cite:``)** (3): ``lectionem 7`` (``aquinas:phys:IV.7``), ``lect. cit. n. 7`` (``aquinas:phys:IV.7.7``), ``*Prolegomena Vorrede* et § 27`` (``kant:prolegomena:27``)
+- **Folio Opening Line**: ``"Nota est difficultas quae inde oritur relate ad motum ultimae sphaerae...."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Hume docuisse dicitur possibilitatem relationis necessariae inter existe..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0262.png`` -> ``archive/appendix/page-262.png``
+- **Available Scan Files in Section**: ``0262.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 13, left)`` (extracted as ``page-262.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-262.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 13, left)`` with complete margins and legible diplomatic text.

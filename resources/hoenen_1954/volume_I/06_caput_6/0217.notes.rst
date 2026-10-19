@@ -1,0 +1,35 @@
+Folio 0217 (Page 217) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0216.rst``): Page 216, Caput VI [``06_caput_6``] — Ends: ``"4. In considerando modo, quo haec operatio mensurandi perficit..."``
+- **Current Folio** (``0217.rst``): Page 217, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0218.rst``): Page 218, Caput VI [``06_caput_6``] — Begins: ``"relationes in quantum sunt durationes. Omnes quae simul incipi..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``in actu exercito`` (``in-actu-exercito``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Cosmol.*`` (``hoenen:1949:cosmologia``)
+- **Folio Opening Line**: ``"variari, potest haberi secundum alias et alias partes (cfr. supra VI § 2..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"6. A parte rei, antecedenter ad observationem nostram, cuius est obiectu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``intelli-gitur``, ``si-multaneitas``, ``duratio-num``, ``men-surandus``, ``tan-gunt``, ``atten-dendum``, ``pene-trare``, ``duratio-nes``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0217.png`` -> ``archive/chapter-06/page-217.png``
+- **Available Scan Files in Section**: ``0217.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 13, right)`` (extracted as ``page-217.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-217.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

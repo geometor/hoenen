@@ -1,0 +1,35 @@
+Folio 0234 (Page 234) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0233.rst``): Page 233, Caput VII [``07_caput_7``] — Ends: ``"In nostra activitate circa arithmetica inveniuntur igitur elem..."``
+- **Current Folio** (``0234.rst``): Page 234, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0235.rst``): Page 235, Caput VII [``07_caput_7``] — Begins: ``"ciendas constructiones, eodem defectu exactitudinis magis vel..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"intelliguntur ducere ad resultata exacte determinata ; etiam sub hoc res..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed si agitur de constructione reali in extensis realibus, oritur duplex..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0234.png`` -> ``archive/chapter-07/page-234.png``
+- **Available Scan Files in Section**: ``0234-partial.png``, ``0234.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 7, left)`` (extracted as ``page-234-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-234-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0234`` (Page 234) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 7, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

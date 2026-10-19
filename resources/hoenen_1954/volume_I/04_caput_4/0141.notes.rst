@@ -1,0 +1,35 @@
+Folio 0141 (Page 141) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0140.rst``): Page 140, Caput IV [``04_caput_4``] — Ends: ``"Ex praedictis facile est solvere difficultatem quae movetur co..."``
+- **Current Folio** (``0141.rst``): Page 141, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0142.rst``): Page 142, Caput IV [``04_caput_4``] — Begins: ``"plicite continentur. Nam intendebat agere de recta et plano se..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"cessariam agnoscunt ; et illi qui eam movent, hoc potius affirmare inten..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ex supra dictis obiectio facile solvitur. Primo interrogamus : quid inte..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``Euclidi-cam``, ``po-tius``, ``na-turali``, ``igno-rantia``, ``sensiti-vam``, ``se-parata``, ``interro-gamus``, ``geome-triam`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0141.png`` -> ``archive/chapter-04/page-141.png``
+- **Available Scan Files in Section**: ``0141.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 24, right)`` (extracted as ``page-141.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-141.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 24, right)`` with complete margins and legible diplomatic text.

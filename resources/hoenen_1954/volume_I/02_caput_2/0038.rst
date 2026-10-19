@@ -7,12 +7,16 @@
 :language: la
 :status: ok
 
-experientia, cui associata est intuitio intellectiva eorum necessitatis. Inquirendum erit in conditiones sub quibus talis intuitio intellectiva nostrae experientiae associatur. Kant simpliciter supponit iudicium empiricum non posse comportare (bei sich führen) necessitatem, nullum conatum adhibet id demonstrandi. Et videtur fuisse communis opinio eo tempore [#f5]_.
-Theoriae Platonis et Stuart Mill, quae oppositae sunt theoriae kantianae et inter se, ex eodem principio profiscuntur. Propter hoc enim Plato admittit doctrinam reminiscentiae, quia admittit necessitatem thesium mathematicarum, propter hoc Stuart Mill negat veram necessitatem mathematicarum.
-Theoria Aristotelis negat universalitatem huius principii, admittit originem empiricam iudiciorum necessariorum. Sicut iam audivimus, relationes mathematicae « videntur », sed per intellectum, νοῦν. Et in genere de principiis scientiarum particularium dicit (Anal. Pri. I, 30, 46 a 17), ea tradi debere ab experientia. In articulo supra citato (De origine primorum principiorum, « Gregor. » 1933) stabilivimus, ni fallimur, eandem esse thesin S. Thomae. Ipse hanc suam doctrinam resumit his verbis (Q. D. de Ver. q. 10 a. 6 sed contra 2) :
+experientia, cui *associata* est intuitio intellectiva eorum necessitatis. Inquirendum erit in conditiones sub quibus talis intuitio intellectiva nostrae experientiae associatur. :person:`Kant <kant>` simpliciter *supponit* iudicium empiricum non posse comportare (bei sich führen) necessitatem, nullum conatum adhibet id demonstrandi. Et videtur fuisse communis opinio eo tempore [#f5]_.
+
+Theoriae :person:`Platonis <plato>` et :person:`Stuart Mill <mill>`, quae oppositae sunt theoriae kantianae et inter se, ex eodem principio proficiscuntur. Propter hoc enim :person:`Plato <plato>` admittit doctrinam reminiscentiae, quia admittit necessitatem thesium mathematicarum, propter hoc :person:`Stuart Mill <mill>` negat veram necessitatem mathematicarum.
+
+Theoria :person:`Aristotelis <aristotle>` negat universalitatem huius principii, admittit originem empiricam iudiciorum necessariorum. Sicut iam audivimus, relationes mathematicae « videntur », sed per intellectum, :term:`νοῦν <nous>`. Et in genere de principiis scientiarum particularium dicit :cite:`(*Anal. Pri.* I, 30, 46 a 17) <aristotle:anal-prior:46a17>`, ea tradi debere ab experientia. In articulo supra citato (:cite:`*De origine primorum principiorum*, « Gregor. » 1933 <hoenen:1933:153-184>`) stabilivimus, ni fallimur, eandem esse thesin :person:`S. Thomae <aquinas>`. Ipse hanc suam doctrinam resumit his verbis :cite:`(*Q. D. de Ver.* q. 10 a. 6 sed contra 2) <aquinas:de-veritate:10.6.sc2>` :
+
 « Omnis nostra cognitio originaliter consistit in notitia primorum principiorum indemonstrabilium. Horum autem cognitio in nobis a sensu oritur ». Et eius doctrina generalis de iudicio non videtur esse nisi elaboratio sed elaboratio amplissima, huius thesis aristotelicae, vel thesis aequivalentis, quae statuit nos non videre abstracta nisi in concretis [#f6]_.
-Haec doctrina, clare a Caietano exposita, per certum tempus a thomistis admissa, postea oblivioni tradita est. Saeculo decimo octavo etiam scholastici admittere videntur, sicut Kant, et sine discussione, etiam sicut Kant, nullum iudicium empiricum posse nobis innotesci ut necessarium. Specimina supra exposita (et permulta similia quae postea videbimus) quae huic « principio » contradicunt, negliguntur.
+
+Haec doctrina, clare a :person:`Caietano <cajetan>` exposita, per certum tempus a thomistis admissa, postea oblivioni tradita est. Saeculo decimo octavo etiam scholastici admittere videntur, sicut :person:`Kant <kant>`, et sine discussione, etiam sicut :person:`Kant <kant>`, nullum iudicium empiricum posse nobis innotesci ut necessarium. Specimina supra exposita (et permulta similia quae postea videbimus) quae huic « principio » contradicunt, negliguntur.
 
 .. [#f5] Operae pretium esset investigare historiam huius infelicis principii.
 
-.. [#f6] De hac doctrina vide opus supra citatum La théorie du jugement d'après St. Thomas d'Aquin passim.
+.. [#f6] De hac doctrina vide opus supra citatum :cite:`*La théorie du jugement d'après St. Thomas d'Aquin* passim <hoenen:theorie-du-jugement:passim>`.

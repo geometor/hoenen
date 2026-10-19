@@ -1,0 +1,35 @@
+Folio 0260 (Page 260) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0259.rst``): Page 259, Appendix [``08_appendix``] — Ends: ``"Propositio rationalis in omnibus his casibus merito adhibetur..."``
+- **Current Folio** (``0260.rst``): Page 260, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0261.rst``): Page 261, Appendix [``08_appendix``] — Begins: ``"Aristoteles incipiens tractatum de loco (*Phys.* IV 1-8) tres..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio (1)**:
+  - Footnote 9: ``Hoc incisum est pars argumentationis sat intricatae, quae in toto capite 9 evolvitur et...``
+- **Classical Greek Philosophical Terms (2)**: ``διό``, ``μάλιστα``
+- **Folio Opening Line**: ``"Finaliter notamus : non tantum S. Thomas, sed etiam Aristoteles non negl..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"« Movetur ergo est » est igitur principium, quod affirmat nexum necessar..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0260.png`` -> ``archive/appendix/page-260.png``
+- **Available Scan Files in Section**: ``0260.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 9, left)`` (extracted as ``page-260.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-260.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 9, left)`` with complete margins and legible diplomatic text.

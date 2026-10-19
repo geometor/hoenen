@@ -1,0 +1,35 @@
+Folio 0142 (Page 142) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0141.rst``): Page 141, Caput IV [``04_caput_4``] — Ends: ``"Ex supra dictis obiectio facile solvitur. Primo interrogamus :..."``
+- **Current Folio** (``0142.rst``): Page 142, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0143.rst``): Page 143, Caput IV [``04_caput_4``] — Begins: ``"latum V continere (potius perficere) definitionem « rectae » ;..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"plicite continentur. Nam intendebat agere de recta et plano sensu descri..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed 2°, iuxta supra exposita etiam plus dicendum est : haec alia obiecta..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (6)**: ``ter-minis``, ``exacti-tudinis``, ``extenso-rum``, ``Eucli-dica``, ``sen-sum``, ``expri-munt``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0142.png`` -> ``archive/chapter-04/page-142.png``
+- **Available Scan Files in Section**: ``0142.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 25, left)`` (extracted as ``page-142.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-142.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 25, left)`` with complete margins and legible diplomatic text.

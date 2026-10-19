@@ -1,0 +1,37 @@
+Folio 0286 (Page 286) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0285.rst``): Page 285, Appendix [``08_appendix``] — Ends: ``"Ad has breves animadversiones restringere debebamus exposition..."``
+- **Current Folio** (``0286.rst``): Page 286, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0287.rst``): Page 287, Appendix [``08_appendix``] — Begins: ``"Tales structurae periodicae, oscillatoriae, inveniuntur in son..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 32: ``De his cfr. in *Gregor.* (1953 pagg. 1-31) articulum nostrum *De duratione successiva e...``
+  - Footnote 33: ``Cfr. Anneliese Maier, *An der Grenze von Scholastik und Naturwissenschaft*, 1943 pagg....``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (8): ``*Phys.* IV 11 219 a 11`` (``aristotle:phys:219a11``), ``S. Thomas l. 17`` (``aquinas:phys:4.17``), ``*Pot.* 7, 2 ad 9`` (``aquinas:de-potentia:7.2.ad9``), ``*Gregor.* (1953 pagg. 1-31) articulum nostrum *De duratione successiva et de quaestionibus connexis*`` (``hoenen:1953:greg:1``), ``VI § 3`` (``hoenen:1954:VI.3``), ``Anneliese Maier, *An der Grenze von Scholastik und Naturwissenschaft*, 1943 pagg. 312 sqq.`` (``maier:1943:312``), ``*Gregor.* 1947 pag. 171`` (``hoenen:1947:greg:171``), ``*Cosmologiam* ed. 4 pagg. 516 s.`` (``hoenen:cosmologia:516``)
+- **Folio Opening Line**: ``"1. Inter modos essendi sunt quidam, qui propria habent, quae analoga sun..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Inde et aliud proprium in motu, etiam in motu alterationis, sequitur. Ha..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0286.png`` -> ``archive/appendix/page-286.png``
+- **Available Scan Files in Section**: ``0286.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 3, left)`` (extracted as ``page-286.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-286.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 3, left)`` with complete margins and legible diplomatic text.

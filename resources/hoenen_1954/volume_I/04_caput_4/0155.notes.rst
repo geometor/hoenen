@@ -1,0 +1,35 @@
+Folio 0155 (Page 155) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0154.rst``): Page 154, Caput IV [``04_caput_4``] — Ends: ``"Relate ad hos processus mentis humanae adhuc observari potest..."``
+- **Current Folio** (``0155.rst``): Page 155, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0156.rst``): Page 156, Caput IV [``04_caput_4``] — Begins: ``"litatis quantitativae, similitudinis qualitativae, similitudin..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"tuitione sensitiva coniunguntur, in analysi accurate deteguntur et expli..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In praecedentibus plura puncta tangimus quae ampliorem investigationem e..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``dete-guntur``, ``deter-minantia``, ``inspec-tionem``, ``scien-tiam``, ``parti-cularibus``, ``geo-metricam``, ``philoso-phiam``, ``cogno-scendis`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0155.png`` -> ``archive/chapter-04/page-155.png``
+- **Available Scan Files in Section**: ``0155.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 31, right)`` (extracted as ``page-155.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-155.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 31, right)`` with complete margins and legible diplomatic text.

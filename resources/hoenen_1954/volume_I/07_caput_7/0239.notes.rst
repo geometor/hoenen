@@ -1,0 +1,35 @@
+Folio 0239 (Page 239) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0238.rst``): Page 238, Caput VII [``07_caput_7``] — Ends: ``"Plus etiam detegit ; nam statim invenit rationem quoque huius..."``
+- **Current Folio** (``0239.rst``): Page 239, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0240.rst``): Page 240, Caput VII [``07_caput_7``] — Begins: ``"inveniri in arithmeticis et similibus, et ibi intuitiones prim..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"Et haec est diversitas fundamentalis, ob quam noetica distinguere debet..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Uno verbo hic memoramus similes relationes noeticas"`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0239.png`` -> ``archive/chapter-07/page-239.png``
+- **Available Scan Files in Section**: ``0239.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 9, right)`` (extracted as ``page-239.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-239.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-7.pdf (p. 9, right)`` with complete margins and legible diplomatic text.

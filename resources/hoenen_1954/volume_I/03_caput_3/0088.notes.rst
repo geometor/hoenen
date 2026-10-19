@@ -1,0 +1,35 @@
+Folio 0088 (Page 88) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0087.rst``): Page 87, Caput III [``03_caput_3``] — Ends: ``"Iam in antiqua geometria sermo est de linea, ut est « locus pu..."``
+- **Current Folio** (``0088.rst``): Page 88, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0089.rst``): Page 89, Caput III [``03_caput_3``] — Begins: ``"et ils sont tombés dans la contradiction » (sublineatio est ip..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (4): ``*Over de grondslagen der wiskunde* 1907 pag. 8`` (``brouwer:1907:p8``), ``*Revue de Mét. et de Mor.* 1911 pag. 183`` (``russell:1911:p183``), ``*Cosmologiam* pag. 451`` (``hoenen:cosmologia:p451``), ``*Science et Méthode* pag. 212`` (``poincare:science-methode:p212``)
+- **Folio Opening Line**: ``"; sed sensus est : omne punctum aeque distans a cruribus anguli situm es..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Plurimi, ut dictum est, nativam theoriam collectionum iam non admittunt,..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (7)**: ``Si-mili``, ``deter-minatorum``, ``cor-recta``, ``speci-fica``, ``theo-ria``, ``pre-tium``, ``minus-ve``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0088.png`` -> ``archive/chapter-03/page-088.png``
+- **Available Scan Files in Section**: ``0088.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 13, left)`` (extracted as ``page-088.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-088.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 13, left)`` with complete margins and legible diplomatic text.

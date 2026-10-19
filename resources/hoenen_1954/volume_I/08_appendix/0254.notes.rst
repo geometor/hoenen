@@ -1,0 +1,35 @@
+Folio 0254 (Page 254) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0253.rst``): Page 253, Appendix [``08_appendix``] — Ends: ``"Dein nomen « actualitas », energeia, extenditur ad alias actua..."``
+- **Current Folio** (``0254.rst``): Page 254, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0255.rst``): Page 255, Appendix [``08_appendix``] — Begins: ``"» prius nobis actualitas cogitationis et in ea (vel sub ea) ac..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 5: ``Breviter notamus. In hoc textu metaphysicae Aristoteles distinguit inter « energeian »...``
+- **Classical Greek Philosophical Terms (4)**: ``ἐντελέχεια``, ``ἐντελεχής``, ``ἐνέργεια``, ``ἐνεργεῖν``
+- **Folio Opening Line**: ``"sint signa intelligibilium conceptionum, illis primo imponimus nomina, q..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"In detegendo igitur principio de necessitate existentiae subiecti quod m..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0254.png`` -> ``archive/appendix/page-254.png``
+- **Available Scan Files in Section**: ``0254.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 5, left)`` (extracted as ``page-254.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-254.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 5, left)`` with complete margins and legible diplomatic text.

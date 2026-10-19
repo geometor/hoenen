@@ -7,45 +7,15 @@
 :language: la
 :status: ok
 
-sint possibiles. Problema igitur est, utrum et quo medio in
-hoc puncto intellectus humanus affirmando possit transcen-
-dere defectum exactitudinis sensibilitatis.
-Supra iam videbamus hanc inexactitudinem iam esse
-superatam in his punctis : 1º in agnoscenda existentia indi-
-visibilium sub certo respectu vel etiam simpliciter, i. e. in
-agnoscenda existentia superficiei, lineae, puncti in sensu
-exacto ; 2º in analysi continuitatis extensi ut talis, quae
-docet divisibilitatem in infinitum, impossibilitatem compo-
-nendi extensum ex inextensis ; 3º in agnoscendo extenso,
-ut est extensum, tanquam homogeneum, uniforme (vel in-
-forme) 14, i. e. tanquam principium individuationis ; ex quo
-statim profluit possibilitas figurarum congruentium et pos-
-sibilitas deducendi congruentiam totalem, si partialis est
-data ; ex quo profluit possibilitas motus figurae invaria-
-bilis ; 4º in analysi notionis directionis, ubi analysis conti-
-nuitatis extensi ducit ad agnoscendam directionem infini-
-tesimalem et existentiam continui directionum circa punc-
-tum in superficie sive in « spatio ».
-Ea quae inveniebamus relate ad notionem exactam
-directionis et relate ad extensum, ut est principium indivi-
-duationis, si simul sumuntur, etiam permittent transitum
-legitimum ab inexactitudine sensibilitatis ad cognoscendam
-existentiam mathematicam figurarum exactarum.
+sint possibiles. Problema igitur est, utrum et quo medio in hoc puncto intellectus humanus *affirmando* possit transcendere defectum exactitudinis sensibilitatis.
 
-A) De linea recta. Incipiamus a linea recta. Vidimus
-quomodo idea directionis lineae oriatur ex intuitu linearum
-quae per unum punctum diverso modo transeunt. Vidimus
-quoque quomodo, ad exacte concipiendam directionem, per
-considerationem infinitesimalem ad limitem transire opor-
-teat. Lineae quae, in hoc transitu ad limitem, diversam di-
-rectionem conservant, revera secundum diversam directio-
-nem per illud punctum transeunt ; aliae se in hoc puncto
-tangunt et ibi eandem habent directionem. In his notioni-
-bus iam transcendimus defectum exactitudinis sensibilita-
-tis, adhibendo ideas lineae vere unidimensionalis, divisibi-
-litatis, quae continuitatem sequitur, tum in ipsis lineis divi-
-dendis tum in diversitate continua directionum conside-
-randa.
+Supra iam videbamus hanc inexactitudinem iam esse superatam in his punctis : 1º in agnoscenda existentia indivisibilium sub certo respectu vel etiam simpliciter, i. e. in agnoscenda existentia superficiei, lineae, puncti in sensu exacto ; 2º in analysi continuitatis extensi ut talis, quae docet divisibilitatem in infinitum, impossibilitatem componendi extensum ex inextensis ; 3º in agnoscendo extenso, ut est extensum, tanquam homogeneum, uniforme (vel informe) [#f14]_, i. e. tanquam principium individuationis ; ex quo statim profluit possibilitas figurarum congruentium et possibilitas deducendi congruentiam totalem, si partialis est data ; ex quo profluit possibilitas motus figurae invariabilis ; 4º in analysi notionis directionis, ubi analysis continuitatis extensi ducit ad agnoscendam directionem infinitesimalem et existentiam continui directionum circa punctum in superficie sive in « spatio ».
 
-14 Informe vel « amorphum » ; ita POINCARÉ, Dernières Pensées
-pag. 62, La valeur de la science pag. 59.
+Ea quae inveniebamus relate ad notionem exactam directionis et relate ad extensum, ut est principium individuationis, si simul sumuntur, etiam permittent transitum legitimum ab inexactitudine sensibilitatis ad cognoscendam existentiam mathematicam figurarum exactarum.
+
+A) *De linea recta.*
+^^^^^^^^^^^^^^^^^^^^
+
+Incipiamus a linea recta. Vidimus quomodo idea directionis lineae oriatur ex intuitu linearum quae per unum punctum diverso modo transeunt. Vidimus quoque quomodo, ad exacte concipiendam directionem, per considerationem infinitesimalem ad limitem transire oporteat. Lineae quae, in hoc transitu ad limitem, diversam directionem conservant, revera secundum diversam directionem per illud punctum transeunt ; aliae se in hoc puncto tangunt et ibi eandem habent directionem. In his notionibus iam transcendimus defectum exactitudinis sensibilitatis, adhibendo ideas lineae vere unidimensionalis, divisibilitatis, quae continuitatem sequitur, tum in ipsis lineis dividendis tum in diversitate continua directionum consideranda.
+
+.. [#f14] Informe vel « amorphum » ; ita :cite:`POINCARÉ, *Dernières Pensées* pag. 62 <poincare:dernieres-pensees:p62>`, :cite:`*La valeur de la science* pag. 59 <poincare:valeur-science:p59>`.

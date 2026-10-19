@@ -1,0 +1,35 @@
+Folio 0170 (Page 170) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0169.rst``): Page 169, Caput V [``05_caput_5``] — Ends: ``"Diximus demonstrationem theorematis 5 apud Hilbert"``
+- **Current Folio** (``0170.rst``): Page 170, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0171.rst``): Page 171, Caput V [``05_caput_5``] — Begins: ``"tio rei quae aspicitur, est potius geometrica quam « logica »..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) Difficultas theoretica.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (2): ``l'ère de la rigueur de Weierstrass`` (``ere-de-la-rigueur-de-weierstrass``), ``artis epsilonticae`` (``ars-epsilontica``)
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"etiam figura geometrica illustrari. Haec sane non additur, ut ex ea aliq..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Et in tali casu « appellationis » ad phantasma disposi-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``adiumen-tum``, ``theo-reticus``, ``sta-tim``, ``par-vum``, ``collecto-rum``, ``deducta-rum``, ``syl-logismi``, ``propositio-nes`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0170.png`` -> ``archive/chapter-05/page-170.png``
+- **Available Scan Files in Section**: ``0170.png``
+- **Archival Source Reference**: ``page-fills.pdf (p. 9, left)`` (extracted as ``page-170.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-170.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``page-fills.pdf (p. 9, left)`` with complete margins and legible diplomatic text.

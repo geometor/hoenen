@@ -1,0 +1,35 @@
+Folio 0265 (Page 265) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0264.rst``): Page 264, Appendix [``08_appendix``] — Ends: ``"Pro omni origine entis actu ex potentia exigit causam efficien..."``
+- **Current Folio** (``0265.rst``): Page 265, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0266.rst``): Page 266, Appendix [``08_appendix``] — Begins: ``"sum ad quaestionem quodnam sit illud existens determinatum quo..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 13: ``In lin. 27 cum Ross legendum est ἔστιν, id quod sine dubio melius est quam id quod Boni...``
+- **Classical Greek Philosophical Terms (4)**: ``κινοῦν``, ``τὸ δὲ κινοῦν ἐνεργείᾳ ἤδη ἔστιν``, ``ἔστιν``, ``ἐστίν``
+- **Folio Opening Line**: ``"affirmat. Dein haec specialiter de motu repetit : exigit aliquid quod mo..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ex hoc deduci potest, aliud praesuppositum, quod apud Hume et alios phil..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0265.png`` -> ``archive/appendix/page-265.png``
+- **Available Scan Files in Section**: ``0265.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 14, right)`` (extracted as ``page-265.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-265.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 14, right)`` with complete margins and legible diplomatic text.

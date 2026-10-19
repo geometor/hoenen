@@ -1,0 +1,35 @@
+Folio 0242 (Page 242) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0241.rst``): Page 241, Caput VII [``07_caput_7``] — Ends: ``"Addimus : saepe dicitur unum exemplum « casus mathematici » su..."``
+- **Current Folio** (``0242.rst``): Page 242, Caput VII [``07_caput_7``] — Status: ``ok``
+- **Following Folio** (``0243.rst``): Page 243, Caput VII [``07_caput_7``] — Begins: ``"monii sensus examinat, fuse exponebamus in opere *Théorie du J..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. De casibus physicis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (3): ``actu exercito`` (``in-actu-exercito``), ``in actum signatum`` (``in-actu-signato``), ``in actu signato`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Analyticorum Posteriorum*`` (``aristotle:anal-post:II.19``), ``*Metaphysicorum*`` (``aristotle:met:I.1``), ``*Th. du Jug.* Ch. IV § 4 et Ch. X § 1`` (``hoenen:1953:theorie:IV.4,X.1``)
+- **Folio Opening Line**: ``"nostra abstractio, nam est intuitiva. Sed ex alia parte dicendum est : p..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ratio affirmationis relationum geometricarum erat : « quia intelligo »,..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0242.png`` -> ``archive/chapter-07/page-242.png``
+- **Available Scan Files in Section**: ``0242-partial.png``, ``0242.png``
+- **Archival Source Reference**: ``chapter-7.pdf (p. 11, left)`` (extracted as ``page-242-partial.png``)
+- **Quality Status**: ``ok``
+
+.. warning::
+
+   **Partial Scan — Margin Cutoff (``page-242-partial.png`` / ``:status: rescan_needed``)**
+
+   Folio ``0242`` (Page 242) was partially cut off along the margin during portrait-oriented scanning (source: ``chapter-7.pdf (p. 11, left)``). Missing characters and word endings along the cut edge were supplied from syntactic and philosophical context during diplomatic transcription. A full-page landscape rescan is required to verify the affected margin lines.

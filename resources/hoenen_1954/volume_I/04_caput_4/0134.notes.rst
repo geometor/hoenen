@@ -1,0 +1,35 @@
+Folio 0134 (Page 134) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0133.rst``): Page 133, Caput IV [``04_caput_4``] — Ends: ``"Recte igitur dicitur, consequentiam quam supra ex notione elab..."``
+- **Current Folio** (``0134.rst``): Page 134, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0135.rst``): Page 135, Caput IV [``04_caput_4``] — Begins: ``"« gaussianam » « valoris zero » habent, quae ideo ad planum ap..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"in lineis ; et haec notio ad exactitudinem elaboratur aliis mediis quam..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Altera animadversio haec est. In theoria unicae parallelae redit notio i..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``rela-tiones``, ``per-fectae``, ``eas-dem``, ``paral-lelae``, ``mathe-matici``, ``deter-minant``, ``super-ficie``, ``inter-dum`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0134.png`` -> ``archive/chapter-04/page-134.png``
+- **Available Scan Files in Section**: ``0134.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 21, left)`` (extracted as ``page-134.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-134.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 21, left)`` with complete margins and legible diplomatic text.

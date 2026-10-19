@@ -1,0 +1,36 @@
+Folio 0284 (Page 284) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0283.rst``): Page 283, Appendix [``08_appendix``] — Ends: ``"Sed dein quaestio ponenda est : undenam haec diversitas proven..."``
+- **Current Folio** (``0284.rst``): Page 284, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0285.rst``): Page 285, Appendix [``08_appendix``] — Begins: ``"buntur ; haec respiciunt illa praedicamenta, quae sunt denomin..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 31: ``Conferri potest S. c. G. I 26 n. 2 ubi dicitur diversa « esse » non esse diversa «secun...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (7): ``*Phys.* III l. 5`` (``aquinas:phys:3.5``), ``*Met.* V l. 9`` (``aquinas:met:5.9``), ``*Phys.* l. c.`` (``aquinas:phys:3.5``), ``ibid.`` (``aquinas:phys:3.5``), ``*Th. du J.* pagg. 69-70, resp. 68-69, resp. 61-62`` (``hoenen:1953:69``), ``*Met.* l. c. n. 290`` (``aquinas:met:5.9.890``), ``S. c. G. I 26 n. 2`` (``aquinas:scg:1.26.2``)
+- **Folio Opening Line**: ``"Et dein S. Thomas hunc modum determinandi actum per potentiam, cuius est..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Sed alia quoque in hac constructione a S. Thoma descri-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0284.png`` -> ``archive/appendix/page-284.png``
+- **Available Scan Files in Section**: ``0284.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 2, left)`` (extracted as ``page-284.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-284.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 2, left)`` with complete margins and legible diplomatic text.

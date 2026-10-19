@@ -1,0 +1,35 @@
+Folio 0089 (Page 89) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0088.rst``): Page 88, Caput III [``03_caput_3``] — Ends: ``"Plurimi, ut dictum est, nativam theoriam collectionum iam non..."``
+- **Current Folio** (``0089.rst``): Page 89, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0090.rst``): Page 90, Caput III [``03_caput_3``] — Begins: ``"aequatio inveniri potest per eliminationem variabilis t ex dua..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``C) De aequationibus geometriae analyticae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Cosmologia* ed. 4 pagg. 451-455`` (``hoenen:cosmologia:p451-455``)
+- **Folio Opening Line**: ``"et ils sont tombés dans la contradiction » (sublineatio est ipsius Poinc..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Talis formula indicat relationem, quae est inter coordinatas, quae deter..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (8)**: ``Sae-pius``, ``pe-riculum``, ``for-mula``, ``consi-deretur``, ``corres-pondet``, ``ma-thematicis``, ``tem-pore``, ``mo-tuum``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0089.png`` -> ``archive/chapter-03/page-089.png``
+- **Available Scan Files in Section**: ``0089.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 13, right)`` (extracted as ``page-089.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-089.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

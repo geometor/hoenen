@@ -1,0 +1,35 @@
+Folio 0100 (Page 100) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0099.rst``): Page 99, Caput IV [``04_caput_4``] — Ends: ``"Extensum ut tale est igitur vere « materia intelligibi-"``
+- **Current Folio** (``0100.rst``): Page 100, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0101.rst``): Page 101, Caput IV [``04_caput_4``] — Begins: ``"tasmatis. Habemus lineam aliquam rectam, dicamus unius metri...."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"lis » pro geometricis ; ex ea materia actuari possunt figurae, specifice..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Figurae congruentes solo situ differunt. Animadvertimus minimam differen..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (15)**: ``con-tinet``, ``indi-viduationis``, ``individua-tionis``, ``sequen-tibus``, ``corpo-rum``, ``exten-so``, ``exten-sum``, ``sequi-tur`` (+7 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0100.png`` -> ``archive/chapter-04/page-100.png``
+- **Available Scan Files in Section**: ``0100.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 4, left)`` (extracted as ``page-100.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-100.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

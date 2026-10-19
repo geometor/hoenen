@@ -1,0 +1,35 @@
+Folio 0194 (Page 194) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0193.rst``): Page 193, Caput V [``05_caput_5``] — Ends: ``"Physici ergo a tali mathematico nullum auxilium expectare pote..."``
+- **Current Folio** (``0194.rst``): Page 194, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0195.rst``): Page 195, Caput VI [``06_caput_6``] — Begins: ``"Ex iis quae supra exponebamus diversae sequuntur conclusiones..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``Typographic Asterism (Section Transition)``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"bere debet methodum inquirendi in hanc intellectionem ope hypotheseos, t..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Omnia autem haec invitare videntur philosophum scholasticum, praesertim..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``geo-metra``, ``expe-rientiae``, ``prac-tice``, ``incessanti-bus``, ``im-mediatas``, ``theo-retice``, ``de-ductivas``, ``perscrutan-dam`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0194.png`` -> ``archive/chapter-05/page-194.png``
+- **Available Scan Files in Section**: ``0194.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 20, left)`` (extracted as ``page-194.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-194.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 20, left)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,35 @@
+Folio 0181 (Page 181) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0180.rst``): Page 180, Caput V [``05_caput_5``] — Ends: ``"Utrumque elementum, quod in singulis illis gressibus deduction..."``
+- **Current Folio** (``0181.rst``): Page 181, Caput V [``05_caput_5``] — Status: ``ok``
+- **Following Folio** (``0182.rst``): Page 182, Caput V [``05_caput_5``] — Begins: ``"bolo p in axiomate quod vocatur « tautologia » et quod dicit :..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) Logistica.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (1): ``the apotheosis of stupidity`` (``apotheosis-of-stupidity``)
+- **Bibliographic Citations (``:cite:``)** (1): ``*Principia Mathematica* (pag. 100)`` (``whitehead-russell:principia:p100``)
+- **Folio Opening Line**: ``"quentissima circa formulas algebraicas, scilicet in « substitutione ». S..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Videamus specimen substitutionis, et quidem eam quae constituit primum g..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``substi-tutione``, ``logis-tica``, ``me-thodis``, ``ap-pellationem``, ``de-ductio``, ``clas-sica``, ``appli-cantur``, ``Nomi-namus`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0181.png`` -> ``archive/chapter-05/page-181.png``
+- **Available Scan Files in Section**: ``0181.png``
+- **Archival Source Reference**: ``chapter-5.pdf (p. 13, right)`` (extracted as ``page-181.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-181.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-5.pdf (p. 13, right)`` with complete margins and legible diplomatic text.

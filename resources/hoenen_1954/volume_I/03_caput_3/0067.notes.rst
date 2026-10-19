@@ -1,0 +1,36 @@
+Folio 0067 (Page 67) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0066.rst``): Page 66, Caput III [``03_caput_3``] — Ends: ``"Principale, ad quod nunc attendendum, non est consequens huius..."``
+- **Current Folio** (``0067.rst``): Page 67, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0068.rst``): Page 68, Caput III [``03_caput_3``] — Begins: ``"propter « constitutionem planetae nostrae saltem, si non totiu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 2: ``Cfr. Cl. BAEUMKER, Das Problem der Materie in der Griechischen Philosophie pagg. 422 sqq.``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (4): ``*In Euclid. Elem.* ed. Friedlein 12, 14 ; 49, 17 sqq. 140, 4`` (``proclus:in-euclid:12.14``), ``ibid. 12, 14-22 ; 49, 12-17 ; 139, 26-140, 7 etc.`` (``proclus:in-euclid:12.14-22``), ``*Cosmologia* nostra, ed. 4, pagg. 35-36`` (``hoenen:cosmologia:p35-36``), ``Cl. BAEUMKER, *Das Problem der Materie in der Griechischen Philosophie* pagg. 422 sqq.`` (``baeumker:1890:p422``)
+- **Folio Opening Line**: ``"Inde haec propositio de summa angulorum trianguli nunquam poterit esse p..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Immo nec possibiles sunt illae figurae : Secundum quodvis criterium poss..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (9)**: ``affirmatio-nem``, ``dis-tinguebant``, ``vide-tur``, ``perse-quitur``, ``pro-blema``, ``tan-quam``, ``latitu-dine``, ``aequa-les`` (+1 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0067.png`` -> ``archive/chapter-03/page-067.png``
+- **Available Scan Files in Section**: ``0067.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 2, right)`` (extracted as ``page-067.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-067.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 2, right)`` with complete margins and legible diplomatic text.

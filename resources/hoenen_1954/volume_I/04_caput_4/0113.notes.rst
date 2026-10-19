@@ -1,0 +1,36 @@
+Folio 0113 (Page 113) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0112.rst``): Page 112, Caput IV [``04_caput_4``] — Ends: ``"Iam in secundo capite, in « geometria inexacta », poteramus lo..."``
+- **Current Folio** (``0113.rst``): Page 113, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0114.rst``): Page 114, Caput IV [``04_caput_4``] — Begins: ``"exprimit, has relationes esse proprias passiones horum obiecto..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 11: ``Ita optime cl. Hadamard (in Encyclopédie Française I 1937, I-52-10) : « Bien entendu, l...``
+- **Glossary & Foreign Terms (``:term:``)** (4): ``Verknüpfung`` (``verknuepfung``), ``Anordnung`` (``anordnung``), ``Strecke`` (``strecke``), ``das System beider Punkte`` (``das-system-beider-punkte``)
+- **Bibliographic Citations (``:cite:``)** (2): ``*Encyclopédie Française* I 1937, I-52-10`` (``hadamard:1937:i-52-10``), ``*Grundlagen der Geometrie*`` (``hilbert:grundlagen``)
+- **Folio Opening Line**: ``"inter alias quae in eadem superficie constructae sunt, sita esse potest...."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Hilbert quidem in eligendis (« creandis ») notionibus et axiomatibus int..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (6)**: ``indepen-denter``, ``sen-sum``, ``pro-pinquitate``, ``tan-quam``, ``animadver-siones``, ``Hil-bert``
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0113.png`` -> ``archive/chapter-04/page-113.png``
+- **Available Scan Files in Section**: ``0113.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 10, right)`` (extracted as ``page-113.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-113.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 10, right)`` with complete margins and legible diplomatic text.

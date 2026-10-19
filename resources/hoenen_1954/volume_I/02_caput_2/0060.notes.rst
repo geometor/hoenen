@@ -1,0 +1,35 @@
+Folio 0060 (Page 60) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0059.rst``): Page 59, Caput II [``02_caput_2``] — Ends: ``"Quomodo pervenire possumus ad legem physicam, bene determinata..."``
+- **Current Folio** (``0060.rst``): Page 60, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0061.rst``): Page 61, Caput II [``02_caput_2``] — Begins: ``"lectione positiva consistit abstractio, non tantum in non cons..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"nis physicae, quae dicitur, in qua multoties circumstantiae experimentor..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Longe aliter res sese habet in casibus mathematicis. Recolamus exemplum..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0060.png`` -> ``archive/chapter-02/page-060.png``
+- **Available Scan Files in Section**: ``0060.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 18, left)`` (extracted as ``page-060.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-060.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 18, left)`` with complete margins and legible diplomatic text.

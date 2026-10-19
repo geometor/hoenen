@@ -1,0 +1,36 @@
+Folio 0034 (Page 34) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0033.rst``): Page 33, Caput II [``02_caput_2``] — Ends: ``"3 et 1 est 4 (déf."``
+- **Current Folio** (``0034.rst``): Page 34, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0035.rst``): Page 35, Caput II [``02_caput_2``] — Begins: ``"sitas adest et a nobis praecognoscitur. Sciebamus, ex addition..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 3: ``Animadvertamus « axioma » non semel sed in singulis gressibus applicari. Simili modo pr...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Rev. Mét. et Mor.* 1904 pag. 339`` (``couturat:1904:339``)
+- **Folio Opening Line**: ``"3)"`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Altera animadversio haec erit. Optime Leibniz exponit definitionem speci..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0034.png`` -> ``archive/chapter-02/page-034.png``
+- **Available Scan Files in Section**: ``0034.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 5, left)`` (extracted as ``page-034.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-034.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 5, left)`` with complete margins and legible diplomatic text.

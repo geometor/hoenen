@@ -1,0 +1,35 @@
+Folio 0220 (Page 220) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0219.rst``): Page 219, Caput VI [``06_caput_6``] — Ends: ``"Indicamus unum experimentum huius generis, quod quoad exactitu..."``
+- **Current Folio** (``0220.rst``): Page 220, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0221.rst``): Page 221, Caput VI [``06_caput_6``] — Begins: ``"pant ; sunt igitur analogi ; et singula obiecta sunt extensa,..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``B) Specimen particulare analogiae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"sibiles) perfecte eandem habere durationem. Supponitur id quod in articu..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Ceterum similis casus analogiae iam in ipsa extensione permanente inveni..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``ana-logae``, ``ana-logia``, ``ana-logus``, ``sta-ticae``, ``partia-liter``, ``ha-bent``, ``pro-cessus``, ``tridimensiona-lis`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0220.png`` -> ``archive/chapter-06/page-220.png``
+- **Available Scan Files in Section**: ``0220.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 15, left)`` (extracted as ``page-220.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-220.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 15, left)`` with complete margins and legible diplomatic text.

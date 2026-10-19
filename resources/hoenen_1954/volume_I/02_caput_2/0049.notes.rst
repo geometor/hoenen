@@ -1,0 +1,35 @@
+Folio 0049 (Page 49) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0048.rst``): Page 48, Caput II [``02_caput_2``] — Ends: ``"Quod hic adest intuitio necessitatis, tum quoad genus tum quoa..."``
+- **Current Folio** (``0049.rst``): Page 49, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0050.rst``): Page 50, Caput II [``02_caput_2``] — Begins: ``"plum potest esse : « corpus grave quod hic sibi permittitur, c..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 3. DE DOCTRINA QUAE EX HIS FACTIS COLLIGITUR``, ``1. Comparatio cum legibus physicis.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"non haurimus ex hac ultima experientia, eam intuemur per abstractionem (..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Comparemus hoc iterum cum iudicio physico, etiam certo, quod lege physic..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0049.png`` -> ``archive/chapter-02/page-049.png``
+- **Available Scan Files in Section**: ``0049.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 12, right)`` (extracted as ``page-049.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-049.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 12, right)`` with complete margins and legible diplomatic text.

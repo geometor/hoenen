@@ -1,0 +1,36 @@
+Folio 0139 (Page 139) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0138.rst``): Page 138, Caput IV [``04_caput_4``] — Ends: ``"Haec dicenda sunt si non adest aliud medium decidendi problema..."``
+- **Current Folio** (``0139.rst``): Page 139, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0140.rst``): Page 140, Caput IV [``04_caput_4``] — Begins: ``"modo geometria non-Euclidica tridimensionalis sit realis, depe..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 25: ``Etiam notio rectae non-Euclidicae ideo non est omnino eadem ac notio rectae Euclidicae...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"propter defectum exactitudinis in datis sensilibus, quae directe vinci n..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Unum breviter addimus : modo descripto geometria non-Euclidica duarum di..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (16)**: ``rec-tam``, ``exis-tentia``, ``con-nexionum``, ``mathema-ticis``, ``exis-tentias``, ``evol-vendi``, ``sol-vere``, ``aequiva-lenti`` (+8 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0139.png`` -> ``archive/chapter-04/page-139.png``
+- **Available Scan Files in Section**: ``0139.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 23, right)`` (extracted as ``page-139.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-139.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 23, right)`` with complete margins and legible diplomatic text.

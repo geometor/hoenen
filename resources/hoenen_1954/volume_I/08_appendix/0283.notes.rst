@@ -1,0 +1,37 @@
+Folio 0283 (Page 283) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0282.rst``): Page 282, Appendix [``08_appendix``] — Ends: ``"Si haec in diversis casibus consideramus, invenimus iudicia et..."``
+- **Current Folio** (``0283.rst``): Page 283, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0284.rst``): Page 284, Appendix [``08_appendix``] — Begins: ``"Et dein S. Thomas hunc modum determinandi actum per potentiam,..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (2)**:
+  - Footnote 29: ``De his cfr. *Th. du J.* in capitibus de propositione per se et per accidens, de reflexi...``
+  - Footnote 30: ``Ita etiam operatio intellectus agentis « determinatur » per « accepta ». Cfr. *Th. du J...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (9): ``*Met.* X 3, 1054 b 23-26`` (``aristotle:met:1054b23``), ``S. Th. l. 4 n. 2017 sqq.`` (``aquinas:met:10.4.2017``), ``V 9, 1018 a 9-14`` (``aristotle:met:1018a9``), ``S. Th. l. 12 n. 916`` (``aquinas:met:5.12.916``), ``l. c. n. 2017`` (``aquinas:met:10.4.2017``), ``*De Pot.* q. 7 a. 2 ad 9`` (``aquinas:de-potentia:7.2.ad9``), ``*Th. du J.* in capitibus de propositione per se et per accidens, de reflexionibus, de iudiciis resultantibus Ch. III, IV, V et alibi passim`` (``hoenen:1953:ch3``), ``*Th. du J.* pagg. 25-26`` (``hoenen:1953:25``), ``*R. a. J.* pag. 21`` (``hoenen:1933:21``)
+- **Folio Opening Line**: ``"in iudiciis, ad quae conducunt, implicat diversitatem in modis essendi [..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Sed dein quaestio ponenda est : undenam haec diversitas provenit ? Et re..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0283.png`` -> ``archive/appendix/page-283.png``
+- **Available Scan Files in Section**: ``0283.png``
+- **Archival Source Reference**: ``appendix-end-and-index.pdf (p. 1, right)`` (extracted as ``page-283.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-283.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-end-and-index.pdf (p. 1, right)`` with complete margins and legible diplomatic text.

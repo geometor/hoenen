@@ -1,0 +1,35 @@
+Folio 0120 (Page 120) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0119.rst``): Page 119, Caput IV [``04_caput_4``] — Ends: ``"Notio accurata directionis in infinitesimalibus attentionem no..."``
+- **Current Folio** (``0120.rst``): Page 120, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0121.rst``): Page 121, Caput IV [``04_caput_4``] — Begins: ``"Si in uno puncto habetur abrupte mutatio directionis, erit « l..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``4. Curvae et rectae.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (0): None
+- **Folio Opening Line**: ``"In geometria inexacta iam sermo esse potest de « lineis » curvis et rect..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Quae de diversis lineis dicebamus, applicari possunt ad partes distincta..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``mani-festum``, ``susti-nenda``, ``latitu-dine``, ``sensibi-liter``, ``ele-menta``, ``distan-tium``, ``quo-que``, ``in-termedii`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0120.png`` -> ``archive/chapter-04/page-120.png``
+- **Available Scan Files in Section**: ``0120.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 14, left)`` (extracted as ``page-120.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-120.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 14, left)`` with complete margins and legible diplomatic text.

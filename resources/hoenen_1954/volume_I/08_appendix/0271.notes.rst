@@ -1,0 +1,36 @@
+Folio 0271 (Page 271) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0270.rst``): Page 270, Appendix [``08_appendix``] — Ends: ``"Si haec accuratius examinantur nova relatio detegitur, hucusqu..."``
+- **Current Folio** (``0271.rst``): Page 271, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0272.rst``): Page 272, Appendix [``08_appendix``] — Begins: ``"Einstein in sua negatione obiectivitatis simultaneitatis in di..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 17: ``Vide eius verba in *Cosmologia* in nota VI de « ubi » ed. 4 pag. 468 et in *Filosofia d...``
+- **Glossary & Foreign Terms (``:term:``)** (2): ``in actu exercito`` (``in-actu-exercito``), ``in actu signato`` (``in-actu-signato``)
+- **Bibliographic Citations (``:cite:``)** (4): ``*Gregorianum*, 1953, pagg. 6-16`` (``hoenen:1953:greg:6``), ``*Cosmologia* in nota VI de « ubi » ed. 4 pag. 468`` (``hoenen:cosmologia:not6``), ``*Filosofia della natura inorganica* pag. 110`` (``hoenen:filosofia-natura:110``), ``VI § 2 B pag. 206 sq.`` (``hoenen:1954:VI.2B``)
+- **Folio Opening Line**: ``"Dicebamus : ex contactu inter duo existentia extensa oritur « praesentia..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Haec sequuntur etiam in ipsa doctrina localisationis, quam auctor theori..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0271.png`` -> ``archive/appendix/page-271.png``
+- **Available Scan Files in Section**: ``0271.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 17, right)`` (extracted as ``page-271.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-271.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 17, right)`` with complete margins and legible diplomatic text.

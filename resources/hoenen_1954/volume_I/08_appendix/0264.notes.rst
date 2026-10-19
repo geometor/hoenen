@@ -1,0 +1,34 @@
+Folio 0264 (Page 264) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0263.rst``): Page 263, Appendix [``08_appendix``] — Ends: ``"Hume tantum in problema causalitatis (efficientis) inquirebat..."``
+- **Current Folio** (``0264.rst``): Page 264, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0265.rst``): Page 265, Appendix [``08_appendix``] — Begins: ``"affirmat. Dein haec specialiter de motu repetit : exigit aliqu..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``§ 3. « Hoc movetur, ergo aliud, movens, existit »``
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (3)**: ``ἀεὶ γὰρ ἐκ τοῦ δυνάμει ὄντος γίγνεται...``, ``ἀεὶ κινοῦντός τινος πρώτου``, ``τὸ δὲ κινοῦν ἐνεργείᾳ ἤδη ἔστιν``
+- **Folio Opening Line**: ``"ipsa impossibilitatem suggerit. Sed et in hoc casu, simili modo una exis..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Pro omni origine entis actu ex potentia exigit causam efficientem, et ha..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0264.png`` -> ``archive/appendix/page-264.png``
+- **Available Scan Files in Section**: ``0264.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 14, left)`` (extracted as ``page-264.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-264.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 14, left)`` with complete margins and legible diplomatic text.

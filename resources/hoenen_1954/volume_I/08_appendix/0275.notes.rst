@@ -1,0 +1,35 @@
+Folio 0275 (Page 275) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0274.rst``): Page 274, Appendix [``08_appendix``] — Ends: ``"In eo loco (lin. 10) ut principium asserit : ἀναγκαῖον ἄρα ὑπά..."``
+- **Current Folio** (``0275.rst``): Page 275, Appendix [``08_appendix``] — Status: ``ok``
+- **Following Folio** (``0276.rst``): Page 276, Appendix [``08_appendix``] — Begins: ``"quomodo constitutio entis, quod fieri potest, ut tale, intelli..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 21: ``De his confer quoque paraphrasin Themistii (ed. Schenkl pag. 210). Ipse plus semel utit...``
+- **Classical Greek Philosophical Terms (3)**: ``καυστὸν εἶναι πρὶν κάεσθαι``, ``καυστικὸν πρὶν κάειν``, ``προϋπάρχειν``
+- **Folio Opening Line**: ``"buritur » καυστὸν εἶναι πρὶν κάεσθαι ; sed ibi addit etiam rem, quae est..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Dicendum utique est : in solutione specifica problematis, vel problematu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0275.png`` -> ``archive/appendix/page-275.png``
+- **Available Scan Files in Section**: ``0275.png``
+- **Archival Source Reference**: ``appendix-2.pdf (p. 20, right)`` (extracted as ``page-275.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-275.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``appendix-2.pdf (p. 20, right)`` with complete margins and legible diplomatic text.

@@ -1,0 +1,36 @@
+Folio 0124 (Page 124) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0123.rst``): Page 123, Caput IV [``04_caput_4``] — Ends: ``"Iam inquirendum est, utrum figurae exactae, in primis recta et..."``
+- **Current Folio** (``0124.rst``): Page 124, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0125.rst``): Page 125, Caput IV [``04_caput_4``] — Begins: ``"Sed insuper vidimus, diversitatem directionum apprehendi posse..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``A) De linea recta.``
+- **Footnotes on Folio (1)**:
+  - Footnote 14: ``Informe vel « amorphum » ; ita POINCARÉ, Dernières Pensées pag. 62, La valeur de la sci...``
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (2): ``POINCARÉ, *Dernières Pensées* pag. 62`` (``poincare:dernieres-pensees:p62``), ``*La valeur de la science* pag. 59`` (``poincare:valeur-science:p59``)
+- **Folio Opening Line**: ``"», sint possibiles. Problema igitur est, utrum et quo medio in hoc punct..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Incipiamus a linea recta. Vidimus quomodo idea directionis lineae oriatu..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (18)**: ``transcen-dere``, ``indi-visibilium``, ``compo-nendi``, ``in-forme``, ``pos-sibilitas``, ``invaria-bilis``, ``conti-nuitatis``, ``infini-tesimalem`` (+10 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0124.png`` -> ``archive/chapter-04/page-124.png``
+- **Available Scan Files in Section**: ``0124.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 16, left)`` (extracted as ``page-124.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-124.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 16, left)`` with complete margins and legible diplomatic text.

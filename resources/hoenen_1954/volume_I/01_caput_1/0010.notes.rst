@@ -1,0 +1,35 @@
+Folio 0010 (Page 10) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0009.rst``): Page 9, Caput I [``01_caput_1``] — Ends: ``"Epistemologia generalis Aristotelis praesertim in eius Analyti..."``
+- **Current Folio** (``0010.rst``): Page 10, Caput I [``01_caput_1``] — Status: ``ok``
+- **Following Folio** (``0011.rst``): Page 11, Caput I [``01_caput_1``] — Begins: ``"siderari i. e. ita ut nulla scientia specialis examinetur et q..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: ``10 — CAPUT I``
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (1): ``*Anal. Post.* I lect. 6`` (``aquinas:anal-post:I.6``)
+- **Folio Opening Line**: ``"materia, contentum, consideranda sunt. Ecce paraphrasim commentarii S. T..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Clarum esse videtur haec omnia non in abstracto con-"`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (14)**: ``demonstra-tione``, ``demonstra-tionem``, ``prin-cipia``, ``pro-positionibus``, ``ele-menta``, ``notio-ribus``, ``gene-ralem``, ``inve-niuntur`` (+6 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0010.png`` -> ``archive/chapter-01/page-010.png``
+- **Available Scan Files in Section**: ``0010.png``
+- **Archival Source Reference**: ``caput-1-02.png`` (extracted as ``page-010.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-010.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``caput-1-02.png`` with complete margins and legible diplomatic text.

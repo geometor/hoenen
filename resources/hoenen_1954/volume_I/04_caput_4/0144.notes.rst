@@ -1,0 +1,35 @@
+Folio 0144 (Page 144) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0143.rst``): Page 143, Caput IV [``04_caput_4``] — Ends: ``"Invenimus axioma quoddam in geometria classica, quod non est i..."``
+- **Current Folio** (``0144.rst``): Page 144, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0145.rst``): Page 145, Caput IV [``04_caput_4``] — Begins: ``"19 n. 2 ; Aristoteles habet 76 b 23 : ὃ ἀνάγκη εἶναι δι’ αὑτὸ..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (3): ``axiomata`` (``axioma``), ``hypothesibus`` (``hypothesis``), ``aitematibus`` (``aitema``)
+- **Bibliographic Citations (``:cite:``)** (3): ``*Anal. Post.* I 2`` (``aristotle:anal-post:I.2``), ``10`` (``aristotle:anal-post:I.10``), ``S. Th. lect.`` (``aquinas:anal-post:I.19.2``)
+- **Folio Opening Line**: ``"in initiis geometriae ponitur : postulatum V vel eius aequivalens. Atque..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Manifestum igitur est, in geometria classica quasdam veritates ut « prin..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (12)**: ``aequi-valens``, ``ae-quiparandae``, ``conti-nuum``, ``quo-vis``, ``pos-tulatum``, ``aequa-les``, ``corresponden-tes``, ``sole-bant`` (+4 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0144.png`` -> ``archive/chapter-04/page-144.png``
+- **Available Scan Files in Section**: ``0144.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 26, left)`` (extracted as ``page-144.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-144.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 26, left)`` with complete margins and legible diplomatic text.

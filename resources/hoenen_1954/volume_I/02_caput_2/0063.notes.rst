@@ -1,0 +1,34 @@
+Folio 0063 (Page 63) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0062.rst``): Page 62, Caput II [``02_caput_2``] — Ends: ``"S. Thomas, ultimis verbis, substantiam quantam vocat « materia..."``
+- **Current Folio** (``0063.rst``): Page 63, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0064.rst``): Page 64, Caput II [``02_caput_2``] — Begins: ``"physicis ; propter intuitionem necessitatis, quae prioribus as..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (1)**: ``ὕλη νοητή``
+- **Folio Opening Line**: ``"stractionem formalem in mente nostra remanet. Aristoteles eadem locution..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Unum adhuc notare volumus relate ad dictum Einstein de quo in primo capi..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0063.png`` -> ``archive/chapter-02/page-063.png``
+- **Available Scan Files in Section**: ``0063.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 19, right)`` (extracted as ``page-063.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-063.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 19, right)`` with complete margins and legible diplomatic text.

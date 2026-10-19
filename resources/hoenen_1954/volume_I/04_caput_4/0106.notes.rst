@@ -1,0 +1,34 @@
+Folio 0106 (Page 106) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0105.rst``): Page 105, Caput IV [``04_caput_4``] — Ends: ``"Duo autem sunt aspectus in ipso motu, secundum quos pertinet a..."``
+- **Current Folio** (``0106.rst``): Page 106, Caput IV [``04_caput_4``] — Status: ``ok``
+- **Following Folio** (``0107.rst``): Page 107, Caput IV [``04_caput_4``] — Begins: ``"Prius igitur continuitas invenitur in extenso et inde haec seq..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio**: None
+- **Classical Greek Philosophical Terms (4)**: ``θέσει``, ``ἐπεὶ δὲ τὸ κινούμενον κινεῖται ἔκ τιν...``, ``ἀκολουθεῖ τῷ μεγέθει ἡ κίνησις``, ``διὰ γὰρ τὸ τὸ μέγεθος εἶναι συνεχὲς κ...``
+- **Folio Opening Line**: ``"Alter respectus secundum quem ad eam pertinet est hic : motus essentiali..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"ἐπεὶ δὲ τὸ κινούμενον κινεῖται ἔκ τινος εἴς τι καὶ πᾶν μέγεθος συνεχές,..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (11)**: ``Considere-mus``, ``exten-sum``, ``praedicamenta-lium``, ``lon-gitudinum``, ``directio-num``, ``praesup-ponitur``, ``struc-turam``, ``par-tium`` (+3 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0106.png`` -> ``archive/chapter-04/page-106.png``
+- **Available Scan Files in Section**: ``0106.png``
+- **Archival Source Reference**: ``chapter-4.pdf (p. 7, left)`` (extracted as ``page-106.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-106.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-4.pdf (p. 7, left)`` with complete margins and legible diplomatic text.

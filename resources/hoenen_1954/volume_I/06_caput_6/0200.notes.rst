@@ -1,0 +1,35 @@
+Folio 0200 (Page 200) — Transcription & Calibration Notes
+=========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0199.rst``): Page 199, Caput VI [``06_caput_6``] — Ends: ``"Opinio illa fortiter propugnatur a Poincaré ubi, sensu valde e..."``
+- **Current Folio** (``0200.rst``): Page 200, Caput VI [``06_caput_6``] — Status: ``ok``
+- **Following Folio** (``0201.rst``): Page 201, Caput VI [``06_caput_6``] — Begins: ``"mini « proprietas geometrica corporum », responsum iam invenit..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 1: ``« Qu'on réalise un cercle matériel, qu'on en mesure le rayon et la circonférence, et qu...``
+- **Classical Greek Philosophical Terms (1)**: ``π``
+- **Folio Opening Line**: ``"Ait (La science et l'hypothèse ch. V n. 2 pag. 92) : « realizemus circul..."`` (*begins new sentence or heading*)
+- **Folio Closing Line**: ``"Quae citavimus sufficiunt, post omnia, quae supra videbamus (vide praese..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print (15)**: ``realize-mus``, ``cir-cumferentiam``, ``extensio-nem``, ``cognos-cuntur``, ``exacti-tudine``, ``per-venit``, ``mo-menti``, ``geometri-cas`` (+7 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0200.png`` -> ``archive/chapter-06/page-200.png``
+- **Available Scan Files in Section**: ``0200.png``
+- **Archival Source Reference**: ``chapter-6.pdf (p. 4, left)`` (extracted as ``page-200.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-200.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-6.pdf (p. 4, left)`` with complete margins and legible diplomatic text.

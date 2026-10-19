@@ -1,0 +1,35 @@
+Folio 0059 (Page 59) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0058.rst``): Page 58, Caput II [``02_caput_2``] — Ends: ``"Inde differentiam, quam supra de facto inveniebamus inter casu..."``
+- **Current Folio** (``0059.rst``): Page 59, Caput II [``02_caput_2``] — Status: ``ok``
+- **Following Folio** (``0060.rst``): Page 60, Caput II [``02_caput_2``] — Begins: ``"nis physicae, quae dicitur, in qua multoties circumstantiae ex..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: ``3. De abstractione formali quae dicitur.``
+- **Footnotes on Folio**: None
+- **Glossary & Foreign Terms (``:term:``)** (0): None
+- **Bibliographic Citations (``:cite:``)** (3): ``*Analyticorum Posteriorum*`` (``aristotle:anal-post:II.19``), ``*De origine principiorum* pag. 159`` (``hoenen:1933:159``), ``*Cosmologia*`` (``hoenen:cosmologia``)
+- **Folio Opening Line**: ``"ficiat, praerequiritur etiam in mathematicis diuturna experientia et pra..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Quomodo pervenire possumus ad legem physicam, bene determinatam, enuntia..."`` (*ends with word-break hyphenation across folio boundary*)
+- **Internal Line-Break Hyphenations in 1954 Print**: None detected
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0059.png`` -> ``archive/chapter-02/page-059.png``
+- **Available Scan Files in Section**: ``0059.png``
+- **Archival Source Reference**: ``chapter-2.pdf (p. 17, right)`` (extracted as ``page-059.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-059.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-2.pdf (p. 17, right)`` with complete margins and legible diplomatic text.

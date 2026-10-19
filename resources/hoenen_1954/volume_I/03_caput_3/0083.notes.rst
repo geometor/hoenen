@@ -1,0 +1,35 @@
+Folio 0083 (Page 83) — Transcription & Calibration Notes
+========================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0082.rst``): Page 82, Caput III [``03_caput_3``] — Ends: ``"Ex datis igitur sensitivis hauritur iudicium intellecti-"``
+- **Current Folio** (``0083.rst``): Page 83, Caput III [``03_caput_3``] — Status: ``ok``
+- **Following Folio** (``0084.rst``): Page 84, Caput III [``03_caput_3``] — Begins: ``"sensitivis. Et quidem necessitatem in ipso obiecto. Putare qui..."``
+
+Structural & Diplomatic Observations
+------------------------------------
+
+- **Running Header / Rubric**: None (Section opening or unnumbered top margin)
+- **Document Headings on Folio**: None (Continuous prose body)
+- **Footnotes on Folio (1)**:
+  - Footnote 11: ``S. Thomas, uti notum est, non intendit dicere, intellectum primo cognoscere suas specie...``
+- **Classical Greek Philosophical Terms (1)**: ``τῇ δὲ διανοητικῇ ψυχῇ τὰ φαντάσματα ο...``
+- **Folio Opening Line**: ``"vum de indivisibilitate limitum ; sed id quod iudicium affirmat, non aff..."`` (*continues sentence/word from preceding folio*)
+- **Folio Closing Line**: ``"Alia quoque animadversio, quae supra exposita in genere, spectat, hic ad..."`` (*complete token at bottom of folio*)
+- **Internal Line-Break Hyphenations in 1954 Print (13)**: ``af-firmat``, ``phantas-mate``, ``co-gnoscere``, ``cogno-scere``, ``appre-hendit``, ``prae-sentis``, ``utra-que``, ``geo-metricis`` (+5 more)
+
+Scan Status & Calibration
+-------------------------
+
+- **Primary Scan Symlink**: ``0083.png`` -> ``archive/chapter-03/page-083.png``
+- **Available Scan Files in Section**: ``0083.png``
+- **Archival Source Reference**: ``chapter-3.pdf (p. 10, right)`` (extracted as ``page-083.png``)
+- **Quality Status**: ``ok``
+
+.. note::
+
+   **Complete Scan (``page-083.png`` / ``:status: ok``)**
+
+   Full-page archival scan verified from ``chapter-3.pdf (p. 10, right)`` with complete margins and legible diplomatic text.
