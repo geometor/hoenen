@@ -1,0 +1,72 @@
+geometor.hoenen.split_scans
+===========================
+
+.. py:module:: geometor.hoenen.split_scans
+
+.. autoapi-nested-parse::
+
+   geometor.hoenen.split_scans
+   Processes raw scan PDFs into individual, contrast-enhanced grayscale page images
+   organized into chapter folders, preserving original scans and reporting status.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.hoenen.split_scans.BASE_DIR
+   geometor.hoenen.split_scans.PDFS_DIR
+   geometor.hoenen.split_scans.SCRATCH_DIR
+   geometor.hoenen.split_scans.INVENTORY
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.hoenen.split_scans.move_original_file
+   geometor.hoenen.split_scans.find_gutter
+   geometor.hoenen.split_scans.render_pdf_page
+   geometor.hoenen.split_scans.process_spread
+   geometor.hoenen.split_scans.run_all
+   geometor.hoenen.split_scans.write_inventory_report
+
+
+Module Contents
+---------------
+
+.. py:data:: BASE_DIR
+
+.. py:data:: PDFS_DIR
+
+.. py:data:: SCRATCH_DIR
+
+.. py:data:: INVENTORY
+
+.. py:function:: move_original_file(src: pathlib.Path, dst: pathlib.Path)
+
+   Move a file using git mv if tracked, else shutil.move.
+
+
+.. py:function:: find_gutter(img_path)
+
+   Detect vertical spine gutter in the center region of a 300 dpi spread image.
+
+
+.. py:function:: render_pdf_page(pdf_path, page_num, out_prefix)
+
+   Render a single page from a PDF at 300 dpi to PNG.
+
+
+.. py:function:: process_spread(pdf_path, pdf_page, out_dir, left_page_num=None, right_page_num=None, is_partial_left=False, is_partial_right=False)
+
+   Extract spread, detect gutter, enhance contrast/grayscale, and save left/right pages.
+
+
+.. py:function:: run_all()
+
+.. py:function:: write_inventory_report()
+

@@ -1,0 +1,309 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PDF Parsing &amp; Scan Processing Guide &mdash; GEOMETOR • hoenen  documentation</title>
+  <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=bd53bf71" />
+  <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../_static/favicon.ico" />
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <a href="../index.html">
+        <h1>GEOMETOR • hoenen</h1>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">hoenen</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../de_noetica_geometriae/index.html"  >DE NOETICA GEOMETRIAE</a>
+        </li>
+        <li>
+          <a href="../modules/index.html"  >modules</a>
+        </li>
+        <li>
+          <a href="index.html"  >About</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main>
+    <article>
+      <header>
+      <nav class="breadcrumbs">
+        <span><a href="../index.html">Home</a></span>
+          <span>/</span>
+        <span><a href="index.html">About</a></span>
+      </nav>
+        <nav class="context">
+          <div class="prev">
+             <a href="pontifical-gregorian-university.html" title="Pontifical Gregorian University" >Prev</a>
+          </div>
+          <div class="next">
+            <a href="../modules/index.html" title="modules" >Next</a>
+          </div>
+        </nav>
+      </header>
+      <div class="content body" role="main">
+        <section class="level-1" id="pdf-parsing-scan-processing-guide">
+          <span id="about-pdf-parsing-guide"></span><h1>PDF Parsing &amp; Scan Processing Guide<a class="headerlink" href="#pdf-parsing-scan-processing-guide" title="Link to this heading">¶</a></h1>
+          <p>This document details the exact methodology, tooling, and reproduction instructions used to convert raw PDF scans of Peter Hoenen’s <em>De Noetica Geometriae</em> (1954) into standardized, high-contrast, single-page images organized by chapter.</p>
+          <hr class="docutils" />
+          <section class="level-2" id="scanner-source-specifications">
+          <h2>1. Scanner &amp; Source Specifications<a class="headerlink" href="#scanner-source-specifications" title="Link to this heading">¶</a></h2>
+          <section class="level-3" id="standard-2-page-spread">
+          <h3>Standard 2-Page Spread<a class="headerlink" href="#standard-2-page-spread" title="Link to this heading">¶</a></h3>
+          <ul class="simple">
+          <li><p><strong>Physical Size:</strong> $11 \times 8.5\text{ inches}$ (Standard US Letter in Landscape orientation).</p></li>
+          <li><p><strong>Resolution:</strong> 300 DPI $\rightarrow 3300 \times 2550\text{ pixels}$.</p></li>
+          <li><p><strong>Page Layout:</strong> Two book pages per scan:</p>
+          <ul>
+          <li><p><strong>Left page:</strong> Even printed page number (verso).</p></li>
+          <li><p><strong>Right page:</strong> Odd printed page number (recto).</p></li>
+          <li><p><strong>Spine gutter:</strong> Vertical shadow crease near the horizontal center ($x \approx 1600\text{--}1650\text{ px}$).</p></li>
+          </ul>
+          </li>
+          </ul>
+          </section>
+          <section class="level-3" id="observed-scan-anomalies">
+          <h3>Observed Scan Anomalies<a class="headerlink" href="#observed-scan-anomalies" title="Link to this heading">¶</a></h3>
+          <ol class="arabic simple">
+          <li><p><strong>Portrait Orientation Misscans:</strong></p>
+          <ul class="simple">
+          <li><p><strong>Dimensions:</strong> $2550 \times 3300\text{ pixels}$ ($8.5 \times 11\text{ inches}$ portrait).</p></li>
+          <li><p><strong>Effect:</strong> The scanner bed width was restricted to 8.5 inches instead of 11 inches. The right-hand page was fully captured, but the left-hand page was vertically truncated (~50% width lost).</p></li>
+          <li><p><strong>Occurrences:</strong> Chapter 5 (p. 176), Chapter 6 (pp. 212, 216, 222), Chapter 7 (pp. 224, 226, 230, 232, 234, 238, 240, 242, 244, 246), Appendix (p. 268).</p></li>
+          </ul>
+          </li>
+          <li><p><strong>Legal Paper Size Scans:</strong></p>
+          <ul class="simple">
+          <li><p><strong>Dimensions:</strong> $4200 \times 2550\text{ pixels}$ ($14 \times 8.5\text{ inches}$ landscape).</p></li>
+          <li><p><strong>Effect:</strong> Extra white margins on the sides. Spine gutter shifted to $x \approx 2250\text{ px}$.</p></li>
+          <li><p><strong>Occurrences:</strong> <code class="docutils literal notranslate"><span class="pre">appendix-end-and-index.pdf</span></code> (Spread 4).</p></li>
+          </ul>
+          </li>
+          </ol>
+          </section>
+          </section>
+          <hr class="docutils" />
+          <section class="level-2" id="processing-pipeline-architecture">
+          <h2>2. Processing Pipeline Architecture<a class="headerlink" href="#processing-pipeline-architecture" title="Link to this heading">¶</a></h2>
+          <p>The extraction and splitting process is fully automated via <code class="docutils literal notranslate"><span class="pre">src/geometor/hoenen/split_scans.py</span></code>.</p>
+          <div class="highlight-text notranslate"><div class="highlight"><pre><span></span>   Source PDF (pdfs/)
+                    │
+                    ▼  (pdftoppm -png -r 300)
+             Raw 300 DPI Spread Image
+                    │
+                    ▼  (convert -crop 100%x50%+0+25% -scale 100%x1! txt:-)
+             Horizontal Intensity Profile &amp; Spine Gutter Detection
+                    │
+               ┌────┴───────────────────────────┐
+               ▼                                ▼
+          Left Page Crop                   Right Page Crop
+          (0 to Gutter)                    (Gutter to Width)
+               │                                │
+               ▼  (-colorspace Gray -contrast-stretch 1%x1%)
+          Optimized Single Page PNG       Optimized Single Page PNG
+          (chapter-XX/page-NNN.png)       (chapter-XX/page-NNN.png)
+          </pre></div>
+          </div>
+          <section class="level-3" id="core-algorithms-tooling">
+          <h3>Core Algorithms &amp; Tooling<a class="headerlink" href="#core-algorithms-tooling" title="Link to this heading">¶</a></h3>
+          <section class="level-4" id="a-high-resolution-rendering">
+          <h4>A. High-Resolution Rendering<a class="headerlink" href="#a-high-resolution-rendering" title="Link to this heading">¶</a></h4>
+          <p>Rendered using Poppler’s <code class="docutils literal notranslate"><span class="pre">pdftoppm</span></code> at native 300 DPI:</p>
+          <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pdftoppm<span class="w"> </span>-png<span class="w"> </span>-r<span class="w"> </span><span class="m">300</span><span class="w"> </span>-f<span class="w"> </span>&lt;page_num&gt;<span class="w"> </span>-l<span class="w"> </span>&lt;page_num&gt;<span class="w"> </span>input.pdf<span class="w"> </span>output_prefix
+          </pre></div>
+          </div>
+          </section>
+          <section class="level-4" id="b-dynamic-spine-gutter-detection">
+          <h4>B. Dynamic Spine Gutter Detection<a class="headerlink" href="#b-dynamic-spine-gutter-detection" title="Link to this heading">¶</a></h4>
+          <p>Rather than splitting at a fixed 50% coordinate (which risks clipping text when scans are slightly off-center), the script inspects the vertical center 50% strip of the spread, compresses it vertically to a 1-pixel high intensity map, and identifies the spine shadow minimum:</p>
+          <ul class="simple">
+          <li><p><strong>Portrait Spreads ($w &lt; h$):</strong> Search window is $x \in [0.25w, 0.42w]$.</p></li>
+          <li><p><strong>Normal Landscape ($w \approx 3300$):</strong> Search window is $x \in [0.44w, 0.56w]$.</p></li>
+          <li><p><strong>Legal Landscape ($w \approx 4200$):</strong> Search window is $x \in [0.50w, 0.60w]$.</p></li>
+          </ul>
+          </section>
+          <section class="level-4" id="c-grayscale-contrast-enhancement">
+          <h4>C. Grayscale &amp; Contrast Enhancement<a class="headerlink" href="#c-grayscale-contrast-enhancement" title="Link to this heading">¶</a></h4>
+          <p>To maximize readability and prepare the pages for optimal OCR:</p>
+          <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>convert<span class="w"> </span>&lt;cropped_page.png&gt;<span class="w"> </span>-colorspace<span class="w"> </span>Gray<span class="w"> </span>-contrast-stretch<span class="w"> </span><span class="m">1</span>%x1%<span class="w"> </span>&lt;output.png&gt;
+          </pre></div>
+          </div>
+          <p>This maps the darkest 1% of pixels to pure black and the brightest 1% to pure white, eliminating yellowing, paper grain, and scan shadow without degrading font weight.</p>
+          </section>
+          <section class="level-4" id="d-partial-page-handling-symlinks">
+          <h4>D. Partial Page Handling &amp; Symlinks<a class="headerlink" href="#d-partial-page-handling-symlinks" title="Link to this heading">¶</a></h4>
+          <p>For pages with truncated content (the 15 portrait pages):</p>
+          <ol class="arabic simple">
+          <li><p>The image is saved as <code class="docutils literal notranslate"><span class="pre">page-NNN-partial.png</span></code> so it is immediately identifiable.</p></li>
+          <li><p>A relative symlink <code class="docutils literal notranslate"><span class="pre">page-NNN.png</span> <span class="pre">-&gt;</span> <span class="pre">page-NNN-partial.png</span></code> is generated so numerical sequential access remains intact for automated pipelines.</p></li>
+          </ol>
+          </section>
+          </section>
+          </section>
+          <hr class="docutils" />
+          <section class="level-2" id="directory-organization">
+          <h2>3. Directory Organization<a class="headerlink" href="#directory-organization" title="Link to this heading">¶</a></h2>
+          <p>Each section of the work is self-contained:</p>
+          <div class="highlight-text notranslate"><div class="highlight"><pre><span></span>hoenen/
+          ├── preface/
+          │   ├── title.jpg
+          │   ├── preface-1.png .. preface-3.png    (Original scans)
+          │   ├── page-005.png .. page-007.png     (Standardized pages)
+          │   └── page-005.txt .. page-007.txt     (Transcribed text)
+          ├── chapter-01/
+          │   ├── caput-1-01.png .. caput-1-17.png  (Original scans)
+          │   ├── page-009.png .. page-025.png     (Standardized pages)
+          │   └── page-009.txt .. page-025.txt     (Transcribed text)
+          ├── chapter-02/
+          │   ├── chapter-2.pdf                    (Source PDF)
+          │   ├── page-027.png .. page-064.png     (Standardized pages)
+          │   └── page-027.txt .. page-064.txt     (Transcribed text)
+          ├── chapter-03/
+          │   ├── chapter-3.pdf, page-fills.pdf    (Source PDFs)
+          │   └── page-065.png .. page-094.png
+          ├── chapter-04/
+          │   ├── chapter-4.pdf, page-fills.pdf
+          │   └── page-095.png .. page-156.png
+          ├── chapter-05/
+          │   ├── chapter-5.pdf, page-fills.pdf
+          │   ├── page-176-partial.png, page-176.png (symlink)
+          │   └── page-157.png .. page-194.png
+          ├── chapter-06/
+          │   ├── chapter-6.pdf, page-fills.pdf
+          │   ├── page-212-partial.png, page-216-partial.png, page-222-partial.png
+          │   └── page-195.png .. page-222.png
+          ├── chapter-07/
+          │   ├── chapter-7.pdf, appendix-2.pdf
+          │   ├── page-224-partial.png, ... (10 partial pages)
+          │   └── page-223.png .. page-248.png
+          ├── appendix/
+          │   ├── appendix-2.pdf, appendix-end-and-index.pdf
+          │   ├── page-268-partial.png
+          │   └── page-249.png .. page-288.png
+          └── index/
+              ├── index.pdf, appendix-end-and-index.pdf
+              └── page-289.png .. page-293.png
+          </pre></div>
+          </div>
+          </section>
+          <hr class="docutils" />
+          <section class="level-2" id="how-to-process-rescans-fill-pages">
+          <h2>4. How to Process Rescans / Fill Pages<a class="headerlink" href="#how-to-process-rescans-fill-pages" title="Link to this heading">¶</a></h2>
+          <p>When replacement scans for the 15 partial pages are acquired:</p>
+          <section class="level-3" id="scanning-guidelines-for-replacements">
+          <h3>Scanning Guidelines for Replacements<a class="headerlink" href="#scanning-guidelines-for-replacements" title="Link to this heading">¶</a></h3>
+          <ol class="arabic simple">
+          <li><p><strong>Orientation:</strong> Set scanner to <strong>Landscape</strong> (11 in wide $\times$ 8.5 in tall) or ensure the scan width covers both pages (or at least full 5.5 in width for single page).</p></li>
+          <li><p><strong>Resolution:</strong> 300 DPI.</p></li>
+          <li><p><strong>Format:</strong> Single-page or two-page spread PDF/PNG.</p></li>
+          </ol>
+          </section>
+          <section class="level-3" id="ingestion-procedure">
+          <h3>Ingestion Procedure<a class="headerlink" href="#ingestion-procedure" title="Link to this heading">¶</a></h3>
+          <p>If rescanned as a new fill PDF (e.g. <code class="docutils literal notranslate"><span class="pre">pdfs/rescans.pdf</span></code>):</p>
+          <ol class="arabic simple">
+          <li><p>Place <code class="docutils literal notranslate"><span class="pre">rescans.pdf</span></code> in <code class="docutils literal notranslate"><span class="pre">pdfs/</span></code>.</p></li>
+          <li><p>Extract the specific replacement page:</p></li>
+          </ol>
+          <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pdftoppm<span class="w"> </span>-png<span class="w"> </span>-r<span class="w"> </span><span class="m">300</span><span class="w"> </span>-f<span class="w"> </span>&lt;page&gt;<span class="w"> </span>-l<span class="w"> </span>&lt;page&gt;<span class="w"> </span>pdfs/rescans.pdf<span class="w"> </span>/tmp/rescan
+          </pre></div>
+          </div>
+          <ol class="arabic simple" start="3">
+          <li><p>If it is a two-page spread, split using:</p></li>
+          </ol>
+          <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python3<span class="w"> </span>-c<span class="w"> </span><span class="s2">"</span>
+          <span class="s2">from geometor.hoenen.split_scans import process_spread</span>
+          <span class="s2">from pathlib import Path</span>
+          <span class="s2">process_spread(Path('pdfs/rescans.pdf'), &lt;spread_num&gt;, Path('&lt;target_chapter_dir&gt;'), left_page_num=&lt;LP&gt;, right_page_num=&lt;RP&gt;)</span>
+          <span class="s2">"</span>
+          </pre></div>
+          </div>
+          <ol class="arabic simple" start="4">
+          <li><p>If it is an individual single page:</p></li>
+          </ol>
+          <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>convert<span class="w"> </span>/tmp/rescan-*.png<span class="w"> </span>-colorspace<span class="w"> </span>Gray<span class="w"> </span>-contrast-stretch<span class="w"> </span><span class="m">1</span>%x1%<span class="w"> </span>&lt;target_chapter_dir&gt;/page-&lt;NNN&gt;.png
+          </pre></div>
+          </div>
+          <ol class="arabic simple" start="5">
+          <li><p>Remove the obsolete <code class="docutils literal notranslate"><span class="pre">-partial.png</span></code> and update <code class="docutils literal notranslate"><span class="pre">docs/scan-inventory.md</span></code>.</p></li>
+          </ol>
+          </section>
+          </section>
+          </section>
+
+      </div>
+      <footer>
+
+        <nav class="context">
+          <div class="prev">
+             <a href="pontifical-gregorian-university.html" title="Pontifical Gregorian University" >Prev</a>
+          </div>
+          <div class="next">
+            <a href="../modules/index.html" title="modules" >Next</a>
+          </div>
+        </nav>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+  </div>
+  <footer>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 1954, Pontificia Universitas Gregoriana • Digital Edition GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../_static/documentation_options.js?v=5929fcd5"></script>
+  <script src="../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../_static/js/geometor_interactive.js?v=524d80a8"></script>
+  <script src="../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

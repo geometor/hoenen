@@ -1,0 +1,269 @@
+.. _appendix-summary:
+
+AI SUMMARY & ANALYSIS — Appendix: On the Necessary Connections Between Existential Acts
+=======================================================================================
+
+.. contents:: Summary Outline
+   :local:
+   :depth: 3
+   :backlinks: none
+
+Executive Summary
+-----------------
+
+The Appendix to *De Noetica Geometriae*, originally published in *Gregorianum* (1953), serves as the **metaphysical capstone** of Father Petrus Hoenen's epistemological work. While the preceding seven chapters established that the intellect intuits necessary and exact relations between forms and quiddities in intelligible matter, the Appendix extends intuitive abstraction to **existence itself**, demonstrating that the mind grasps **necessary connections directly between existential acts** (*actus existentiales*). Transposing the **Cartesian *cogito*** (which Scholastic tradition understood as an immediate intellective intuition of substantial being through accidental thinking) to the external perception of **physical motion** (*movetur ergo est*), Hoenen refutes **David Hume's claim** that the mind can never intuit necessary connections between distinct existences. Because motion points as with a finger to a presupposed existence, the existence of movement immediately demands the real existence of a **subject, a place, an efficient cause, and an end**.
+
+Expanding this existential framework to cosmological relations, Hoenen demonstrates that spatial relations and mutual contacts necessarily presuppose **objective temporal simultaneity in duration**, providing a critical realist challenge to **Einstein's operational relativization of simultaneity**. Finally, entering into dialogue with **Étienne Gilson**, Hoenen resolves the modern controversy surrounding the conceptualization of being by showing that *esse* can indeed be grasped as a **ratio essendi** in the interior judgment of the intellect. He defines *esse* realistically as that which affirmative judgment attributes to an apprehended disposition of reality (*ita est in re*), culminating in the profound Thomistic doctrine that **existence is determined by essence not as potency by act, but as act by potency**.
+
+----
+
+Detailed Section-by-Section Outline
+-----------------------------------
+
+.. code-block:: text
+
+   flowchart LR
+       App["Appendix: De connexionibus necessariis inter actus existentiales"]
+       App --> S1["§ 1. 'Movetur ergo est' (Descartes, Aristotle, Aquinas)"]
+       App --> S2["§ 2. 'Hoc movetur ergo locus est' (Refutation of Hume)"]
+       App --> S3["§ 3. 'Hoc movetur ergo causa efficiens existit' (Causality)"]
+       App --> S4["§ 4. Finality in Motion & General Recapitulation"]
+       App --> S5["§ 5. Other Existential Relations (Simultaneity & Einstein)"]
+       App --> S6["§ 6. Aristotle on the Existential Act"]
+       App --> S7["§ 7. On the Concept of Being Itself (Dialogue with Gilson)"]
+
+----
+
+§ 1. "It is moved, therefore it is" (« Movetur ergo est »)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s1>` · :ref:`English <appendix-en-s1>`
+
+- **1. Analysis of Descartes' *Cogito Ergo Sum*:**
+
+  - In *Secundae Responsiones*, Descartes explains that the *cogito* is **not a syllogism** (it does not presuppose the major premise *"everything that thinks exists"*).
+  - It is a **simple intuition of the intellect** in internal experience: *I who think necessarily am*.
+  - Accidental *esse* (thinking) is known first; substantial *esse* (the self) is ontologically prior.
+
+- **2. Scholastic Precedence (Aristotle and St. Thomas):**
+
+  - Aquinas (*Q.D. de Veritate*, q. 10, a. 12, ad 7): One cannot think that one is not with assent, because in the very act of thinking, one perceives oneself to be.
+  - The universal scholastic axiom: **"Action follows upon actual being"** (*« agere sequitur ad esse in actu »*).
+
+- **3. Transposition to External Perception (*Movetur Ergo Est*):**
+
+  - In bodies, motion is an accidental existential act (*esse fluens*).
+  - Aristotle (*Phys.* V, 1, 225a25): Non-being cannot be moved (ἀδύνατον γὰρ τὸ μὴ ὂν κινεῖσθαι).
+  - Aquinas (*In V Phys.*, lect. 2, no. 8): What is moved is necessarily being simply.
+  - We arrive at the universal principle: **"Being moved follows upon being"** (*« moveri sequitur esse »*).
+
+- **4. Genesis of the Concept of Actuality (*Energeia*):**
+
+  - Aristotle (*Metaph.* IX, 3, 1047a30): The word *energeia* (actuality) was originally applied **to movement** (*ek tōn kinēseōn*), because motion is the most obvious actuality to human sense.
+  - Alexander of Aphrodisias (*In Metaph.* 573): ἡ ἐνέργεια ἐν κινήσει θεωρεῖται (*"actuality is contemplated in motion"*).
+  - Motion is known first in cognition; substantial *esse* is prior by nature.
+
+- **5. Comparison with Quidditative Principles:**
+
+  - *Mathematical principle:* *Extensum est figurabile* (nexus between two forms/essences; subject is prior by nature and cognition).
+  - *Existential principle:* *Hoc movetur ergo est* (nexus between two existential acts; predicate is prior by nature, but subject is prior in cognition).
+
+----
+
+§ 2. "This is moved, therefore place is" (« Hoc movetur ergo locus est »)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s2>` · :ref:`English <appendix-en-s2>`
+
+- **1. Aristotle's Treatise on Place (*Physica* IV, 1–8):**
+
+  - Place (*topos*) is an accident (the inner boundary of the surrounding body).
+  - Place is discovered through the motion of translation (*translatio*).
+  - The universe as a whole is not in a place (*Phys.* IV, 5, 212b14).
+
+- **2. Refutation of David Hume and Immanuel Kant:**
+
+  - Hume claimed that the intellect can never see a necessary relation between the existence of one thing and that of another.
+  - Hoenen’s discovery: In local motion, the intellect intuits that motion **"points, as with a finger, to another presupposed existence"** (*motus quasi digito monstrat aliam existentiam*).
+  - Motion is a fluent existence that cannot occur without the actual existence of place (*locus*).
+
+----
+
+§ 3. "This is moved, therefore another, moving, exists" (« Hoc movetur, ergo aliud, movens, existit »)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s3>` · :ref:`English <appendix-en-s3>`
+
+- **1. The Principle of Causality in Motion:**
+
+  - Pure motion considered in isolation lacks full intelligibility; it demands an external actual agent: *omne quod movetur ab alio movetur*.
+  - Aristotle (*Metaph.* IX, 8; XII, 6, 1071b28): πῶς γὰρ κινηθήσεται, εἰ μὴ ἔσται ἐνεργείᾳ τι αἴτιον (*"for how will it be moved, if there is not in actuality some cause?"*).
+
+- **2. Refutation of Hume's "Constant Conjunction":**
+
+  - The principle of causality is **not** derived from repeated empirical observation of temporal succession.
+  - The intellect grasps the necessity of an actual cause immediately in any motion whatever, even in a single instance or in inertial motion.
+  - Historical example: Isaac Newton discovering the sun as the cause of planetary orbits.
+
+- **3. Necessary Principle vs. Free Cause:**
+
+  - The causal principle demands that an actual cause exist; it does **not** demand that the cause be a "necessary" (deterministic) cause. A free cause completely satisfies the principle.
+
+----
+
+§ 4. On Finality in Motion & Recapitulation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s4>` · :ref:`English <appendix-en-s4>`
+
+- **1. Teleology in Continuous Motion:**
+
+  - Continuous motion cannot possess unity without an end (*telos*).
+  - The end is "posterior in genesis, but prior by nature" (*Metaph.* IX, 6).
+  - Aristotle (*Phys.* VIII, 7, 261a13): τὸ γιγνόμενον ἀτελὲς καὶ ἐπ᾽ ἀρχὴν ἴον (*"that which becomes is incomplete and goes toward a principle"*).
+  - *Hoc movetur ergo terminus intentionaliter existit* ("This is moved, therefore the end intentionally exists").
+
+- **2. The Fourfold Framework of Existential Principles:**
+
+  1. *Hoc movetur ergo existit* (Substance)
+  2. *Hoc movetur translatione, ergo locus existit* (Place / Space)
+  3. *Hoc movetur ergo causa efficiens existit* (Efficient Cause)
+  4. *Hoc movetur ergo tendit in finem producendum* (Final Cause)
+
+- **3. Cognitive vs. Ontological Asymmetry:**
+
+  - In all four, what is known first by us (*antecedent*) is ontologically posterior; what is ontologically prior (*consequent*) is known second.
+  - Noetics transforms these truths from *actus exercitus* into *actus signatus*.
+
+----
+
+§ 5. Certain Other Existential Relations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s5>` · :ref:`English <appendix-en-s5>`
+
+- **1. The Category "Where" (*Ubi*) and Distance:**
+
+  - "To be somewhere" (*esse alicubi*) is a predication in the line of existence.
+  - Distance requires two bodies touching an intermediate body: *principle of the immediate resultant of distance*.
+
+- **2. Discovery of the Prerequisite of Simultaneity:**
+
+  - Two bodies cannot touch an intermediate body unless they **exist simultaneously in duration**.
+  - Local relations necessarily presuppose temporal simultaneity!
+
+- **3. Realist Critique of Albert Einstein:**
+
+  - Einstein’s 1930 definition of space relies on mutual contacts of bodies.
+  - Mutual contacts require objective simultaneous existence.
+  - Therefore, Einstein's operational rejection of absolute simultaneity contradicts his own realist foundation of space.
+
+- **4. "I Make, Therefore Matter is Present" (*Facio Ergo Materia Adest*):**
+
+  - St. Thomas's epistemological criterion for distinguishing authentic perception from hallucination.
+  - Physical action can only be completed upon actual, extramental matter.
+
+----
+
+§ 6. Aristotle on the Existential Act
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s6>` · :ref:`English <appendix-en-s6>`
+
+- **1. Refuting the Myth of Aristotle's "Essentialism":**
+
+  - Counters the modern claim that Aristotle and Greek commentators ignored the act of existence.
+  - *Physica* VIII, 1 (251a10): ἀναγκαῖον ἄρα ὑπάρχειν τὰ πράγματα τὰ δυνάμενα κινεῖσθαι (*"it is necessary that things capable of being moved actually exist"*).
+
+- **2. Metaphysics of Mutability:**
+
+  - Aristotle created the metaphysics of potency and act to answer Parmenides' denial of becoming.
+  - Analyzes the **twofold function of material form**: quidditative (determining essence) and existential (actuating *esse*).
+
+----
+
+§ 7. On the Concept of Being Itself (De conceptu ipsius esse)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Text:* :ref:`Latin <appendix-la-s7>` · :ref:`English <appendix-en-s7>`
+
+- **1. Dialogue with Étienne Gilson:**
+
+  - Gilson (*L'être et l'essence*) argued that *esse* cannot be conceptualized without falling into essentialism.
+  - Hoenen shows that in St. Thomas, *conceptus* and *verbum* apply to the **second operation (judgment)** as well as the first (*De Pot.* q. 8, a. 1).
+  - The intellect forms a concept of *esse* as **ratio essendi** (*ST* I, q. 12, a. 4, ad 3; q. 75, a. 6: *apprehendit esse absolutum*).
+
+- **2. Operational Definition of *Esse*:**
+
+  - What is *esse*? **That which affirmative judgment attributes to an apprehended disposition of the thing** (*« ita est in re »*).
+
+- **3. Gilson's "Center of Darkness" Resolved:**
+
+  - Diverse modes of being are diverse *seipsis totis* (by their whole selves, not by added specific differences).
+  - *Esse* is determined by essence **not as potency by act, but as act by potency** (*De Pot.* q. 7, a. 2, ad 9).
+
+- **4. Four Metaphysical Additions:**
+
+  - *Successive Duration:* Fluent existential extension (*esse fluens*); strictly 1D, refuting Minkowski's literal 4D space.
+  - *Velocity as Intensity:* Nicole Oresme’s medieval configurations of velocity in fluent *esse*; applied to sound waves and modern photons.
+  - *Permanent Qualities:* Modes of inherence and degrees of intensity.
+  - *Contact Aggregates:* Accidental contact imitating essential continua, explaining historical antinomies of the continuum.
+
+----
+
+Thematic Architecture of the Appendix
+-------------------------------------
+
+.. code-block:: text
+
+   classDiagram
+       class ExistentialAct {
+           +Actus Essendi / Actualitas
+           +Substantial Esse (Esse per se)
+           +Accidental Esse (Esse in alio / Esse fluens)
+           +Act Determined by Potency (De Pot. 7, 2 ad 9)
+       }
+
+       class FourPrinciplesOfMotion {
+           +1. Hoc movetur ergo existit (Substance)
+           +2. Hoc movetur translatione ergo locus existit (Place)
+           +3. Hoc movetur ergo causa efficiens existit (Mover)
+           +4. Hoc movetur ergo tendit in finem (Finality)
+       }
+
+       class CosmicRelations {
+           +Topography of Contacts
+           +Immediate Resultant of Distance
+           +Absolute Prerequisite: Temporal Simultaneity
+           +Facio ergo materia adest
+       }
+
+       class ConceptOfEsse {
+           +Verbum of Judgment (De Pot. 8, 1)
+           +Ratio Essendi (ST I, 12, 4 ad 3)
+           +Apprehendit esse absolutum (ST I, 75, 6)
+           +Operational Definition: Ita est in re
+       }
+
+       ExistentialAct <|-- FourPrinciplesOfMotion : Manifests in
+       ExistentialAct <|-- CosmicRelations : Grounds
+       ExistentialAct <|-- ConceptOfEsse : Reflexively Understood as
+
+----
+
+Conceptual Glossary of Latin & Greek Terms
+------------------------------------------
+
+- **Actus existentialis / Actus essendi:** The act of existence: the primary actuality of being that is not a form or quiddity.
+- **Esse fluens:** Fluent being: the dynamic, successive existential act characteristic of motion and duration.
+- **Motus quasi digito monstrat aliam existentiam:** "Motion points, as with a finger, to another existence": the refutation of Humean skepticism regarding existential connections.
+- **Facio ergo materia rei factibilis adest:** "I make, therefore the matter of the factible thing is present": the operative epistemological criterion of extramental reality.
+- **Ratio essendi:** The intelligible account or notion of being itself, apprehended by the intellect in abstraction from quiddity.
+- **Seipsis totis:** "By their whole selves": the Aristotelian-Thomistic distinction indicating that modes of being differ fundamentally without added specific differences.
+- **Actus determinatur per potentiam:** "Act is determined by potency": St. Thomas's principle (*De Pot.* q. 7, a. 2, ad 9) explaining how *esse* is diversified by quiddity.
+- **Ita est in re:** "So it is in reality": the formula of affirmative judgment constituting the realistic operational definition of *esse*.
+- **Ἐνέργεια ἐν κινήσει θεωρεῖται (energeia en kinēsei theōreitai):** Alexander of Aphrodisias's dictum that actuality is first contemplated in motion.
+
+----
+
+*This summary was generated by the Antigravity agent using Gemini 3.8 Flash High.*

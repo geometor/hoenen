@@ -1,0 +1,22 @@
+geometor.hoenen.format_md
+=========================
+
+.. py:module:: geometor.hoenen.format_md
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.hoenen.format_md.format_section
+   geometor.hoenen.format_md.main
+
+
+Module Contents
+---------------
+
+.. py:function:: format_section(section_name: str)
+
+.. py:function:: main()
+

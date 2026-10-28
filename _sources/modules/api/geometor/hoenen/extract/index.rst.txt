@@ -1,0 +1,32 @@
+geometor.hoenen.extract
+=======================
+
+.. py:module:: geometor.hoenen.extract
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.hoenen.extract.base_dir
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.hoenen.extract.extract_text
+   geometor.hoenen.extract.process_directory
+
+
+Module Contents
+---------------
+
+.. py:function:: extract_text(image_path: pathlib.Path) -> str
+
+.. py:function:: process_directory(directory: pathlib.Path, output_dir: pathlib.Path)
+
+.. py:data:: base_dir
+

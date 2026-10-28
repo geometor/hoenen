@@ -1,0 +1,36 @@
+/* elements/code *****************************/
+pre,
+code,
+kbd,
+samp {
+  padding: .1em .25em;
+  font-family: var(--font-code);
+  font-size: 1em;
+  line-height: 1.5;
+  font-weight: bold;
+  // color:  var(--color-bg);
+  // background: var(--text-color);
+
+  border-radius: 0;
+}
+
+code {
+  height: auto;
+
+  pre & {
+    padding: 1em;
+
+    display: block;
+  }
+}
+
+pre {
+  display: block;
+}
+
+div.highlight {
+  background: black;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: var(--fitz);
+}
