@@ -1,0 +1,16 @@
+:folio: 0006
+:page: 6
+:book: Praefatio
+:section: 00_preface
+:title: Praefatio — p. 6
+:header: 6 — PRAEFATIO
+:language: la
+:status: ok
+
+rum, indemonstrabilium, contenti simus, immo contenti esse debeamus. Nam, ut in capite V monstrabimus, impossibile est tale systema statuere. Nam in ipsa deductione — non tantum geometriae, sed etiam aliarum scientiarum, quae continuo evolvi possunt — menti humanae necessarium esse videtur, semper iterum novas propositiones primitivas, indemonstrabiles et tamen cognitas ut necessarias, invocare ; id non tantum necessarium esse videtur, sed simul, in illis scientiis, possibile ; in infinitum. Methodus noetica inquirendi in has propositiones videtur esse maximi momenti, manifestat enim naturam noeticam mentis humanae, non tantum in initiis, fundamentis, scientiarum inquirendis, sed etiam in scientia deductive construenda. Tale exercitium noeticum repetitum, etiam propter « habitum » quem gignit, videtur esse, non quidem necessarium, tamen valde utile pro noetica generali, in qua negligi solet, quamquam eius munus est tales inquisitiones perficere. Propter talem negligentiam fieri potest et fit, ut quaedam systemata noetica in errorem cadant. Id tamen non necessario fit ; nam ea quae in tali analysi noetica deteguntur, in mente humana exculta implicite adsunt et naturaliter eius indagationes intellective dirigunt ; sed adsunt implicite tantum sive « :term:`in actu exercito <in-actu-exercito>` » ; noeticae munus est talia principia explicite statuere, actum exercitum perducere ad « :term:`actum signatum <in-actu-signato>` ». Id in sequentibus saepe obviam habebimus.
+
+Sed in titulo huius operis etiam plus dicimus. Noeticam geometriae vocamus « originem » theoriae cognitionis. Et intendimus dicere, hanc disciplinam non tantum incipere posse a noetica geometriae (saltem ab eius principiis) sed eam ita necessario incipere debere. Id in ultimo paragrapho capitis VII stabilire conabimur, ex natura rei, sed etiam ex doctrina :person:`S. Thomae <aquinas>`, cuius doctrinam de iudicio mentis humanae in alio opere late exponebamus ; et ibi iam frequenter ad noeticam geometriae remittebamus [#f2]_.
+
+Cosmologiam scholasticam, sine talibus indagationibus, praeviis vel simultaneis, construi et ab antinomiis plene salvari non posse, historice constat. Sed et pro aliis discipli-
+
+.. [#f2] :cite:`*La théorie du jugement d'après St. Thomas d'Aquin* ed. 1, 1946 <hoenen:theorie-du-jugement:1946>`, :cite:`ed. 2 aucta et emendata, 1953 <hoenen:theorie-du-jugement:1953>`, versio anglica :cite:`*Reality and Judgment according to St. Thomas*, Chicago 1952 <hoenen:reality-and-judgment:1952>`. Ad id referemus sub siglo *Th. d. J.* resp. *R. a J.*

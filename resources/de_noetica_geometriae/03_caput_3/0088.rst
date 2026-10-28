@@ -1,0 +1,13 @@
+:folio: 0088
+:page: 88
+:book: Caput III
+:section: 03_caput_3
+:title: Caput III — p. 88
+:language: la
+:status: ok
+
+sed sensus est : omne punctum aeque distans a cruribus anguli situm est in illa linea, et vice versa, omne punctum illius lineae est aeque distans a cruribus anguli. Bissectrix non consideratur nisi ut « matrix » illorum punctorum, est potentia (materia) ex qua et in qua puncta aequidistantia actuari possunt.
+
+Aliter res sese habet in theoria moderna collectionum, quae a :person:`Cantor <cantor>` constructa est, saltem si concipitur eo modo quo originaliter ab illo auctore intendebatur. Ibi revera, si de linea tanquam « collectione punctorum » sermo erat, eam intelligebant ut puram seriem punctorum contiguorum. Simili modo aliae collectiones, quorum individua (elementa) per solam definitionem *generis* vel *speciei* determinata erant, iam considerabantur tanquam constitutae ex multitudine (in genere actu infinita) *individuorum* datorum, in se determinatorum. Id utique, iuxta supra exposita admitti nequit. Sed haec theoria nativa ad contradictiones (« paradoxa ») duxit ; inde a plurimis mathematicis tantum in forma correcta adhibetur, in qua, data definitione generica vel specifica (data lege formationis collectionis) elementa individua nondum ut in se determinata considerantur. Talis collectio verificat notionem potentiae :person:`Aristotelis <aristotle>`, quae (ad individua) actuanda est per ulteriorem determinationem. In tali theoria linea iam non est collectio i. e. series punctorum, sed est potentia, in qua puncta actuari possunt, est, ut :person:`Brouwer <brouwer>` ait (in opere :cite:`*Over de grondslagen der wiskunde* 1907 pag. 8 <brouwer:1907:p8>`) : « matrix punctorum simul cogitandorum ». Et operae pretium esset, si mathematicus, qui theoriam Aristotelicam potentiae callet, vellet evolvere theoriam collectionum, quae magnum momentum habet, sub luce huius theoriae Aristotelicae.
+
+Plurimi, ut dictum est, nativam theoriam collectionum iam non admittunt, sed loco eius, theoriam quae plus minusve corrigebatur. Eam plene adhuc admittere videtur :person:`B. Russell <russell>`, qui ex ea antinomias classicas continui realis se solvere posse putabat (Cfr. :cite:`*Revue de Mét. et de Mor.* 1911 pag. 183 <russell:1911:p183>` ; cfr. :cite:`*Cosmologiam* pag. 451 <hoenen:cosmologia:p451>`) ; perperam utique, ut ex praemissis patet. Mathematici qui theoriam nativam collectionum corrigunt, saltem plurimi ut nobis videtur, putant eius contradictiones provenire ex eo, quod infinitum actuale admittit. Ita :person:`Poincaré <poincare>` (:cite:`*Science et Méthode* pag. 212 <poincare:science-methode:p212>`) ait : « *Il n'y a pas d'infini actuel* ; les Cantoriens l'ont oublié,

@@ -1,0 +1,17 @@
+:folio: 0165
+:page: 165
+:book: Caput V
+:section: 05_caput_5
+:title: Caput V — p. 165
+:language: la
+:status: ok
+
+gicae, nam respiciunt obiecta. Saepe nominantur « leges cogitationis » (germanice « :term:`Denkgesetze <denkgesetze>` ») quod tamen nomen interpretandum est : « leges cogitatorum », sive « cogitandorum » (germanice « :term:`des Gedachten <das-gedachte>` » ) [#f6]_. Optime dicuntur « leges noeticae ». Ideo accurate exprimuntur terminis qui ipsa obiecta respiciunt ; etiam si « pure » logice exprimuntur i. e. ita ut explicite termini transcendentes, symbolici, qui determinationem sensus omittunt, adhibeantur, hi termini semper pro obiectis ipsis, nunc non specificatis, supponunt. Ita supra iam audiebamus :person:`Aristotelem <aristotle>` affirmantem rectitudinem syllogismi modi Barbara propositione conditionali, quae aliquid affirmat universaliter de *obiectis*. Est « lex logica » sed exprimitur in functione terminorum qui pro obiectis ipsis supponunt. Ita et in casu talium veritatum valet adagium :person:`S. Thomae <aquinas>` : ex obiecto cognoscitur actus (et eius natura noetica) et ex actu potentia i. e. natura noetica activitatis generalis mentis syllogizantis. Incipit actus intuitivus ab obiecto concreto, permanet intuitio in transitu ad obiectum abstractum, i. e. in abstractione symbolica.
+
+In construenda scientia, haec forma, quae ita abstrahi potest, adest in dispositionibus rei determinatis, concretis ; inde logica, qua mens humana naturaliter utitur in construenda quavis scientia, est forma in materia talis scientiae ; est « :term:`logica utens <logica-utens>` » vel « in usu ». Inde :person:`S. Thomas <aquinas>` logicam in usu, in diversis scientiis, *identificat*, non cum ipsa scientia logicae, sed cum scientia concreta, materiali, cuius est forma. Ita, ni fallor, intelligendus est textus ex :cite:`*Met.* IV lect. 4 n. 577 <aquinas:met:4.l4.n577>`.
+
+Et ita leges logicae utentis non sunt « normae » proprie dictae, sunt ut iam dictum est descriptiones activitatis naturalis, reddunt naturam mentis syllogizantis, naturam dico noeticam quae obiectum respicit, et ideo exprimuntur verbis quae immediate obiecta respiciunt.
+
+:term:`Logica docens <logica-docens>`, vel theoretica, quae inde ab hac logica naturali evolvitur, invenit utique leges logicas, syllogisticas, quae etiam ut normae adhiberi possunt et adhibentur in diiudicanda rectitudine syllogismi complicati. In hac logica deducenda utimur utique etiam ratiociniis syllogisti-
+
+.. [#f6] Ita bene :cite:`A. RIEHL. *Logik und Erkenntnistheorie* in *Kultur der Gegenwart* Abt. VI ed. 3 (1921) pag. 71 <riehl:1921:p71>`.

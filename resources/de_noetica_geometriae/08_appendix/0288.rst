@@ -1,0 +1,10 @@
+:folio: 0288
+:page: 288
+:book: Appendix
+:section: 08_appendix
+:title: Appendix — p. 288
+:header: 288 — APPENDIX
+:language: la
+:status: ok
+
+In omnibus his materiis adesse videtur occasio abundans, ex casibus concretis (iuxta methodum constantem :person:`S. Thomae <aquinas>`) inquirendi in relationes inter essentias et modos essendi, ita ut suum cuique ordini tribuatur.

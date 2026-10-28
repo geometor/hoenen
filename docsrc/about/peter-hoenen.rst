@@ -1,9 +1,5 @@
 .. _about-peter-hoenen:
 
-.. container:: track-nav
-
-   :ref:`Bibliography & References <bibliography>`
-
 Petrus Hubertus Jacobus Hoenen, S. J.
 =====================================
 

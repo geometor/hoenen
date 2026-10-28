@@ -1,0 +1,15 @@
+:folio: 0105
+:page: 105
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 105
+:language: la
+:status: ok
+
+sunt numeri pure cardinales, quantitas quae ita mensuratur, non est quantitas praedicamentalis, sed « quantitas virtutis », intensitas. Et sic consideratus, motus non pertinet ad geometriam, sed ad physicam sive philosophiam naturalem. Statim tamen in ipsa velocitate unum aspectum, qui est geometricus, detegemus ; id quod mirandum non est ; est enim intensitas in re geometrica.
+
+Dein : quia motus est mutatio, requirit causam efficientem ; etiam sub hoc respectu est notio aliena a geometria, pertinet ad metaphysicam et physicam. Unde hic aspectus in geometria penitus negligitur.
+
+Duo autem sunt aspectus in ipso motu, secundum quos pertinet ad geometriam, ita ut haec scientia de ente extenso sit imperfecta, si omittantur. Agitur enim de duobus « propriis » extensi ut talis, scilicet de conditionibus praerequisitis ut motus sit possibilis. Prior supra iam partim descripta est : ut motus sit possibilis requiritur ut tam mobile quam id secundum quod movetur, locum dico, sit extensum ; ex extenso igitur ut tali profluit possibilitas motus. Sed nunc aliquid addendum est : clarum est enim, ad hoc, ut figura, sive corpus figuratum, moveri possit *sine ulla mutatione intrinseca*, ut extensum iuxta quod vel potius in quo movetur — sive hoc pure geometrice consideratur (ut systema coordinatarum) sive sit locus realis, ut aether — in singulis positionibus quae successive a mobili occupantur, sit capax figurae quae cum figura movenda sit congruens, sola positione differens. Et animadvertendum est, id modo continuo debere esse possibile. Sed haec proprietas extensi, quae ad possibilitatem motus figurae invariabilis praerequiritur et ex qua haec possibilitas profluit, est id quod supra vocabatur « homogeneitas, sive uniformitas, extensi ut est extensum », est id propter quod extensum ut tale est principium individuationis. Quia hoc proprium extensi naturaliter intelligimus, ideo et ideo tantum, intelligimus naturaliter possibilitatem motus figurae invariabilis ; adest in mente nostra ut iudicium virtuale. Hoc autem proprium pertinet ad extensum ut tale et ideo consideratio motus secundum hanc conditionem praerequisitam pertinet ad geometriam puram [#f6]_.
+
+.. [#f6] Inde patet eos qui (forte iuxta ea quae :person:`Wellstein <wellstein>` dicebat) incipere volunt a figuris, ex filo tenui sed rigido compositis, quas in « spatio » movent, non evitare applicationem principii individuationis, sed id implicite supponere. Nam ut hae figurae moveri possint, praesupponitur extensum (spatium) in quo moventur, talem habere structuram, ut illae figurae diversis partibus « spatii » applicari possint, et quidem modo continue variabili. In illo « spatio » tales limites partium (lineae) ut possibiles, mathematice existentes, *praesupponuntur*. Possibilitas motus corporis rigidi praesupponit spatium et eius proprietates, non vice versa. Et ex principio individuationis plura derivari possunt quam ex solo principio liberi motus corporum rigidorum. Cfr. :cite:`*Gregorianum* 1951 pagg. 449 sq. <hoenen:1951:p449>`.

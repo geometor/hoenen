@@ -1,0 +1,11 @@
+:folio: 0094
+:page: 94
+:book: Caput III
+:section: 03_caput_3
+:title: Caput III — p. 94
+:language: la
+:status: ok
+
+superioribus patet. Nam in casibus simplicibus, quos hucusque examinabamus, id iam manifestum est. Construimus utique mente nostra ; sed construimus ex materia praeiacente, ex ente extenso ut est extensum. Quod maioris momenti est : *detegimus* ens extensum esse materiam aptam, ex qua construamus ; detegimus « propria » stricte dicta materiae, quae talem constructionem pati potest ; detegimus primo, si ita loqui fas est, « constructibilitatem » tanquam passionem propriam huius subiecti ; detegimus id quod *fieri* potest in et ex hac materia sive potentia. Inde patet, quam apte extensum ab :person:`Aristotele <aristotle>` et scholasticis vocetur : :term:`materia intelligibilis <materia-intelligibilis>`.
+
+Et in hoc inveniendo, simul intelligimus *dependentiam* nostram ab hac materia et a datis sensitivis ; haec omnia non decidimus, non causamus, haec detegimus. *Quod* ibi diversae figurae construi possint, invenimus, quia intelligimus hanc aptitudinem in ente extenso ; *quae* construi possint : multitudo per divisibilitatem, limites exacti partium, puncta sita in lineis et quidem in infinitum, haec omnia detegimus intuitu intellectus aspicientis in datis experimentalibus, in phantasmate. In utraque parte non *imponimus* sed *accipimus*, non agimus nisi abstrahendo simul et intuendo post constructionem in materia sensibiliter data. Activitas nostra construens ligatur per materiam ex qua fit constructio, per id quod intuitus intellectus in aspiciendo phantasmate *detegit*. Id invenitur in hisce casibus simplicibus, id alibi quoque attendi debet, et operae pretium est ut id attente consideremus. Pro activitate nostra verificatur id quod supra a :person:`S. Thoma <aquinas>` audiebamus : data sensitiva sunt non causa totalis sed materia causae. Et ita nexus cum extenso reali ne per momentum quidem solvitur. De his plura infra VII § 1.

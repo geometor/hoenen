@@ -1,0 +1,15 @@
+:folio: 0205
+:page: 205
+:book: Caput VI
+:section: 06_caput_6
+:title: Caput VI — p. 205
+:language: la
+:status: ok
+
+hanc igitur similitudinem, sine ulla quaestione intelligitur, eandem geometriam valere de hoc extenso composito ac de extensione unius corporis eiusdem magnitudinis. Si extensa quae ita se invicem tangunt, habent structuram euclidicam, systema quod oritur, in infinitum augeri posse intelligitur.
+
+Contactus inter corpora, quem hucusque considerabamus, supponebatur esse contactus *fixus*, sed intelligitur, iterum intuitive, possibilitas contactus *fluentis* ex quo profluit motus corporum (necessario relate ad invicem) et haec intuitio est origo scientiae cinematicae, quae non est pure geometrica (quia in causam efficientem motus et in eius durationem inquirit), quae tamen est geometriae valde affinis. Unum problema hic nominamus, quod pertinet ad sensum vocis « spatii ». Quaestio enim orta est, iam inde ab antiquitate, de possibilitate motus in mundo pleno ; a nonnullis ea possibilitas negatur, sed etiam systemata constructa sunt, quae possibilitatem motus in pleno explicant (Vide systemata historice proposita in :cite:`*Filos. d. nat. inorg.* pagg. 137 sq. <hoenen:1949:filosofia-natura>`).
+
+Tale systema extensum integrale, quod vocari potest « topographia universi », interdum vocatur « spatium », et absque dubio geometria de eo valet, sed ideo *quia* est extensum, valet de eius extensione. Proprietates geometricae non definiuntur per relationes corporum ad hoc spatium, sed vice versa, huic spatio tribuuntur iure proprietates geometricae corporum extensorum, propter extensionem quae ex contactibus resultat. Et de structura *huius* spatii cum sensu quaestiones poni possunt.
+
+Sed vox « spatii » per excellentiam in alio sensu adhibetur, scilicet ut receptaculum quoddam corporum, quod praerequiritur ut haec existant, collocentur, et moveantur ; et ita quidem ut hoc spatium sit extensum, quod de se necessario existit, consequenter, etiam si omnia corpora supponuntur destrui, necessario remanet ; sicut in imaginatione nostra corpora, ibi collocata, disparere possunt, sed non spatium imaginatum in quo collocabantur. Hoc « spatium » agnoscitur ut aliquid irreale, ut « ens rationis » ut dicunt scholastici, « ein Unding » ut :person:`Kant <kant>` dicebat. Clarum est extensionem corporis realis et eius « proprietates geometricas » non posse derivari, nec realiter nec in cognitione nostra, ab hoc « spatio ». Relationes in quantum adsunt, sunt in-

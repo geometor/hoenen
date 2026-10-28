@@ -1,0 +1,2765 @@
+{
+  "abstractio-formalis": {
+    "slug": "abstractio-formalis",
+    "headword": "abstractio formalis",
+    "language": "Latin (Scholastic)",
+    "translation": "Formal abstraction",
+    "definition": "Abstraction of the intelligible form or mathematical nature (quantity/extension) from sensible matter.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0257",
+        "page": "257",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "abstractio formalis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "abstractionem formalem"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0290",
+        "page": "290",
+        "book": "Index Analyticus",
+        "section": "09_index",
+        "display": "abstractione formali"
+      }
+    ]
+  },
+  "abstractio-intuitiva": {
+    "slug": "abstractio-intuitiva",
+    "headword": "abstractio intuitiva formalis",
+    "language": "Latin (Scholastic)",
+    "translation": "Intuitive formal abstraction",
+    "definition": "Hoenen's technical designation for the intellectual operation in which the mind directly intuits universal, necessary formal relationships (such as spatial continuity and geometric properties) within the concrete sensible phantasm.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0257",
+        "page": "257",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "abstractionem intuitivam formalem"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0257",
+        "page": "257",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "abstractio intuitiva"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "abstractionis intuitivae formalis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0282",
+        "page": "282",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "abstractionem intuitivam"
+      }
+    ]
+  },
+  "agere-sequitur-esse": {
+    "slug": "agere-sequitur-esse",
+    "headword": "agere sequitur ad esse in actu",
+    "language": "Latin (Scholastic)",
+    "translation": "Action follows upon actual being",
+    "definition": "Classical Thomistic metaphysical axiom affirming that no causal agency or operation can proceed except from an entity that already possesses actual existence (esse in actu).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0251",
+        "page": "251",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "agere sequitur ad esse in actu"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0252",
+        "page": "252",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "agere sequitur esse"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0255",
+        "page": "255",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "agere sequitur (i. e. praesupponit) ad esse in actu"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0266",
+        "page": "266",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "agere sequitur esse"
+      }
+    ]
+  },
+  "aisthema": {
+    "slug": "aisthema",
+    "headword": "αἴσθημα (pl. αἰσθήματα)",
+    "language": "Greek",
+    "translation": "Sense-impression / perceptual datum",
+    "definition": "In Aristotle's De Anima (III, c. 8, 432a), the content of sensory perception from which the imagination forms phantasms and the intellect abstracts intelligible species.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0083",
+        "page": "83",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "αἰσθήματα"
+      }
+    ]
+  },
+  "aitema": {
+    "slug": "aitema",
+    "headword": "αἴτημα (αἰτήματα)",
+    "language": "Greek",
+    "translation": "Postulate (postulates)",
+    "definition": "In Aristotle and Euclid, a demonstrable or constructible principle requested from the learner without proof within the science.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0012",
+        "page": "12",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "αἰτήματα"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0022",
+        "page": "22",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "αἰτήματα"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0144",
+        "page": "144",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "aitematibus"
+      }
+    ]
+  },
+  "aiteo": {
+    "slug": "aiteo",
+    "headword": "αἰτεῖται",
+    "language": "Greek",
+    "translation": "He postulates / requests",
+    "definition": "Aristotle's verb (Anal. Post. I 10, 76b28) for assuming a principle when the learner has no prior opinion or holds a contrary opinion.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0145",
+        "page": "145",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "αἰτεῖται"
+      }
+    ]
+  },
+  "anairei": {
+    "slug": "anairei",
+    "headword": "ἀναιρεῖ (ἀναιρεῖν)",
+    "language": "Greek",
+    "translation": "Destroys / sublates (hypotheses)",
+    "definition": "Plato's term in Republic VII (533c) for the dialectical method, which 'destroys' or transcends the provisional hypotheses of the mathematical sciences in order to ascend to the unhypothetical first principle.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0011",
+        "page": "11",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ἀναιρεῖ"
+      }
+    ]
+  },
+  "andererseits": {
+    "slug": "andererseits",
+    "headword": "andererseits",
+    "language": "German",
+    "translation": "On the other hand",
+    "definition": "Correlative discourse marker used in German mathematical exposition (paired with einerseits) when contrasting dual axiomatic or geometric aspects.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0172",
+        "page": "172",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "andererseits"
+      }
+    ]
+  },
+  "anordnung": {
+    "slug": "anordnung",
+    "headword": "Anordnung",
+    "language": "German",
+    "translation": "Order / Arrangement",
+    "definition": "Hilbert's second group of geometric axioms (Axioms of Order / Betweenness) in Grundlagen der Geometrie.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0113",
+        "page": "113",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "Anordnung"
+      }
+    ]
+  },
+  "apotheosis-of-stupidity": {
+    "slug": "apotheosis-of-stupidity",
+    "headword": "the apotheosis of stupidity",
+    "language": "English",
+    "translation": "The apotheosis of stupidity",
+    "definition": "G. H. Hardy's characterization (Mind, 1929) of reducing mathematical proof to purely mechanical, uncomprehending symbol manipulation.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0181",
+        "page": "181",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "the apotheosis of stupidity"
+      }
+    ]
+  },
+  "approximationsmathematik": {
+    "slug": "approximationsmathematik",
+    "headword": "Approximationsmathematik",
+    "language": "German",
+    "translation": "Mathematics of approximation",
+    "definition": "Felix Klein's term for empirical/applied mathematics bounded by a threshold of sensory accuracy (limen exactitudinis), contrasted with Präzisionsmathematik.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0021",
+        "page": "21",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "Approximationsmathematik"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0189",
+        "page": "189",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Approximationsmathematik"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0192",
+        "page": "192",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Approximationsmathematik"
+      }
+    ]
+  },
+  "arche": {
+    "slug": "arche",
+    "headword": "ἀρχή (acc. ἀρχήν)",
+    "language": "Greek",
+    "translation": "First principle / starting point / origin",
+    "definition": "In Aristotle and Plato, the foundational starting point of being, demonstration, or cognition (such as the unhypothetical principle in Republic VI–VII or the immediate premises of science in Posterior Analytics).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0268",
+        "page": "268",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἀρχὴν"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0268",
+        "page": "268",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἀρχὴν"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0268",
+        "page": "268",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἀρχὴ"
+      }
+    ]
+  },
+  "ars-epsilontica": {
+    "slug": "ars-epsilontica",
+    "headword": "ars epsilontica",
+    "language": "Latin (Modern Mathematical)",
+    "translation": "Epsilon-delta technique",
+    "definition": "Weierstrassian rigorous limit and approximation analysis using arbitrary small quantities ε.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0170",
+        "page": "170",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "artis epsilonticae"
+      }
+    ]
+  },
+  "atomon": {
+    "slug": "atomon",
+    "headword": "ἄτομον",
+    "language": "Greek",
+    "translation": "Indivisible",
+    "definition": "An indivisible magnitude or unit lacking further division.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0216",
+        "page": "216",
+        "book": "Caput VI",
+        "section": "06_caput_6",
+        "display": "ἄτομον"
+      }
+    ]
+  },
+  "axioma": {
+    "slug": "axioma",
+    "headword": "ἀξίωμα (ἀξιώματα)",
+    "language": "Greek",
+    "translation": "Axiom / Common dignity",
+    "definition": "Self-evident first principle that every learner must possess to acquire scientific knowledge (Aristotle, Anal. Post. I 2 & I 10).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0011",
+        "page": "11",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ἀξιώματα"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0012",
+        "page": "12",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ἀξίωμα"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0022",
+        "page": "22",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ἀξιώματα"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0144",
+        "page": "144",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "axiomata"
+      }
+    ]
+  },
+  "beschaffenheit": {
+    "slug": "beschaffenheit",
+    "headword": "Beschaffenheit",
+    "language": "German",
+    "translation": "Constitution / qualitative nature / character",
+    "definition": "Term used by German mathematicians (such as Killing and Klein) to denote the intrinsic spatial or structural character of geometric figures and manifolds.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0173",
+        "page": "173",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Beschaffenheit"
+      }
+    ]
+  },
+  "betweenness": {
+    "slug": "betweenness",
+    "headword": "betweenness",
+    "language": "English",
+    "translation": "Betweenness",
+    "definition": "Fundamental order relation among collinear points (B lies between A and C), introduced by Pasch and formalized by Hilbert and Russell.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0172",
+        "page": "172",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "betweenness"
+      }
+    ]
+  },
+  "bezeichnungsweise": {
+    "slug": "bezeichnungsweise",
+    "headword": "Bezeichnungsweise",
+    "language": "German",
+    "translation": "Mode of designation / system of notation",
+    "definition": "In modern axiomatics and mathematical formalism, a symbolic notation or convention for designating geometric objects and relations.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0173",
+        "page": "173",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Bezeichnungsweise"
+      }
+    ]
+  },
+  "cheminement-de-la-pensee": {
+    "slug": "cheminement-de-la-pensee",
+    "headword": "le cheminement de la pensée",
+    "language": "French",
+    "translation": "The progression / pathway of thought",
+    "definition": "Émile Meyerson's phrase (1931) for the actual cognitive movement of the mind in scientific discovery and deduction.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0121",
+        "page": "121",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "le cheminement de la pensée"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0132",
+        "page": "132",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "le cheminement de la pensée"
+      }
+    ]
+  },
+  "circulus-vitiosus": {
+    "slug": "circulus-vitiosus",
+    "headword": "circulus vitiosus",
+    "language": "Latin",
+    "translation": "Vicious circle",
+    "definition": "Circular reasoning or definition where the definiendum is presupposed in the definiens.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0123",
+        "page": "123",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "Circulus vitiosus"
+      }
+    ]
+  },
+  "cogito-ergo-sum": {
+    "slug": "cogito-ergo-sum",
+    "headword": "cogito ergo sum",
+    "language": "Latin",
+    "translation": "I think, therefore I am",
+    "definition": "Descartes' existential judgment; analyzed by Hoenen in Appendix as an intuitive perception of a necessary connection between an experienced act (cogito) and existence (sum).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0249",
+        "page": "249",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0250",
+        "page": "250",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0251",
+        "page": "251",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0251",
+        "page": "251",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0251",
+        "page": "251",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0255",
+        "page": "255",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0255",
+        "page": "255",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0259",
+        "page": "259",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0260",
+        "page": "260",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0263",
+        "page": "263",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0269",
+        "page": "269",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum, sive existo"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0273",
+        "page": "273",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0273",
+        "page": "273",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0275",
+        "page": "275",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0282",
+        "page": "282",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "cogito ergo sum"
+      }
+    ]
+  },
+  "das-gedachte": {
+    "slug": "das-gedachte",
+    "headword": "das Gedachte (des Gedachten)",
+    "language": "German",
+    "translation": "That which is thought / the object of thought",
+    "definition": "In Gerhard Stammler's epistemology of logic, the objective conceptual content grasped by the mind in judgment and inference, as opposed to mere psychological acts.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0165",
+        "page": "165",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "des Gedachten"
+      }
+    ]
+  },
+  "das-system-beider-punkte": {
+    "slug": "das-system-beider-punkte",
+    "headword": "das System beider Punkte",
+    "language": "German",
+    "translation": "The system of both points",
+    "definition": "David Hilbert's phrase in Grundlagen der Geometrie (§ 1) designating a pair of points as determining a straight line in his axiomatic incidence relations.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0113",
+        "page": "113",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "das System beider Punkte"
+      }
+    ]
+  },
+  "denkgesetze": {
+    "slug": "denkgesetze",
+    "headword": "Denkgesetze",
+    "language": "German",
+    "translation": "Laws of thought",
+    "definition": "In 19th- and early 20th-century German logic and epistemology, the fundamental normative principles governing valid conceptual thought and inference.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0165",
+        "page": "165",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Denkgesetze"
+      }
+    ]
+  },
+  "dispositio-rei": {
+    "slug": "dispositio-rei",
+    "headword": "dispositio rei",
+    "language": "Latin (Scholastic)",
+    "translation": "Disposition / objective arrangement of the thing",
+    "definition": "In St. Thomas Aquinas (Metaphysics IX, lect. 11), the real ontological arrangement of a state of affairs to which the intellect's composition or division must correspond for truth.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0163",
+        "page": "163",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "dispositio rei"
+      }
+    ]
+  },
+  "distinguo": {
+    "slug": "distinguo",
+    "headword": "distinguo",
+    "language": "Latin (Scholastic)",
+    "translation": "I distinguish",
+    "definition": "Classic scholastic disputation operator separating the true and false senses of an ambiguous thesis.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0184",
+        "page": "184",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "distinguo"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0185",
+        "page": "185",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "distinguo"
+      }
+    ]
+  },
+  "doctrine-prealable": {
+    "slug": "doctrine-prealable",
+    "headword": "la doctrine préalable",
+    "language": "French",
+    "translation": "The preliminary / prior doctrine",
+    "definition": "Ferdinand Gonseth's epistemological term for the pre-axiomatic intuitive body of knowledge that necessarily precedes and guides formal axiomatization.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0159",
+        "page": "159",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "la doctrine préalable"
+      }
+    ]
+  },
+  "dynamis": {
+    "slug": "dynamis",
+    "headword": "δύναμις (δυνάμει)",
+    "language": "Greek",
+    "translation": "Potency / In potentiality",
+    "definition": "Aristotelian potentiality, contrasted with actuality (energeia / entelecheia).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "δυνάμει"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0264",
+        "page": "264",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "δυνάμει"
+      }
+    ]
+  },
+  "einerseits": {
+    "slug": "einerseits",
+    "headword": "einerseits",
+    "language": "German",
+    "translation": "On the one hand",
+    "definition": "Correlative German expression used in mathematical analysis to distinguish complementary aspects of a geometric definition or postulate.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0172",
+        "page": "172",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "einerseits"
+      }
+    ]
+  },
+  "elektron": {
+    "slug": "elektron",
+    "headword": "ἤλεκτρον",
+    "language": "Greek",
+    "translation": "Amber (and by extension, the electron)",
+    "definition": "Classical Greek term for amber, cited by Aristotle in Meteorology IV (388b) as a homogeneous natural substance and contrasted with modern microphysical particles.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0201",
+        "page": "201",
+        "book": "Caput VI",
+        "section": "06_caput_6",
+        "display": "ἤλεκτρον"
+      }
+    ]
+  },
+  "energeia": {
+    "slug": "energeia",
+    "headword": "ἐνέργεια",
+    "language": "Greek",
+    "translation": "Act / Activity / Actuality",
+    "definition": "Aristotle's core metaphysical term for actuality or operation, originally derived from local motion and extended to all existential and cognitive acts.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνέργεια"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνέργεια"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνέργεια"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "energeia"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "energeian"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνέργεια"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0264",
+        "page": "264",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0264",
+        "page": "264",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0264",
+        "page": "264",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0265",
+        "page": "265",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0267",
+        "page": "267",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0267",
+        "page": "267",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐνεργείᾳ"
+      }
+    ]
+  },
+  "entelecheia": {
+    "slug": "entelecheia",
+    "headword": "ἐντελέχεια",
+    "language": "Greek",
+    "translation": "Complete actuality / Perfection (entelechy)",
+    "definition": "Aristotle's term for realized form or act as holding its end/completeness within itself.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐντελέχειαν"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0253",
+        "page": "253",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐντελεχείᾳ"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "entelecheian"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ἐντελέχεια"
+      }
+    ]
+  },
+  "epharmozomenou-tou-trigonou": {
+    "slug": "epharmozomenou-tou-trigonou",
+    "headword": "ἐφαρμοζομένου τοῦ τριγώνου",
+    "language": "Greek",
+    "translation": "The triangle being applied (superposed)",
+    "definition": "Euclid's phrase in Elements I.4 for the superposition of one triangle upon another.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0111",
+        "page": "111",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "ἐφαρμοζομένου τοῦ τριγώνου"
+      }
+    ]
+  },
+  "epipedos-epiphaneia-estin": {
+    "slug": "epipedos-epiphaneia-estin",
+    "headword": "ἐπίπεδος ἐπιφάνειά ἐστιν, ἥτις ἐξ ἴσου ταῖς ἐφ' ἑαυτῆς εὐθείαις κεῖται",
+    "language": "Greek",
+    "translation": "A plane surface is that which lies evenly with the straight lines on itself",
+    "definition": "Euclid's Definition 7 of Book I (ed. Heiberg I, pp. 2–3).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0123",
+        "page": "123",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "ἐπίπεδος ἐπιφάνειά ἐστιν, ἥτις ἐξ ἴσου ταῖς ἐφ' ἑαυτῆς εὐθείαις κεῖται"
+      }
+    ]
+  },
+  "episteme": {
+    "slug": "episteme",
+    "headword": "ἐπιστήμη",
+    "language": "Greek",
+    "translation": "Scientific knowledge (apodictic science)",
+    "definition": "Demonstrative knowledge through necessary causes and first principles.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0009",
+        "page": "9",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ἐπιστήμη"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0158",
+        "page": "158",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "ἐπιστημή"
+      }
+    ]
+  },
+  "ere-de-la-rigueur-de-weierstrass": {
+    "slug": "ere-de-la-rigueur-de-weierstrass",
+    "headword": "l'ère de la rigueur de Weierstrass",
+    "language": "French",
+    "translation": "The era of Weierstrassian rigor",
+    "definition": "Henri Poincaré's characterization of late 19th-century mathematical analysis, in which Karl Weierstrass replaced naive spatial intuition of continuous curves with rigorous epsilon-delta arithmetic definitions.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0170",
+        "page": "170",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "l'ère de la rigueur de Weierstrass"
+      }
+    ]
+  },
+  "erklaerungen": {
+    "slug": "erklaerungen",
+    "headword": "Erklärungen",
+    "language": "German",
+    "translation": "Explanations / preliminary definitions",
+    "definition": "David Hilbert's heading at the opening of Grundlagen der Geometrie introducing the primitive undefined domains of points, straight lines, and planes.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0097",
+        "page": "97",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "Erklärungen"
+      }
+    ]
+  },
+  "eutheia-gramme-estin": {
+    "slug": "eutheia-gramme-estin",
+    "headword": "εὐθεῖα γραμμή ἐστιν, ἥτις ἐξ ἴσου τοῖς ἐφ' ἑαυτῆς σημείοις κεῖται",
+    "language": "Greek",
+    "translation": "A straight line is a line which lies evenly with the points on itself",
+    "definition": "Euclid's Definition 4 of Book I (ed. Heiberg I, pp. 2–3).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0121",
+        "page": "121",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "εὐθεῖα γραμμή ἐστιν, ἥτις ἐξ ἴσου τοῖς ἐφ' ἑαυτῆς σημείοις κεῖται"
+      }
+    ]
+  },
+  "facio-ergo-materia-rei-factibilis-adest": {
+    "slug": "facio-ergo-materia-rei-factibilis-adest",
+    "headword": "facio ergo materia rei factibilis adest",
+    "language": "Latin",
+    "translation": "I make/act upon it, therefore the matter of the makeable thing is present",
+    "definition": "Hoenen's formulation of the existential judgment of external material reality grounded in conscious bodily action upon matter.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0273",
+        "page": "273",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "facio ergo materia rei factibilis adest"
+      }
+    ]
+  },
+  "folium-moebii": {
+    "slug": "folium-moebii",
+    "headword": "folium Moebii",
+    "language": "Latin",
+    "translation": "Möbius strip (one-sided surface)",
+    "definition": "The non-orientable one-sided surface discovered by A. F. Möbius (1858), analyzed by Hoenen in Caput III § 2.4 to refute objections against defining surfaces as boundaries of bodies.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0078",
+        "page": "78",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folio Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0079",
+        "page": "79",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folium Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0079",
+        "page": "79",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folium Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0080",
+        "page": "80",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folii Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0080",
+        "page": "80",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folii Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0080",
+        "page": "80",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folii Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0080",
+        "page": "80",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folium Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0081",
+        "page": "81",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folii Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0081",
+        "page": "81",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folium Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0081",
+        "page": "81",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "folia Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0081",
+        "page": "81",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "foliis Moebii"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0081",
+        "page": "81",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "foliis Moebii"
+      }
+    ]
+  },
+  "grenzprozess": {
+    "slug": "grenzprozess",
+    "headword": "Grenzprozess",
+    "language": "German",
+    "translation": "Limiting process",
+    "definition": "Passage to the ideal mathematical limit from empirical approximations.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0072",
+        "page": "72",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "Grenzprozesz"
+      }
+    ]
+  },
+  "ho-to-poson-gignosketai": {
+    "slug": "ho-to-poson-gignosketai",
+    "headword": "ᾧ τὸ ποσὸν γιγνώσκεται",
+    "language": "Greek",
+    "translation": "That by which quantity is known",
+    "definition": "Aristotle's definition of the unit or measure in Metaphysics X (c. 1, 1052b20): the primary measure by which quantitative magnitude or multitude is cognized.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0216",
+        "page": "216",
+        "book": "Caput VI",
+        "section": "06_caput_6",
+        "display": "ᾧ τὸ ποσὸν γιγνώσκεται"
+      }
+    ]
+  },
+  "hoc-movetur-ergo-aliud-movens-existit": {
+    "slug": "hoc-movetur-ergo-aliud-movens-existit",
+    "headword": "hoc movetur ergo aliud, movens, existit",
+    "language": "Latin",
+    "translation": "This moves, therefore another (a mover) exists",
+    "definition": "Existential causal inference from perceived motion to an existing efficient cause.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0293",
+        "page": "293",
+        "book": "Index Analyticus",
+        "section": "09_index",
+        "display": "Hoc movetur ergo aliud, movens, existit"
+      }
+    ]
+  },
+  "hoc-movetur-ergo-locus-est": {
+    "slug": "hoc-movetur-ergo-locus-est",
+    "headword": "hoc movetur ergo locus est",
+    "language": "Latin",
+    "translation": "This moves locally, therefore place exists",
+    "definition": "Existential inference from local motion (translation) to the reality of spatial location.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0262",
+        "page": "262",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur ergo locus est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0263",
+        "page": "263",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur localiter ergo locus est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0293",
+        "page": "293",
+        "book": "Index Analyticus",
+        "section": "09_index",
+        "display": "Hoc movetur ergo locus est"
+      }
+    ]
+  },
+  "homologia": {
+    "slug": "homologia",
+    "headword": "ὁμολογία",
+    "language": "Greek",
+    "translation": "Agreement / Admission",
+    "definition": "Plato's term (Republic VII 533c) for unexamined hypotheses accepted merely by convention.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0012",
+        "page": "12",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ὁμολογία"
+      }
+    ]
+  },
+  "hyle-noete": {
+    "slug": "hyle-noete",
+    "headword": "ὕλη νοητή",
+    "language": "Greek",
+    "translation": "Intelligible matter (materia intelligibilis)",
+    "definition": "Aristotle's term (Metaphysics VII 10, 1036a9; VIII 6, 1045a34) for pure spatial extension considered in the imagination apart from sensible qualities.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0063",
+        "page": "63",
+        "book": "Caput II",
+        "section": "02_caput_2",
+        "display": "ὕλη νοητή"
+      }
+    ]
+  },
+  "hyparchein": {
+    "slug": "hyparchein",
+    "headword": "ὑπάρχειν",
+    "language": "Greek",
+    "translation": "To belong to / To exist / To inhere",
+    "definition": "Aristotelian logical and ontological verb for predicate inherence or actual existence.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0274",
+        "page": "274",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ὑπάρχειν"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0274",
+        "page": "274",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "ὑπάρχειν"
+      }
+    ]
+  },
+  "hypothesis": {
+    "slug": "hypothesis",
+    "headword": "ὑπόθεσις (ὑποθέσεις)",
+    "language": "Greek",
+    "translation": "Hypothesis / Supposition",
+    "definition": "In Aristotle (Anal. Post. I 2 & I 10), an assumed principle asserting that the subject exists or does not exist.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0011",
+        "page": "11",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ὑποθέσεις"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0012",
+        "page": "12",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ὑποθέσεις"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0022",
+        "page": "22",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "ὑποθέσεις"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0144",
+        "page": "144",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "hypothesibus"
+      }
+    ]
+  },
+  "hypotithemai": {
+    "slug": "hypotithemai",
+    "headword": "ὑποτίθεται",
+    "language": "Greek",
+    "translation": "He supposes / assumes as a hypothesis",
+    "definition": "Aristotle's verb (Anal. Post. I 10, 76b28) for assuming a demonstrable proposition that seems probable to the learner.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0145",
+        "page": "145",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "ὑποτίθεται"
+      }
+    ]
+  },
+  "in-actu-exercito": {
+    "slug": "in-actu-exercito",
+    "headword": "in actu exercito",
+    "language": "Latin (Scholastic)",
+    "translation": "In the exercised act (implicitly in performance)",
+    "definition": "Knowledge or principle grasped and used directly within the living act of thinking or perceiving, prior to explicit reflexive formulation (in actu signato).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0006",
+        "page": "6",
+        "book": "Praefatio",
+        "section": "00_preface",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0217",
+        "page": "217",
+        "book": "Caput VI",
+        "section": "06_caput_6",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0238",
+        "page": "238",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0241",
+        "page": "241",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0241",
+        "page": "241",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0242",
+        "page": "242",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0256",
+        "page": "256",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0259",
+        "page": "259",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0259",
+        "page": "259",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0269",
+        "page": "269",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "actu exercito"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0271",
+        "page": "271",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu exercito"
+      }
+    ]
+  },
+  "in-actu-signato": {
+    "slug": "in-actu-signato",
+    "headword": "in actu signato",
+    "language": "Latin (Scholastic)",
+    "translation": "In the signified act (explicitly formulated)",
+    "definition": "Explicit, reflexively thematicized statement of a concept or principle previously grasped in actu exercito.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0006",
+        "page": "6",
+        "book": "Praefatio",
+        "section": "00_preface",
+        "display": "actum signatum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0238",
+        "page": "238",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actu signato"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0238",
+        "page": "238",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "actum signatum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0242",
+        "page": "242",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actum signatum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0242",
+        "page": "242",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actu signato"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0244",
+        "page": "244",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "in actu signato"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu signato"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0259",
+        "page": "259",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu signato"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0259",
+        "page": "259",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actum signatum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0269",
+        "page": "269",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "actum signatum"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0271",
+        "page": "271",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu signato"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0276",
+        "page": "276",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "in actu signato"
+      }
+    ]
+  },
+  "insieme": {
+    "slug": "insieme",
+    "headword": "insieme",
+    "language": "Italian",
+    "translation": "Set / Continuum of numbers",
+    "definition": "Mathematical set (used for the set/continuum of real numbers).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0017",
+        "page": "17",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "insieme"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0018",
+        "page": "18",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "insieme"
+      }
+    ]
+  },
+  "kinesis": {
+    "slug": "kinesis",
+    "headword": "κίνησις",
+    "language": "Greek",
+    "translation": "Motion / Change",
+    "definition": "In Aristotle (Physics III 1), the actuality of what is in potentiality insofar as it is in potentiality.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0274",
+        "page": "274",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "κίνησιν"
+      }
+    ]
+  },
+  "kritzelige-kurven": {
+    "slug": "kritzelige-kurven",
+    "headword": "kritzelige Kurven",
+    "language": "German",
+    "translation": "Scribbly / crinkly curves",
+    "definition": "Felix Klein's vivid description (in Elementarmathematik vom höheren Standpunkte) of rough, imprecise empirical curves drawn by hand, contrasted with idealized analytic curves.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0092",
+        "page": "92",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "kritzelige Kurven"
+      }
+    ]
+  },
+  "limen-exactitudinis": {
+    "slug": "limen-exactitudinis",
+    "headword": "limen exactitudinis",
+    "language": "Latin",
+    "translation": "Threshold of exactitude (Schwellenwert der Genauigkeit)",
+    "definition": "The finite limit of precision inherent in all external sensory perception and measurement (Felix Klein).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0015",
+        "page": "15",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "limen exactitudinis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0018",
+        "page": "18",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "limen exactitudinis"
+      }
+    ]
+  },
+  "logica-docens": {
+    "slug": "logica-docens",
+    "headword": "logica docens",
+    "language": "Latin (Scholastic)",
+    "translation": "Theoretical / Reflexive logic",
+    "definition": "The explicit scientific theory of logical rules and syllogistic forms.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0165",
+        "page": "165",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Logica docens"
+      }
+    ]
+  },
+  "logica-utens": {
+    "slug": "logica-utens",
+    "headword": "logica utens",
+    "language": "Latin (Scholastic)",
+    "translation": "Applied / Exercised logic",
+    "definition": "Logic actively practiced by the mind in reasoning about objects (in actu exercito).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0165",
+        "page": "165",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "logica utens"
+      }
+    ]
+  },
+  "materia-intelligibilis": {
+    "slug": "materia-intelligibilis",
+    "headword": "materia intelligibilis",
+    "language": "Latin (Scholastic)",
+    "translation": "Intelligible matter (ὕλη νοητή)",
+    "definition": "Continuous spatial extension grasped in the phantasm apart from sensible qualities, serving as the principle of individuation and constructibility for geometric figures.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0094",
+        "page": "94",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "materia intelligibilis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0101",
+        "page": "101",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "materia intelligibilis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0110",
+        "page": "110",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "materia intelligibilis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0112",
+        "page": "112",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "materia intelligibilis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0117",
+        "page": "117",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "materia intelligibilis"
+      }
+    ]
+  },
+  "materia-sensibilis": {
+    "slug": "materia-sensibilis",
+    "headword": "materia sensibilis",
+    "language": "Latin (Scholastic)",
+    "translation": "Sensible matter (ὕλη αἰσθητή)",
+    "definition": "Physical matter endowed with sensible qualities (color, heat, weight, hardness), abstracted from in mathematics.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0101",
+        "page": "101",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "materia sensibilis"
+      }
+    ]
+  },
+  "minimum-imaginabile": {
+    "slug": "minimum-imaginabile",
+    "headword": "minimum imaginabile",
+    "language": "Latin",
+    "translation": "Smallest imaginable magnitude",
+    "definition": "Empiricist thesis (Berkeley, Hume) claiming imagination consists of finite indivisible minima.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0086",
+        "page": "86",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "minimum imaginabile"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0086",
+        "page": "86",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "minimum imaginabile"
+      }
+    ]
+  },
+  "minimum-visibile": {
+    "slug": "minimum-visibile",
+    "headword": "minimum visibile",
+    "language": "Latin",
+    "translation": "Smallest visible spot",
+    "definition": "The smallest angular or spatial extent discernible by the eye.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0068",
+        "page": "68",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "minimi visibilis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0068",
+        "page": "68",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "minimum visibile"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0085",
+        "page": "85",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "minimi visibilis"
+      }
+    ]
+  },
+  "moveri-sequitur-esse": {
+    "slug": "moveri-sequitur-esse",
+    "headword": "moveri sequitur esse",
+    "language": "Latin",
+    "translation": "Being moved follows upon existing",
+    "definition": "Scholastic principle expressing the necessary existential connection between motion and actual existence.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0252",
+        "page": "252",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "moveri sequitur esse"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0255",
+        "page": "255",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "moveri (vel pati) sequitur esse"
+      }
+    ]
+  },
+  "movetur-ergo-est": {
+    "slug": "movetur-ergo-est",
+    "headword": "movetur ergo est",
+    "language": "Latin",
+    "translation": "It moves, therefore it exists",
+    "definition": "Hoenen's primary paradigm (Appendix § 1) of an intuitive existential judgment connecting perceived motion with actual existence.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0254",
+        "page": "254",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur, ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0255",
+        "page": "255",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0256",
+        "page": "256",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0259",
+        "page": "259",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0260",
+        "page": "260",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "Movetur ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0263",
+        "page": "263",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "hoc movetur ergo est"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0293",
+        "page": "293",
+        "book": "Index Analyticus",
+        "section": "09_index",
+        "display": "Movetur ergo est"
+      }
+    ]
+  },
+  "noesis": {
+    "slug": "noesis",
+    "headword": "νόησις",
+    "language": "Greek",
+    "translation": "Intellectual intuition / Noetic vision",
+    "definition": "Direct intellectual apprehension of intelligible natures and first principles in the phantasm.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0014",
+        "page": "14",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "νοήσει"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0237",
+        "page": "237",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "noeseos"
+      }
+    ]
+  },
+  "nous": {
+    "slug": "nous",
+    "headword": "νοῦς",
+    "language": "Greek",
+    "translation": "Intellect / Habit of first principles",
+    "definition": "In Aristotle (Anal. Post. II 19), the intuitive intellectual faculty that grasps immediate first principles.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0009",
+        "page": "9",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "νοῦς"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0038",
+        "page": "38",
+        "book": "Caput II",
+        "section": "02_caput_2",
+        "display": "νοῦν"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0158",
+        "page": "158",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "νοῦς"
+      }
+    ]
+  },
+  "omne-agens-agit-propter-finem": {
+    "slug": "omne-agens-agit-propter-finem",
+    "headword": "Omne agens agit propter finem",
+    "language": "Latin (Scholastic)",
+    "translation": "Every agent acts for an end",
+    "definition": "Foundational Aristotelian-Thomistic principle of finality, cited by Hoenen as an existential synthetic judgment connecting causal action with teleological determination.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0268",
+        "page": "268",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "Omne agens agit propter finem"
+      }
+    ]
+  },
+  "ou-meros-outhen": {
+    "slug": "ou-meros-outhen",
+    "headword": "οὗ μέρος οὐθέν",
+    "language": "Greek",
+    "translation": "That of which there is no part",
+    "definition": "Euclid's Definition 1 of a point (Σημεῖόν ἐστιν, οὗ μέρος οὐθέν).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0076",
+        "page": "76",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "οὗ μέρος οὐθέν"
+      }
+    ]
+  },
+  "peras": {
+    "slug": "peras",
+    "headword": "πέρας",
+    "language": "Greek",
+    "translation": "Boundary / Limit / Extremity",
+    "definition": "Aristotle's and Euclid's ontological category for surfaces, lines, and points as indivisible boundaries of continua.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0267",
+        "page": "267",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "πέρας"
+      }
+    ]
+  },
+  "phantasma": {
+    "slug": "phantasma",
+    "headword": "φάντασμα (φαντάσματα)",
+    "language": "Greek",
+    "translation": "Phantasm (imaginative representation)",
+    "definition": "Sensory/imaginative representation in which the intellect beholds universal mathematical and philosophical natures.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0083",
+        "page": "83",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "φαντάσματα"
+      }
+    ]
+  },
+  "physis": {
+    "slug": "physis",
+    "headword": "φύσις (dat. φύσει)",
+    "language": "Greek",
+    "translation": "Nature / by nature",
+    "definition": "In Aristotle's Posterior Analytics and Metaphysics, that which is prior or more intelligible 'by nature' (φύσει / secundum naturam) as opposed to what is prior 'to us' (πρὸς ἡμᾶς / quoad nos).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0164",
+        "page": "164",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "physi"
+      }
+    ]
+  },
+  "poiountes-gignoskousin": {
+    "slug": "poiountes-gignoskousin",
+    "headword": "ποιοῦντες γιγνώσκουσιν",
+    "language": "Greek",
+    "translation": "By constructing/making, they know (facientes cognoscunt)",
+    "definition": "Aristotle's dictum (Metaphysics IX 9, 1051a31) that geometric truths become manifest by actively drawing and dividing figures.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0226",
+        "page": "226",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "ποιοῦντες γιγνώσκουσιν"
+      }
+    ]
+  },
+  "pos-estin": {
+    "slug": "pos-estin",
+    "headword": "πῶς ἔστιν",
+    "language": "Greek",
+    "translation": "How it is / the mode of its being",
+    "definition": "Aristotle's question in Physics IV regarding the ontological mode of existence of entities such as place, time, and the mathematical continuum.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0276",
+        "page": "276",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "πῶς ἔστιν"
+      }
+    ]
+  },
+  "praezisionsmathematik": {
+    "slug": "praezisionsmathematik",
+    "headword": "Präzisionsmathematik",
+    "language": "German",
+    "translation": "Mathematics of ideal precision",
+    "definition": "Felix Klein's term for pure, exact mathematics operating with idealized limits, contrasted with Approximationsmathematik.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0019",
+        "page": "19",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "Praezisionsmathemathik"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0189",
+        "page": "189",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Praezisionsmathematik"
+      }
+    ]
+  },
+  "pragma": {
+    "slug": "pragma",
+    "headword": "πρᾶγμα (pl. πράγματα)",
+    "language": "Greek",
+    "translation": "Thing / objective reality / state of affairs",
+    "definition": "In Aristotle's logic and metaphysics, the extramental reality or objective state of affairs that grounds the truth of spoken and mental propositions.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0274",
+        "page": "274",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "πράγματα"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0274",
+        "page": "274",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "πράγματα"
+      }
+    ]
+  },
+  "prealable": {
+    "slug": "prealable",
+    "headword": "préalable",
+    "language": "French",
+    "translation": "Prior / preliminary / antecedent",
+    "definition": "In French philosophy of mathematics (Gonseth, Poincaré), designating the intuitive cognition that must precede formal axiomatic construction.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0152",
+        "page": "152",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "préalable"
+      }
+    ]
+  },
+  "principium-individuationis": {
+    "slug": "principium-individuationis",
+    "headword": "principium individuationis",
+    "language": "Latin (Scholastic)",
+    "translation": "Principle of individuation",
+    "definition": "That whereby multiple individuals of the same species are numerically distinct (intelligible matter in geometry).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0065",
+        "page": "65",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "principii individuationis"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0065",
+        "page": "65",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "principii individuationis"
+      }
+    ]
+  },
+  "propositio-per-accidens": {
+    "slug": "propositio-per-accidens",
+    "headword": "propositio per accidens",
+    "language": "Latin (Scholastic)",
+    "translation": "Accidental / Contingent proposition",
+    "definition": "A judgment joining subject and predicate through contingent coexistence rather than essential necessity.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "propositionem per accidens"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "per accidens"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "per accidens"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "propositionem per accidens"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "propositione per accidens"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "propositione per accidens"
+      }
+    ]
+  },
+  "propositio-per-se": {
+    "slug": "propositio-per-se",
+    "headword": "propositio per se",
+    "language": "Latin (Scholastic)",
+    "translation": "Essential / Self-grounded proposition (per se nota)",
+    "definition": "A necessary proposition whose predicate belongs to the intelligible nature of the subject.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0257",
+        "page": "257",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "propositio per se"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "per se"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0258",
+        "page": "258",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "propositiones per se"
+      }
+    ]
+  },
+  "prouparchein": {
+    "slug": "prouparchein",
+    "headword": "προϋπάρχειν",
+    "language": "Greek",
+    "translation": "To pre-exist / exist beforehand",
+    "definition": "Technical peripatetic verb (used by Aristotle, Themistius, and Simplicius) signifying that the moving cause, mobile subject, or first principles must actually exist prior to motion or demonstration.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0275",
+        "page": "275",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "προϋπάρχειν"
+      }
+    ]
+  },
+  "psyche": {
+    "slug": "psyche",
+    "headword": "ψυχή (dat. ψυχῇ)",
+    "language": "Greek",
+    "translation": "Soul / mind",
+    "definition": "In Plato and Aristotle, the vital and cognitive principle whose intellectual faculty (νοῦς) beholds mathematical and metaphysical truths.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0083",
+        "page": "83",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "ψυχῇ"
+      }
+    ]
+  },
+  "rhysin-tou-semeiou": {
+    "slug": "rhysin-tou-semeiou",
+    "headword": "ῥύσις τοῦ σημείου (acc. ῥύσιν τοῦ σημείου)",
+    "language": "Greek",
+    "translation": "Flow / fluxion of the point",
+    "definition": "Ancient Greek kinematic conception (reported by Aristotle in De Anima I, 4 and Proclus) according to which the motion or flowing of a point generates a line.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0107",
+        "page": "107",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "ῥύσιν τοῦ σημείου"
+      }
+    ]
+  },
+  "rigueur": {
+    "slug": "rigueur",
+    "headword": "rigueur",
+    "language": "French",
+    "translation": "Mathematical rigor",
+    "definition": "Logical and deductive exactness in mathematical demonstration, central to the debate between Poincaré, Klein, and the formalist/logicist schools.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0069",
+        "page": "69",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "rigueur"
+      }
+    ]
+  },
+  "sachverhalt": {
+    "slug": "sachverhalt",
+    "headword": "Sachverhalt",
+    "language": "German",
+    "translation": "State of affairs / objective complex",
+    "definition": "In German phenomenology and epistemology (Brentano, Geyser, Stammler), the objective relational structure in reality corresponding to a true judgment.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0163",
+        "page": "163",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "Sachverhalt"
+      }
+    ]
+  },
+  "semeion": {
+    "slug": "semeion",
+    "headword": "σημεῖον",
+    "language": "Greek",
+    "translation": "Point / Sign",
+    "definition": "Geometric point (Euclid, Elements I Def. 1).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0070",
+        "page": "70",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "σημεῖόν"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0070",
+        "page": "70",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "σημεῖόν"
+      }
+    ]
+  },
+  "strecke": {
+    "slug": "strecke",
+    "headword": "Strecke",
+    "language": "German",
+    "translation": "Line segment",
+    "definition": "Hilbert's term in Grundlagen der Geometrie for a bounded straight segment AB defined as the system of two points.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0113",
+        "page": "113",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "Strecke"
+      }
+    ]
+  },
+  "syngenes": {
+    "slug": "syngenes",
+    "headword": "συγγενές (pl. συγγενῆ)",
+    "language": "Greek",
+    "translation": "Kindred / connatural / of the same genus",
+    "definition": "In Plato's Republic VII and Aristotle's Posterior Analytics, the affinity and structural kinship of the mathematical sciences and their principles.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0216",
+        "page": "216",
+        "book": "Caput VI",
+        "section": "06_caput_6",
+        "display": "συγγενές"
+      }
+    ]
+  },
+  "ta-ex-aphaireseos": {
+    "slug": "ta-ex-aphaireseos",
+    "headword": "τὰ ἐξ ἀφαιρέσεως",
+    "language": "Greek",
+    "translation": "Things derived from abstraction (mathematical objects)",
+    "definition": "Aristotle's standard technical designation for mathematical entities abstracted from sensible qualities.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0014",
+        "page": "14",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "τὰ ἐξ ἀφαιρέσεως"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0061",
+        "page": "61",
+        "book": "Caput II",
+        "section": "02_caput_2",
+        "display": "τὰ ἐξ ἀφαιρέσεως"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0151",
+        "page": "151",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "τὰ ἐξ ἀφαιρέσεως"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0241",
+        "page": "241",
+        "book": "Caput VII",
+        "section": "07_caput_7",
+        "display": "τὰ ἐξ ἀφαιρέσεως"
+      }
+    ]
+  },
+  "telos": {
+    "slug": "telos",
+    "headword": "τέλος",
+    "language": "Greek",
+    "translation": "End / Final cause / Completion",
+    "definition": "The goal or terminal perfection toward which an action or motion tends.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0267",
+        "page": "267",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τέλος"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0267",
+        "page": "267",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τέλος"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0268",
+        "page": "268",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τέλος"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0268",
+        "page": "268",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τέλος"
+      }
+    ]
+  },
+  "termini-significativi": {
+    "slug": "termini-significativi",
+    "headword": "termini significativi",
+    "language": "Latin (Scholastic)",
+    "translation": "Significant / semantically meaningful terms",
+    "definition": "Terms possessing real intensional meaning and reference to intelligible objects, contrasted by Hoenen with the empty uninterpreted symbols of pure formalism.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0148",
+        "page": "148",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "termini significativi"
+      }
+    ]
+  },
+  "termini-transcendentes": {
+    "slug": "termini-transcendentes",
+    "headword": "termini transcendentes",
+    "language": "Latin (Scholastic)",
+    "translation": "Transcendental terms",
+    "definition": "Terms such as ens (being), unum (one), res (thing), and aliquid (something) that transcend the ten Aristotelian categories.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0148",
+        "page": "148",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "terminis transcendentibus"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0148",
+        "page": "148",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "termini transcendentes"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0161",
+        "page": "161",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "termini transcendentes"
+      }
+    ]
+  },
+  "thesei": {
+    "slug": "thesei",
+    "headword": "θέσει",
+    "language": "Greek",
+    "translation": "By position / having position",
+    "definition": "In Aristotle's distinction between arithmetic and geometry: whereas the arithmetic unit is without position (ἄθετος), the geometric point is an indivisible having position (θέσιν ἔχον / θέσει).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0106",
+        "page": "106",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "θέσει"
+      }
+    ]
+  },
+  "thesis": {
+    "slug": "thesis",
+    "headword": "θέσις (acc. θέσιν)",
+    "language": "Greek",
+    "translation": "Position / positing",
+    "definition": "In Aristotle's Posterior Analytics (I, c. 2, 72a14), an immediate principle of demonstration that cannot be proved but is not indispensable for learning everything (divided into hypotheses and definitions); in geometry, spatial position.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0115",
+        "page": "115",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "θέσιν"
+      }
+    ]
+  },
+  "ti-estin": {
+    "slug": "ti-estin",
+    "headword": "τί ἐστιν",
+    "language": "Greek",
+    "translation": "What it is (quiddity / essence)",
+    "definition": "Aristotle's question of essential definition, distinguished from whether a thing exists (εἰ ἔστιν).",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0276",
+        "page": "276",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τί ἐστιν"
+      }
+    ]
+  },
+  "tithemenou-tou-semeiou": {
+    "slug": "tithemenou-tou-semeiou",
+    "headword": "τιθεμένου τοῦ σημείου",
+    "language": "Greek",
+    "translation": "The point being posited / placed",
+    "definition": "Greek genitive absolute describing the constructive positing of a geometric point in spatial intuition.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0111",
+        "page": "111",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "τιθεμένου τοῦ σημείου"
+      }
+    ]
+  },
+  "tode": {
+    "slug": "tode",
+    "headword": "τόδε (τόδε τι)",
+    "language": "Greek",
+    "translation": "This something (concrete individual)",
+    "definition": "Aristotle's expression for a determinate, demonstratively indicated individual entity.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0251",
+        "page": "251",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τόδε"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0251",
+        "page": "251",
+        "book": "Appendix",
+        "section": "08_appendix",
+        "display": "τόδε"
+      }
+    ]
+  },
+  "umgekehrt": {
+    "slug": "umgekehrt",
+    "headword": "umgekehrt (die umgekehrte)",
+    "language": "German",
+    "translation": "Conversely / the converse",
+    "definition": "Mathematical and logical term designating the converse of a proposition or geometric relation.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0173",
+        "page": "173",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "die umgekehrte"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0173",
+        "page": "173",
+        "book": "Caput V",
+        "section": "05_caput_5",
+        "display": "umgekehrt"
+      }
+    ]
+  },
+  "utopie": {
+    "slug": "utopie",
+    "headword": "eine Utopie",
+    "language": "German",
+    "translation": "A utopia / an unattainable ideal",
+    "definition": "Felix Klein's characterization of the claim that pure formal logic can generate mathematical science without any appeal to spatial intuition.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0020",
+        "page": "20",
+        "book": "Caput I",
+        "section": "01_caput_1",
+        "display": "eine Utopie"
+      }
+    ]
+  },
+  "verknuepfung": {
+    "slug": "verknuepfung",
+    "headword": "Verknüpfung",
+    "language": "German",
+    "translation": "Connection / Incidence",
+    "definition": "Hilbert's first group of geometric axioms (Axiome der Verknüpfung / Axioms of Incidence) in Grundlagen der Geometrie.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0113",
+        "page": "113",
+        "book": "Caput IV",
+        "section": "04_caput_4",
+        "display": "Verknüpfung"
+      }
+    ]
+  },
+  "zusammenhang": {
+    "slug": "zusammenhang",
+    "headword": "Zusammenhang",
+    "language": "German",
+    "translation": "Connection / nexus / structural coherence",
+    "definition": "In German philosophy of mathematics (Hilbert, Klein, Stammler), the necessary structural interconnection linking axioms, concepts, and geometric configurations.",
+    "occurrences": [
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0080",
+        "page": "80",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "Zusammenhang"
+      },
+      {
+        "volume": "de_noetica_geometriae",
+        "folio": "0081",
+        "page": "81",
+        "book": "Caput III",
+        "section": "03_caput_3",
+        "display": "Zusammenhang"
+      }
+    ]
+  }
+}

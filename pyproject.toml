@@ -1,11 +1,13 @@
 [build-system]
-requires = ["flit_core >=3.2,<4"]
-build-backend = "flit_core.buildapi"
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "geometor-hoenen"
 authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
-dynamic = ["version", "description"]
+description = "Digital reconstruction and translation of Peter Hoenen's De Noetica Geometriae (1954)."
+readme = "README.md"
+dynamic = ["version"]
 dependencies = [
     "pytesseract",
     "Pillow",
@@ -20,5 +22,10 @@ dev = [
 [project.scripts]
 geometor-hoenen = "geometor.hoenen.cli:main"
 
-[tool.flit.module]
-name = "geometor"
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = {attr = "geometor.hoenen.__version__"}

@@ -1,0 +1,17 @@
+:folio: 0171
+:page: 171
+:book: Caput V
+:section: 05_caput_5
+:title: Caput V — p. 171
+:language: la
+:status: ok
+
+tio rei quae aspicitur, est potius geometrica quam « logica » ; et habebimus novam « propositionem primam », immediatam, praeter axiomata. Repetimus : hic adest magnus campus inquisitionum noeticarum, et hae scholasticis commendentur. Num in tali deductione « geometriae integrae » revera non adsunt « appellationes ad phantasma » geometricum ?
+
+Ut responsum habeatur, inquisitio noetica non ad « praegeometriam », vel « scientiam praeviam », restringenda est, sed etiam ad ipsam deductionem geometriae ; examinandae sunt activitates mentis humanae in hac ipsa deductione ; haec noetica non est geometria, sed scientia, cuius obiectum est geometria in sua constitutione, in suo fieri ; est scientia philosophica, habitus sui generis, quem sane non omnes mathematici habent. Haec est igitur quaestio : num in ipsa activitate, qua mens humana geometriam construit deductive, omnis appellatio ad phantasma geometricum excluditur, vel excludi potest.
+
+:person:`Poincaré <poincare>`, qui sane methodos modernae axiomaticae non spernit, iam sustinebat, « axiomata ordinis », quae a :person:`Hilbert <hilbert>` statuta sunt, et in genere elementa topologica, in geometria adhiberi non posse sine quadam intuitione huius generis (:cite:`*Dernières Pensées* pagg. 93-95 <poincare:dernieres-pensees:p93>` ; cfr. :cite:`ibid. pag. 271 <poincare:dernieres-pensees:p271>`). Et tamen :person:`Poincaré <poincare>`, ut supra (I § 4) videbamus, intuitionem geometricam non amabat. Num :person:`Hilbert <hilbert>` in suis deductionibus revera excludit omnem appellationem ad phantasma geometricum ?
+
+Si quis hoc asserit (et permulti mathematici hoc facere videntur) id debebit demonstrare ex examine noetico singulorum gressuum talis deductionis ; id quod, in quantum scio, non faciunt. Interim licitum erit, cum :person:`Poincaré <poincare>` de « rigore » deductionis dubitare. Sed plus dicendum est : talis appellatio videtur adesse ; idque iam statim. Si apud :person:`Hilbert <hilbert>` (loc. cit.) legimus sequens theorema (6) quod est generalisatio theorematis 5, et quod (dolendum est) non demonstratur sed tantum enuntiatur, haec observamus : 1) proponitur figura e qua *sensus* asserti legendus est ; 2) etiam series symbolorum (litterarum) ob eundem finem ; sed haec tantum respiciunt difficultatem practicam, de qua supra ; sunt tamen seria. Sed etiam difficultas theoretica non evitatur.
+
+   Ecce enuntiatio huius theorematis 6 : « In quovis numero dato punctorum unius rectae, haec semper ita litteris A, B, C, D, E, ..... K

@@ -1,0 +1,15 @@
+:folio: 0198
+:page: 198
+:book: Caput VI
+:section: 06_caput_6
+:title: Caput VI — p. 198
+:language: la
+:status: ok
+
+De ipsa notione harum linearum tunc constat, nondum autem de earum existentia i. e. de existentia rectarum et curvarum specificarum. Ut de existentia constet indigemus iterum applicatione principii individuationis, sicut ibi in § 6 elaboratum est.
+
+Nunc tantum ad hoc attendimus : De se extensio in singulis suis punctis idem habet continuum directionum ; eius puncta « solo situ » inter se differunt. Sed per introductionem « curvaturae constantis », sive positivae sive negativae, haec homogeneitas relate ad continua directionum tolli potest ; et ita tollitur structura euclidica huius extensionis. Haec « mensura curvaturae » potest esse tenuis, potest etiam continuo crescere et ita oriuntur structurae quae sunt obiecta diversarum geometriarum non-euclidicarum, quae semper magis et magis distant ab initiali structura euclidica. Immo haec curvatura potest esse, in uno extenso, variabilis ; tunc tollitur non tantum homogeneitas relate ad directiones, isotropia, sed etiam relate ad possibilitatem generalem congruentiae figurarum, et consequenter ad motum corporis rigidi (de his IV § 5). Inde dicimus : in singulis geometriis id quod est fundamentale, est structura extensionis cuius est geometria ; sed inter has structuras ipsas maxime, immo unice fundamentalis est ea cuius « mensura curvitatis » est zero, structura euclidica, non deformata.
+
+Et addendum est, quia hoc interdum negatur : curvatura, quae non est nulla, est curvatura sensu intuitivo, quia oritur ex diversitate continui *directionum* in singulis punctis, et hae directiones habent sensum intuitivum et intuitive iustificatum. Et ut in initio huius paragraphi videbamus : ubi adest in extensione identitas specifica continui directionum in singulis punctis, ibi adest structura euclidica, et e converso : ubi adest structura non-euclidica, ibi deest haec identitas in continuis directionum intuitivarum ; ibi adest curvatura sensu intuitivo.
+
+Et ita videmus : subiectum fundamentale geometriarum non constituitur a *figuris* possibilibus quarum proprietates primis principiis exprimuntur, sed a *structuris extensionis*, ex quibus ipsa illa principia profluunt ; et structura extensionis euclidica non deformata est fundamentalis relate ad alias structuras. Sed structura plene cognoscitur ex figuris, quae in tali extensione possibiles esse per deductionem cognoscuntur.

@@ -1,0 +1,18 @@
+:folio: 0076
+:page: 76
+:book: Caput III
+:section: 03_caput_3
+:title: Caput III — p. 76
+:language: la
+:status: ok
+
+Linea sub alio respectu (in quantum est « iuxta » partes) est iterum extensa, divisibilis. Et ex eius divisione oritur punctum, quod est limes lineae, per quod fit transitus ex una parte lineae in aliam, iterum in indivisibili. Sed nunc tandem aliquando — id iterum patet puro intuitu intellectus in phantasmate — hic processus divisionis finem habet ; pervenimus ad id quod est omni ex parte indivisibile : punctum geometricum, ad id quod ab :person:`Euclide <euclid>` describebatur : :term:`οὗ μέρος οὐθέν <ou-meros-outhen>`. Id non est nihil : est limes lineae, quae est limes superficiei, quae est limes entis extensi originarii, nobis immediate dati ex experientia externa. Quia punctum est talis limes, ideo non tantum est quid indivisibile (omni ex parte) sed est « indivisibile positionem habens » quae est definitio sollemnis apud :person:`Aristotelem <aristotle>` et :person:`S. Thomam <aquinas>`.
+
+De existentia igitur mathematica horum limitum constat ; existunt in potentia intra ens extensum non divisum ; existunt actu per divisionem entis extensi ; et quidem primo oritur superficies, dein linea, dein punctum. Haec necessario sequuntur ex natura entis extensi, ut est extensum.
+
+Si quis ut ideam lineae vel puncti concipiat, vult sequi processum, qui a :person:`Wellstein <wellstein>` descriptus est i. e. si quis vult incipere ab imaginatione granuli arenae (resp. fili tenuis) et processum diminutionis huius obiecti persequi, id nunc sine incommodo facere potest ; iam enim scit *existere* limitem ad quem per hunc processum appropinquamus. Et nunc processus quem :person:`Wellstein <wellstein>` describit, erit legitimus ; iam non *postulatur* existentia limitis ; et ita revera pervenimus ad notionem puncti resp. lineae.
+
+C) *De indivisibilibus in rerum natura.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Existuntne indivisibilia haec in rerum natura ? Dicamus primo de superficie ; ibi res est statim clara. Existunt corpora limitata et horum limes est superficies. Non utique opus est, ut sit superficies geometrice simplex : planum, superficies sphaerica perfecta, et ita porro. Forte ea quae in rerum natura inveniuntur, sunt tales, ut nomen geometricum non habeant ; forte habent formas valde complicatas, forte sunt vehementer ruginosae, modo tam microscopico, ut id experientia detegi non possit. Sed sunt veri nominis superficies, quae limitant corpora ; transitus per hos limites, ex non-hoc-corpore in hoc corpus, fit in indivisibili. Possuntne existere in rerum natura superficies illae, geometrice simplices, quae a geometris considerari solent ? Responsum dependet pri-

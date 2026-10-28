@@ -1,0 +1,17 @@
+:folio: 0083
+:page: 83
+:book: Caput III
+:section: 03_caput_3
+:title: Caput III — p. 83
+:language: la
+:status: ok
+
+vum de indivisibilitate limitum ; sed id quod iudicium affirmat, non affirmat de extensis, prout « esse » habent in illis datis sensitivis (ibi non verum esset, uti iam dictum est) sed de ipsis extensis, prout « esse » habent in se. Id in genere de omni cognitione affirmandum est et dicendum : phantasmate indigemus, ut ideas abstrahamus et iudicemus sed id quod primo cognoscimus, non est phantasma sed res ; id quod affirmatur, non de phantasmate dicitur, sed de re. Quare optime :person:`S. Thomas <aquinas>`, agens de effato :person:`Aristotelis <aristotle>` : τῇ δὲ διανοητικῇ :term:`ψυχῇ <psyche>` τὰ :term:`φαντάσματα <phantasma>` οἷον :term:`αἰσθήματα <aisthema>` ὑπάρχει. (:cite:`*De Anim.* III 6, 431 a. 140 <aristotle:de-anima:III.6.431a14>`), ait (:cite:`*S. Th.* III q. 11 a. 2 ad 1 <aquinas:st:III.q11.a2.ad1>`) :
+
+   « Similitudo illa quam :person:`Philosophus <aristotle>` ponit, non attenditur quantum ad omnia. Manifestum est enim quod finis potentiae visivae est cognoscere colores ; finis autem potentiae intellectivae non est cognoscere phantasmata, sed cognoscere species intelligibiles [#f11]_ quas apprehendit a phantasmatibus et in phantasmatibus secundum statum praesentis vitae. Est igitur similitudo quantum ad hoc quod aspicit utraque potentia, non autem ad hoc in quod utriusque potentiae conditio terminatur ».
+
+Iuxta hanc theoriam universaliter id quod in iudicio affirmatur, non de phantasmate dicitur, sed de re quae in phantasmate repraesentatur ; casus nostri (de limitibus geometricis) hoc peculiare habent (quod non universaliter valet) : si id quod in iudicio affirmatur, de ipso phantasmate diceretur, *falsum* esset. Nam mens potest quidem, per reflexionem in suas operationes redire, et ipsum phantasma ut obiectum cognitionis considerare ; id nos praecise fecimus in analysi nostra. Et ex tali reflexione resultat id quod dicebamus : in ipso phantasmate, et in sensibilitate in genere, non adest illa exactitudo, quae in iudicio intellectus de limite entis extensi affirmatur ; ergo de ente extenso prout in phantasmate « esse » habet, cum veritate affirmari non potest. Id vero quod affirmamus, valet quidem de extenso *in se* ; de hoc asserimus id quod in *idea* (composita) adest cum exactitudine.
+
+Alia quoque animadversio, quae supra exposita in genere, spectat, hic addi potest. In omnibus enim his inveniebamus necessitatem quandam, in phantasmate, in datis
+
+.. [#f11] :person:`S. Thomas <aquinas>`, uti notum est, non intendit dicere, intellectum primo cognoscere suas species, sed species quae sunt in rebus. Cfr. :cite:`*Th. d. J.* pag. 32 <hoenen:theorie-du-jugement:p32>`.

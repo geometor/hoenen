@@ -1,0 +1,11 @@
+:folio: 0064
+:page: 64
+:book: Caput II
+:section: 02_caput_2
+:title: Caput II — p. 64
+:language: la
+:status: ok
+
+physicis ; propter intuitionem necessitatis, quae prioribus associatur, aliis deest. Hoc quoque est factum experimentale, « constatatio », sed intellectiva. Et tribuenda est haec intuitio abstractioni formali, cuius mens humana relate ad mathematica capax est.
+
+Et ita in his considerationibus iam finis noster principalis optime attingi videtur : cognoscimus modum agendi, activitatem, intellectus nostri in his activitatibus specifice determinatis. Iuxta :person:`S. Thomam <aquinas>` ex obiecto cognoscitur actus, ex actu potentia, quoad eorum naturam noeticam.

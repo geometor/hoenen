@@ -1,0 +1,20 @@
+:folio: 0011
+:page: 11
+:book: Caput I
+:section: 01_caput_1
+:title: Caput I — p. 11
+:header: DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 11
+:language: la
+:status: ok
+
+siderari i. e. ita ut nulla scientia *specialis* examinetur et quidem id praesertim valere in secundo problemate, quippe quod in primis *materiam* propositionum considerandam habeat, « quia sumuntur propositiones per se et necessariae ».
+
+Unde :person:`Aristoteles <aristotle>` in his inquisitionibus fere semper ante oculos habet tanquam typum scientiae : geometriam ; tum ubi in genere de scientia demonstrativa agit, tum, ut per se patet, in permultis casibus in quibus exempla ex geometria desumit. :person:`S. Thomas <aquinas>` id iam in initio sui commentarii animadvertit ; ait (:cite:`*Anal. Post.* I lect, 1 n. 10 <aquinas:anal-post:I.1.10>`) :
+
+   « Manifestat [:person:`Aristoteles <aristotle>`] propositionem praemissam per inductionem. Et primo in demonstrativis in quibus acquiritur scientia. In his autem principaliores sunt mathematicae scientiae, propter certissimum modum demonstrationis ».
+
+Ratio est manifesta. Tempore :person:`Aristotelis <aristotle>` geometria erat unica scientia demonstrativa quae corpus doctrinae systematicum constituebat. Quarta saeculi parte post mortem philosophi vix elapsa, :person:`Euclides <euclid>` sua scripsit *Elementa* quae dein per viginti fere saecula a genere humano tanquam liber manualis, fere perfectus, adhibebantur. Sed ea quae ibi proponuntur iam tempore :person:`Aristotelis <aristotle>` inventa et quodammodo systematice redacta erant ; ultimae et maximae perfectiones inventae erant in schola :person:`Platonis <plato>`, praesertim ab :person:`Eudoxo <eudoxus>` et :person:`Theaeteto <theaetetus>`. Mirum non est, :person:`Aristotelem <aristotle>` in examinanda natura scientiae apodicticae semper geometriam ante oculos habere.
+
+Ipsi ergo geometrae, in constitutione suae scientiae, resolutionem usque ad prima principia, quae iam non demonstrabant, faciebant. Haec principia, termini resolutionis geometrarum, in schola :person:`Platonis <plato>` considerabantur ut :term:`ὑποθέσεις <hypothesis>` (:cite:`*Rep.* VI 510 c <plato:rep:VI.510c>`) quae a geometris simpliciter admittebantur ; nam illi « his positis, tanquam cuilibet manifestis, rationem de his nullam exigendam putant ». Rationem autem horum exigebant et inquirebant philosophi ; et apud :person:`Platonem <plato>` erat praecise munus « methodi dialecticae » hanc inquisitionem instituere ; et ita « dialectica » :term:`ἀναιρεῖ <anairei>` (:cite:`*Rep.* VII 532 c <plato:rep:VII.532c>`) has hypotheses.
+
+Haec doctrina magis evoluta, ut videtur, apud :person:`Aristotelem <aristotle>` redit. Distinguit (:cite:`*Anal. Post.* I cap. 2 <aristotle:anal-post:I.2>`) inter propositiones, quae sunt principia scientiarum, illas quae sunt :term:`ἀξιώματα <axioma>` (communes animi conceptiones, dignitates) ab eis

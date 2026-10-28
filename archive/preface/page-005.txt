@@ -1,9 +1,0 @@
-PRAEFATIO
-
-Hoc opus agit de « noetica geometriae », i. e. de ea scientiae philosophicae noeticae parte, cuius obiectum est natura cognoscitiva mentis humanae in quantum haec scientiam geometricam construit.
-Prima pars eorum, quae exponuntur (cap. I-IV) est editio altera seriei articulorum, qui iam ante aliquot annos in periodico Gregorianum editi sunt 1, cum quibusdam adaptationibus, quae necessariae esse videbantur, ut in unitatem praesentis operis componerentur. Cetera capita (V-VII) ea continent, quae iam in ultimo articulo (anni 1943 pag. 234) praevidebantur et promittebantur, sed quorum elaboratio a circumstantiis bellicis et postbellicis hucusque impediebatur.
-In his capitibus noetice examinamusa xiomata, quae ad constructionem geometriae requiruntur — « fundamenta geometriae » quae dicuntur — tantum quoad puncta principalia criticae modernae; haec autem penitus examinantur, sunt enim maioris momenti philosophici in omnibus indagationibus epistemologicis. Inde alia quaedam axiomata, v. g. ea quae respiciunt mensurationem comparativam longitudinum linearum diversae curvaturae, non examinantur. Sub hoc respectu axiomata, quae examinantur, constituunt systema incompletum propositionum indemonstrabilium vel primitivarum pro deductione geometriae, etiam pro deductione classica.
-Sed habemus quoque rationem profundiorem et decisivam, quare systemate incompleto propositionum primitiva-
-1 1938, 498-514, De philosophia scholastica cognitionis geometricae; 1939, 19-54, De problemate necessitatis geometricae; 1939, 321-350, De problemate exactitudinis geometricae I; 1943, 171-234, De problemate exactitudinis geometricae II. Cfr. etiam Gregorianum, 1951, 434-452, De noetica geometriae, responsum ad animadversiones clmi. H. Freudenthal.
-
-835

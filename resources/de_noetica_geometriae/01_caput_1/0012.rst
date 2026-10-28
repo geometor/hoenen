@@ -1,0 +1,18 @@
+:folio: 0012
+:page: 12
+:book: Caput I
+:section: 01_caput_1
+:title: Caput I — p. 12
+:header: 12 — CAPUT I
+:language: la
+:status: ok
+
+quae sunt sive :term:`ὑποθέσεις <hypothesis>` (suppositiones) sive :term:`αἰτήματα <aitema>` (petitiones, postulata). Differentia brevi ita describi potest : :term:`ἀξίωμα <axioma>` est cuilibet evidens ; non ita aliae illae propositiones. Principium scientiae specialis, si cum opinione discentis congruit, erit *suppositio*, si non, erit *postulatum* [#f1]_. Etiam :person:`Plato <plato>` iam dixerat de :term:`ὁμολογία <homologia>` quae est inter docentem et discentem (:cite:`*Rep.* VII 533 c <plato:rep:VII.533c>`). Sed omnia haec principia a geometra accipienda sunt ab alia scientia, altiori, sive in ea probantur per demonstrationem stricte dictam, sive per considerationem terminorum. Haec alia scientia, quae loco dialecticae platonicae assumitur et a qua scientia specialis talia principia accipit, iuxta :person:`S. Thomam <aquinas>` est sive metaphysica (:cite:`*Anal. Post.* I lect. 5 n. 7 <aquinas:anal-post:I.5.7>` ; :cite:`lect. 17 n. 4 <aquinas:anal-post:I.17.4>`) sive « naturalis » (:cite:`*ibid.* lect. 5 n. 7 <aquinas:anal-post:I.5.7>`) ; sed semper est philosophia.
+
+Clarum est, in philosophia peripatetica munus *philosophi* esse, determinare de primis principiis geometriae, idque clarius etiam erit ex capitibus sequentibus ; sive id munus metaphysicae tribuas sive philosophiae naturali sive parti philosophiae ab his distinctae, quam theoriam cognitionis sive noeticam vocare poteris.
+
+Resolutio propositionum geometricarum ducit igitur ad quasdam primas propositiones et, in ipsa hac resolutione facienda, omnia fere ipsis mathematicis relinquenda erunt ; tantum generalia, quae structuram, ut dicebamus, scientiae generalem respiciunt, philosopho etiam consideranda erunt ; sed etiam activitas mentis humanae in singulis operationibus, quae scientiam constituunt ; nam haec sine ullo dubio ad epistemologum pertinent. Sed in examinando valore principiorum principale munus philosophis incumbit. Id exequi possumus ob duplicem finem. Prior est hic, ut revera *omnia* fundamenta, ut aiunt, scientiae geometricae *completae* iustificari probentur, ita ut revera pateat integram scientiam geometricam super haec fundamenta tuto construi posse ; in hanc plenitudinem in nostris lectionibus non tendemus, quamquam principales quaestiones tractabimus.
+
+Sed est et alter finis huius inquisitionis philosophicae : inveniemus conclusiones (et forte methodos) quae valorem magnum habebunt pro *theoria* cognitionis *generali*. Unum
+
+.. [#f1] Si quis putaret :person:`Aristotelem <aristotle>`, ubi de postulatis loquitur, cogitasse de propositione, quae est famosum postulatum V :person:`Euclidis <euclid>` vel ei similis ei non contradiceremus ; quamquam id probare nullo modo possumus.

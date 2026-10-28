@@ -1,0 +1,16 @@
+:folio: 0242
+:page: 242
+:book: Caput VII
+:section: 07_caput_7
+:title: Caput VII — p. 242
+:language: la
+:status: ok
+
+nostra abstractio, nam est intuitiva. Sed ex alia parte dicendum est : praerequiritur multum exercitium facultatum sensitivarum, ut data sensitiva apta fiant ex quibus intuitive abstrahamus ; id quod ab :person:`Aristotele <aristotle>` describitur in famoso ultimo capitulo :cite:`*Analyticorum Posteriorum* <aristotle:anal-post:II.19>` et in principio :cite:`*Metaphysicorum* <aristotle:met:I.1>`. Simili modo multum exercitium « resolutionis ad prima principia » requiritur ut processus, quos mens humana natura sua exercet, clare detegi et formulari possint, ut mentis humanae iudicia ex :term:`actu exercito <in-actu-exercito>` (ex statu virtuali, ut supra saepius dictum est) :term:`in actum signatum <in-actu-signato>` perducantur. Etiam in hoc casu requiritur veri nominis « habitus » huius resolutionis. Ideo tale exercitium frequens et diligens « resolutionis noeticae » valde commendandum est, immo necessarium esse videtur, ut noetica generalis digne construatur. Et prima obiecta huius exercitii sunt ii quos vocabamus « casus mathematicos ».
+
+Ita in analysi noetica intuitionum, quas habemus relate ad « casus mathematicos », non tantum indoles ipsius cognitionis geometricae et arithmeticae sese nobis :term:`in actu signato <in-actu-signato>` manifestat, sed insuper ex ea, per reflexionem, quae ulterius (est terminus :person:`S. Thomae <aquinas>`) instituitur, detegimus eius relationes obiectivas (in sensu realistico) ad ipsum « esse » ad ens. Tantum his intuitionibus muniti construere possumus noeticam ulteriorem, etiam cognitionis « casuum physicorum ».
+
+3. *De casibus physicis.*
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ratio affirmationis relationum geometricarum erat : « quia intelligo », in relationibus physicis erat : « quia video ». In utroque casu materia affirmationis hauritur ex sensibus, sed ratio prioris affirmationis ex sola intellectione huius materiae sumitur, ratio alterius etiam ex testimonio sensus. Dicimus « etiam », nam *in* ipsis propositionis affirmantis terminis debet adesse aliquid quod intelligimus (ita :person:`S. Thomas <aquinas>` cfr. :cite:`*Th. du Jug.* Ch. IV § 4 et Ch. X § 1 <hoenen:1953:theorie:IV.4,X.1>`) ; sed ipse nexus, qui affirmatur, non sese manifestat ut intelligibilis ; ideo praecise ut ratio affirmationis datur : « quia video ». Requiritur igitur, et quidem prius, iustificatio critica valoris testimonii sensus. Haec pars noeticae praesupponit « originem » noeticae et eius evolutionem ulteriorem, quam describebamus. Hanc partem noeticae, quae valorem testi-

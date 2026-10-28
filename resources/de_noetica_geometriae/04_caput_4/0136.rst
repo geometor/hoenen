@@ -1,0 +1,17 @@
+:folio: 0136
+:page: 136
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 136
+:language: la
+:status: ok
+
+sensus quidam logicus et ex eo diversi sensus reales derivari possunt ; sed nullus est inter eos qui eam aequiparare posset geometriae Euclidicae. Nunc ostendendum est, quos errores nos *non* committamus in asserenda necessitate unicae geometriae Euclidicae, tanquam scientiae de extenso, ut est extensum, quae erat conclusio ex supra expositis.
+
+----
+
+Observamus primo. Error qui saepe tribuitur eis qui asserunt necessitatem geometriae Euclidicae, hic est : conantur demonstrare postulatum V ex (solis) aliis axiomatibus quae :person:`Euclides <euclid>`, sive explicite sive implicite, admittit. Nescio utrum revera existat aliquis qui hoc facere conatus sit ; si existit, certo errat. Demonstratum est enim a mathematicis, alia illa axiomata, unita cum certa propositione *negante* postulatum V, non posse ad contradictionem ducere. Hic est proprie ille sensus primarius, pure logicus, geometriae non-Euclidicae. Inde certum est, postulatum V esse omnino independens a ceteris illis axiomatibus, ideoque ex eis solis demonstrari non posse. Nos in supra expositis non conabamur hoc facere ; postulatum quidem stabilivimus, sed adhibitis aliis mediis, intuitionibus primitivis, praeter cetera axiomata :person:`Euclidis <euclid>`.
+
+Ex quo etiam statim patet, nos non committere alium errorem qui saepe eis tribuitur, qui geometriae Euclidicae positionem unicam vindicant. Non dicimus ipsum postulatum V esse immediate evidens. De hoc puncto quaedam hic adumbranda saltem sunt.
+
+Quaenam erat in decursu historiae difficultas quae contra postulatum V, tanquam principium primum propositum, moveri poterat ? Est haec : postulatum affirmat, duas rectas in uno plano incidentes in tertiam in ea parte plani, per hanc tertiam divisi, concurrere, ubi summa angulorum internorum quos cum tertia efficiunt, est infra duos angulos rectos. Haec propositio inspicienti figuram in qua haec summa est multo infra hunc valorem, utique statim clara est. Sed si est paululum tantum infra hunc valorem — et, propter continuitatem, differentia in infinitum usque ad zero decrescere potest — propter inexactitudinem sensuum iam non potest statim intellective legi in figura ; adde quod punctum per quod una ex duabus rectis fere parallela ad alteram pertransit, multum distare potest ab alia ; et haec

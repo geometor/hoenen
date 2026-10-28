@@ -1,0 +1,17 @@
+:folio: 0139
+:page: 139
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 139
+:language: la
+:status: ok
+
+propter defectum exactitudinis in datis sensibilibus, quae directe vinci non potest.
+
+Loco harum notionum usi sumus notione directionis ; sed et haec iam saepius ad decidendum nostrum problema introducta est ; inter philosophos v. g. a Renouvier. Et ibi quidem id est immediate evidens : per punctum extra rectam situm, unicam tantum eiusdem exacte directionis duci posse. Sed si haec notio non genetice explicatur et eius existentia, simul cum existentia rectae et plani, et eorum connexionum, non intelligitur et ope principii individuationis examinatur, subiacet difficultatibus, quas antea a mathematicis prolatas audivimus. Inde hanc notionem et has existentias omni cura examinabamus. Et in nostro modo evolvendi notionem directionis exactae, illae difficultates, ut vidimus, non subsistunt ; et totus processus problema solvere videtur. Unde nec hunc tertium errorem commisimus ; non usi sumus, loco postulati V, alio, ei quidem aequivalenti, sed quod eodem defectu scilicet absentiae evidentiae immediatae laborat.
+
+Quid igitur dicendum de eis extensis, a :person:`Klein <klein>` descriptis, quae sensibiliter Euclidica esse possunt, revera tamen, in sua structura interna et exacta, non sunt Euclidica ? Non sane negamus ea existere posse. Immo eorum existentia iam a :person:`Beltrami <beltrami>`, in sua « pseudosphaera », inventa est et haec figura ab :person:`Helmholtz <helmholtz>`, ut exemplum geometriae non-Euclidicae, in qua non valet postulatum V, elaborata est ; si eius curvatura est sat parva, in parte finita apte electa, sensibiliter non potest distingui a plano Euclidico. Tamen haec geometria non est *aequiparanda* geometriae Euclidicae. Est casus specialis huius ipsius geometriae ; tale « planum » *est* superficies incurvata Euclidica ; et, ut supra iam demonstratum est, haec curvatura est intelligenda sensu intuitivo ; supponit alias dimensiones, secundum quas figura est incurvata. Id iam a pluribus dictum est ; sed ut plene demonstretur, indigemus notione directionis exactae, plene elaboratae. Inde haec notio, quam primitivam esse monstravimus, tanti momenti est [#f25]_.
+
+Unum breviter addimus : modo descripto geometria non-Euclidica duarum dimensionum est realis ; utrum simili
+
+.. [#f25] Etiam notio rectae non-Euclidicae ideo non est omnino eadem ac notio rectae Euclidicae exactae.

@@ -1,0 +1,27 @@
+:folio: 0080
+:page: 80
+:book: Caput III
+:section: 03_caput_3
+:title: Caput III — p. 80
+:language: la
+:status: ok
+
+   limitare corpora, quae non possunt esse superficies limitantes duo corpora » (:cite:`Op. cit. pag. 10 <weber-wellstein:enzyklopaedie:II.p10>`) [#f9]_.
+
+Contendunt igitur talem superficiem unilateralem non cadere sub definitione nostra superficiei (limitis inter duas partes entis extensi solidi) quia, eo ipso quod sunt unilaterales, non possunt limitare solida.
+
+Errant tamen : ut notio superficiei (limitis per quem fit transitus in indivisibili) verificetur et ut exactitudo notionis (indivisibilitatis) manifesta sit, sufficit ut quaevis pars :term:`folii Moebii <folium-moebii>` sumatur ; haec pars ubi adest (sumamus folium inter duos digitos, quae per talem partem ab invicem separantur) evidenter est limes, per quem, ut intellectus intuetur, fit transitus in indivisibili ; nullo alio indigemus.
+
+Hanc solutionem, simplicem sed decisivam, difficultatis iam indicatur a cl. :person:`A. Voss <voss>`, qui ait :
+
+   « Existunt utique superficies unilaterales, quae nullam partem spatii limitant, sed haec proprietas eis tantum propter specialem connexionem competit, dum partes elementares characterem indicatum conservant » [#f10]_.
+
+Alia consideratio :term:`folii Moebii <folium-moebii>` (etiam integri i. e. talis, ut eius connexus, :term:`Zusammenhang <zusammenhang>`, conservetur et una facies cum altera continuetur) momentum habet. Est autem haec.
+
+Hic transcribimus descriptionem methodi constructionis exempli :term:`folii Moebii <folium-moebii>` (ex cap. II).
+
+   « Sumamus folium (v. g. papyraceum) quod habet figuram rectanguli oblongi, cuius latituto sit sat parva ; eius extremitates (latera parva), post torsionem per angulum 180 graduum i. e. per dimidiam revolutionem, glutine ad invicem iungimus. Ita oritur superficies quae est similis cylindro (parvae altitudinis), sed in ea adest unus flexus ; operatio facile executioni mandatur. Heaec superficies est ' :term:`folium Moebii <folium-moebii>` ' ».
+
+.. [#f9] « Bei der Bildung des Flächenbegriffs nur von der Oberfläche oder dem zwei Körpern Gemeinsamen auszugehen, ist nicht ausreichend, weil es Flächen gibt, die nicht als Ganzes Oberfläche eines Körpers, nicht Trenungsfläche zweier Körper sein können ».
+
+.. [#f10] :cite:`A. VOSS, *Ueber die mathematische Erkenntnis* in *Die Kultur der Gegenwart* III pag. E 96 <voss:1914:p96>` : « Allerdings gibt es einseitige Flächen, die keinen Raumteil begrenzen, aber diese Eigenschaft kommt ihnen nur ihres besonderen Zusammenhangs zufolge zu, während ihre elementaren Teile den angegebenen Charakter bewahren ».

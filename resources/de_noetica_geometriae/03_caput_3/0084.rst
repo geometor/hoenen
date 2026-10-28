@@ -1,0 +1,24 @@
+:folio: 0084
+:page: 84
+:book: Caput III
+:section: 03_caput_3
+:title: Caput III — p. 84
+:language: la
+:status: ok
+
+sensitivis. Et quidem necessitatem *in ipso obiecto*. Putare quis posset hanc necessitatem esse tantum necessitatem in ipsis sensibus, in ipsa phantasia subiectiva. Id non congruit cum eis quae conscientia testatur. Id clarius fieri potest ex iis quae nunc vidimus. Nam hic in phantasmate inveniebamus quandam necessitatem quam intuemur non ad obiectum pertinere, sed solum ad sensum, ad phantasiam. Scilicet : phantasia (sicut sensus externus) *non potest* sibi limites indivisibiles proponere, linea ibi semper necessario latitudinem habet. Sed in hoc casu intelligimus, hanc necessitatem *non* adesse in ipso obiecto, separamus necessitatem subiectivam facultatis, sensus, a necessitate in ipso obiecto. In hoc casu intellectus, sicut in casu necessitatis, ita in cognitione exactitudinis, superat sensum et eius data.
+
+B) *Theoria Platonis.*
+^^^^^^^^^^^^^^^^^^^^^^
+
+Si analysis nostra confirmat theoriam :person:`Aristotelis <aristotle>`, aliae per eam excludi debent. Et revera quoad theoriam :person:`Platonis <plato>` dicendum est : 1) munus sensibilitatis non est praeparare et evocare reminiscentiam. Ex datis sensibilibus mens nostra vere haurit notionem extensi et, ut eam consideret debet phantasma revocare, et simul in eo legit exactitudinem limitis ; modus quo id fit non videtur melius describi posse quam verbis :person:`S. Thomae <aquinas>` : data sensitiva non sunt causa totalis et perfecta (sunt ergo causa partialis et imperfecta) sed sunt quodammodo materia causae. 2) Id quod in phantasmate legimus intellectu, clare indicat, in extenso ut tali, ergo in extensis physicis quoque, debere dari limites exactos.
+
+C) *Theoria Kantii.*
+^^^^^^^^^^^^^^^^^^^^
+
+Etiam theoria formae subiectivae Kantiana videtur ex analysi nostra peremptorie refutari. Nam in hac theoria extensio non invenitur in ente in se, nobis ignoto, sed tantum in ente phaenomenali, quod non habet « esse » nisi in cognitione nostra sensitiva. Sed iuxta hunc modum essendi extensum *caret* exactitudine limitum. Ergo cognitio exacta intellectiva geometrica *nullibi* applicationem inveniret : non in ente in se, quia extensione caret, non in ente phaenomenali, quia exactitudine caret.
+
+D) *Theoria empirismi.*
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Ex iis quae videbamus nunc etiam quaedam dicta a :person:`Stuart Mill <mill>` iam refutata sunt. Recolamus eius effata : « non existunt puncta sine magnitudine ; non lineae sine latitudine nec perfecte rectae ... non circuli quorum radii sunt perfecte aequales ... immo nec possibiles sunt ». Haec nunc patent esse falsa quoad existentiam (sal-

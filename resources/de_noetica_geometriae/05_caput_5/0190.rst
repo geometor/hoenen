@@ -1,0 +1,17 @@
+:folio: 0190
+:page: 190
+:book: Caput V
+:section: 05_caput_5
+:title: Caput V — p. 190
+:language: la
+:status: ok
+
+mantur. Generaliter ita dici poterit : terminis tribui debet sensus quem habent in geometria classica.
+
+Sed dein examinari debet, utrum axiomata, quae nunc sensum intuitivum habent et quae relationes reales inter subiecta affirmant, in extensis physicis verificentur. Iam non sufficit sola non-contradictio interna in systemate axiomatico ; sine tali examine in extensis propria ignota dari possent quae contradictionem importarent (id *postulari* videtur in ultimo axiomate :person:`Hilbert <hilbert>`, sed id quoque verificandum esset ; sed quomodo ?).
+
+In verificatione axiomatum (et idem valet si theorema quoddam directe examinatur) *ex integro* redeunt problemata necessitatis et exactitudinis. In extensis physicis empirice observari debent omnes dispositiones rei, quae singula axiomata verificant. Et quia propositiones geometricae tanquam necessariae habendae sunt, hae dispositiones empirice cognitae debent *esse* necessariae ; dispositio, quae non esset necessaria, *non* verificaret axiomata ; insuper hae dispositiones, empirice cognitae, etiam *cognosci* debent ut necessariae. Requiritur, sicut in systemate :person:`Aristotelis <aristotle>` supra exposito, observatio empirica, cui associatur intellectus necessitatis ; non sufficit illa experientia, quae habetur in casibus physicis, in quibus de facto constare poterit, et per multa experimenta forte de constantia factorum, sed non de necessitate, nam non adest *intuitio nexus* necessarii ; deest enim ibi abstractio intuitiva de qua supra (II § 2 n. 3). Requiritur igitur abstractio eadem ac in geometria classica, ut applicatio iustificetur ex parte necessitatis.
+
+Ex dictis resultat : ut geometria axiomatice constructa applicari possit ad extensa physica, ex observatione constare debet de necessitate relationum, quae in axiomatibus affirmantur, pro sensu qui nunc terminis tribuitur. De hac re revera constat, ut in analysi nostra (supra II) videbamus. Sed eadem observatio, associata intellectui necessitatis, et eadem abstractio formalis intuitiva sunt initium geometriae classice constructae. Si haec non essent valida, nec applicatio axiomaticae esset legitima, relate ad necessitatem.
+
+Maior est etiam difficultas, si problema exactitudinis consideratur, ex quo tandem aliquando critica, quae ad constructionem axiomaticae duxit, orta est. Prima facie videtur esse eadem ac illa, quam supra indicavimus, agentes de applicatione geometriae classicae ad extensa physica,

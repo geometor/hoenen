@@ -1,0 +1,18 @@
+:folio: 0102
+:page: 102
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 102
+:language: la
+:status: ok
+
+ad affirmationem congruentiae in hoc casu realisatae, ex illa perceptione sola *manet* illegitimus. Ut transitus ad affirmationem possibilitatis congruentiae sit legitimus, requiritur et sufficit intuitus intellectivus, ex intellectu naturae extensionis profluens, qui extensionem agnoscit ut principium individuationis in geometricis. Et hic intuitus sine ullo dubio naturaliter in mente humana aderat, dum geometriam classicam construebat, sicut aderat intuitus punctorum, linearum, superficierum per quem iam transcendebat cognitionem sensitivam ; aderant ut iudicia virtualia.
+
+Sed ex hucusque dictis nondum possumus scire, quaenam figurae exactae sint possibiles, utrum lineae perfecte rectae, circuli perfecti etc. mathematice existant. Id quod hucusque constat est tantum hoc : *si* in una parte extensi possibiles sunt, et in alia. Tamen id iam sufficit, ut diversas theses geometricas relate ad congruentiam exactam deducamus, ut statim exemplo monstrabimus.
+
+Prius autem aliud considerandum est. Geometrae saepe utuntur « motu » figurarum, ut tales theses probent ; :person:`Euclides <euclid>` id iam fecit in prima thesi quam de hac materia demonstrat. Quia difficultates fiunt contra hunc modum procedendi et in genere contra usum notionis « motus » in geometria, haec notio quae intime cohaeret cum natura extensi, ut est principium individuationis, prius dilucidanda est.
+
+§ 2. DE MOTU IN GEOMETRICIS.
+----------------------------
+
+:person:`Euclides <euclid>` motum figurarum adhibet in primo theoremate quod de congruentia figurarum demonstrat (I th. 4 ; :cite:`ed. Heiberg pagg. 16-19 <euclid:elements:b1-p4>`) ; ita saltem ab interpretibus intelligi solet, quamquam, ut videbimus, alia interpretatio est possibilis. Ibi probat congruentiam duorum triangulorum *ABC* et *DEZ* quae habent duo latera aequalia (*AB* = *DE* et *AC* = *DZ*) et angulos inter ea, *A* et *D*, etiam aequales ; possibilitas horum datorum iam dependet a principio individuationis. Ut thesin demonstret, transfert, aiunt, primum triangulum et applicat eum ad alterum : *A* ad *D*, *AB* ad *DE* ; eo ipso, propter data, *B* cadet in *E*, *AC* applicabitur ad *DZ* et punctum *C* ad *Z*. Quia inter *E* et *Z* existit tantum unica recta (nam « duae rectae non possunt comprehendere spatium ») *BC* cadet in *EZ* ; et inde ipsi toti trianguli coincidunt.

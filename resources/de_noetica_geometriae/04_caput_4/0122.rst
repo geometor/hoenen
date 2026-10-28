@@ -1,0 +1,15 @@
+:folio: 0122
+:page: 122
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 122
+:language: la
+:status: ok
+
+sensibiliter saltem, nec concavae nec convexae sunt, sed planae. In superficiebus curvis interdum tantum lineae sensibiliter rectae duci possunt (id etiam in geometria exacta verum manebit), nunquam autem per unumquodque punctum et secundum quamvis directionem. Nec linea recta quae duo puncta arbitraria superficiei iungit, integra in superficie sita est, sed a parte concava extra eam transit.
+
+Superficies sensibiliter plana, quae in experientia nostra datur, talis est, ut per quodvis punctum transeat integrum continuum (fascis) sensibiliter rectarum, quae totae in superficie sitae sunt ; omnis recta quae duo puncta arbitraria superficiei iungit, integra in ea sita est ; haec superficies ex neutra parte concava est. Hae utique connexiones sensibiliter tantum verificantur [#f12]_.
+
+Utrum in geometria exacta, recta, planum et eorum connexiones, secundum ea quae breviter tangebamus, revera mathematice existant, nunc inquirendum est. Aliis verbis : nunc investigandum est, utrum in his casibus qui qualitates quoque figurarum important, transitus ex imperfectione sensibilitatis ad exactitudinem intellectus iustificari possit ex medio quod transitum permittit. Sed interim observandum est iterum : in processu naturali mentis humanae, secundum quem geometria constructa est, poterunt inveniri iudicia virtualia talia, ut hanc iustificationem iam contineant. Si in hoc quoque problemate, sicut in praecedentibus, res ita se habet, mens iam in isto processu naturali statim a datis sensibilibus, sensibiliter tantum verificatis, legitime geometriam exactam deduxit, quin ea iudicia explicite affirmaverit. Tunc munus philosophi est, haec iudicia virtualia inquirere et considerare et explicite enuntiare ; hoc munus forte non in se, sed tantum propter adiuncta historica erit difficile.
+
+.. [#f12] Bene tamen notandum est : propositiones « geometriae inexactae » vel « approximativae » quae ita inveniuntur, magnopere differunt a propositionibus ordinariis physicis ; nam in hac experientia de rebus geometricis pervenimus quidem ad propositiones quae forte non omnino exactae sunt, quae approximative tantum verificantur — in hoc non differunt a iudiciis de rebus physicis — sed intelligimus semper, propositiones approximativas geometricas esse necessarias. Elementum exactitudinis adhuc deest, sed elementum necessitatis intellectae semper adest.

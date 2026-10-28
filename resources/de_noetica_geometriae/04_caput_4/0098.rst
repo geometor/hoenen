@@ -1,0 +1,22 @@
+:folio: 0098
+:page: 98
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 98
+:language: la
+:status: ok
+
+perspectum habeamus debemus instituere « resolutionem » ad prima principia : et ideo (:cite:`*Q. D. de Ver.* q. 12 a. 3 ad 2 <aquinas:de-veritate:q12-a3>`) :
+
+   « Quia primum principium nostrae cognitionis est sensus, oportet ad sensum quodammodo resolvere omnia de quibus iudicamus ».
+
+:person:`S. Thomas <aquinas>` dicit « *omnia* de quibus iudicamus » ad sensum resolvenda esse ; sed addit « quodammodo » ; ut iste « modus » nobis innotescat, optimum, si non unicum, obiectum examinis erit : consideratio eorum ex quibus intuitus primorum principiorum geometriae oritur. Hic intuitus in duobus transcendit data sensitiva ex quibus oritur : 1º relate ad necessitatem (et consequenter universalitatem) 2º relate ad exactitudinem.
+
+----
+
+In hac altera parte disquisitionis nostrae de problemate exactitudinis occurrunt itaque casus qui agunt de aequalitate perfecta (congruentia) duarum vel plurium figurarum, de existentia linearum perfectarum i. e. lineae perfecte rectae, circuli, cuius radii sunt perfecte aequales, de existentia plani perfecti, de aequalitate perfecta duarum proportionum, de concurrentia perfecta trium rectarum in uno puncto etc. Iudicia de talibus casibus non possunt sane directe efformari per abstractionem ex inspectione phantasmatis vel dati sensitivi ; in omnibus hisce casibus possunt dari figurae, revera inexactae, sed quae tam prope accedunt ad exactitudinem, ut imperfectio a sensibus apprehendi non possit. Geometria tamen cum certitudine agit de relationibus figurarum perfecte exactis. Inquirendum nobis est utrum detur principium ex quo haec certitudo legitime oriatur. Videbimus hoc principium dari et esse cognitionem extensi, ut est principium individuationis pro mathematicis. Insuper clarum erit hoc principium revera ubique adhiberi tanquam iudicium virtuale.
+
+§ 1. DE PRINCIPIO INDIVIDUATIONIS IN GEOMETRICIS.
+-------------------------------------------------
+
+Non agimus hic de principio individuationis metaphysico et de celebri quaestione metaphysica quae relate ad hoc principium movetur ; agimus tantum de entibus geometricis, ut sunt geometrica ; sed ea quae dicemus sine dubio cum quaestione metaphysica cohaerent.

@@ -1,0 +1,17 @@
+:folio: 0051
+:page: 51
+:book: Caput II
+:section: 02_caput_2
+:title: Caput II — p. 51
+:language: la
+:status: ok
+
+quod in physica deest intuitio naturae necessariae nexus, quae in geometria est manifesta.
+
+Sed etiam omnis theoria, quae tanquam fundamentum assumit : « ex experientia non potest hauriri iudicium necessarium », omnis igitur theoria rationalistica valore caret inde a suis initiis. Ita theoria :person:`Platonis <plato>`, quam ceteroquin nemo iam defendet. Ita theoria :person:`Kant <kant>`, qui hanc propositionem revera tanquam principium et fundamentum suae doctrinae erigit. Sine ulla iustificatione id asserit ; unde non potest esse sermo de examinandis eius argumentis in hac re ; id simpliciter affirmat, negligens elementum experimentale in geometria. Id non potest explicari nisi ex hoc, quod in proferenda hac propositione unice ad leges physicas attenderit, vel quod id ex auctoritate :person:`Humii <hume>` admiserit. Hoc principium Kantianum falsum esse, sequitur ex tota expositione nostra, vel potius ex singulis exemplis, quae vidimus.
+
+Admittenda est igitur doctrina :person:`Aristotelis <aristotle>` : nihil est in intellectu, quod non prius fuerit in sensu [#f11]_ ; et quidem haec doctrina non tantum intelligenda est de ipsis notionibus separatim consideratis sed, cum :person:`Aristotele <aristotle>`, etiam de existentia nexus inter subiectum et praedicatum, qui in iudicio affirmatur ; non sufficit consideratio notionum subiecti et praedicati ; ad affirmandum nexum iterum (vel simul) indigemus experientia. Haec est doctrina :person:`Aristotelis <aristotle>` in ultimo capite :cite:`*Analyticorum Posteriorum* <aristotle:anal-post:II.19>`, ubi de origine primorum principiorum scientiae agit ; hanc iam audiebamus in duobus textibus, quos hic repetere iuvat : :cite:`*Anal. Prior.* I 30, 46 a 17 <aristotle:anal-prior:46a17>` : διὸ τὰς μὲν ἀρχὰς τὰς περὶ ἕκαστον ἐμπειρίας ἐστὶ παραδοῦναι et :cite:`*De An.* III 7, 431 b 2 <aristotle:de-anima:431b2>` : τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φαντάσμασι νοεῖ.
+
+Haec est doctrina quam :person:`S. Thomas <aquinas>` profitetur, ubi originem principiorum non minus ac notionum abstractioni intellectus agentis tribuit, ut probavimus in articulo :cite:`*De origine primorum principiorum scientiae* <hoenen:1933:153-184>`, supra iam citato. Hanc quoque exponit in commentario in :cite:`*Anal. Post.* in ultima lectione <aquinas:anal-post:II.20>`. Iuvat hic citare quaedam eius verba, quia ad
+
+.. [#f11] Hoc adagium mitigandum est per additum : « nisi ipse intellectus ». Id tribuitur :person:`Leibnizio <leibniz>`, et iure quidem. Sed invenitur iam apud :person:`S. Thomam <aquinas>`. Cfr. :cite:`*Théorie du Jugement* ed. 2 pagg. 214-215 <hoenen:theorie-du-jugement:214-215>`.

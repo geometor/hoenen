@@ -1,0 +1,16 @@
+:folio: 0025
+:page: 25
+:book: Caput I
+:section: 01_caput_1
+:title: Caput I — p. 25
+:header: DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 25
+:language: la
+:status: ok
+
+*ticis Posterioribus* quoad structuram generalem fecit. Non omnes conclusiones exigunt ad suam deductionem integram seriem axiomatum ; et determinari potuit in diversis casibus, quomodo systema axiomatum in diversas partes distingui possit, quae in diversas partes scientiae influunt. Ita structura scientiae magis distincte cognosci potest. Habemus ulteriorem evolutionem doctrinae :person:`Aristotelis <aristotle>`. Cum hac quaestione et cum problemate non-contradictionis cohaerent methodi inquirendi in veram *independentiam* mutuam axiomatum, quae proponuntur ; et hae quoque lucrum pro « logica iudicativa » afferunt.
+
+Et integra haec methodus probandi non-contradictionem videtur ducere ad problema quod cum ontologia cohaeret, cum theoria scilicet possibilium. Tanquam possibilia describuntur : obiecta quorum notae nullam ad invicem contradictionem comportent. Potestne haec theoria applicari ad systemata quae secundum axiomaticam sunt immunia a contradictione e. g. ad geometriam non-Euclidicam ? Et in genere ad problema « existentiae mathematicae » de qua etiam :person:`Aristoteles <aristotle>` et :person:`S. Thomas <aquinas>` theoriam, adhuc evolvendam, habent ?
+
+----
+
+Ex brevi hoc conspectu concludere licet : in hac parte philosophiae magno cum dolore videmus absentiam inquisitionum scholasticorum. Sine dubio haec pars « logicae iudicativae », quae scientia ab :person:`Aristotele <aristotle>` tam feliciter inchoata erat, praesertim post modernam criticam harum quaestionum, iterum colenda est ; agitur de gravissimis problematibus theoriae cognitionis, non tantum specialis sed etiam generalis, de problematibus logicae et de problematibus, quoad structuram et activitatem scientiae, epistemologicis. Agitur quoque de complete constituendis fundamentis geometriae ; sed ad hoc nos non specialiter attendemus ; prima problemata exigent attentionem nostram, quia ibi praesertim de primis principiis agitur, de re pure philosophica. Non indigebimus considerationibus mathematicae altae ; sufficient elementa mathematica.

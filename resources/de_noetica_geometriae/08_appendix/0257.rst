@@ -1,0 +1,18 @@
+:folio: 0257
+:page: 257
+:book: Appendix
+:section: 08_appendix
+:title: Appendix — p. 257
+:header: DE CONNEXIONIBUS NECESSARIIS INTER ACTUS EXISTENTIALES — 257
+:language: la
+:status: ok
+
+ad axiomata geometrica. Statim apparet iam differentia inter principium geometricum et duo illa de quibus agebamus, quae respiciunt nexum non inter duas essentias, quidditates, sed inter existentias, modos essendi.
+
+Etiam prima principia mathematica originem habent ex experientia rerum externarum, sicut principium motus. Et quidem per operationem quam vocabamus :term:`abstractionem intuitivam formalem <abstractio-intuitiva>` ; haec in datis *concretis* sensitivis (etiam solius phantasiae) duas formas (extensionem et figurabilitatem) detegit inter quas nexus adest ; inde est abstractio ; intelligimus enim simul alias formas (v. g. colores) quae in eodem subiecto inveniuntur, nihil importare, inde est :term:`abstractio *formalis* <abstractio-formalis>` ; id intuitive intelligimus et sponte, inde est :term:`abstractio *intuitiva* <abstractio-intuitiva>`. « Le mathématique se détache du fond du réel », ait :person:`Meyerson <meyerson>` [#f7]_.
+
+In hoc principio detegendo non opus est ut obiecta, in quibus id per illam abstractionem naturalem detegimus, sensibus externis actu observentur ; sufficit dispositio rei in phantasmate et ex eo in mente praesentata. Nec in hoc casu debemus illam dispositionem rei ut actu existentem *cogitare*, agitur de relatione quidditativa. E contra, si principium « quod movetur est » ex simili praesentatione in solo phantasmate intelligimus, dispositionem rei (i. e. motum rei) ut existentem, ut pertinentem ad ordinem existentiae actualis, concipere debemus, ut supra iam dictum est. Relatio mathematica viget inter ipsas essentias, quidditates, relatio quae affirmatur in principio motus, est relatio inter existentias, modos essendi. Si notionem « motus » concipimus, concipimus aliquem « modum essendi », quoddam fieri successivum continuum.
+
+In utroque casu nexus qui affirmatur, cognoscitur ut necessarius, in casu mathematico tanquam nexus inter *formas*, in casu metaphysico tanquam nexus inter *actus*, qui non sunt formae, qui ipsi nullam quidditatem *continent*, sed quidem quidditates *respiciunt* ; sicut « esse non est forma sed actus » ita nec modi essendi sunt formae. Quia tamen in utroque casu nexus cognoscitur ut necessarius, propositio, quae dispositionem rei affirmat, est :term:`propositio per se <propositio-per-se>`. Utrique casui opponitur casus, quem vocabamus « physicum », in quo per observationem (cui *non* associatur intuitus intellec-
+
+.. [#f7] :cite:`E. Meyerson, *Du cheminement de la Pensée* pag. 391 n. 232 <meyerson:1931:391>`.

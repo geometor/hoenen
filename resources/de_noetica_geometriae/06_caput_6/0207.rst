@@ -1,0 +1,18 @@
+:folio: 0207
+:page: 207
+:book: Caput VI
+:section: 06_caput_6
+:title: Caput VI — p. 207
+:language: la
+:status: ok
+
+Et ita perfecte redimus ad doctrinam :person:`S. Thomae <aquinas>` ; etiam in hac materia geometriae affini, subiectum fundamentale est extensio *corporum* nobis intuitive intelligibilis ex datis experimentalibus, ex phantasmate.
+
+Hinc manifestum esse videtur, quod usus vocis « spatii » tum pro « extensione », subiecto fundamentali geometriae, tum pro « receptaculo praerequisito, in quo corpora collocari debent et moventur », carpendus est (cfr. supra II § 2 n. 2) ; est potius abusus, inducere potest in errores. Insistamus igitur in hoc : subiectum fundamentale geometriae est : extensio *corporum*.
+
+C) *De independentia relativa notionis extensionis ab experientia.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Origo geometriae est igitur empirica ; dependet ab experientia i. e. a datis sensitivis. Sed pro geometria (et pro arithmetica etc.) characteristicum est, quod non, sicut obtinet pro « casu physico », est *pure* experimentalis in principiis ; nam adest etiam quaedam independentia ab experientia sensibili ; et haec est summi momenti noetici, tum in construenda ipsa geometria, tum in ea applicanda, tum et praesertim relate ad noeticam generalem. Nam — et haec est praecise differentia a « casibus physicis », ut saepe dictum est — huic experientiae associatur intuitio necessitatis illius nexus qui ab experientia datur. Haec si considerantur demonstrant etiam certam independentiam, summi momenti, a datis sensitivis, demonstrant autonomiam ipsius intuitionis pure intellectivae, tum quoad necessitatem tum quoad exactitudinem relationum, quae affirmantur. Relate ad exactitudinem haec independentia sive autonomia in quibusdam tantum casibus *directe* habetur, sed per deductionem dein ad alios derivatur. Haec speciali consideratione digna sunt. (De his cfr. :cite:`*Théorie du Jugement* ch. VI praesertim § 5 <hoenen:1953:theorie:ch6.5>`).
+
+Id sese in reflexione etiam praescientifica manifestat. Comparemus affirmationem primam geometricam cum simili in casu physico. Observantes figuram quam causamus

@@ -370,55 +370,6 @@ def build_url_to_ref_map():
     return url_map
 
 
-def make_track_nav_rst(ch_id: str, active_track: str) -> list[str]:
-    """Generate a cross-track navigation bar container in RST."""
-    idx = next((i for i, m in enumerate(CHAPTER_META) if m["id"] == ch_id), None)
-    if idx is None:
-        return []
-    meta = CHAPTER_META[idx]
-
-    tracks = [
-        ("la", "Latin", f"{ch_id}-la"),
-        ("en", "English", f"{ch_id}-en"),
-    ]
-    if meta["has_summary"]:
-        tracks.append(("summary", "Summary", f"{ch_id}-summary"))
-    tracks.append(("notes", "Notes", f"{ch_id}-notes"))
-
-    track_parts = []
-    for t_key, t_label, t_ref in tracks:
-        if t_key == active_track:
-            track_parts.append(f"**{t_label}**")
-        else:
-            track_parts.append(f":ref:`{t_label} <{t_ref}>`")
-
-    nav_parts = []
-    nav_parts.append(":ref:`Conspectus <hoenen-index>`")
-    if idx > 0:
-        prev_meta = CHAPTER_META[idx - 1]
-        prev_id = prev_meta["id"]
-        prev_track = active_track if (active_track != "summary" or prev_meta["has_summary"]) else "en"
-        prev_lbl = prev_meta["la_short"] if active_track == "la" else prev_meta["en_short"]
-        nav_parts.append(f":ref:`← {prev_lbl} <{prev_id}-{prev_track}>`")
-    if idx + 1 < len(CHAPTER_META):
-        next_meta = CHAPTER_META[idx + 1]
-        next_id = next_meta["id"]
-        next_track = active_track if (active_track != "summary" or next_meta["has_summary"]) else "en"
-        next_lbl = next_meta["la_short"] if active_track == "la" else next_meta["en_short"]
-        nav_parts.append(f":ref:`{next_lbl} → <{next_id}-{next_track}>`")
-
-    idx_ref = "end-index-la" if active_track == "la" else "end-index-en"
-    nav_parts.append(f":ref:`Index Analyticus <{idx_ref}>`")
-    nav_parts.append(":ref:`Bibliography <bibliography>`")
-
-    return [
-        ".. container:: track-nav",
-        "",
-        "   " + " · ".join(track_parts) + " | " + " · ".join(nav_parts),
-        "",
-    ]
-
-
 def convert_inline(
     text: str,
     url_map: dict,
@@ -577,13 +528,8 @@ def convert_markdown_doc_to_rst(
     while idx < len(lines) and not lines[idx].strip():
         idx += 1
 
-    # Handle top breadcrumb blockquote in bibliography.md / about/*.md
+    # Skip top breadcrumb blockquote in bibliography.md / about/*.md
     if idx < len(lines) and lines[idx].strip().startswith("> ["):
-        bc_line = lines[idx].strip()[1:].strip()
-        out.append(".. container:: track-nav")
-        out.append("")
-        out.append("   " + convert_inline(bc_line, url_map, defined_fns=defined_fns))
-        out.append("")
         idx += 1
         while idx < len(lines) and (not lines[idx].strip() or lines[idx].strip() == "---"):
             idx += 1
@@ -628,8 +574,19 @@ def convert_markdown_doc_to_rst(
             sub_str = " — ".join(subtitle_parts)
             out.append(f".. rubric:: {sub_str}")
             out.append("")
-        if ch_id and active_track:
-            out.extend(make_track_nav_rst(ch_id, active_track))
+        if chapter_key and not (chapter_key == "preface" and track in {"la", "en"}):
+            toc_title_map = {
+                "la": "Conspectus Capitis",
+                "en": "Chapter Outline",
+                "summary": "Summary Outline",
+                "notes": "Apparatus & Section Index",
+            }
+            toc_title = toc_title_map.get(track or "la", "Conspectus Capitis")
+            out.append(f".. contents:: {toc_title}")
+            out.append("   :local:")
+            out.append("   :depth: 3")
+            out.append("   :backlinks: none")
+            out.append("")
 
     in_list = False
     last_list_indent = 0
@@ -899,10 +856,6 @@ def generate_analytical_indices_rst():
         "",
         ".. rubric:: *(Index Analyticus, pp. 289–293)*",
         "",
-        ".. container:: track-nav",
-        "",
-        "   :ref:`Latin <end-index-la>` · **English** | :ref:`Conspectus <hoenen-index>` · :ref:`← Appendix <appendix-en>` · :ref:`Bibliography <bibliography>`",
-        "",
         "Preface *(Praefatio)*",
         "---------------------",
         "",
@@ -920,10 +873,6 @@ def generate_analytical_indices_rst():
         "================",
         "",
         ".. rubric:: *(pp. 289–293)*",
-        "",
-        ".. container:: track-nav",
-        "",
-        "   **Latin** · :ref:`English <end-index-en>` | :ref:`Conspectus <hoenen-index>` · :ref:`← Appendix <appendix-la>` · :ref:`Bibliography <bibliography>`",
         "",
         "Praefatio",
         "---------",

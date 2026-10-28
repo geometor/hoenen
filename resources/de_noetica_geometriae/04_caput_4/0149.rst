@@ -1,0 +1,17 @@
+:folio: 0149
+:page: 149
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 149
+:language: la
+:status: ok
+
+Sed nunc attendenti hoc est manifestum : necessitas huius connexionis formalis, sive consequentiae, *remanet* post transitum ad usum symbolorum, qui in formula iam effectus est. Hunc intuitum etiam formula symbolica exprimere possumus : Si *S* est *M* et *M* est *P*, *S* est *P*. Haec exprimit necessariam connexionem inter consequens et antecedens, necessitatem dico, cuius intuitus intellectivus conservatur etiam si his symbolis utimur et eorum sensum specificum ignoramus [#f30]_. (Cfr. infra V § 2).
+
+Inde sequitur : in construendo syllogismo, cuius forma est recta, iam non opus est, ut ad *sensum* terminorum attendamus, ad affirmandam veritatem et necessitatem conclusionis. Sufficit ut termini *habeant* sensum (nobis etiam ignotum), dein ut nexus inter extrema praemissarum sit necessarius (quin haec necessitas iam videatur), dein ut termini qui pluries occurrunt, in singulis casibus *eundem* habeant sensum et distinguantur functiones subiecti et praedicati. In simplici syllogismo igitur attendendum est, ut *M* in utraque praemissa eundem habeat sensum, ut terminis *S* et *P* in conclusione idem sensus tribuatur quem in praemissis habebant.
+
+Non ita res sese habet in intellectu principiorum. Evidens est haec veritas : omne extensum est divisibile ; sed si transimus ad usum terminorum transcendentium : omne *A* est *B*, iam disparet intuitio necessitatis, etiamsi idem principium exprimere intendimus. Haec disparitas inter syllogismum et principium simplex est maximi momenti. Principium statuere non possumus, si necessitatem ex sensu profluere non intuemur ; inde scholastici dicere solebant : principia cognoscuntur « intellectis terminis ». Sed conclusionem *novam* ut necessariam cognoscere possumus, dummodo forma syllogismi — quam semper etiam in terminis transcendentibus intuemur — recta sit, dummodo *memoria* teneamus, praemissas — in sensu quem termini habent — esse necessarias ; hinc ultimam necessitatem non opus est ut in concludendo intueamur.
+
+Hinc fit ut opus scientiae stricte dictae — scientiae conclusionum — iam magnopere differat ab opere intellectus
+
+.. [#f30] Ita principium generale syllogismi iam ab :person:`Aristotele <aristotle>` exprimitur (:cite:`*Anal. Prior.* I 4, 25 b 37-39 <aristotle:anal-prior:I.4.25b37>`) : εἰ τὸ Α κατὰ παντὸς τοῦ Β καὶ τὸ Β κατὰ παντὸς τοῦ Γ, ἀνάγκη τὸ Α κατὰ παντὸς τοῦ Γ κατηγορεῖσθαι.

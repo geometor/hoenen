@@ -9,8 +9,8 @@ from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
 ROOT = Path("/home/phi/PROJECTS/geometor/hoenen")
-VOLUME_ROOT = ROOT / "resources" / "hoenen_1954" / "volume_I"
-EDITION_ROOT = ROOT / "resources" / "hoenen_1954"
+EDITION_ROOT = ROOT / "resources" / "de_noetica_geometriae"
+VOLUME_ROOT = EDITION_ROOT
 
 # Canonical normalization map for author:work prefixes
 CITE_PREFIX_MAP: Dict[str, str] = {
@@ -2880,7 +2880,7 @@ def main() -> None:
             clean_disp = re.sub(r"\*([^*]+)\*", r"\1", disp)
             entry["occurrences"].append(
                 {
-                    "volume": "volume_I",
+                    "volume": "de_noetica_geometriae",
                     "folio": folio,
                     "page": page,
                     "book": book,
@@ -2919,7 +2919,7 @@ def main() -> None:
             )
             t_entry["occurrences"].append(
                 {
-                    "volume": "volume_I",
+                    "volume": "de_noetica_geometriae",
                     "folio": folio,
                     "page": page,
                     "book": book,
@@ -2962,7 +2962,7 @@ def main() -> None:
             )
             p_entry["occurrences"].append(
                 {
-                    "volume": "volume_I",
+                    "volume": "de_noetica_geometriae",
                     "folio": folio,
                     "page": page,
                     "book": book,
@@ -2996,7 +2996,7 @@ def main() -> None:
                 if occ["folio"] not in existing_folios:
                     p_entry["occurrences"].append(
                         {
-                            "volume": occ.get("volume", "volume_I"),
+                            "volume": occ.get("volume", "de_noetica_geometriae"),
                             "folio": occ["folio"],
                             "page": occ["page"],
                             "book": occ["book"],

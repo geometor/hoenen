@@ -1,0 +1,22 @@
+:folio: 0135
+:page: 135
+:book: Caput IV
+:section: 04_caput_4
+:title: Caput IV — p. 135
+:language: la
+:status: ok
+
+« gaussianam » « valoris zero » habent, quae ideo ad planum applicari possunt, sed quae tamen habent « curvaturam intuitivam » et veram (superficies cylindricae et conicae).
+
+§ 5. De geometria Euclidica et non-Euclidica.
+---------------------------------------------
+
+Ex analysi nostra sequitur geometria Euclidica, et quidem tanquam necessario unica ; id quod nostris temporibus haberi potest pro defectu, immo pro errore. Nam praeter geometriam Euclidicam, etiam non-Euclidica, et quidem plus quam una, admittenda est ut vera. Hae quidem interdum a mathematicis — ita saltem fit in Neerlandia — vocantur « geometriae pathologicae » ; sed haec « pathologia » non spectat mentes geometrarum qui eas colunt, sed potius obiecta de quibus agunt. Et haec forte potius iocose dicuntur ; nam mathematici solent geometriae non-Euclidicae eundem valorem tribuere quam Euclidicae. Immo eum qui geometriam Euclidicam unice necessariam vocet, iam non legendum esse dicunt. Ait cl. F. Hausdorf :
+
+   « Mathematicae iam licet, omnem constructionem a priori quae spatium Euclidicum cum eius propriis specialibus, ut necessarium, sine praesuppositis arbitrariis, deducere contendit, sine examine ad acta deponere » [#f21]_.
+
+Haec anno 1904 conscripta sunt ; sed etiam postea similia proferuntur. Attamen hodie germana indoles geometriae non-Euclidicae melius nota est et etiam nos, post deductionem nostram, geometriae non-Euclidicae verum et realem sensum tribuimus, immo sensum qui latius patet, quam is quem auctor laudatus ei tantum vindicat. Tantum non poterimus eundem valorem realisticum tribuere geometriae utrique : Euclidicae et non-Euclidicae ; idque non tantum in ordine practico (ut :person:`Poincaré <poincare>` faciebat) sed praesertim in ordine theoretico et relate ad theoriam cognitionis mentis humanae. (Vide infra VI § 1).
+
+Geometria non-Euclidica habet quidem sensum verum et realem, immo plures sensus habet. Primus inter eos est
+
+.. [#f21] :cite:`F. HAUSDORF, *Das Raumproblem* in *Annalen der Naturphilosophie* III (1904) pag. 3 <hausdorff:1904:p3>` : « Die Mathematik darf jede aprioristische Konstruktion, die den euklidischen Raum mit seinen speziellen Eigentümlichkeiten, als Denknotwendigkeit, willkürfrei und voraussetzungslos zu deduzieren behauptet, ungeprüft ad Acta legen ».

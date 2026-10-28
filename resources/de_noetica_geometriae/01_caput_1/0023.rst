@@ -1,0 +1,19 @@
+:folio: 0023
+:page: 23
+:book: Caput I
+:section: 01_caput_1
+:title: Caput I — p. 23
+:header: DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 23
+:language: la
+:status: ok
+
+postulato V non erant contenti, geometriam Euclidicam ut *unicam* necessariam agnoscebant ; si est error, quomodo explicandus ; si non est error, quid de severa critica moderna dicendum ? Clarum est : iterum agitur de problemate gravi, quod in theoria generali cognitionis momentum habet. Nonne :person:`Aristoteles <aristotle>` et :person:`S. Thomas <aquinas>`, quando thesin absolute certam tanquam exemplum proponere volunt, eligunt theoremata ex geometria Euclidica ?
+
+§ 6. DE AXIOMATICA QUAE DICITUR.
+--------------------------------
+
+Ex hac critica sese evolvit integra scientia, pars « logicae iudicativae », quam *Axiomaticam* vocant. Supra sermo erat de intrinseca necessitate et immunitate a contradictione intrinseca, quae singulis systematibus geometricis, etiam non-Euclidicis, competit. Ut de his proprietatibus constet, revera *prima* principia talis scientiae debent enuntiari, singula et omnia. Hoc facto, unum systema v. g. geometria Euclidica enuntiari potest ut ingens propositio conditionalis. Indicemus principia litteris *A*, *B* ... et *F*, dein conclusiones litteris *P*, *Q*, *R* ... Integra geometria nunc ita enuntiari potest : Si *A* et *B* ... et *F*, tunc *P* et *Q* et *R* et ... Haec propositio, ut vere conditionalis, enuntiat intrinsecam necessitatem. Et haec scientia erit : *hypothetico-deductiva*. Multi axiomatici volunt geometriam puram non esse nisi tale systema hypothetico-deductivum. Hypothesis fundamentalis i. e. series axiomatum *A*, *B* ... *F*, non amplius relate ad valorem realem propositionum examinatur ; immo secundum axiomaticos extremos, ne relate ad earum sensum quidem. Notissima sunt verba quibus cl. :person:`Hilbert <hilbert>` in capite primo libri :cite:`*Die Grundlagen der Geometrie* <hilbert:grundlagen:1930>` expositionem incipit :
+
+   « Cogitamus tria diversa systemata rerum : res p r i m i systematis vocamus *puncta* easque indicamus litteris *A*, *B*, *C*, ... ; res s e c u n d i systematis vocamus (lineas) *rectas* easque indicamus litteris *a*, *b*, *c*, ... ; res t e r t i i systematis vocamus (superficies) *planas* easque indicamus litteris α, β, γ, » [#f14]_.
+
+.. [#f14] « Wir denken uns drei verschiedene Systeme von Dingen : die Dinge des e r s t e n Systems nennen wir *Punkte* und bezeichnen sie mit *A*, *B*, *C*, ... ; die Dinge des z w e i t e n Systems nennen wir *Geraden* und bezeichnen sie mit *a*, *b*, *c*, ... ; die Dinge des d r i t t e n Systems nennen wir *Ebenen* und bezeichnen sie mit α, β, γ... » :cite:`Op. cit. ed. 7 (1930) pag. 2 <hilbert:grundlagen:1930:p2>`.

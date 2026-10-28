@@ -1,0 +1,22 @@
+:folio: 0021
+:page: 21
+:book: Caput I
+:section: 01_caput_1
+:title: Caput I — p. 21
+:header: DE ORIGINE COGNITIONIS GEOM. ET DE EIUS PROBLEMATICA — 21
+:language: la
+:status: ok
+
+..
+
+   « Decisiva ad diiudicandum statum rerum nobis videtur esse circumstantia, quod geometriam ab analysi revera independentem, *quam ideale antiquum proprie postularet*, somnium esse patet » [#f13]_.
+
+Sed gravior etiam fit difficultas, si examen ulterius docet geometriam hanc classicam nec ex analysi et dependenter ab illa construi posse. Nam in tali casu mathematici maximi ingenii usque ad medium saeculum praecedens non tantum in methodo, sed etiam in iis quae se invenisse putabant, errassent.
+
+Et revera, in casu quem supponimus, res ita sese habere videtur. Utique, si agitur de applicatione approximativa (:term:`Approximationsmathematik <approximationsmathematik>` iuxta :person:`F. Klein <klein>`) non est magna difficultas ; nam haec tantum agit de rebus extensis experimentalibus, *prout* a sensibus ope perceptionis sensitivae inexactae cognoscuntur. Sed si agitur de proprietatibus extensionis *abstractae*, extensi ut extensi, de quibus geometria classica arguebat, haec non poterit, ut nobis videtur, deduci ex analysi, *quin in ipsa hac applicatione omnes difficultates eaedem iterum appareant*. Et ita nihil profecimus.
+
+Si id verum est, nonne debemus affirmare, intellectum humanum nec hanc extensionem perfecte cognoscere, id quod genus humanum hucusque semper credidit ? Quid in specie dicendum de theoria cognitionis Aristotelicae, quae firmiter putabat, hanc scientiam ex datis sensitivis oriri ?
+
+Accedit aliud quid. Paulo post initium huius saeculi in ipsa hac superba analysi arithmetica difficultates ortae sunt, quae secundum quosdam (ita :person:`Weyl <weyl>`, :person:`Brouwer <brouwer>` et alii) ad veri nominis « crisin » in mathematica ducunt. Et est unus vel alter (v. g. cl. :person:`O. Hölder <hoelder>`) qui putet difficultates solvi non posse nisi per reditum ad considerationem continui intuitivi ; id quod nobis verum esse videtur. Eo magis urget munus inquirendi in modum superandi inexactitudinem datorum sensitivorum ; id quod in sequentibus facere conabimur.
+
+.. [#f13] « Ausschlaggebend für die Beurtheilung der Sachlage scheint uns der Umstand zu sein, dass eine von der Analysis wirklich unabhängige Geometrie, *wie das antike Ideal sie eigentlich verlangen würde*, sich als eine Utopie herausgestellt hat ». Sublineatio est ipsius cl. :person:`Study <study>`.
