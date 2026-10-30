@@ -1,5 +1,5 @@
-:navigation: header
-:order: 2
+:navigation: footer
+:order: 10
 
 .. _about-index:
 
