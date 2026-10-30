@@ -6,9 +6,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>geometor.hoenen.split_scans &mdash; GEOMETOR • hoenen  documentation</title>
+  <title>geometor.hoenen.split_scans &mdash; GEOMETOR • hoenen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=bd53bf71" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=3d8cc37d" />
   <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -17,7 +20,7 @@
   <link rel="icon" href="../../../../../_static/favicon.ico" />
 </head>
 
-<body>
+<body class="book-theme-classical-serif">
   <header>
     <div class="logo">
       <a href="../../../../../index.html">
@@ -37,7 +40,7 @@
           <a href="../../../../../de_noetica_geometriae/index.html"  >DE NOETICA GEOMETRIAE</a>
         </li>
         <li>
-          <a href="../../../../index.html"  >modules</a>
+          <a href="../../../../index.html" class="is-active" aria-selected="true" >modules</a>
         </li>
         <li>
           <a href="../../../../../about/index.html"  >About</a>
@@ -46,143 +49,153 @@
     </nav>
     <div class="motto"></div>
   </header>
-  <main>
-    <article>
-      <header>
-      <nav class="breadcrumbs">
-        <span><a href="../../../../../index.html">Home</a></span>
-          <span>/</span>
-        <span><a href="../../../../index.html">modules</a></span>
-      </nav>
-        <nav class="context">
-          <div class="prev">
-             <a href="../format_md/index.html" title="geometor.hoenen.format_md" >Prev</a>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; hoenen</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • hoenen</a>
           </div>
-          <div class="next">
-            <a href="../translate/index.html" title="geometor.hoenen.translate" >Next</a>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="../../../../index.html">modules</a>
           </div>
-        </nav>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../format_md/index.html" title="geometor.hoenen.format_md">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../translate/index.html" title="geometor.hoenen.translate"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
       </header>
-      <div class="content body" role="main">
+      <div class="content body book-content" role="main">
         <section class="level-1" id="module-geometor.hoenen.split_scans">
-          <span id="geometor-hoenen-split-scans"></span><h1>geometor.hoenen.split_scans<a class="headerlink" href="#module-geometor.hoenen.split_scans" title="Link to this heading">¶</a></h1>
-          <p>geometor.hoenen.split_scans
-          Processes raw scan PDFs into individual, contrast-enhanced grayscale page images
-          organized into chapter folders, preserving original scans and reporting status.</p>
-          <section class="level-2" id="attributes">
-          <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
-          <table class="autosummary longtable docutils align-default">
-          <tbody>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.BASE_DIR" title="geometor.hoenen.split_scans.BASE_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">BASE_DIR</span></code></a></p></td>
-          <td><p></p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.PDFS_DIR" title="geometor.hoenen.split_scans.PDFS_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PDFS_DIR</span></code></a></p></td>
-          <td><p></p></td>
-          </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.SCRATCH_DIR" title="geometor.hoenen.split_scans.SCRATCH_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">SCRATCH_DIR</span></code></a></p></td>
-          <td><p></p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.INVENTORY" title="geometor.hoenen.split_scans.INVENTORY"><code class="xref py py-obj docutils literal notranslate"><span class="pre">INVENTORY</span></code></a></p></td>
-          <td><p></p></td>
-          </tr>
-          </tbody>
-          </table>
-          </section>
-          <section class="level-2" id="functions">
-          <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
-          <table class="autosummary longtable docutils align-default">
-          <tbody>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.move_original_file" title="geometor.hoenen.split_scans.move_original_file"><code class="xref py py-obj docutils literal notranslate"><span class="pre">move_original_file</span></code></a>(src, dst)</p></td>
-          <td><p>Move a file using git mv if tracked, else shutil.move.</p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.find_gutter" title="geometor.hoenen.split_scans.find_gutter"><code class="xref py py-obj docutils literal notranslate"><span class="pre">find_gutter</span></code></a>(img_path)</p></td>
-          <td><p>Detect vertical spine gutter in the center region of a 300 dpi spread image.</p></td>
-          </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.render_pdf_page" title="geometor.hoenen.split_scans.render_pdf_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_pdf_page</span></code></a>(pdf_path, page_num, out_prefix)</p></td>
-          <td><p>Render a single page from a PDF at 300 dpi to PNG.</p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.process_spread" title="geometor.hoenen.split_scans.process_spread"><code class="xref py py-obj docutils literal notranslate"><span class="pre">process_spread</span></code></a>(pdf_path, pdf_page, out_dir[, ...])</p></td>
-          <td><p>Extract spread, detect gutter, enhance contrast/grayscale, and save left/right pages.</p></td>
-          </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.run_all" title="geometor.hoenen.split_scans.run_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">run_all</span></code></a>()</p></td>
-          <td><p></p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.write_inventory_report" title="geometor.hoenen.split_scans.write_inventory_report"><code class="xref py py-obj docutils literal notranslate"><span class="pre">write_inventory_report</span></code></a>()</p></td>
-          <td><p></p></td>
-          </tr>
-          </tbody>
-          </table>
-          </section>
-          <section class="level-2" id="module-contents">
-          <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
-          <dl class="py data">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.BASE_DIR">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">BASE_DIR</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.BASE_DIR" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <span id="geometor-hoenen-split-scans"></span><h1>geometor.hoenen.split_scans<a class="headerlink" href="#module-geometor.hoenen.split_scans" title="Link to this heading">¶</a></h1>
+        <p>geometor.hoenen.split_scans
+        Processes raw scan PDFs into individual, contrast-enhanced grayscale page images
+        organized into chapter folders, preserving original scans and reporting status.</p>
+        <section class="level-2" id="attributes">
+        <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.BASE_DIR" title="geometor.hoenen.split_scans.BASE_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">BASE_DIR</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.PDFS_DIR" title="geometor.hoenen.split_scans.PDFS_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PDFS_DIR</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.SCRATCH_DIR" title="geometor.hoenen.split_scans.SCRATCH_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">SCRATCH_DIR</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.INVENTORY" title="geometor.hoenen.split_scans.INVENTORY"><code class="xref py py-obj docutils literal notranslate"><span class="pre">INVENTORY</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.move_original_file" title="geometor.hoenen.split_scans.move_original_file"><code class="xref py py-obj docutils literal notranslate"><span class="pre">move_original_file</span></code></a>(src, dst)</p></td>
+        <td><p>Move a file using git mv if tracked, else shutil.move.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.find_gutter" title="geometor.hoenen.split_scans.find_gutter"><code class="xref py py-obj docutils literal notranslate"><span class="pre">find_gutter</span></code></a>(img_path)</p></td>
+        <td><p>Detect vertical spine gutter in the center region of a 300 dpi spread image.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.render_pdf_page" title="geometor.hoenen.split_scans.render_pdf_page"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_pdf_page</span></code></a>(pdf_path, page_num, out_prefix)</p></td>
+        <td><p>Render a single page from a PDF at 300 dpi to PNG.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.process_spread" title="geometor.hoenen.split_scans.process_spread"><code class="xref py py-obj docutils literal notranslate"><span class="pre">process_spread</span></code></a>(pdf_path, pdf_page, out_dir[, ...])</p></td>
+        <td><p>Extract spread, detect gutter, enhance contrast/grayscale, and save left/right pages.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.run_all" title="geometor.hoenen.split_scans.run_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">run_all</span></code></a>()</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.hoenen.split_scans.write_inventory_report" title="geometor.hoenen.split_scans.write_inventory_report"><code class="xref py py-obj docutils literal notranslate"><span class="pre">write_inventory_report</span></code></a>()</p></td>
+        <td><p></p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.BASE_DIR">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">BASE_DIR</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.BASE_DIR" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py data">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.PDFS_DIR">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">PDFS_DIR</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.PDFS_DIR" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.PDFS_DIR">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">PDFS_DIR</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.PDFS_DIR" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py data">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.SCRATCH_DIR">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">SCRATCH_DIR</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.SCRATCH_DIR" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.SCRATCH_DIR">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">SCRATCH_DIR</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.SCRATCH_DIR" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py data">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.INVENTORY">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">INVENTORY</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.INVENTORY" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.INVENTORY">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">INVENTORY</span></span><a class="headerlink" href="#geometor.hoenen.split_scans.INVENTORY" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.move_original_file">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">move_original_file</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">src</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">dst</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.move_original_file" title="Link to this definition">¶</a></dt>
-          <dd><p>Move a file using git mv if tracked, else shutil.move.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.move_original_file">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">move_original_file</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">src</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">dst</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.move_original_file" title="Link to this definition">¶</a></dt>
+        <dd><p>Move a file using git mv if tracked, else shutil.move.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.find_gutter">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">find_gutter</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">img_path</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.find_gutter" title="Link to this definition">¶</a></dt>
-          <dd><p>Detect vertical spine gutter in the center region of a 300 dpi spread image.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.find_gutter">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">find_gutter</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">img_path</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.find_gutter" title="Link to this definition">¶</a></dt>
+        <dd><p>Detect vertical spine gutter in the center region of a 300 dpi spread image.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.render_pdf_page">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">render_pdf_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">page_num</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">out_prefix</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.render_pdf_page" title="Link to this definition">¶</a></dt>
-          <dd><p>Render a single page from a PDF at 300 dpi to PNG.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.render_pdf_page">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">render_pdf_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">page_num</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">out_prefix</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.render_pdf_page" title="Link to this definition">¶</a></dt>
+        <dd><p>Render a single page from a PDF at 300 dpi to PNG.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.process_spread">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">process_spread</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">pdf_page</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">out_dir</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">left_page_num</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">right_page_num</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_partial_left</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_partial_right</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.process_spread" title="Link to this definition">¶</a></dt>
-          <dd><p>Extract spread, detect gutter, enhance contrast/grayscale, and save left/right pages.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.process_spread">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">process_spread</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">pdf_page</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">out_dir</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">left_page_num</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">right_page_num</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_partial_left</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_partial_right</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.process_spread" title="Link to this definition">¶</a></dt>
+        <dd><p>Extract spread, detect gutter, enhance contrast/grayscale, and save left/right pages.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.run_all">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">run_all</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.run_all" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.run_all">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">run_all</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.run_all" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.hoenen.split_scans.write_inventory_report">
-          <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">write_inventory_report</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.write_inventory_report" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.hoenen.split_scans.write_inventory_report">
+        <span class="sig-prename descclassname"><span class="pre">geometor.hoenen.split_scans.</span></span><span class="sig-name descname"><span class="pre">write_inventory_report</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.hoenen.split_scans.write_inventory_report" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          </section>
-          </section>
+        </section>
+        </section>
 
       </div>
-      <footer>
-
-        <nav class="context">
-          <div class="prev">
-             <a href="../format_md/index.html" title="geometor.hoenen.format_md" >Prev</a>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../format_md/index.html" title="geometor.hoenen.format_md">&larr; <span class="nav-label">geometor.hoenen.format_md</span></a>
           </div>
-          <div class="next">
-            <a href="../translate/index.html" title="geometor.hoenen.translate" >Next</a>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • hoenen</a>
           </div>
-        </nav>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../translate/index.html" title="geometor.hoenen.translate"><span class="nav-label">geometor.hoenen.translate</span> &rarr;</a>
+          </div>
+        </div>
       </footer>
     </article>
   </main>
@@ -217,11 +230,11 @@
 
   <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
   <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../../../../../_static/documentation_options.js?v=5929fcd5"></script>
+  <script src="../../../../../_static/documentation_options.js?v=01f34227"></script>
   <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
-  <script src="../../../../../_static/js/geometor_interactive.js?v=524d80a8"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=4430a5d4"></script>
   <script src="../../../../../_static/js/search_highlight.js"></script>
 
 </body>

@@ -18,11 +18,17 @@
 }
 
 :root {
+  --geom-font-sans: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
   --geom-fg: #18181b;
   --geom-bg: #ffffff;
   --geom-point-stroke: #ffffff;
   --geom-poly-fill: #000000;
-  --geom-accent: #ef4444;
+  --geom-accent: #c88a1e;
+  --geom-accent-bg: rgba(200, 138, 30, 0.12);
+  --geom-accent-border: rgba(200, 138, 30, 0.55);
+  --geom-assert: #16a34a;
+  --geom-assert-bg: rgba(22, 163, 74, 0.10);
+  --geom-assert-border: rgba(22, 163, 74, 0.50);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -31,10 +37,16 @@
     --geom-bg: transparent;
     --geom-point-stroke: #1e1e20;
     --geom-poly-fill: #d6cfc5;
-    --geom-accent: #ef4444;
+    --geom-accent: #e8b85a;
+    --geom-accent-bg: rgba(232, 184, 90, 0.12);
+    --geom-accent-border: rgba(232, 184, 90, 0.55);
+    --geom-assert: #5ec27e;
+    --geom-assert-bg: rgba(94, 194, 126, 0.12);
+    --geom-assert-border: rgba(94, 194, 126, 0.55);
   }
 }
 
+:root,
 body.is-book-page,
 article.book-layout,
 article.book-reading-pane {
@@ -67,13 +79,19 @@ article.book-reading-pane {
   --book-font-serif: 'EB Garamond', Garamond, 'Palatino Linotype', Palatino, 'Georgia', 'Times New Roman', serif;
   --book-font-display: 'EB Garamond', Garamond, 'Georgia', serif;
   --book-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  --geom-font-sans: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
 
   /* Geometric SVG Palette (Light lines matching text on dark codex background) */
   --geom-fg: var(--book-text, #d6cfc5);
   --geom-bg: transparent;
   --geom-point-stroke: var(--book-bg, #1e1e20);
   --geom-poly-fill: var(--book-text, #d6cfc5);
-  --geom-accent: #ef4444;
+  --geom-accent: #e8b85a;
+  --geom-accent-bg: rgba(232, 184, 90, 0.12);
+  --geom-accent-border: rgba(232, 184, 90, 0.55);
+  --geom-assert: #5ec27e;
+  --geom-assert-bg: rgba(94, 194, 126, 0.12);
+  --geom-assert-border: rgba(94, 194, 126, 0.55);
 }
 
 body.light-mode,
@@ -82,7 +100,12 @@ body.light-mode,
   --geom-bg: #ffffff;
   --geom-point-stroke: #ffffff;
   --geom-poly-fill: #000000;
-  --geom-accent: #ef4444;
+  --geom-accent: #c88a1e;
+  --geom-accent-bg: rgba(200, 138, 30, 0.12);
+  --geom-accent-border: rgba(200, 138, 30, 0.55);
+  --geom-assert: #16a34a;
+  --geom-assert-bg: rgba(22, 163, 74, 0.10);
+  --geom-assert-border: rgba(22, 163, 74, 0.50);
 }
 
 @media print {
@@ -94,7 +117,8 @@ body.light-mode,
     --geom-bg: #ffffff;
     --geom-point-stroke: #ffffff;
     --geom-poly-fill: #000000;
-    --geom-accent: #dc2626;
+    --geom-accent: #b47814;
+    --geom-assert: #15803d;
   }
 }
 
@@ -180,10 +204,10 @@ header.book-header {
 
 .book-header-bar {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 0.4rem 0.75rem;
+  gap: 0.25rem;
   line-height: 1.25;
   text-align: center;
 }
@@ -241,10 +265,34 @@ header.book-header {
   color: var(--book-text-muted);
 }
 
+.book-header-breadcrumbs,
 .book-header-badges {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   gap: 0.4rem;
+}
+
+.book-crumb-link {
+  font-family: var(--book-font-display);
+  font-size: 0.76rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--book-text-muted) !important;
+  text-decoration: none !important;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: var(--book-link-hover) !important;
+  }
+}
+
+.book-crumb-sep {
+  color: var(--book-border-dark);
+  font-size: 0.78rem;
+  user-select: none;
 }
 
 .book-badge {
@@ -415,6 +463,7 @@ article.book-layout nav,
     margin-bottom: 0.75rem;
     text-indent: 0 !important;
     border-bottom: none !important;
+    clear: both;
 
     a.headerlink {
       font-size: 0.72em;
@@ -492,7 +541,7 @@ article.book-layout nav,
     margin-bottom: 0.4rem !important;
   }
 
-  /* Paragraphs & Classical 2em First-Line Indentation */
+  /* Paragraphs & Classical 2em First-Line Indentation (for folio-book-page) */
   p {
     text-indent: 2em;
     margin-top: 0 !important;
@@ -501,6 +550,12 @@ article.book-layout nav,
     text-justify: inter-word;
     hyphens: auto;
     -webkit-hyphens: auto;
+  }
+
+  &:not(.folio-book-page) p {
+    text-indent: 0 !important;
+    margin-bottom: 0.85em !important;
+    text-align: left;
   }
 
   /* Explicit resets where first-line paragraph indentation is NOT desired */
@@ -513,6 +568,8 @@ article.book-layout nav,
   .footnote-list p,
   .footnotes p,
   p.rubric,
+  figcaption p,
+  img.folio-initial-cap + p,
   .no-indent,
   .title-page p,
   .work-toc p,
@@ -1125,6 +1182,41 @@ footer.book-footer {
   flex-direction: column;
   align-items: center;
   gap: 0.85rem;
+
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem 1.25rem;
+    font-family: var(--book-font-mono);
+    font-size: 0.78rem;
+    color: var(--book-text-muted);
+    text-align: center;
+
+    span.category,
+    span.tags {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    a {
+      color: var(--book-text-muted) !important;
+      text-decoration: none !important;
+      background: var(--book-surface);
+      border: 1px solid var(--book-border);
+      border-radius: 3px;
+      padding: 0.08rem 0.4rem;
+      transition: all 0.15s ease;
+
+      &:hover {
+        color: var(--book-link-hover) !important;
+        border-color: var(--book-border-dark);
+        background: var(--book-surface-alt);
+      }
+    }
+  }
 }
 
 .book-footer-ornament {
@@ -1198,7 +1290,8 @@ footer.book-footer {
   letter-spacing: 0.02em;
 }
 
-a.justification {
+a.justification,
+a.justification-link {
   color: var(--book-link, #de836e) !important;
   text-decoration: none !important;
   border-bottom: 1px dotted rgba(222, 131, 110, 0.55);
@@ -1247,6 +1340,59 @@ a.justification {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   margin: 0.4em 0;
   clear: both;
+
+  a.folio-link {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: var(--book-link, #d4a038);
+      text-decoration: underline;
+    }
+  }
+}
+
+img.folio-initial-cap {
+  float: left;
+  width: 4.5rem;
+  height: auto;
+  margin: 0.18rem 0.95rem 0.35rem 0;
+  padding: 3px;
+  background-color: #ffffff;
+  border: 1px solid var(--book-border, #3d3934);
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.22);
+}
+
+.book-reading-pane .book-content figure:not(.photon-svg) {
+  margin: 1.35rem auto;
+  text-align: center;
+  clear: both;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid var(--book-border, #3d3934);
+    border-radius: 6px;
+    padding: 4px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.22);
+  }
+
+  figcaption {
+    margin-top: 0.45rem;
+    font-size: 0.94rem;
+    font-style: italic;
+    color: var(--book-text-muted, #9c958a);
+    text-align: center;
+
+    p {
+      text-indent: 0 !important;
+      text-align: center !important;
+      margin: 0.15rem 0 !important;
+    }
+  }
 }
 
 sup.line-num {
@@ -1299,8 +1445,9 @@ figure.photon-svg.diagram-right {
 
 /* Global Base Styles for Inlined Geometric SVGs (Light/Dark Mode via --geom-* vars) */
 svg.euclid-graphic {
-  font-family: var(--book-font-serif, 'EB Garamond', 'Times New Roman', 'Georgia', serif);
-  font-style: italic;
+  font-family: var(--geom-font-sans, 'Fira Sans Condensed', 'Fira Sans', sans-serif);
+  font-style: normal;
+  font-weight: 700;
   background-color: var(--geom-bg, transparent);
 
   &.euclid-thumbnail {
@@ -1426,12 +1573,27 @@ svg.euclid-graphic {
   .wedge,
   .angle,
   .graphic-wedge {
-    fill: var(--geom-accent, #ef4444);
+    fill: var(--geom-accent, #e8b85a);
     fill-opacity: 0.24;
-    stroke: var(--geom-accent, #ef4444);
+    stroke: var(--geom-accent, #e8b85a);
     stroke-width: 2;
     stroke-linejoin: round;
     transition: opacity 0.12s ease, fill-opacity 0.12s ease;
+  }
+
+  .geom-ang-arc {
+    fill: none !important;
+    stroke: var(--geom-assert, #5ec27e);
+    stroke-width: 2;
+    stroke-linecap: round;
+    pointer-events: none;
+  }
+
+  .geom-tick-mark {
+    stroke: var(--geom-assert, #5ec27e);
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    fill: none;
   }
 
   .geom-point,
@@ -1451,16 +1613,19 @@ svg.euclid-graphic {
   .geom-label,
   .label,
   .lbl {
+    font-family: var(--geom-font-sans, 'Fira Sans Condensed', 'Fira Sans', sans-serif);
     font-size: 14.5px;
-    font-weight: bold;
+    font-weight: 700;
+    font-style: normal;
     fill: var(--geom-fg, #d6cfc5);
     stroke: none;
     user-select: none;
   }
 
   .geom-label-roman {
+    font-family: var(--geom-font-sans, 'Fira Sans Condensed', 'Fira Sans', sans-serif);
     font-size: 14.5px;
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
     fill: var(--geom-fg, #d6cfc5);
     stroke: none;
@@ -1468,17 +1633,20 @@ svg.euclid-graphic {
   }
 
   .geom-label-sm {
+    font-family: var(--geom-font-sans, 'Fira Sans Condensed', 'Fira Sans', sans-serif);
     font-size: 11px;
-    font-weight: bold;
+    font-weight: 700;
+    font-style: normal;
     fill: var(--geom-fg, #d6cfc5);
     stroke: none;
     user-select: none;
   }
 
   .geom-label-sub {
+    font-family: var(--geom-font-sans, 'Fira Sans Condensed', 'Fira Sans', sans-serif);
     font-size: 11px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     fill: var(--geom-fg, #d6cfc5);
     stroke: none;
   }
@@ -1509,31 +1677,78 @@ svg.euclid-graphic {
   }
 }
 
-/* Interactive Geometric Text References */
+/* Interactive Geometric Text References (Gold) */
 .geom-ref,
 .geom-interactive-ref,
 .katex.geom-interactive-ref {
+  font-family: var(--geom-font-sans, 'Fira Sans Condensed', 'Fira Sans', sans-serif);
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0.01em;
   cursor: pointer;
   position: relative;
-  border-bottom: 1.5px dotted rgba(220, 38, 38, 0.45);
+  white-space: nowrap;
+  border-bottom: 1.5px dotted var(--geom-accent-border, rgba(232, 184, 90, 0.55));
   border-radius: 2px;
   padding: 0 1px;
   transition: all 0.15s ease-in-out;
+
+  sub,
+  sup {
+    font-size: 0.75em;
+    line-height: 0;
+  }
 }
 
 .geom-ref:hover,
 .geom-interactive-ref:hover,
 .katex.geom-interactive-ref:hover {
-  border-bottom: 1.5px solid #dc2626 !important;
+  border-bottom: 1.5px solid var(--geom-accent, #e8b85a) !important;
 }
 
-/* Active Highlight: Turning text RED without glow */
+/* Active Element Highlight: Turning text GOLD without glow */
 .geom-highlight-text,
 .geom-highlight-text *,
 .katex.geom-highlight-text,
 .katex.geom-highlight-text * {
-  color: #dc2626 !important;
-  background-color: rgba(239, 68, 68, 0.08) !important;
+  color: var(--geom-accent, #e8b85a) !important;
+  background-color: var(--geom-accent-bg, rgba(232, 184, 90, 0.12)) !important;
+  border-radius: 3px;
+  transition: color 0.1s ease-in-out, background-color 0.1s ease-in-out;
+}
+
+/* Interactive Assertion / Equality References (Green) */
+.geom-eq-ref {
+  cursor: pointer;
+  position: relative;
+  border-bottom: 1.5px dotted var(--geom-assert-border, rgba(94, 194, 126, 0.55));
+  border-radius: 2px;
+  padding: 0 1px;
+  transition: all 0.15s ease-in-out;
+}
+
+.geom-eq-ref:hover {
+  border-bottom: 1.5px solid var(--geom-assert, #5ec27e) !important;
+}
+
+.geom-assert-block {
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 0.1rem 0.35rem;
+  transition: background-color 0.15s ease-in-out;
+}
+
+.geom-assert-block-active {
+  background-color: var(--geom-assert-bg, rgba(94, 194, 126, 0.12));
+}
+
+.geom-assert-text,
+.geom-assert-text *,
+.katex.geom-assert-text,
+.katex.geom-assert-text * {
+  color: var(--geom-assert, #5ec27e) !important;
+  background-color: var(--geom-assert-bg, rgba(94, 194, 126, 0.12)) !important;
+  border-bottom-color: var(--geom-assert, #5ec27e) !important;
   border-radius: 3px;
   transition: color 0.1s ease-in-out, background-color 0.1s ease-in-out;
 }
@@ -1546,12 +1761,12 @@ svg.euclid-graphic #highlights > * {
   transition: opacity 0.12s ease, stroke 0.12s ease, fill-opacity 0.12s ease;
 }
 
-/* Active Highlight in SVG: Change color to RED without glow or overstroke */
+/* Active Element Highlight in SVG: GOLD */
 svg.euclid-graphic [data-ref]:hover,
 svg.euclid-graphic .highlight,
 svg.euclid-graphic .geom-highlight-active {
   opacity: 1 !important;
-  stroke: var(--geom-accent, #ef4444) !important;
+  stroke: var(--geom-accent, #e8b85a) !important;
   stroke-opacity: 1 !important;
   filter: none !important;
   cursor: pointer;
@@ -1566,9 +1781,9 @@ svg.euclid-graphic path.geom-polygon.geom-highlight-active,
 svg.euclid-graphic path.wedge.geom-highlight-active,
 svg.euclid-graphic path.angle.geom-highlight-active {
   opacity: 1 !important;
-  fill: var(--geom-accent, #ef4444) !important;
+  fill: var(--geom-accent, #e8b85a) !important;
   fill-opacity: 0.22 !important;
-  stroke: var(--geom-accent, #ef4444) !important;
+  stroke: var(--geom-accent, #e8b85a) !important;
   stroke-opacity: 1 !important;
   stroke-width: 1.5px !important;
   filter: none !important;
@@ -1581,7 +1796,7 @@ svg.euclid-graphic circle.geom-point.geom-highlight-active,
 svg.euclid-graphic circle.point.geom-highlight-active,
 svg.euclid-graphic #points circle.geom-highlight-active {
   opacity: 1 !important;
-  fill: var(--geom-accent, #ef4444) !important;
+  fill: var(--geom-accent, #e8b85a) !important;
   fill-opacity: 1 !important;
   stroke: none !important;
   stroke-width: 0 !important;
@@ -1596,16 +1811,16 @@ svg.euclid-graphic text.geom-highlight-active tspan,
 svg.euclid-graphic text.geom-label.geom-highlight-active,
 svg.euclid-graphic text.label.geom-highlight-active {
   opacity: 1 !important;
-  fill: var(--geom-accent, #ef4444) !important;
+  fill: var(--geom-accent, #e8b85a) !important;
   stroke: none !important;
   stroke-width: 0 !important;
   filter: none !important;
 }
 
-/* Secondary highlight for endpoints/labels when a segment, angle, or polygon is hovered */
+/* Secondary highlight for endpoints/labels when a segment, angle, or polygon is hovered (GOLD) */
 svg.euclid-graphic .geom-highlight-secondary {
   opacity: 1 !important;
-  stroke: var(--geom-accent, #ef4444) !important;
+  stroke: var(--geom-accent, #e8b85a) !important;
   filter: none !important;
   transition: opacity 0.1s ease, stroke 0.1s ease, fill 0.1s ease;
 }
@@ -1614,7 +1829,7 @@ svg.euclid-graphic text.geom-highlight-secondary,
 svg.euclid-graphic text.geom-highlight-secondary tspan,
 svg.euclid-graphic tspan.geom-highlight-secondary {
   opacity: 1 !important;
-  fill: var(--geom-accent, #ef4444) !important;
+  fill: var(--geom-accent, #e8b85a) !important;
   stroke: none !important;
   stroke-width: 0 !important;
   filter: none !important;
@@ -1624,8 +1839,77 @@ svg.euclid-graphic circle.geom-point.geom-highlight-secondary,
 svg.euclid-graphic circle.point.geom-highlight-secondary,
 svg.euclid-graphic #points circle.geom-highlight-secondary {
   opacity: 1 !important;
-  fill: var(--geom-accent, #ef4444) !important;
+  fill: var(--geom-accent, #e8b85a) !important;
   fill-opacity: 1 !important;
+  stroke: none !important;
+  stroke-width: 0 !important;
+  filter: none !important;
+}
+
+/* Active Assertion / Equality Highlight in SVG: GREEN + Center Tick Markers */
+svg.euclid-graphic .geom-assert-active {
+  opacity: 1 !important;
+  stroke: var(--geom-assert, #5ec27e) !important;
+  stroke-opacity: 1 !important;
+  filter: none !important;
+  transition: opacity 0.1s ease, stroke 0.1s ease;
+}
+
+svg.euclid-graphic polygon.geom-assert-active,
+svg.euclid-graphic path.polygon.geom-assert-active,
+svg.euclid-graphic path.geom-polygon.geom-assert-active,
+svg.euclid-graphic path.wedge.geom-assert-active,
+svg.euclid-graphic path.angle.geom-assert-active {
+  opacity: 1 !important;
+  fill: var(--geom-assert, #5ec27e) !important;
+  fill-opacity: 0.22 !important;
+  stroke: var(--geom-assert, #5ec27e) !important;
+  stroke-opacity: 1 !important;
+  stroke-width: 1.5px !important;
+  filter: none !important;
+}
+
+svg.euclid-graphic path.geom-ang-arc.geom-assert-active {
+  opacity: 1 !important;
+  fill: none !important;
+  stroke: var(--geom-assert, #5ec27e) !important;
+  stroke-width: 1.8px !important;
+}
+
+svg.euclid-graphic path.geom-assert-active.geom-tick-1 {
+  marker-mid: url(#geom-tick-1) !important;
+}
+
+svg.euclid-graphic path.geom-assert-active.geom-tick-2 {
+  marker-mid: url(#geom-tick-2) !important;
+}
+
+svg.euclid-graphic path.geom-assert-active.geom-tick-3 {
+  marker-mid: url(#geom-tick-3) !important;
+}
+
+svg.euclid-graphic circle.geom-point.geom-assert-active,
+svg.euclid-graphic circle.point.geom-assert-active,
+svg.euclid-graphic #points circle.geom-assert-active,
+svg.euclid-graphic circle.geom-point.geom-assert-secondary,
+svg.euclid-graphic circle.point.geom-assert-secondary,
+svg.euclid-graphic #points circle.geom-assert-secondary {
+  opacity: 1 !important;
+  fill: var(--geom-assert, #5ec27e) !important;
+  fill-opacity: 1 !important;
+  stroke: none !important;
+  stroke-width: 0 !important;
+  filter: none !important;
+}
+
+svg.euclid-graphic text.geom-assert-active,
+svg.euclid-graphic text.geom-assert-active *,
+svg.euclid-graphic text.geom-assert-active tspan,
+svg.euclid-graphic text.geom-assert-secondary,
+svg.euclid-graphic text.geom-assert-secondary *,
+svg.euclid-graphic text.geom-assert-secondary tspan {
+  opacity: 1 !important;
+  fill: var(--geom-assert, #5ec27e) !important;
   stroke: none !important;
   stroke-width: 0 !important;
   filter: none !important;
@@ -1805,6 +2089,10 @@ svg.euclid-graphic #points circle.geom-highlight-secondary {
           height: auto;
           object-fit: contain;
           border-radius: 2px;
+          background-color: transparent !important;
+          border: none !important;
+          padding: 0 !important;
+          box-shadow: none !important;
         }
       }
 
@@ -1854,6 +2142,10 @@ svg.euclid-graphic #points circle.geom-highlight-secondary {
         }
       }
     }
+
+    > footer {
+      display: none !important;
+    }
   }
 
   &.layout-cards {
@@ -1862,6 +2154,7 @@ svg.euclid-graphic #points circle.geom-highlight-secondary {
 
     > article.excerpt > .content {
       flex-direction: column !important;
+      justify-content: flex-start !important;
       align-items: center !important;
       text-align: center !important;
 
@@ -1964,6 +2257,437 @@ svg.euclid-graphic #points circle.geom-highlight-secondary {
         }
       }
     }
+  }
+}
+
+/* -------------------------------------------------------------------------
+   16. Graphviz Dependency Diagrams (.graphviz)
+   ------------------------------------------------------------------------- */
+div.graphviz {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 1.25rem 0;
+  padding: 0.75rem;
+  background-color: var(--book-surface, rgba(0, 0, 0, 0.15));
+  border: 1px solid var(--book-border, rgba(255, 255, 255, 0.1));
+  border-radius: 6px;
+  overflow-x: auto;
+
+  object.graphviz,
+  svg.graphviz {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+/* -------------------------------------------------------------------------
+   17. Pseudocode Construction Steps (.geom-step) & Step-by-Step SVG Player
+   ------------------------------------------------------------------------- */
+.geom-steps-viewport {
+  max-height: clamp(14rem, 36vh, 22rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin: 0.35rem 0 1.5rem;
+  padding: 0.45rem 0.55rem;
+  background-color: rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--book-border, #3d3934);
+  border-radius: 6px;
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.22);
+  scrollbar-width: thin;
+  scrollbar-color: var(--book-border-dark, #544f47) transparent;
+
+  &:focus,
+  &:focus-visible {
+    outline: 1px solid rgba(232, 184, 90, 0.45);
+    border-color: var(--book-border-dark, #544f47);
+  }
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--book-border-dark, #544f47);
+    border-radius: 3px;
+  }
+}
+
+figure.photon-svg:has(+ .geom-steps-viewport) {
+  margin-bottom: 0.35rem !important;
+}
+
+.geom-step {
+  position: relative;
+  text-indent: 0 !important;
+  text-align: left !important;
+  padding: 0.28rem 0.55rem 0.28rem 5.4rem;
+  margin: 0.22rem 0;
+  border-radius: 4px;
+  border-left: 2.5px solid var(--book-border, #3d3934);
+  background-color: rgba(255, 255, 255, 0.015);
+  cursor: pointer;
+  line-height: 1.55;
+  transition: background-color 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
+
+  p {
+    text-indent: 0 !important;
+    text-align: left !important;
+    margin: 0.15rem 0 !important;
+  }
+
+  &:hover {
+    background-color: var(--book-surface, rgba(255, 255, 255, 0.04));
+    border-left-color: var(--book-border-dark, #544f47);
+  }
+
+  &.geom-step-active {
+    background-color: rgba(232, 184, 90, 0.11);
+    border-left-color: var(--geom-accent, #e8b85a);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+  }
+
+  &.geom-step-assert.geom-step-active,
+  &.geom-step-conclude.geom-step-active {
+    background-color: rgba(94, 194, 126, 0.11);
+    border-left-color: var(--geom-assert, #5ec27e);
+  }
+
+  &.geom-step-future {
+    opacity: 0.52;
+  }
+}
+
+.geom-step-badge {
+  display: inline-block;
+  width: 4.5rem;
+  margin-left: -4.85rem;
+  margin-right: 0.35rem;
+  font-family: var(--book-font-mono, monospace);
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-align: right;
+  color: var(--book-text-muted, #9c958a);
+  user-select: none;
+  vertical-align: baseline;
+
+  &.geom-badge-given,
+  &.geom-badge-let {
+    color: #93c5fd;
+  }
+
+  &.geom-badge-construct {
+    color: var(--geom-accent, #e8b85a);
+  }
+
+  &.geom-badge-intersect {
+    color: #f9a8d4;
+  }
+
+  &.geom-badge-assert {
+    color: var(--geom-assert, #5ec27e);
+  }
+
+  &.geom-badge-conclude,
+  &.geom-badge-qed,
+  &.geom-badge-qef {
+    color: #c4b5fd;
+  }
+}
+
+.geom-step-player {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.35rem;
+  margin-top: 0.45rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid var(--book-border, #3d3934);
+  font-family: var(--book-font-mono, monospace);
+  font-size: 0.72rem;
+  color: var(--book-text-muted, #9c958a);
+  user-select: none;
+
+  .geom-step-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+  }
+
+  .geom-step-btn {
+    background: var(--book-surface, #272629);
+    border: 1px solid var(--book-border, #3d3934);
+    color: var(--book-text, #d6cfc5);
+    border-radius: 3px;
+    padding: 0.12rem 0.42rem;
+    font-family: var(--book-font-mono, monospace);
+    font-size: 0.72rem;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: all 0.12s ease;
+
+    &:hover {
+      background: var(--book-surface-alt, #313035);
+      border-color: var(--book-border-dark, #544f47);
+      color: var(--geom-accent, #e8b85a);
+    }
+
+    &.is-active {
+      background: rgba(232, 184, 90, 0.16);
+      border-color: var(--geom-accent, #e8b85a);
+      color: var(--geom-accent, #e8b85a);
+      font-weight: 600;
+    }
+  }
+
+  .geom-step-status {
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    padding: 0 0.25rem;
+  }
+}
+
+svg.euclid-graphic .geom-step-hidden:not(.geom-highlight-active):not(.geom-highlight-secondary):not(.geom-assert-active):not(.geom-assert-secondary) {
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* -------------------------------------------------------------------------
+   18. Formal Proposition Signatures (.geom-signature) & Function Calls (.geom-fn)
+   ------------------------------------------------------------------------- */
+.geom-signature {
+  margin: 0.55rem 0 0.75rem;
+  padding: 0.55rem 0.85rem;
+  background-color: var(--book-surface, #272629);
+  border: 1px solid var(--book-border, #3d3934);
+  border-left: 3px solid var(--geom-accent, #e8b85a);
+  border-radius: 5px;
+  font-family: var(--book-font-mono, monospace);
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--book-text, #d6cfc5);
+  text-indent: 0 !important;
+  text-align: left !important;
+
+  &.geom-signature-theorem,
+  &.geom-signature-cn,
+  &.geom-signature-def,
+  &.geom-signature-rule {
+    border-left-color: var(--geom-assert, #5ec27e);
+  }
+
+  p,
+  .line-block,
+  .line {
+    text-indent: 0 !important;
+    text-align: left !important;
+    margin: 0.12rem 0 !important;
+  }
+
+  .line-block {
+    margin: 0 !important;
+  }
+}
+
+.geom-fn,
+a.geom-fn {
+  font-family: var(--book-font-mono, monospace);
+  font-size: 0.88em;
+  font-weight: 600;
+  font-style: normal;
+  color: var(--book-link, #de836e) !important;
+  background-color: rgba(222, 131, 110, 0.10);
+  border: 1px solid rgba(222, 131, 110, 0.34);
+  border-radius: 3px;
+  padding: 0.04rem 0.34rem;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: color 0.12s ease, background-color 0.12s ease, border-color 0.12s ease;
+
+  &:hover {
+    color: var(--book-link-hover, #f5a492) !important;
+    background-color: rgba(222, 131, 110, 0.22);
+    border-color: var(--book-link, #de836e);
+    text-decoration: none !important;
+  }
+
+  &.geom-fn-def {
+    color: var(--geom-accent, #e8b85a) !important;
+    background-color: rgba(232, 184, 90, 0.12);
+    border-color: rgba(232, 184, 90, 0.42);
+  }
+}
+
+.geom-rule-just {
+  float: right;
+  text-indent: 0 !important;
+  font-family: var(--book-font-mono, monospace);
+  font-size: 0.78rem;
+  font-style: normal;
+  letter-spacing: 0.01em;
+  color: var(--book-text-muted, #9c958a);
+  margin-left: 0.65rem;
+
+  .geom-because {
+    color: var(--geom-assert, #5ec27e);
+    font-weight: 700;
+    margin-right: 0.1rem;
+  }
+
+  a.geom-rule,
+  span.geom-rule {
+    font-family: var(--book-font-mono, monospace);
+    font-size: 0.78rem;
+    color: var(--book-link, #de836e) !important;
+    text-decoration: none !important;
+    border-bottom: 1px dotted rgba(222, 131, 110, 0.55);
+    border-radius: 2px;
+    padding: 0 2px;
+    transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+
+    &:hover {
+      color: var(--book-link-hover, #f5a492) !important;
+      border-bottom: 1px solid var(--book-link, #de836e);
+      background-color: rgba(222, 131, 110, 0.12);
+      text-decoration: none !important;
+    }
+  }
+}
+
+/* -------------------------------------------------------------------------
+   19. Collapsible Scholarly Apparatus Blocks (details.book-collapse) & Notes (.note-item)
+   ------------------------------------------------------------------------- */
+details.book-collapse {
+  margin: 0.75rem 0 1.25rem;
+  background-color: var(--book-surface, #272629);
+  border: 1px solid var(--book-border, #3d3934);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-color: var(--book-border-dark, #544f47);
+  }
+
+  > summary.book-collapse-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.55rem 0.9rem;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    transition: background-color 0.15s ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:hover {
+      background-color: var(--book-surface-alt, #313035);
+    }
+  }
+
+  .book-collapse-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-family: var(--book-font-display, 'Cormorant Garamond', Georgia, serif);
+    font-weight: 600;
+    font-size: 0.96rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--book-text, #d6cfc5);
+
+    .collapse-icon {
+      display: inline-block;
+      color: var(--book-link, #de836e);
+      font-size: 0.95rem;
+      line-height: 1;
+      transition: transform 0.15s ease;
+    }
+  }
+
+  .book-collapse-badge {
+    font-family: var(--book-font-mono, monospace);
+    font-size: 0.75rem;
+    color: var(--book-text-muted, #9c958a);
+    background-color: var(--book-surface-alt, #313035);
+    border: 1px solid var(--book-border, #3d3934);
+    padding: 0.12rem 0.55rem;
+    border-radius: 12px;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  &[open] {
+    > summary.book-collapse-summary {
+      border-bottom: 1px solid var(--book-border, #3d3934);
+      background-color: rgba(255, 255, 255, 0.02);
+    }
+
+    .collapse-icon {
+      transform: rotate(90deg);
+    }
+  }
+
+  .book-collapse-body {
+    padding: 0.75rem 1rem;
+    font-size: 0.98rem;
+    line-height: 1.6;
+
+    p {
+      text-indent: 0 !important;
+      text-align: left !important;
+      margin: 0.3rem 0 !important;
+    }
+
+    ul,
+    ol {
+      margin: 0.2rem 0 !important;
+      padding-left: 1.25rem;
+    }
+
+    li {
+      margin-bottom: 0.32rem;
+      line-height: 1.55;
+
+      p {
+        margin: 0 !important;
+      }
+    }
+
+    &.line-catalog p,
+    .line-catalog p {
+      font-family: var(--book-font-mono, monospace);
+      font-size: 0.86rem;
+      line-height: 1.75;
+      color: var(--book-text, #d6cfc5);
+    }
+  }
+}
+
+.book-reading-pane .book-content .note-item {
+  margin: 0.65rem 0;
+  padding: 0.35rem 0.85rem;
+  border-left: 2px solid var(--book-border-dark, #544f47);
+  background-color: rgba(255, 255, 255, 0.015);
+  border-radius: 0 4px 4px 0;
+
+  p {
+    text-indent: 0 !important;
+    text-align: left !important;
+    margin: 0.25rem 0 !important;
   }
 }
 
