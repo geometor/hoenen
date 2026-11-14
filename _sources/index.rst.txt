@@ -9,8 +9,8 @@ Digital critical editions, multi-track parallel translations, and prosopographic
 
 ----
 
-Works (*Opera*)
----------------
+Book Codex
+----------
 
 :doc:`De Noetica Geometriae: Origine Theoriae Cognitionis (1954) <de_noetica_geometriae/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,23 +19,29 @@ Works (*Opera*)
 
 Hoenen's crowning epistemological treatise investigating the origin of geometric knowledge through Aristotelian-Thomistic intuitive formal abstraction from the phantasm (*abstractio formalis intuitiva* and *materia intelligibilis*) in dialogue with modern axiomatics, non-Euclidean geometry, and the foundations of mathematics.
 
-* **Synchronized Book Codex Tracks**: :ref:`Conspectus Operis <de-noetica-geometriae-index>` · :ref:`Praefatio (English) <preface-en>` · :ref:`Praefatio (Latin) <preface-la>` · :ref:`Caput I–IX (English & Latin) <caput-1-en>` with track-preserving navigation across all chapters and appendices.
-* **Scholarly Apparatus**: :ref:`Analytical Index (English) <end-index-en>` · :ref:`Index Analyticus (Latin) <end-index-la>` · :ref:`Systematic Bibliography <bibliography>` · :ref:`Index of Persons <persons>` · :ref:`Scholastic & Mathematical Glossary <glossary>` with interactive ``:cite:``, ``:person:``, and ``:term:`` hover cards.
+* **Synchronized Book Codex Tracks**: :doc:`De Noetica Geometriae <de_noetica_geometriae/index>` · :ref:`Conspectus Operis <de-noetica-geometriae-index>` · :ref:`Praefatio (English) <preface-en>` · :ref:`Praefatio (Latin) <preface-la>` · :ref:`Caput I–VII & Appendix <caput-1-en>` with track-preserving navigation across *Editio Latina · English · Summaries · Notes*.
+* **Scholarly Apparatus**: :doc:`Index Nominum (People) <de_noetica_geometriae/persons>` · :doc:`Bibliographia <de_noetica_geometriae/bibliography>` · :doc:`Using This Edition <usage/index>` · :ref:`Glossarium Technicum <glossary>` with interactive ``:cite:``, ``:person:``, and ``:term:`` hover cards.
 
 ----
 
 Historical Context & Documentation
 ----------------------------------
 
-* :ref:`Biography & Intellectual Legacy of Fr. Peter Hoenen, S.J. <about-peter-hoenen>`
-* :ref:`The Analecta Gregoriana Series <about-analecta-gregoriana>`
-* :ref:`The Pontifical Gregorian University <about-gregorian-university>`
-* :ref:`Digital Scriptorium PDF Parsing & Extraction Guide <about-pdf-parsing-guide>`
+* :doc:`Mission & Epistemological Vision <mission/index>`
+* :doc:`Reader's Guide & Archival Pipeline <usage/index>`
+* :doc:`About This Critical Edition & Archival Provenance <about/index>`
+* :doc:`Python Package & CLI API <modules/index>`
+* :doc:`Transcription & Curation Log <log/index>`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
 
    de_noetica_geometriae/index
-   about/index
+   de_noetica_geometriae/persons
+   de_noetica_geometriae/bibliography
+   mission/index
+   usage/index
+   log/index
    modules/index
+   about/index

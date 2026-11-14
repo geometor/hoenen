@@ -1,8 +1,8 @@
 :navigation: footer
 :order: 20
+:nav_title: Connect
 
-=======
-connect
+Connect
 =======
 
 Explore ``geometor.hoenen`` and the GEOMETOR ecosystem on GitHub:

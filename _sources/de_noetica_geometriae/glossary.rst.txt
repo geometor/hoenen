@@ -1,3 +1,6 @@
+:navigation: footer
+:order: 15
+:nav_title: Glossarium
 :title: Glossarium Technicum — Greek & Scholastic Technical Glossary
 :description: Comprehensive technical glossary of 99 Greek, Scholastic Latin, German, and French philosophical and mathematical terms in Petrus Hoenen's De Noetica Geometriae (1954).
 :layout: book
