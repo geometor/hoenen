@@ -1,3 +1,6 @@
+:navigation: header
+:order: 5
+:nav_title: Index Nominum
 :title: Index Nominum — Biographical Register of Persons
 :description: Comprehensive biographical register and concordance of all 83 philosophers, mathematicians, and commentators in Petrus Hoenen's De Noetica Geometriae (1954).
 :layout: book
@@ -8,7 +11,31 @@
 Index Nominum (Biographical Register)
 =====================================
 
-.. rubric:: * Catalogus Auctorum, Philosophorum et Mathematicorum *
+.. rubric:: Catalogus Auctorum, Philosophorum et Mathematicorum
+
+Authors, Translators & Editors
+------------------------------
+
+.. _author-peter-hoenen:
+
+Petrus Hubertus Jacobus Hoenen, S.J. (1880–1961)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Author** · *Dutch Jesuit Priest (Societas Iesu), Philosopher, Physicist, and Professor*
+
+Peter Hoenen was a Dutch Jesuit priest, philosopher, physicist, and academic. Before entering philosophy, Hoenen received rigorous training in theoretical physics, studying under Nobel laureate Hendrik Antoon Lorentz at the University of Leiden, where he defended his doctorate in 1912. This unique background gave him deep technical mastery of the exact sciences, thermodynamics, and mathematical foundations.
+
+He served for decades as Professor of Philosophy at the Pontifical Gregorian University in Rome (*Pontificia Universitas Gregoriana*), where he held the chair of natural philosophy (cosmology) and epistemology.
+
+Hoenen is celebrated for bridging mathematical physics, modern non-Euclidean geometry, and formal axiomatics with the classical realism of Aristotle and St. Thomas Aquinas. His epistemology develops a groundbreaking doctrine of **intuitive formal abstraction** (*abstractio formalis intuitiva*), demonstrating that mathematical first principles and necessity are directly perceived by the intellect within imaginative sensory presentations (*phantasmata* and *materia intelligibilis*).
+
+* **Major Works**: *Cosmologia* (Rome: Gregorian University, 1931; 4th ed. 1949; 5th ed. 1956); *La théorie du jugement d'après St. Thomas d'Aquin* (Analecta Gregoriana, 1946; 2nd ed. 1953; English trans. *Reality and Judgment According to St. Thomas*, Chicago: Regnery, 1952); *Recherches de logique formelle* (1947); *Filosofia della natura inorganica* (Brescia: Morcelliana, 1949); *De origine formae materialis* (1951); *De noetica geometriae: Origine theoriae cognitionis* (Analecta Gregoriana Vol. LXIII, Rome, 1954).
+* See also his catalogued occurrences in the :ref:`Biographical Directory below <person-hoenen>` and his full entry in the :ref:`Systematic Bibliography <bib-hoenen-petrus-hubertus-jacobus-s-j>`.
+
+----
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 This biographical register catalogues all **83 philosophers, mathematicians, physicists, and classical commentators** referenced across **Father Peter Hoenen, S.J.**'s *De Noetica Geometriae: Origine Theoriae Cognitionis* (1954). Every ``:person:`` reference in both the Latin and English editions links directly to its entry below, and each entry provides biographical context, cited works linked to the :ref:`Systematic Bibliography <bibliography>`, and exact back-links (`LA` · `EN`) to every occurrence in the text.
 
