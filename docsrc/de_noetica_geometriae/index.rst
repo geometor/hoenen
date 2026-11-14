@@ -1,5 +1,6 @@
 :navigation: header
 :order: 1
+:nav_title: De Noetica Geometriae
 :layout: book
 :title: De Noetica Geometriae
 :book_title: De Noetica Geometriae
@@ -9,11 +10,13 @@
 :publisher: Apud Aedes Universitatis Gregorianae
 :location: Romae
 :year: 1954
+:toc_label: Conspectus
+:persons_label: Index Nominum
 
 .. _hoenen-index:
 .. _de-noetica-geometriae-index:
 
-DE NOETICA GEOMETRIAE
+De Noetica Geometriae
 =====================
 
 .. rubric:: *(The Noetics of Geometry)* — ORIGINE THEORIAE COGNITIONIS *(The Origin of the Theory of Knowledge)*
@@ -29,6 +32,9 @@ DE NOETICA GEOMETRIAE
    | ROMAE — APUD AEDES :ref:`UNIVERSITATIS GREGORIANAE <about-gregorian-university>` — 1954
 
 ----
+
+.. _table-of-contents:
+.. _conspectus-totius-operis:
 
 Conspectus Totius Operis
 ------------------------
@@ -110,8 +116,11 @@ Apparatus Criticus: Bibliographia, Index Nominum et Glossarium
 
 ----
 
-Apparatus & Editorial Documentation
------------------------------------
+.. _scholarly-apparatus:
+.. _apparatus-criticus:
+
+Apparatus Criticus: Bibliographia, Index Nominum et Glossarium
+--------------------------------------------------------------
 
 * :ref:`Bibliography & Cited References (Bibliographia et Fontes) <bibliography>`
 * :ref:`Biographical Register of Persons (Index Nominum) <persons>`

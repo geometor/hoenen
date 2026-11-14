@@ -1,8 +1,8 @@
 :navigation: header
 :order: 30
+:nav_title: Log
 
-===
-log
+Log
 ===
 
 Chronological transcription, translation, and compilation log for ``geometor.hoenen``.

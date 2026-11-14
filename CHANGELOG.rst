@@ -2,6 +2,12 @@
 changelog
 =========
 
+0.1.1 (2026-11-14)
+------------------
+
+- Standardized Book Title Page, top-level header navigation (``Liber``, ``Index Nominum``, ``Bibliographia``, ``Usage``), and Reader's Guide (``docsrc/usage/``).
+- Preserved Latin book terminology across codex headings with ``:toc_label:`` and ``:persons_label:`` EPUB overrides while featuring author and scholar profiles.
+
 0.1.0 (2026-10-29)
 ------------------
 
