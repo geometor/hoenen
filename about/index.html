@@ -46,7 +46,7 @@
           <a href="../de_noetica_geometriae/bibliography.html"  >Bibliographia</a>
         </li>
         <li>
-          <a href="../mission/index.html"  >Mission</a>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">About</a>
         </li>
         <li>
           <a href="../usage/index.html"  >Usage</a>
@@ -73,7 +73,7 @@
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../modules/api/geometor/hoenen/translate/index.html" title="geometor.hoenen.translate">&larr; <span class="nav-label">Prev</span></a>
+            <a class="book-nav-btn" href="../de_noetica_geometriae/scan-inventory.html" title="De Noetica Geometriae: Scan Inventory &amp; Rescan Manifest">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
           </div>
@@ -83,17 +83,47 @@
         </div>
       </header>
       <div class="content body book-content" role="main">
-        <section class="level-1" id="about">
-        <span id="about-index"></span><h1>About<a class="headerlink" href="#about" title="Link to this heading">¶</a></h1>
-        <p>Historical, biographical, and editorial context for the works of Fr. Peter Hoenen, S.J. (1880–1961) at the Pontifical Gregorian University.</p>
+        <section class="level-1" id="about-index">
+        <span id="about"></span><span id="id1"></span><h1>About<a class="headerlink" href="#about-index" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Extracting Historical Semantic Knowledge &amp; Repurposing It for Exact Symbolic Reasoning</p>
+        <section class="level-2" id="about-this-edition">
+        <h2>About This Edition<a class="headerlink" href="#about-this-edition" title="Link to this heading">¶</a></h2>
+        <p><code class="docutils literal notranslate"><span class="pre">geometor.hoenen</span></code> is a digital critical edition, multi-track parallel translation, and semantic epistemological apparatus dedicated to Peter Hoenen, S.J.’s (1880–1961) masterwork, <em>De Noetica Geometriae: Origine Theoriae Cognitionis</em> (<em>Analecta Gregoriana</em>, Vol. LXIV, Romae: Apud Aedes Universitatis Gregorianae, 1954). Trained in theoretical physics under Nobel laureate H. A. Lorentz at Leiden before holding the chair of natural philosophy and epistemology at the Pontifical Gregorian University, Fr. Hoenen formulated a definitive defense of geometric intuition (<em>abstractio formalis intuitiva</em>), demonstrating that necessity in mathematics arises not from arbitrary logistical conventions but from direct intellectual apprehension within sensible presentations (<em>phantasmata</em> and <em>materia intelligibilis</em>).</p>
+        <p>This edition reconstructs Hoenen’s treatise as an interactive multi-track <strong>Book Codex</strong> powered by <code class="docutils literal notranslate"><span class="pre">photon-platform/publish</span></code>. Every chapter (Caput I–VII and Appendix) provides track-synchronized navigation across four parallel representations: <em>Editio Latina</em> (scrupulously transcribed and collated from the 1954 Rome editio princeps), <em>English Translation</em> (curated for philosophical accuracy and mathematical clarity), <em>Summaries</em> (succinct scholastic and epistemological abstracts), and <em>Translation Notes</em> (critical philological, historical, and mathematical apparatus). Interleaved throughout the text are structured semantic anchors linking directly to an exhaustive <a class="reference internal" href="../de_noetica_geometriae/persons.html"><span class="doc">Index Nominum</span></a>, a comprehensive <a class="reference internal" href="../de_noetica_geometriae/bibliography.html"><span class="doc">Bibliographia</span></a>, and a technical Latin-Greek philosophical <a class="reference internal" href="../de_noetica_geometriae/glossary.html#glossary"><span class="std std-ref">Glossarium</span></a>.</p>
+        <p>By formalizing Hoenen’s dialogues with Euclid, Aristotle, Thomas Aquinas, Descartes, Kant, Poincaré, Hilbert, and Russell, <code class="docutils literal notranslate"><span class="pre">geometor.hoenen</span></code> bridges classical scholastic epistemology with modern mathematical axiomatics. It provides foundational philosophical grounding for sister GEOMETOR repositories—including <code class="docutils literal notranslate"><span class="pre">geometor.elements</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code>, and <code class="docutils literal notranslate"><span class="pre">geometor.klein</span></code>—clarifying how symbolic models and axiomatic formalisms remain rooted in intuitive geometric reality.</p>
+        </section>
+        <section class="level-2" id="the-geometor-mission">
+        <h2>The GEOMETOR Mission<a class="headerlink" href="#the-geometor-mission" title="Link to this heading">¶</a></h2>
+        <p>The <strong>GEOMETOR</strong> initiative, conceived and directed by <strong>phi ARCHITECT</strong>, is dedicated to the systematic recovery, symbolic formalization, and creative re-articulation of humanity’s geometric heritage. GEOMETOR unites classical synthesis with modern algebraic rigor across three core pillars:</p>
+        <dl class="simple">
+        <dt>Extracting Historical Semantic Knowledge</dt><dd><p>Moving beyond passive page scans, static facsimile bitmaps, and flat optical character recognition (OCR), GEOMETOR recovers the living deductive architecture of 2,300+ years of geometric, axiomatic, and philosophical treatises. Primary sources—spanning Euclid, Apollonius, Archimedes, Pappus, Johannes Kepler, Felix Klein, and Clark Kimberling—are analyzed to elevate enunciations, deductive steps, synthetic justifications, marginal citations, primary-source folios (via <code class="docutils literal notranslate"><span class="pre">publish</span> <span class="pre">folio</span></code>), and calibrated Ink-to-Vector <code class="docutils literal notranslate"><span class="pre">.euclid-graphic</span></code> diagrams into structured, machine-addressable semantic graphs.</p>
+        </dd>
+        <dt>Exact Symbolic Grounding (<code class="docutils literal notranslate"><span class="pre">geometor.model</span></code>)</dt><dd><p>Geometric constructions must not depend on floating-point approximations or visual artifacts. GEOMETOR anchors geometric entities in 100% exact symbolic algebra via <a class="reference external" href="https://www.sympy.org/">SymPy</a> and the principles of Rational Trigonometry (quadrance, spread, cross-ratio). Points, lines, circles, and conic loci are evaluated over exact algebraic fields, ensuring that tangencies, incidences, harmonic conjugates, and collinearities represent absolute mathematical truths rather than numerical estimates.</p>
+        </dd>
+        <dt>Repurposing Knowledge Across Mediums</dt><dd><p>Extracted semantic architectures and exact symbolic models are re-deployed across a unified digital ecosystem: synchronized multi-track <strong>Book Codices</strong> and EPUB 3 editions powered by <code class="docutils literal notranslate"><span class="pre">photon-platform/publish</span></code>, computable deductive canons (<code class="docutils literal notranslate"><span class="pre">geometor.elements</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.etc</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.pappus</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.divine</span></code>), interactive SVG exploration laboratories (<code class="docutils literal notranslate"><span class="pre">geometor.explorer</span></code>), ultra-high-definition visual broadcasts, and neuro-symbolic program synthesis (<code class="docutils literal notranslate"><span class="pre">geometor.seer</span></code>) across <a class="reference external" href="https://geometor.com">geometor.com</a>.</p>
+        </dd>
+        </dl>
+        </section>
+        <section class="level-2" id="sources-provenance-methodology">
+        <h2>Sources, Provenance &amp; Methodology<a class="headerlink" href="#sources-provenance-methodology" title="Link to this heading">¶</a></h2>
         <ul class="simple">
-        <li><p><a class="reference internal" href="peter-hoenen.html#about-peter-hoenen"><span class="std std-ref">Fr. Peter Hoenen, S.J. (1880–1961)</span></a></p></li>
-        <li><p><a class="reference internal" href="analecta-gregorian.html#about-analecta-gregoriana"><span class="std std-ref">Analecta Gregoriana</span></a></p></li>
-        <li><p><a class="reference internal" href="pontifical-gregorian-university.html#about-gregorian-university"><span class="std std-ref">Pontifical Gregorian University</span></a></p></li>
-        <li><p><a class="reference internal" href="pdf-parsing-guide.html#about-pdf-parsing-guide"><span class="std std-ref">PDF Parsing &amp; Extraction Guide</span></a></p></li>
+        <li><p><strong>Archival Text</strong>: Petrus H. J. Hoenen, S.J., <em>De Noetica Geometriae: Origine Theoriae Cognitionis</em>, <em>Analecta Gregoriana</em>, Vol. LXIV, Series Facultatis Philosophicae, Sectio A (n. 5), Romae: Apud Aedes Universitatis Gregorianae, 1954.</p></li>
+        <li><p><strong>Institutional Provenance</strong>: Pontifical Gregorian University (<em>Pontificia Universitas Gregoriana</em>), Rome.</p></li>
+        <li><p><strong>Scan Processing &amp; OCR Pipeline</strong>: 600 DPI monochrome thresholded scans processed via customized OCR pipelines, manual scholastic Latin proofreading, and syntactic normalization as documented in the <a class="reference internal" href="pdf-parsing-guide.html#about-pdf-parsing-guide"><span class="std std-ref">PDF Parsing Guide</span></a>.</p></li>
+        <li><p><strong>Digital Scriptorium Methodology</strong>: Reconstructed and typeset by <strong>phi ARCHITECT</strong> using Sphinx, Python, and the <code class="docutils literal notranslate"><span class="pre">photon-platform/publish</span></code> Book Codex framework.</p></li>
+        </ul>
+        <section class="level-3" id="historical-editorial-monographs">
+        <h3>Historical &amp; Editorial Monographs<a class="headerlink" href="#historical-editorial-monographs" title="Link to this heading">¶</a></h3>
+        <ul class="simple">
+        <li><p><a class="reference internal" href="peter-hoenen.html#about-peter-hoenen"><span class="std std-ref">Fr. Peter Hoenen, S.J. (1880–1961)</span></a> — Biography, academic training under Lorentz, and philosophical contributions.</p></li>
+        <li><p><a class="reference internal" href="analecta-gregorian.html#about-analecta-gregoriana"><span class="std std-ref">Analecta Gregoriana</span></a> — History and editorial scope of the Gregorian monograph series.</p></li>
+        <li><p><a class="reference internal" href="pontifical-gregorian-university.html#about-gregorian-university"><span class="std std-ref">Pontifical Gregorian University</span></a> — Historical context of the Gregorian University in Rome.</p></li>
+        <li><p><a class="reference internal" href="pdf-parsing-guide.html#about-pdf-parsing-guide"><span class="std std-ref">PDF Parsing &amp; Extraction Guide</span></a> — Reproduction guide for scan acquisition, chapter slicing, and OCR workflows.</p></li>
         </ul>
         <div class="toctree-wrapper compound">
         </div>
+        </section>
+        </section>
         </section>
 
       </div>
@@ -101,7 +131,7 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../modules/api/geometor/hoenen/translate/index.html" title="geometor.hoenen.translate">&larr; <span class="nav-label">geometor.hoenen.translate</span></a>
+            <a class="book-nav-btn" href="../de_noetica_geometriae/scan-inventory.html" title="De Noetica Geometriae: Scan Inventory &amp; Rescan Manifest">&larr; <span class="nav-label">De Noetica Geometriae: Scan Inventory & Rescan Manifest</span></a>
           </div>
           <div class="book-nav-center">
             <a class="book-toc-link" href="../index.html">GEOMETOR • hoenen</a>
@@ -164,7 +194,6 @@
   <footer>
     <div class="footer-nav">
       <ul>
-        <li><a href="#" class="is-active" aria-selected="true" aria-current="page">About</a></li>
         <li><a href="../de_noetica_geometriae/glossary.html"  >Glossarium</a></li>
         <li><a href="../connect.html"  >Connect</a></li>
         <li><a href="../todos/index.html"  >Todos</a></li>
@@ -181,7 +210,7 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=a58bc63e"></script>
+  <script src="../_static/documentation_options.js?v=92734c54"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
