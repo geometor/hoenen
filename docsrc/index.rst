@@ -27,9 +27,8 @@ Hoenen's crowning epistemological treatise investigating the origin of geometric
 Historical Context & Documentation
 ----------------------------------
 
-* :doc:`Mission & Epistemological Vision <mission/index>`
-* :doc:`Reader's Guide & Archival Pipeline <usage/index>`
 * :doc:`About This Critical Edition & Archival Provenance <about/index>`
+* :doc:`Reader's Guide & Archival Pipeline <usage/index>`
 * :doc:`Python Package & CLI API <modules/index>`
 * :doc:`Transcription & Curation Log <log/index>`
 
@@ -40,8 +39,7 @@ Historical Context & Documentation
    de_noetica_geometriae/index
    de_noetica_geometriae/persons
    de_noetica_geometriae/bibliography
-   mission/index
+   about/index
    usage/index
    log/index
    modules/index
-   about/index
