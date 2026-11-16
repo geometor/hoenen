@@ -4,13 +4,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 ==================
 Peter Hoenen, S.J.
 ==================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Peter Hoenen, S.J. <hoenen>` (1880–1961), Professor of Natural Philosophy at the Pontifical Gregorian University whose *De Noetica Geometriae* explored the epistemological foundations of geometry through Thomistic intuitive formal abstraction and modern axiomatics.
+The works of :person:`Peter Hoenen, S.J. <hoenen>` (1880–1961) bridge scholastic philosophy and modern mathematical logic, establishing geometry as the true origin of general noetics through intuitive formal abstraction. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, *De Noetica Geometriae* is liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. collection::
    :type: book
