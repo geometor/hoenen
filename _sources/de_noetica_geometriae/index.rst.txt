@@ -1,6 +1,8 @@
+:type: book
 :navigation: header
 :order: 1
 :nav_title: De Noetica Geometriae
+:breadcrumb_title: De Noetica Geometriae
 :layout: book
 :title: De Noetica Geometriae
 :book_title: De Noetica Geometriae
@@ -10,6 +12,7 @@
 :publisher: Apud Aedes Universitatis Gregorianae
 :location: Romae
 :year: 1954
+:excerpt: Fr. Peter Hoenen's epistemological treatise investigating the origin of geometric knowledge through Thomistic intuitive formal abstraction and modern axiomatics.
 :toc_label: Conspectus
 :persons_label: Index Nominum
 
