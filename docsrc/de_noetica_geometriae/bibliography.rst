@@ -1,6 +1,6 @@
 :navigation: header
 :order: 6
-:nav_title: Bibliographia
+:nav_title: Bibliography
 :title: Bibliography & Cited References (Bibliographia et Fontes)
 :layout: book
 :description: Comprehensive critical bibliography and apparatus of cited sources for Petrus Hoenen's De Noetica Geometriae (1954), organized chronologically by death date with an alphabetical index.
