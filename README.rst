@@ -15,6 +15,19 @@ Books in This Archive
 
 - `De Noetica Geometriae <https://geometor.github.io/hoenen/de_noetica_geometriae/>`_ — Origine Theoriae Cognitionis (1954) presenting the complete Latin text, first English translation, chapter summaries, and apparatus exploring the origin of geometric knowledge.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-hoenen`` Python package (``import geometor.hoenen``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``extract.py`` — ``geometor.hoenen.extract`` module.
+- ``format_md.py`` — ``geometor.hoenen.format_md`` module.
+- ``split_scans.py`` — geometor.hoenen.split_scans
+- ``translate.py`` — ``geometor.hoenen.translate`` module.
+- ``cli.py`` — ``geometor.hoenen.cli`` module.
+
+See the `API Reference <https://geometor.github.io/hoenen/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
