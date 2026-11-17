@@ -164,7 +164,7 @@ Scholarly Apparatus
    :caption: Apparatus & Editorial
 
    bibliography
-   persons
+   people/index
    glossary
    agent-chronicle
    scan-inventory
