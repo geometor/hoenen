@@ -13,7 +13,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`De Noetica Geometriae <https://geometor.github.io/hoenen/de_noetica_geometriae/>`_** — Origine Theoriae Cognitionis (1954) presenting the complete Latin text, first English translation, chapter summaries, and apparatus exploring the origin of geometric knowledge.
+- `De Noetica Geometriae <https://geometor.github.io/hoenen/de_noetica_geometriae/>`_ — Origine Theoriae Cognitionis (1954) presenting the complete Latin text, first English translation, chapter summaries, and apparatus exploring the origin of geometric knowledge.
 
 Repository Contents
 -------------------
