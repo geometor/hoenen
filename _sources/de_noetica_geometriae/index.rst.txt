@@ -1,133 +1,105 @@
 :type: book
 :navigation: header
 :order: 1
-:nav_title: De Noetica Geometriae
-:breadcrumb_title: De Noetica Geometriae
+:nav_title: Noetics of Geometry
+:breadcrumb_title: Noetics of Geometry
 :layout: book
-:title: De Noetica Geometriae
-:book_title: De Noetica Geometriae
-:book_subtitle: Origine Theoriae Cognitionis (1954)
+:title: The Noetics of Geometry
+:book_title: The Noetics of Geometry
+:book_subtitle: De Noetica Geometriae — Origine Theoriae Cognitionis (1954)
 :author: Petrus Hubertus Jacobus Hoenen, S. J.
 :series: Analecta Gregoriana, VOL. LXIII, Series Facultatis Philosophicae, Sectio A (n. 5)
 :publisher: Apud Aedes Universitatis Gregorianae
 :location: Romae
 :year: 1954
+:tracks: English: index | Latin: title-la
 :excerpt: Fr. Peter Hoenen's epistemological treatise investigating the origin of geometric knowledge through Thomistic intuitive formal abstraction and modern axiomatics.
-:toc_label: Conspectus
-:persons_label: Index Nominum
 
 .. _hoenen-index:
 .. _de-noetica-geometriae-index:
 
-De Noetica Geometriae
-=====================
+The Noetics of Geometry
+=======================
 
-.. rubric:: *(The Noetics of Geometry)* — ORIGINE THEORIAE COGNITIONIS *(The Origin of the Theory of Knowledge)*
+.. rubric:: *De Noetica Geometriae — Origine Theoriae Cognitionis* (1954)
 
 .. container:: title-page
 
    | :ref:`Analecta Gregoriana <about-analecta-gregoriana>`
-   | Cura :ref:`Pontificiae Universitatis Gregorianae <about-gregorian-university>` edita
-   | VOL. LXIII · SERIES FACULTATIS PHILOSOPHICAE · Sectio A (n. 5)
+   | Edited under the care of the :ref:`Pontifical Gregorian University <about-gregorian-university>`
+   | VOL. LXIII · SERIES OF THE FACULTY OF PHILOSOPHY · Section A (no. 5)
    |
-   | auctore :ref:`P. HOENEN S. I. <about-peter-hoenen>`
-   | PROFESSORE PHILOSOPHIAE IN :ref:`PONTIFICIA UNIVERSITATE GREGORIANA <about-gregorian-university>`
-   | ROMAE — APUD AEDES :ref:`UNIVERSITATIS GREGORIANAE <about-gregorian-university>` — 1954
+   | by :ref:`Fr. Peter Hoenen, S.J. <about-peter-hoenen>`
+   | Professor of Philosophy at the :ref:`Pontifical Gregorian University <about-gregorian-university>`
+   | Rome — :ref:`Gregorian University Press <about-gregorian-university>` — 1954
 
 ----
 
 .. _table-of-contents:
-.. _conspectus-totius-operis:
 
-Conspectus Totius Operis
-------------------------
+Table of Contents
+-----------------
 
-*(Table of Contents)*
+Preface
+~~~~~~~
 
-Praefatio *(Preface)*
-~~~~~~~~~~~~~~~~~~~~~
+:ref:`English <preface-en>` · :ref:`Latin <preface-la>` · :ref:`Notes <preface-notes>`
 
-:ref:`Latin <preface-la>` · :ref:`English <preface-en>` · :ref:`Notes <preface-notes>`
+Chapter I: On the Origin of Geometric Knowledge and Its Problematics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Caput I: De Origine Cognitionis Geometricae et de Eius Problematica
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`English <caput-1-en>` · :ref:`Latin <caput-1-la>` · :ref:`Summary <caput-1-summary>` · :ref:`Notes <caput-1-notes>`
 
-*(On the Origin of Geometric Knowledge and Its Problematics)*
+Chapter II: On the Problem of Necessity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Latin <caput-1-la>` · :ref:`English <caput-1-en>` · :ref:`Summary <caput-1-summary>` · :ref:`Notes <caput-1-notes>`
+:ref:`English <caput-2-en>` · :ref:`Latin <caput-2-la>` · :ref:`Summary <caput-2-summary>` · :ref:`Notes <caput-2-notes>`
 
-Caput II: De Problemate Necessitatis
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chapter III: On the Problem of Exactitude. Part I: On the Existence of Indivisibles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*(On the Problem of Necessity)*
+:ref:`English <caput-3-en>` · :ref:`Latin <caput-3-la>` · :ref:`Summary <caput-3-summary>` · :ref:`Notes <caput-3-notes>`
 
-:ref:`Latin <caput-2-la>` · :ref:`English <caput-2-en>` · :ref:`Summary <caput-2-summary>` · :ref:`Notes <caput-2-notes>`
+Chapter IV: On the Problem of Exactitude. Part II: On Exact Figures and Relations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Caput III: De Problemate Exactitudinis. Pars I: De Existentia Indivisibilium
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`English <caput-4-en>` · :ref:`Latin <caput-4-la>` · :ref:`Summary <caput-4-summary>` · :ref:`Notes <caput-4-notes>`
 
-*(On the Problem of Exactitude. Part I: On the Existence of Indivisibles)*
+Chapter V: On Axiomatics
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Latin <caput-3-la>` · :ref:`English <caput-3-en>` · :ref:`Summary <caput-3-summary>` · :ref:`Notes <caput-3-notes>`
+:ref:`English <caput-5-en>` · :ref:`Latin <caput-5-la>` · :ref:`Summary <caput-5-summary>` · :ref:`Notes <caput-5-notes>`
 
-Caput IV: De Problemate Exactitudinis. Pars II: De Figuris et Relationibus Exactis
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chapter VI: On the Fundamental Subject of Geometry
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*(On the Problem of Exactitude. Part II: On Exact Figures and Relations)*
+:ref:`English <caput-6-en>` · :ref:`Latin <caput-6-la>` · :ref:`Summary <caput-6-summary>` · :ref:`Notes <caput-6-notes>`
 
-:ref:`Latin <caput-4-la>` · :ref:`English <caput-4-en>` · :ref:`Summary <caput-4-summary>` · :ref:`Notes <caput-4-notes>`
+Chapter VII: On Extension as Intelligible Matter
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Caput V: De Axiomatica
-~~~~~~~~~~~~~~~~~~~~~~
+:ref:`English <caput-7-en>` · :ref:`Latin <caput-7-la>` · :ref:`Summary <caput-7-summary>` · :ref:`Notes <caput-7-notes>`
 
-*(On Axiomatics)*
+Appendix: On the Necessary Connections Between Existential Acts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Latin <caput-5-la>` · :ref:`English <caput-5-en>` · :ref:`Summary <caput-5-summary>` · :ref:`Notes <caput-5-notes>`
+:ref:`English <appendix-en>` · :ref:`Latin <appendix-la>` · :ref:`Summary <appendix-summary>` · :ref:`Notes <appendix-notes>`
 
-Caput VI: De Subiecto Fundamentali Geometriae
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Analytical Index
+~~~~~~~~~~~~~~~~
 
-*(On the Fundamental Subject of Geometry)*
-
-:ref:`Latin <caput-6-la>` · :ref:`English <caput-6-en>` · :ref:`Summary <caput-6-summary>` · :ref:`Notes <caput-6-notes>`
-
-Caput VII: De Extensione ut est Materia Intelligibilis
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*(On Extension as Intelligible Matter)*
-
-:ref:`Latin <caput-7-la>` · :ref:`English <caput-7-en>` · :ref:`Summary <caput-7-summary>` · :ref:`Notes <caput-7-notes>`
-
-Appendix: De connexionibus necessariis inter actus existentiales
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*(On the Necessary Connections Between Existential Acts)*
-
-:ref:`Latin <appendix-la>` · :ref:`English <appendix-en>` · :ref:`Summary <appendix-summary>` · :ref:`Notes <appendix-notes>`
-
-Index Analyticus *(Analytical Index)*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-:ref:`Latin <end-index-la>` · :ref:`English <end-index-en>`
-
-Apparatus Criticus: Bibliographia, Index Nominum et Glossarium
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* :ref:`Bibliographia et Fontes — Systematic Bibliography & Cited Loci (412 Citations) <bibliography>`
-* :ref:`Index Nominum — Biographical Register of Philosophers & Mathematicians (83 Persons) <persons>`
-* :ref:`Glossarium Technicum — Greek, Scholastic & Mathematical Glossary (99 Terms) <glossary>`
+:ref:`English <end-index-en>` · :ref:`Latin <end-index-la>`
 
 ----
 
 .. _scholarly-apparatus:
-.. _apparatus-criticus:
 
-Apparatus Criticus: Bibliographia, Index Nominum et Glossarium
---------------------------------------------------------------
+Scholarly Apparatus
+-------------------
 
-* :ref:`Bibliography & Cited References (Bibliographia et Fontes) <bibliography>`
-* :ref:`Biographical Register of Persons (Index Nominum) <persons>`
-* :ref:`Technical Glossary of Terms (Glossarium Technicum) <glossary>`
+* :ref:`Bibliography & Cited Sources (412 Citations) <bibliography>`
+* :ref:`Biographical Register of Persons (83 Persons) <persons>`
+* :ref:`Technical Glossary of Terms (99 Terms) <glossary>`
 * :ref:`The Transcription Chronicle: An AI Agent's First-Person Memoir <agent-chronicle>`
 * :ref:`Scan Inventory & Problem Page Log <scan-inventory>`
 
@@ -150,7 +122,7 @@ Apparatus Criticus: Bibliographia, Index Nominum et Glossarium
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Editio Latina (1954)
+   :caption: Latin Edition
 
    preface/preface
    caput-1/caput-1
@@ -196,3 +168,10 @@ Apparatus Criticus: Bibliographia, Index Nominum et Glossarium
    glossary
    agent-chronicle
    scan-inventory
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

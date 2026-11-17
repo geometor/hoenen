@@ -1,17 +1,17 @@
 :navigation: header
 :order: 5
-:nav_title: Index Nominum
-:title: Index Nominum — Biographical Register of Persons
+:nav_title: People
+:title: Biographical Register of Persons
 :description: Comprehensive biographical register and concordance of all 83 philosophers, mathematicians, and commentators in Petrus Hoenen's De Noetica Geometriae (1954).
 :layout: book
 
 .. _persons:
 .. _index-nominum:
 
-Index Nominum (Biographical Register)
-=====================================
+Biographical Register of Persons
+================================
 
-.. rubric:: Catalogus Auctorum, Philosophorum et Mathematicorum
+.. rubric:: *Index Nominum — Catalogus Auctorum, Philosophorum et Mathematicorum*
 
 Authors, Translators & Editors
 ------------------------------
