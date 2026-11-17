@@ -12,8 +12,7 @@ Peter Hoenen, S.J.
 
 The works of :person:`Peter Hoenen, S.J. <hoenen>` (1880–1961) bridge scholastic philosophy and modern mathematical logic, establishing geometry as the true origin of general noetics through intuitive formal abstraction. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, *De Noetica Geometriae* is liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
-.. collection::
-   :type: book
+.. reference-directory::
    :sort: order
 
 .. toctree::
@@ -21,7 +20,7 @@ The works of :person:`Peter Hoenen, S.J. <hoenen>` (1880–1961) bridge scholast
    :hidden:
 
    de_noetica_geometriae/index
-   de_noetica_geometriae/persons
+   de_noetica_geometriae/people/index
    de_noetica_geometriae/bibliography
    about/index
    usage/index
