@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/hoenen",
+  "rights_category": "verify-copyright",
+  "sources": [
+    {
+      "id": "hoenen-1954-gregorian",
+      "title": "De Noetica Geometriae: Origine Theoriae Cognitionis (1954)",
+      "author": "Petrus Hoenen, S.J.",
+      "year": "1954",
+      "era": "Gregorian University Scans",
+      "languages": [
+        "Latin"
+      ],
+      "site_url": "https://geometor.github.io/hoenen/",
+      "local_path": "resources/de_noetica_geometriae/pdfs/",
+      "pages": 217,
+      "publisher": "Pontificia Universitas Gregoriana (Analecta Gregoriana Vol. 64), Rome",
+      "rights": "Published 1954 in Italy (author d. 1961; EU PD 2032)",
+      "excerpt": "217 pp. across 12 chapter/appendix flatbed scan PDFs of Analecta Gregoriana Vol. 64."
+    }
+  ]
+}
