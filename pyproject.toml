@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "geometor-hoenen"
 authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
 description = "Digital reconstruction and translation of Peter Hoenen's De Noetica Geometriae (1954)."
-readme = "README.rst"
+readme = "README.md"
 dynamic = ["version"]
 dependencies = [
     "pytesseract",
