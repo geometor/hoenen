@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • hoenen Medallion
+   :target: https://geometor.github.io/hoenen/
+   :width: 150px
+   :align: right
+
 GEOMETOR • hoenen
 =================
 
 **Visit the Online Archive:** https://geometor.github.io/hoenen/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • hoenen Medallion
-   :target: https://geometor.github.io/hoenen/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/de_noetica_geometriae/caput-5/0172.g1.png
    :alt: GEOMETOR • hoenen featured graphic
