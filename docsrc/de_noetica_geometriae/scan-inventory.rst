@@ -1,7 +1,14 @@
+:layout: book
+:title: Scan Inventory & Rescan Manifest
+:folio: 0005
+:page: 5
+
 .. _scan-inventory:
 
-De Noetica Geometriae: Scan Inventory & Rescan Manifest
-=======================================================
+Scan Inventory & Rescan Manifest
+================================
+
+.. rubric:: *De Noetica Geometriae* (Rome, 1954)
 
 - **Total Book Pages Processed:** 287
 - **Complete / High-Quality Pages:** 272

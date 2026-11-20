@@ -4,6 +4,8 @@
 :death_label: 1855
 :lifespan: 1777 – 1855
 :excerpt: Role: German Mathematician & Physicist (Princeps Mathematicorum)*
+:folio: 0131
+:page: 131
 
 .. _person-gauss:
 

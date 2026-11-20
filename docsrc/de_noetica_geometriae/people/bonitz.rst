@@ -4,6 +4,8 @@
 :death_label: 1888
 :lifespan: 1814 – 1888
 :excerpt: Role: Classical Philologist & Aristotle Scholar*
+:folio: 0254
+:page: 254
 
 .. _person-bonitz:
 

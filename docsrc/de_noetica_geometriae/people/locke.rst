@@ -4,6 +4,8 @@
 :death_label: 1704
 :lifespan: 1632 – 1704
 :excerpt: Role: English Empiricist Philosopher*
+:folio: 0164
+:page: 164
 
 .. _person-locke:
 

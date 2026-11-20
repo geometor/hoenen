@@ -4,6 +4,8 @@
 :death_label: 1990
 :lifespan: 1905 – 1990
 :excerpt: Role: German-Dutch Mathematician*
+:folio: 0159
+:page: 159
 
 .. _person-freudenthal:
 

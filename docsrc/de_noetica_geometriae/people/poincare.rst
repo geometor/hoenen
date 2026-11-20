@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/poincare/
 :github_url: https://github.com/geometor/poincare
 :excerpt: Role: French Mathematician, Physicist & Philosopher of Science*
+:folio: 0019
+:page: 19
 
 .. _person-poincare:
 

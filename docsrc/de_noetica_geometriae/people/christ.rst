@@ -4,6 +4,8 @@
 :death_label: 1906
 :lifespan: 1831 – 1906
 :excerpt: Role: German Classical Philologist*
+:folio: 0265
+:page: 265
 
 .. _person-christ:
 

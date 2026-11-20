@@ -1,9 +1,16 @@
 :layout: book
+:title: Preface
+:lang: en
+:folio: 0005
+:page: 5
 
 .. _preface-en:
 
-PREFACE
+Preface
 =======
+
+.. folio:: 0005
+   :page: 5
 
 This work deals with the "noetics of geometry," that is, that branch of philosophical noetics whose proper object is the cognitive nature of the human mind insofar as it constructs geometric science.
 
@@ -13,9 +20,15 @@ In these chapters, we examine from a noetic standpoint the axioms required for t
 
 Yet we also possess a deeper and decisive reason for being content—indeed, for why we must be content—with an incomplete system of primitive, indemonstrable propositions. For, as we will demonstrate in Chapter V, establishing a complete system of this kind is impossible. Indeed, in the very process of deduction—not only in geometry, but in other sciences capable of continuous development—it appears necessary for the human mind repeatedly to invoke fresh primitive propositions that are indemonstrable and yet known as necessary; and in those sciences, this appears not only necessary, but simultaneously possible, *ad infinitum*. The noetic method of investigating these propositions appears to be of paramount importance, for it manifests the noetic nature of the human mind, not only when investigating the initial foundations of the sciences, but also in constructing science deductively. Such repeated noetic exercise, also on account of the intellectual "habit" (*habitus*) it engenders, appears to be, if not strictly necessary, nonetheless immensely beneficial for general noetics, where it is commonly neglected even though its proper office is to carry out such inquiries. Owing to such neglect, it can and does happen that certain epistemological systems fall into error. Yet this does not happen inevitably; for the principles uncovered in such a noetic analysis are already implicitly present in the cultivated human mind and naturally guide its inquiries through the intellect; however, they are present only implicitly, or ":term:`in the exercised act <in-actu-exercito>`" (*in actu exercito*); the proper office of noetics is to establish such principles explicitly, leading the exercised act to the ":term:`signified act <in-actu-signato>`" (*actum signatum*). We shall encounter this frequently in what follows.
 
+.. folio:: 0006
+   :page: 6
+
 Moreover, in the title of this work we say even more. We call the noetics of geometry the "origin" of the theory of knowledge. By this we intend to say that this discipline not only can begin with the noetics of geometry (at least from its principles), but that it necessarily must begin in this way. We shall endeavor to establish this in the final section of Chapter VII, both from the nature of the subject itself and from the doctrine of :person:`St. Thomas Aquinas <aquinas>`, whose teaching on the judgment of the human mind we expounded at length in another work; and there we already made frequent reference to the noetics of geometry [#f2]_.
 
 It is historically established that Scholastic cosmology cannot be constructed and fully safeguarded from antinomies without such inquiries, whether preliminary or concurrent. Yet for other philosophical disciplines as well, this continuous practical exercise to which the human mind devotes itself in this noetic analysis appears to offer the greatest utility, including that discipline which examines the notion of actual "being" (*esse*) itself. To illustrate this, we add to this book as an appendix our article :cite:`*On the Necessary Connections Between Existential Acts* (*De connexionibus necessariis inter actus existentiales*) from the journal *Gregorianum* 1953, pp. 603-639 <hoenen:1953:603-639>`.
+
+.. folio:: 0007
+   :page: 7
 
 One further remark may be permitted here. There are philosophers, perhaps not a few, who, whenever in a philosophical treatise they encounter geometric statements, or mathematical statements in general, even of the simplest kind, are immediately deterred from reading and study. Let them have no fear: this modest labor will, if I am not mistaken, yield the richest fruits. Nothing more is demanded than what :person:`Plato <plato>` is said to require of any philosopher.
 

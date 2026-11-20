@@ -1,4 +1,8 @@
 :layout: book
+:title: Caput I: De Origine Cognitionis Geometricae et de Eius Problematica
+:lang: la
+:folio: 0009
+:page: 9
 
 .. _caput-1-la:
 
@@ -12,6 +16,9 @@ CAPUT I
    :depth: 3
    :backlinks: none
 
+.. folio:: 0009
+   :page: 9
+
 Initium sumimus ab expositione valde concisa evolutionis historicae problematum, quae respiciunt cognitionem geometricam, inde a :person:`Platone <plato>` et :person:`Aristotele <aristotle>`. In iis quae sequuntur non praesupponemus doctrinam :person:`Aristotelis <aristotle>` (et scholasticorum), tantum interrogabimus, utrum in illa inveniantur data, quae solutionem problematum noeticorum, etiam problematum modernorum, contineant. Ne excludere quidem volumus interpretationem quorundam textuum :person:`Aristotelis <aristotle>`, quae a nostra differt. Sed nobis persuasum est, nos in :person:`Aristotele <aristotle>` invenisse lumina pro studio problematum modernorum, et vice versa, in hisce media ad interpretandum :person:`Aristotelem <aristotle>`.
 
 .. _caput-1-la-s1:
@@ -20,6 +27,9 @@ Initium sumimus ab expositione valde concisa evolutionis historicae problematum,
 --------------------------------------------------------
 
 Epistemologia generalis :person:`Aristotelis <aristotle>` praesertim in eius *Analyticis* exponitur, et pro nostra materia speciali, praesertim in *Analyticis Posterioribus*. Haec principaliter agunt de « scientia » sensu stricto (:term:`ἐπιστήμη <episteme>`) quae construit demonstrationes apodicticas, quae contradistinguitur ab « intellectu » sensu proprio (:term:`νοῦς <nous>`) qui *principia prima*, ex quibus demonstrationes initium sumunt, spectat. *Analytica Priora* student mediis demonstrationis i. e. syllogismis secundum eorum *formam* tantum ; talis syllogismus, etiam « validus », construi potest ex praemissis, quae nec certae nec verae sunt. *Analytica Posteriora* ut objectum habent *demonstrationem* stricte dictam, cuius praemissae sunt verae, certae, necessariae, i. e. syllogismum, qui producit scientiam stricte dictam. In hoc non tantum forma, sed etiam *materia*, contentum, consideranda sunt. Ecce paraphrasim commentarii :person:`S. Thomae <aquinas>` (:cite:`*Anal. Post.* I lect. 6 <aquinas:anal-post:I.6>`) exponentis has differentias.
+
+.. folio:: 0010
+   :page: 10
 
 :person:`Aristoteles <aristotle>`, in suis inquisitionibus, probat, in demonstratione, analysim (resolutionem) quae examinat praemissas conclusionis, non posse protrahi in infinitum, et demonstrationem stricte circularem etiam esse invalidam. Analysis igitur invenire debet propositiones primitivas, prima principia, axiomata, postulata, hypotheses. Id dicitur de propositionibus in quantum sunt elementa syllogismorum.
 
@@ -33,6 +43,9 @@ Unde duplex problema in his libris consideratur : 1º problema structurae scient
 
 Clarum esse videtur haec omnia non in abstracto considerari i. e. ita ut nulla scientia *specialis* examinetur et quidem id praesertim valere in secundo problemate, quippe quod in primis *materiam* propositionum considerandam habeat, « quia sumuntur propositiones per se et necessariae ».
 
+.. folio:: 0011
+   :page: 11
+
 Unde :person:`Aristoteles <aristotle>` in his inquisitionibus fere semper ante oculos habet tanquam typum scientiae : geometriam ; tum ubi in genere de scientia demonstrativa agit, tum, ut per se patet, in permultis casibus in quibus exempla ex geometria desumit. :person:`S. Thomas <aquinas>` id iam in initio sui commentarii animadvertit ; ait (:cite:`*Anal. Post.* I lect, 1 n. 10 <aquinas:anal-post:I.1.10>`) :
 
    « Manifestat [:person:`Aristoteles <aristotle>`] propositionem praemissam per inductionem. Et primo in demonstrativis in quibus acquiritur scientia. In his autem principaliores sunt mathematicae scientiae, propter certissimum modum demonstrationis ».
@@ -43,11 +56,17 @@ Ipsi ergo geometrae, in constitutione suae scientiae, resolutionem usque ad prim
 
 Haec doctrina magis evoluta, ut videtur, apud :person:`Aristotelem <aristotle>` redit. Distinguit (:cite:`*Anal. Post.* I cap. 2 <aristotle:anal-post:I.2>`) inter propositiones, quae sunt principia scientiarum, illas quae sunt :term:`ἀξιώματα <axioma>` (communes animi conceptiones, dignitates) ab eis quae sunt sive :term:`ὑποθέσεις <hypothesis>` (suppositiones) sive :term:`αἰτήματα <aitema>` (petitiones, postulata). Differentia brevi ita describi potest : :term:`ἀξίωμα <axioma>` est cuilibet evidens ; non ita aliae illae propositiones. Principium scientiae specialis, si cum opinione discentis congruit, erit *suppositio*, si non, erit *postulatum* [#f1]_. Etiam :person:`Plato <plato>` iam dixerat de :term:`ὁμολογία <homologia>` quae est inter docentem et discentem (:cite:`*Rep.* VII 533 c <plato:rep:VII.533c>`). Sed omnia haec principia a geometra accipienda sunt ab alia scientia, altiori, sive in ea probantur per demonstrationem stricte dictam, sive per considerationem terminorum. Haec alia scientia, quae loco dialecticae platonicae assumitur et a qua scientia specialis talia principia accipit, iuxta :person:`S. Thomam <aquinas>` est sive metaphysica (:cite:`*Anal. Post.* I lect. 5 n. 7 <aquinas:anal-post:I.5.7>` ; :cite:`lect. 17 n. 4 <aquinas:anal-post:I.17.4>`) sive « naturalis » (:cite:`*ibid.* lect. 5 n. 7 <aquinas:anal-post:I.5.7>`) ; sed semper est philosophia.
 
+.. folio:: 0012
+   :page: 12
+
 Clarum est, in philosophia peripatetica munus *philosophi* esse, determinare de primis principiis geometriae, idque clarius etiam erit ex capitibus sequentibus ; sive id munus metaphysicae tribuas sive philosophiae naturali sive parti philosophiae ab his distinctae, quam theoriam cognitionis sive noeticam vocare poteris.
 
 Resolutio propositionum geometricarum ducit igitur ad quasdam primas propositiones et, in ipsa hac resolutione facienda, omnia fere ipsis mathematicis relinquenda erunt ; tantum generalia, quae structuram, ut dicebamus, scientiae generalem respiciunt, philosopho etiam consideranda erunt ; sed etiam activitas mentis humanae in singulis operationibus, quae scientiam constituunt ; nam haec sine ullo dubio ad epistemologum pertinent. Sed in examinando valore principiorum principale munus philosophis incumbit. Id exequi possumus ob duplicem finem. Prior est hic, ut revera *omnia* fundamenta, ut aiunt, scientiae geometricae *completae* iustificari probentur, ita ut revera pateat integram scientiam geometricam super haec fundamenta tuto construi posse ; in hanc plenitudinem in nostris lectionibus non tendemus, quamquam principales quaestiones tractabimus.
 
 Sed est et alter finis huius inquisitionis philosophicae : inveniemus conclusiones (et forte methodos) quae valorem magnum habebunt pro *theoria* cognitionis *generali*. Unum nunc afferimus, cetera in decursu operis visuri. Haec theoria sane construi non potest quin *iudicium* mentis humanae examinetur, relate ad suum sensum, suam originem, suum valorem. Ut autem ipsum iudicium diiudicemus non sufficit, ut definitionem quandam generalem iudicii praemittamus et eam resolvamus ; sed revera quaedam iudicia determinata elicienda sunt — oriri ergo debent in mente nostra — et haec iudicia quoad originem et valorem considerentur oportet [#f2]_. Sicut ipsa haec iudicia necessaria et universalia in casibus concretis intuitu mentis inspicimus — exempla abundabunt in decursu expositionis — ita theoria universalis ipsius iudicii elucescit ex aptis iudiciis determinatis, quae tunc iam non solum considerantur ut iudicia talis scientiae specialis sed ut specimina ipsius iudicii ut talis, quae naturam huius operationis mentis humanae ipsi menti revelant. Talia specimina optima praebebit examen principiorum mathematicorum, siquidem verum est id quod :person:`S. Thomam <aquinas>` audiebamus dicentem hanc scientiam habere modum certissimum *demonstrationis*. Nam demonstratio non tantum complectitur rectitudinem formae, sed etiam et praesertim necessitatem cognitam materiae, inde necessitatem principiorum. Unde philosophum qui in theoriam cognitionis incumbit haec principia negligere nefas est.
+
+.. folio:: 0013
+   :page: 13
 
 .. _caput-1-la-s2:
 
@@ -58,11 +77,17 @@ Haec omnia nostro tempore magis quam antea urgenda sunt. Ad id intelligendum his
 
 Usque ad medium fere saeculum praecedens, communis opinio tum philosophorum tum mathematicorum — tum humani generis integri — haec erat : cognitionem mathematicam ultimatim hauriri ex datis sensibilitatis, sive ex sensibus externis sive ex imaginatione. In explicatione ulteriori utique erat diversitas sententiarum. Pro :person:`Platone <plato>`, propter imperfectionem sensibilitatis, data sensuum non erant nisi occasio vel praeparatio requisita ad hoc ut mens sibi reminisceret ea quae antea intuitu mentali viderat (Vide :cite:`*Meno* 82b-85b <plato:meno:82b-85b>` et alibi). Et ipsae formae mathematicae, ut videtur, nec poterant in sensibilibus nonnisi imperfecte participari. Aristoteles tenebat « mathematica » (:term:`τὰ ἐξ ἀφαιρέσεως <ta-ex-aphaireseos>`) haberi per abstractionem a datis sensitivis, tum quoad notiones tum quoad prima principia, quae et ipsa per inductionem quandam cognosci dicuntur [#f3]_. Non utique ita, ut iudicium mentis tantum redderet ea quae sensus referunt, sed, sicut in abstractione idearum ex datis sensitivis habetur operatio intellectus agentis, ita quoque in origine eorum iudiciorum, quae sunt principia prima, habetur similis operatio, quae sensum transcendit et naturam attingit ; in datis imaginationis ipsa mens vero intuitu mentali naturas inspicit (:cite:`*Anal. Post.* I 12, 77 b 30 <aristotle:anal-post:I.12.77b30>`) : ταῦτα (i. e. mathematica) δ' ἐστὶν οἷον ὁρᾶν τῇ :term:`νοήσει <noesis>`. Cfr. :cite:`*De An.* III 8, 432 a 5-9 <aristotle:de-anima:III.8.432a5-9>` (:cite:`S. Thomas lect. 13 ; Pirotta n. 791 <aquinas:de-anima:III.13.791>`), :cite:`*ibid.* III 7, 431a 14-16 ; 431 b 2 <aristotle:de-anima:III.7.431a14-b2>` (:cite:`S. Thomas lect. 12 ; Pirotta n. 770-772, n. 777 <aquinas:de-anima:III.12.770-777>`).
 
+.. folio:: 0014
+   :page: 14
+
 A :person:`Kantio <kant>` ad explicationem necessitatis cognitionis geometricae fingitur forma subiectiva sensibilitatis externae. De hac sententia postea plura dicemus, nunc sufficiat notasse, etiam in hac sententia admitti intuitum (non utique intellectivum) per phantasma, qui originem cognitionis geometricae explicare debet.
 
 Hae igitur scholae conveniunt in admittenda *necessitate* et *exactitudine* cognitionis mathematicae. In saeculo praecedente empirismus, praesertim uti exponitur a :person:`Stuart Mill <mill>`, originem cognitionis mathematicae ex datis sensuum omnino admittit, sed ideo eam omnino aequiparat cognitioni physicae, ita ut et necessitatem apodicticam et exactitudinem omnimodam, quas genus humanum cognitioni mathematicae semper tribuerat, denegaret.
 
 Hanc theoriam empiristicam postea brevi negotio tanquam ineptam expedire poterimus ; bene tamen duo problemata indicat, quorum solutionem epistemologus invenire debebit, si cognitioni mathematicae *necessitatem* et *exactitudinem* vindicare voluerit. Id hodie valde urget, non propter theoriam illam empiristicam, sed propter modernas theorias, quae ex his difficultatibus originem habent. Hae enim theoriae theorias classicas ex integro rejiciunt et eo ipso convictionem saecularem, quam genus humanum de valore scientiae geometricae habebat, penitus evertunt. Urget igitur sine ullo dubio officium examinandi haec problemata.
+
+.. folio:: 0015
+   :page: 15
 
 .. _caput-1-la-s3:
 
@@ -75,6 +100,9 @@ Hoc problema invenitur, uti dictum est, tum in geometria tum in arithmetica. Sed
 
 Non omnes alterum hoc problema bene describunt ; :person:`Kant <kant>` videtur omnino non ad id attendisse ; in problematica moderna primas habet partes, quamquam, uti videbimus, non omnes in omni problemate id clare exprimere potuerunt.
 
+.. folio:: 0016
+   :page: 16
+
 Modernae igitur theoriae ex difficultatibus alterius praesertim problematis proveniunt ; de problemate necessitatis — excepto unico casu de quo postea — parum loquuntur ; videtur id tanquam solutum considerari ex eo quod mathematicam « puram » describunt ut « creationem » puram mentis humanae ; in qua opinione dein etiam problema exactitudinis videtur disparere. Sed tunc surgunt, ut clarum est, aliae quaestiones : quaestio de sensu reali talis doctrinae, a mente humana creatae, quaestio de eius applicabilitate ad mundum realem, ad quem tamen applicant hanc doctrinam. Nec mirum est in hac quaestione interdum redire crudam sententiam empirismi. Ita :person:`Einstein <einstein>` :
 
    « Quomodo fieri potest ut mathematica, quae tamen est producta a mente humana independenter ab omni experientia, tam perfecte applicari possit ad realitatem ? Potestne igitur intellectus humanus sine experientia per puram cogitationem suam attingere proprietates rerum realium ?
@@ -82,6 +110,9 @@ Modernae igitur theoriae ex difficultatibus alterius praesertim problematis prov
    Ad hanc interrogationem mea sententia breviter respondendum est in quantum theses mathematicae referuntur ad realitatem, non sunt certae ; in quantum certae sunt, non respiciunt realitatem » [#f4]_.
 
 Tales sententias, etiamsi abstrahas ab exaggeratione pure rhetorica, exigere novum examen fundamentorum mathematicae, clarum est. Praesupponunt longiorem evolutionem doctrinarum, quae intuitioni imaginativae continui, ex qua tamen oritur cognitio geometrica, fidem plus minusve denegant, immo eam ut in errores ducentem describunt.
+
+.. folio:: 0017
+   :page: 17
 
 Haec evolutio moderna secundum duplicem praesertim viam progressa est ; et utraque respicit problema transitus ex inexactitudine sensationis ad exactitudinem intellectus mathematici. Prior via ducit ad arithmetizationem continui, quae dicitur, altera ad doctrinas, quae ex critica postulati V :person:`Euclidis <euclid>` ortum habent. Videamus breviter hanc evolutionem [#f5]_.
 
@@ -98,6 +129,9 @@ Sed etiam iam detexerunt dari lineas (v. g. latus et diagonalem quadrati) quae n
 
 Moderniores, certe inde a :person:`Cartesio <descartes>`, has proportiones omnes ut numeros considerabant et, sicut Graeci habebant « continuum proportionum » quod est « :term:`insieme <insieme>` » omnium proportionum in continuo, ita moderni habent continuum numerorum, « :term:`insieme <insieme>` » « numerorum realium », quod continet non tantum integros, sed etiam numeros fractionales, etiam numeros irrationales (tum algebraicos tum transcendentes). Ope horum numerorum poterat constitui « analysis » moderna, quae, per *calculum* infinitesimalem, continuum, etiam mutationes continuas, *calculo* subiicere potest. Sed hi numeri, haec analysis ex continuo intuitivo deducebatur ; hi numeri non sunt nisi aliud *nomen* pro proportionibus Graecorum.
 
+.. folio:: 0018
+   :page: 18
+
 In hoc puncto in decursu saeculi praecedentis difficultates movebantur ; continuum intuitivum, propter defectum *exactitudinis* perceptionis sensitivae, non videbatur esse medium aptum ex quo corpus numerorum realium deduceretur ; unde hoc alio modo, ex pura intuitione arithmetica seriei numerorum integrorum (1, 2, 3 ... in infinitum), quae defectu inexactitudinis non laborat, deducere conati sunt.
 
 Pauci exacte describunt hanc difficultatem ; ecce duo nomina celeberrima virorum doctorum, qui omni claritate loquuntur.
@@ -109,6 +143,9 @@ Pauci exacte describunt hanc difficultatem ; ecce duo nomina celeberrima virorum
 In definitione autem arithmetica numeri realis (v. g. ope fractionis decimalis) non datur tale limen :
 
    « In regione ideali Arithmeticae non datur valor liminaris finitus, sicut in regione empirica, sed exactitudo, qua numeri definiuntur vel saltem ut definiti considerantur, est illimitata » [#f8]_.
+
+.. folio:: 0019
+   :page: 19
 
 Difficultatem quamdam, quam habemus, omittimus sicut etiam modum quo dein pergit in constructione analysis (et geometriae abstractae « precisae », « :term:`Praezisionsmathemathik <praezisionsmathematik>` »).
 
@@ -122,6 +159,9 @@ Audiamus etiam verba :person:`H. Poincaré <poincare>` :
 
 In his omnibus :person:`Poincaré <poincare>` negligere videtur nostram intuitionem *intellectivam* extensionis continuae ; neque solus est inter mathematicos, qui hoc facit. Addendum tamen est eum alibi non omni ex parte respuere intuitionem nostram geometricam in scientia rigorosa, ubi erit intuitus intellectivus. In :cite:`*Dernières Pensées* <poincare:dernieres-pensees>` carpit definitionem quandam topologicam dicendo « hanc definitionem parvi pendere originem intuitivam notionis continui, et omnes divitias quae in hac notione continentur. Pertinet ad typum harum definitionum, quae tam frequenter occurrunt in mathesi, postquam hanc scientiam ” arithmetizare ” conati sunt. Illae definitiones irreprehensibiles sub respectu mathematico, ut dicebamus, non possunt satisfacere philosopho » [#f11]_.
 
+.. folio:: 0020
+   :page: 20
+
 Quia negligunt originem intuitivam notionis continui, et consequenter eius « divitias », ideo deficiunt sub respectu philosophico ; nos statim addemus : et applicationem analyseos ita constitutae ad extensa realia, difficilem reddunt, ne dicamus impossibilem. Sed attendamus etiam ad id quod :person:`Poincaré <poincare>` dein addit : « non volo dicere, hanc arithmetizationem esse quid mali, dico eam non esse totum » [#f12]_. Erit utilissima, sed quia non est totum, non erit mirum si interdum deficiat, et tunc, si ut « totum » consideratur, ad errores ducere poterit.
 
 Analysis ergo, quia pure arithmetice inde a serie numerorum integrorum construitur, iam non dependet, ut antea, ab intuitione continui, sed vice versa adhibetur ad construendam geometriam quandam « abstractam ». Et hoc ideo, ut audiebamus, quia intuitioni continui, propter inexactitudinem datorum sensitivorum, fidem denegant. Immo putant sese habere quaedam exempla (postea ea examinabimus) quae ex analysi deducuntur et intuitioni imaginativae positive contradicere dicuntur.
@@ -132,6 +172,9 @@ Haec si vera sunt, constituunt pro philosopho problema gravissimum : unde fieri 
 
    « Decisiva ad diiudicandum statum rerum nobis videtur esse circumstantia, quod geometriam ab analysi revera independentem, *quam ideale antiquum proprie postularet*, somnium esse patet » [#f13]_.
 
+.. folio:: 0021
+   :page: 21
+
 Sed gravior etiam fit difficultas, si examen ulterius docet geometriam hanc classicam nec ex analysi et dependenter ab illa construi posse. Nam in tali casu mathematici maximi ingenii usque ad medium saeculum praecedens non tantum in methodo, sed etiam in iis quae se invenisse putabant, errassent.
 
 Et revera, in casu quem supponimus, res ita sese habere videtur. Utique, si agitur de applicatione approximativa (:term:`Approximationsmathematik <approximationsmathematik>` iuxta :person:`F. Klein <klein>`) non est magna difficultas ; nam haec tantum agit de rebus extensis experimentalibus, *prout* a sensibus ope perceptionis sensitivae inexactae cognoscuntur. Sed si agitur de proprietatibus extensionis *abstractae*, extensi ut extensi, de quibus geometria classica arguebat, haec non poterit, ut nobis videtur, deduci ex analysi, *quin in ipsa hac applicatione omnes difficultates eaedem iterum appareant*. Et ita nihil profecimus.
@@ -139,6 +182,9 @@ Et revera, in casu quem supponimus, res ita sese habere videtur. Utique, si agit
 Si id verum est, nonne debemus affirmare, intellectum humanum nec hanc extensionem perfecte cognoscere, id quod genus humanum hucusque semper credidit ? Quid in specie dicendum de theoria cognitionis Aristotelicae, quae firmiter putabat, hanc scientiam ex datis sensitivis oriri ?
 
 Accedit aliud quid. Paulo post initium huius saeculi in ipsa hac superba analysi arithmetica difficultates ortae sunt, quae secundum quosdam (ita :person:`Weyl <weyl>`, :person:`Brouwer <brouwer>` et alii) ad veri nominis « crisin » in mathematica ducunt. Et est unus vel alter (v. g. cl. :person:`O. Hölder <hoelder>`) qui putet difficultates solvi non posse nisi per reditum ad considerationem continui intuitivi ; id quod nobis verum esse videtur. Eo magis urget munus inquirendi in modum superandi inexactitudinem datorum sensitivorum ; id quod in sequentibus facere conabimur.
+
+.. folio:: 0022
+   :page: 22
 
 .. _caput-1-la-s5:
 
@@ -153,6 +199,9 @@ Prima facie geometriae necessitas denegari videtur ; et revera sunt quidam, qui 
 
 Manet tamen aliud problema gravissimum : genus humanum integrum et omnes mathematici, etiam ii qui de postulato V non erant contenti, geometriam Euclidicam ut *unicam* necessariam agnoscebant ; si est error, quomodo explicandus ; si non est error, quid de severa critica moderna dicendum ? Clarum est : iterum agitur de problemate gravi, quod in theoria generali cognitionis momentum habet. Nonne :person:`Aristoteles <aristotle>` et :person:`S. Thomas <aquinas>`, quando thesin absolute certam tanquam exemplum proponere volunt, eligunt theoremata ex geometria Euclidica ?
 
+.. folio:: 0023
+   :page: 23
+
 .. _caput-1-la-s6:
 
 § 6. DE AXIOMATICA QUAE DICITUR.
@@ -161,6 +210,9 @@ Manet tamen aliud problema gravissimum : genus humanum integrum et omnes mathema
 Ex hac critica sese evolvit integra scientia, pars « logicae iudicativae », quam *Axiomaticam* vocant. Supra sermo erat de intrinseca necessitate et immunitate a contradictione intrinseca, quae singulis systematibus geometricis, etiam non-Euclidicis, competit. Ut de his proprietatibus constet, revera *prima* principia talis scientiae debent enuntiari, singula et omnia. Hoc facto, unum systema v. g. geometria Euclidica enuntiari potest ut ingens propositio conditionalis. Indicemus principia litteris *A*, *B* ... et *F*, dein conclusiones litteris *P*, *Q*, *R* ... Integra geometria nunc ita enuntiari potest : Si *A* et *B* ... et *F*, tunc *P* et *Q* et *R* et ... Haec propositio, ut vere conditionalis, enuntiat intrinsecam necessitatem. Et haec scientia erit : *hypothetico-deductiva*. Multi axiomatici volunt geometriam puram non esse nisi tale systema hypothetico-deductivum. Hypothesis fundamentalis i. e. series axiomatum *A*, *B* ... *F*, non amplius relate ad valorem realem propositionum examinatur ; immo secundum axiomaticos extremos, ne relate ad earum sensum quidem. Notissima sunt verba quibus cl. :person:`Hilbert <hilbert>` in capite primo libri :cite:`*Die Grundlagen der Geometrie* <hilbert:grundlagen:1930>` expositionem incipit :
 
    « Cogitamus tria diversa systemata rerum : res p r i m i systematis vocamus *puncta* easque indicamus litteris *A*, *B*, *C*, ... ; res s e c u n d i systematis vocamus (lineas) *rectas* easque indicamus litteris *a*, *b*, *c*, ... ; res t e r t i i systematis vocamus (superficies) *planas* easque indicamus litteris α, β, γ, » [#f14]_.
+
+.. folio:: 0024
+   :page: 24
 
 Igitur nec valor nec sensus importat sed tantum requirunt ut ex hypothesi praemissa, secundum puram logicam formalem per syllogismos rectos deductio fiat.
 
@@ -173,6 +225,9 @@ Haec positio ducit tum ad problemata tum ad resultata pretiosa. Primum problema 
 Sed axiomatica etiam resultata pretiosa invenit. Ecce : ut iam dictum est, incipit a systemate « axiomatum » de quorum evidentia nihil supponit et ideo sine ullo dubio statui posset systema ex quo cito vel post longiorem deductionem contradictio sequeretur. Ut deductio tuta sit requiritur igitur ut hoc praecaveatur. Et inquisierunt atque invenerunt methodos demonstrandi, systema determinatum esse immune a contradictione etiam in conclusionibus futuris. Tales methodi, interdum ingeniosissimae, absque dubio sunt evolutio pretiosa logicae.
 
 Insuper hae methodi permittunt inquisitiones in particularitates structurae scientiae, sicut :person:`Aristoteles <aristotle>` in *Analyticis Posterioribus* quoad structuram generalem fecit. Non omnes conclusiones exigunt ad suam deductionem integram seriem axiomatum ; et determinari potuit in diversis casibus, quomodo systema axiomatum in diversas partes distingui possit, quae in diversas partes scientiae influunt. Ita structura scientiae magis distincte cognosci potest. Habemus ulteriorem evolutionem doctrinae :person:`Aristotelis <aristotle>`. Cum hac quaestione et cum problemate non-contradictionis cohaerent methodi inquirendi in veram *independentiam* mutuam axiomatum, quae proponuntur ; et hae quoque lucrum pro « logica iudicativa » afferunt.
+
+.. folio:: 0025
+   :page: 25
 
 Et integra haec methodus probandi non-contradictionem videtur ducere ad problema quod cum ontologia cohaeret, cum theoria scilicet possibilium. Tanquam possibilia describuntur : obiecta quorum notae nullam ad invicem contradictionem comportent. Potestne haec theoria applicari ad systemata quae secundum axiomaticam sunt immunia a contradictione e. g. ad geometriam non-Euclidicam ? Et in genere ad problema « existentiae mathematicae » de qua etiam :person:`Aristoteles <aristotle>` et :person:`S. Thomas <aquinas>` theoriam, adhuc evolvendam, habent ?
 

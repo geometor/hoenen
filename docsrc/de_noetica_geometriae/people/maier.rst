@@ -4,6 +4,8 @@
 :death_label: 1971
 :lifespan: 1905 – 1971
 :excerpt: Role: German Historian of Late Medieval Science & Philosophy*
+:folio: 0286
+:page: 286
 
 .. _person-maier:
 

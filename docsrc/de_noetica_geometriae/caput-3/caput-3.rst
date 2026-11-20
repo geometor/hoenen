@@ -1,4 +1,8 @@
 :layout: book
+:title: Caput III: De Problemate Exactitudinis — Pars I
+:lang: la
+:folio: 0065
+:page: 65
 
 .. _caput-3-la:
 
@@ -11,6 +15,9 @@ CAPUT III
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0065
+   :page: 65
 
 Iam agendum erit de altero problemate, quod solvendum inveniebamus, de problemate scilicet exactitudinis, per quod geometria ab initiis arithmeticae, in qua exactitudo non constituit enigma, differt. Non omnia quae in hoc problemate involvuntur, idem medium solutionis postulant, ut ex ipsa nostra expositione patebit. Quaedam enim sunt, quorum solutio exigit considerationem extensi tanquam « :term:`principii individuationis <principium-individuationis>` » quaedam ab hoc medio non dependent. De his ultimis in hoc capite sermo erit ; alias quaestiones, illas quae a consideratione :term:`principii individuationis <principium-individuationis>` dependent, in capite sequente exponemus.
 
@@ -25,6 +32,9 @@ Iam agendum erit de altero problemate, quod solvendum inveniebamus, de problemat
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Recolamus ex praecedentibus, problema exactitudinis in hoc consistere : Ea quae geometria contendit de suis obiectis : punctis, lineis, superficiebus, de eorum relationibus mutuis, de formis figurarum v. g. de rectitudine lineae, de aequalitate vel proportionibus figurarum : ea omnia considerantur tanquam absolute exacta. Data autem sensitiva, a quibus geometria classica suam originem deducit, non habent hanc exactitudinem. Nec sensus nec imaginatio possunt percipere puncta et lineas, sed tantum corpora extensa secundum tres (saltem secundum duas) dimensiones. Non possunt distinguere lineas, tenuiter incurvatas, a rectis ; consequenter nunquam possunt decidere, lineam datam esse rectam. Aequalitatem inter duas lineas vel superficies *fere* poterunt percipere, sed *non exacte* ; idem dicendum de proportionibus. Ea quae valde distant percipi non possunt, et tamen geometria agit de extensis quae in infinitum extenduntur.
+
+.. folio:: 0066
+   :page: 66
 
 Si igitur geometria in origine sua dependet a datis sensitivis, quomodo potest hic transitus ad exactitudinem perfectam explicari ; vel estne forte illusio tantum ?
 
@@ -48,6 +58,9 @@ A) *Philosophi.*
 
 Principale, ad quod nunc attendendum, non est consequens huius conditionalis, scil. quod ad *scientiam* (propter necessitatem et universalitatem huius propositionis de triangulo) requireretur demonstratio ; sed potius ad hoc attendamus : :person:`Aristoteles <aristotle>` optime indicat diversitatem quae est inter data sensitiva, quae nunquam exacte indicant summam angulorum, et veritatem geometricam, intellectui manifestam. Et :person:`S. Thomas <aquinas>` in suo commentario (:cite:`lect. 42 n. 7 <aquinas:anal-post:I.42.7>`) etiam hoc optime exponit ubi addit : hoc esse « exemplum de his quae sensu percipi non possunt ». Perfecta enim aequalitas inter summam angulorum trianguli et duas rectas nullo sensu percipi, nulla methodo experimentali attingi potest.
 
+.. folio:: 0067
+   :page: 67
+
 Inde haec propositio de summa angulorum trianguli nunquam poterit esse principium *primum* intuitivum ; in hoc casu transitus *directus* a datis sensitivis ad affirmationem exactam intellectus, nunquam poterit iustificari (non tantum quia nexum necessarium pro omnibus triangulis hic non directe intuemur sed etiam) quia exactitudo iudicii hic non iustificaretur. Si transitus ad exactitudinem est possibilis, ex aliis datis inveniendus erit ; et problema est: num dantur talia.
 
 In antiquitate :person:`Proclus <proclus>` saepius urget inexactitudinem datorum sensitivorum ; immo pro eo est ratio, ut in hac materia theoriam abstractionis :person:`Aristotelis <aristotle>` reiiciat et potius positioni :person:`Platonis <plato>` adhaereat. Putat enim, primo quidem in theoria :person:`Aristotelis <aristotle>` non posse reddi rationem certitudinis apodicticae geometricae (:cite:`*In Euclid. Elem.* ed. Friedlein 12, 14 ; 49, 17 sqq. 140, 4 <proclus:in-euclid:12.14>`) in quo errat, ut vidimus in capite primo ; sed praesertim putat problema exactitudinis ita non posse solvi (:cite:`ibid. 12, 14-22 ; 49, 12-17 ; 139, 26-140, 7 etc. <proclus:in-euclid:12.14-22>`) ; unde quamquam theoriam materiae intelligibilis admittit, eam modo Platonico explicat [#f2]_.
@@ -64,6 +77,9 @@ Secundum quodvis criterium possibilitatis, quod habemus, nec possibiles sunt. No
 
    « Puncta, lineae, circuli, et quadrata, quae quis in mente habet, sunt (ita id concipio) simplices imagines punctorum, linearum, circulorum, et quadratorum, quae in experientia sua novit. Ideam nostram puncti concipio esse simpliciter ideam nostram :term:`*minimi visibilis* <minimum-visibile>`, minimam partem superficiei quam videre possumus. Linea, ut definitur a geometris, omnino non potest concipi » [#f3]_.
 
+.. folio:: 0068
+   :page: 68
+
 Et eius conclusio est :
 
    « Exactitudo peculiaris, quae supponitur esse characteristica primorum principiorum geometriae, ita apparet esse fictitia » [#f4]_.
@@ -77,6 +93,9 @@ B) *Mathematici.*
 
 In critica mathematica moderna, mathematici non solent multum immorari in problemate necessitatis ; sed omnem attentionem impendunt in examinanda quaestione exactitudinis et in suo examine ad hanc conclusionem pervenire videntur, transitum ex datis geometricis sensitivis inexactis ad geometriam classicam exactam illegitimum esse. Ideo analysin modo pure arithmetico construere conantur. Utrum, hac analysi constructa, dein eius *applicatio* ad entia extensa, geometriae classicae aequivalens, possibilis sit, erit novum problema.
 
+.. folio:: 0069
+   :page: 69
+
 Non solent considerare problema necessitatis. In arithmeticis necessitatem sine analysi admittunt, sequentes intuitionem naturalem mentis humanae, quae sine dubio tam clara est, ut sine haesitatione admitti possit. Inde : problema ibi latens detegere et dein id solvere, est aliquid pure philosophici ; mathematici suo iure id omittunt ; iam supra audiebamus :person:`Poincaré <poincare>` exclamantem : « quis dubitabit de Arithmetica ? ». Et quod non idem de geometria affirmatur, unice provenit ex problemate exactitudinis, non ex problemate necessitatis : « intuitio non potest dare exactitudinem (la :term:`rigueur <rigueur>`) » idem :person:`Poincaré <poincare>` dicebat de intuitione geometrica.
 
 In unico tamen casu, scilicet ubi agitur de critica postulati V. :person:`Euclidis <euclid>`, ex qua geometriae non-Euclidicae proveniebant, quidam necessitatem in geometria deesse dicere videntur, eo quod geometria Euclidica iam non unice possibilis, ideoque necessaria, esse dicitur ; sed si res bene examinatur, non volunt dicere nisi quod geometria classica non omnes casus praeviderat ; sed in singulis casibus adest necessitas. Qui dein geometriam, applicatam ad corpora quae sunt in rerum natura, omnino aequiparant scientiae physicae, differentiam enormem, quae, iuxta exposita in capite primo, inter utramque scientiam relate ad necessitatem adest, his verbis quidem *negant*, sed reipsa eadem potius *negligunt*.
@@ -85,11 +104,17 @@ Mathematici igitur non solent considerare problema necessitatis, sed eo maiores 
 
 Exacte, sed breviter, id iam in capite primo descriptum audiebamus a :person:`Klein <klein>` et :person:`Poincaré <poincare>` ; ibi quoque sermo erat de sententia cl. :person:`Study <study>`, qui reconstructionem geometriae classicae, independentem ab analysi moderna, « somnium » (eine Utopie) vocabat. Idem auctor, in eodem libro [#f5]_ clare proponit problema, sed id solvere nequit, nisi considerando geometriam tanquam complexum hypothesium, quarum applicabilitas ad mundum realem examinanda est, omnino eodem modo ac physici id faciunt relate ad suas hypotheses. Tandem aliquando, ita faciendo problema insolubile esse declarat.
 
+.. folio:: 0070
+   :page: 70
+
 Nemo forte uberius et magis in specie problema exposuit quam cl. :person:`J. Wellstein <wellstein>` in opere : :cite:`Weber-Wellstein *Enzyklopaedie der Elementar-Mathematik* II (3 ed. 1925) <weber-wellstein:enzyklopaedie:II>`. Eius difficultates in punctis specialibus etiam exponemus ; nunc obiectionem generalem audiamus bene expositam. Postquam enarravit, criticam modernam fundamentorum geometriae in saeculo XVIII et XIX ex consideratione postulati V :person:`Euclidis <euclid>` originem habere, ita pergit :
 
    « Evolutio theoriae modernae functionum demonstravit, criticam fundamentorum debuisse incipere, non a postulato V, sed immediate a prima definitione [:person:`Euclidis <euclid>`] : :term:`σημεῖόν <semeion>` ἐστιν οὗ μέρος οὐθέν » [#f6]_.
 
 His verbis problema exactitudinis clare ponitur ; nam haec theoria moderna functionum in hoc praecise puncto opponitur theoriae praecedenti. Analysis enim antiquior, ut in introductione iam dictum est, « continuum numerorum realium », quo analysis indiget, ex consideratione continui geometrici deducebat ; in hac theoria singulis punctis geometricis lineae (de quarum existentia geometrice constabat) singuli numeri reales correspondebant ; numeri per « coordinatas » punctorum i. e. per eorum distantias (i. e. proportiones distantiarum ad unitatem longitudinis) ab origine lineae definiebantur. Moderna analysis hoc continuum numerorum realium independenter ab intuitione (sensitiva) continui geometrici constituere volebat, propter inexactitudinem intuitionis sensitivae ; et ideo incipit a serie numerorum integrorum, quae etiam sensitive exacta est ; et ex his pure arithmetice, ut putat, numeros reales construit. Haec igitur inexactitudo intuitionis sensitivae iam primam notionem, quae ab :person:`Euclide <euclid>` describitur, notionem puncti, labefactare videtur ; iam agitur de ipsa existentia mathematica puncti, de realitate notionis, quae puncto omnes partes denegat et ei situm tribuit. Dein eadem inexactitudo omnes alias notiones geometricas inficere dicitur.
+
+.. folio:: 0071
+   :page: 71
 
 .. _caput-3-la-s1-3:
 
@@ -105,6 +130,9 @@ In hoc ergo cedit prima quaestio : possuntne inveniri in ente extenso reali obie
 Clarum est problema involvere quaestiones de existentia tum notionum tum nexuum, quae iudiciis affirmantur. Ceterum praesertim notiones complexae iam praesupponunt iudicia de existentia nexuum inter notiones simplices.
 
 Haec igitur quaestio, pure mathematico-philosophica, cum alia quaestione connexa quidem est, tamen ab ea distincta, scil. quaestione utrum in hoc mundo, in hac rerum natura, existant illa obiecta exacta, utrum ibi de facto dentur lineae rectae, sphaerae perfectae, figurae congruentes ; et ita porro. De hac alia quaestione etiam saepius agemus.
+
+.. folio:: 0072
+   :page: 72
 
 .. _caput-3-la-s2:
 
@@ -122,6 +150,9 @@ Ipse (:cite:`op. cit. pagg. 9-11 <weber-wellstein:enzyklopaedie:II.p9-11>`) ita 
 
 Quoad notionem puncti :person:`Wellstein <wellstein>` ita procedit. Dicit eam notionem oriri per progressum ad limitem (:term:`Grenzprozesz <grenzprozess>`) i. e. per actum mentis, qui finem imponit seriei phantasmatum, in se illimitatae (« durch einen Geistesakt, der einer an sich unbegrenzten Reihe von Vorstellungen ein Ziel setzt » :cite:`pag. 9 <weber-wellstein:enzyklopaedie:II.p9>`). Incipimus v. g. ab intuitione (sensitiva) granuli arenae quod semper minus nobis imaginamur. Inde oritur, et quidem modo semper magis determinato, imaginatio loci (« Ort ») in spatio, qui nullam iam dimensionem habet. Sed, ait, hic processus in imaginatione cito finem habet, scil. quando minimum imaginabile adest ; inde ab hoc termino res nobis manet obscura ; videndo vel imaginando non possumus amplius processum diminutionis persequi (« von da an sind wir vollkommen im Dunkeln, und den Fortgang der Verkleinerung können wir weder sehen noch uns vorstellen »). Id optime dictum est. Sed pergit : hunc processum finem habere cogitari nequit (« dasz dieses Verfahren ein Ende erreicht ist undenkbar ») ; hic iam appellat, et optime facit (quamquam non logice in sua positione) ad intellectum et quidem exactum. Intelligimus enim ita processum diminutionis finem non habere, si fit *dividendo* extensum ; sed addendum est : si diminutio fit per *motum* continuum (motum diminutionis :person:`Aristotelis <aristotle>`) finem utique habebit. Attamen in utroque casu admittenda sunt ea quae, apud :person:`Wellstein <wellstein>`, sequuntur, scilicet : existere in hoc processu finem ultra quem pergere nequit et quem tamen non attingit (id in suppositione processus divisionis) debemus credere vel postulare (« dasz dagegen ein Ziel existiert, über das es nicht hinaus kann, ohne es je zu erreichen, müssen wir glauben oder postulieren »). Approbamus haec verba, etiam verba : « hunc finem, hunc limitem existere debemus credere vel postulare » sed addimus : si nihil aliud haberemus nisi methodum, quem :person:`Wellstein <wellstein>` describit, si aliunde existentiam limitis indivisibilis non intelligeremus. Sed aliunde habemus intuitum intellectivum huius limitis, ut statim videbimus.
 
+.. folio:: 0073
+   :page: 73
+
 Si autem, ita :person:`Wellstein <wellstein>` pergit post quasdam dilucidationes, postulare debemus tali modo existentiam puncti, id est pure actus voluntatis, non intellectus (« so musz man sich bewuszt bleiben, dasz das ein reiner Akt des Willens, nicht des Verstandes ist »).
 
 Et ex sua analysi concludit : ad primam definitionem :person:`Euclidis <euclid>` debere addi postulatum, quo petitur : *Existunt puncta* (« zu der ersten Definition gehörte also auf alle Fälle ein Postulat, dasz es überhaupt Punkte gibt » :cite:`ibid. <weber-wellstein:enzyklopaedie:II.p9>`). Si attendimus ad naturam postulati, ut hic describitur, ipsissima prima notio geometriae :person:`Euclidis <euclid>` esset proles actus voluntatis non intellectus, id quod ruinam geometriae, modo classicae interpretatae, secum ferret. Transitus intellectivus ex datis sensitivis inaccuratis ad notiones geometricas exactas iam inde a primo gressu declaratur impossibilis ; problema exactitudinis nostrum solutionem non habet.
@@ -129,6 +160,9 @@ Et ex sua analysi concludit : ad primam definitionem :person:`Euclidis <euclid>`
 Simili modo ac notio puncti apud :person:`Wellstein <wellstein>` derivatur a corpusculo parvo, granulo arenae, notiones lineae et superficiei deducuntur. Linea consideratur ut filum tenue, superficies ut folium tenue, quae in indefinitum tenuiora fiunt ; et limes huius processus erit linea geometrica resp. superficies geometrica. Et in his casibus eaedem difficultates inveniuntur.
 
 Revera, si ita tantum notiones exactae geometricae oriri possent, res decisa esset ; sed si aliunde existentia limitum indivisibilium intelligitur, hi processus ad limitem sunt omnino legitimi ; existentia eorum limitum iam non *postulanda* est ; obiecta harum notionum exactarum in ente extenso existere *intelligimus*. Hunc autem intellectum de facto habemus, ut ex sequentibus clare patebit.
+
+.. folio:: 0074
+   :page: 74
 
 .. _caput-3-la-s2-2:
 
@@ -150,6 +184,9 @@ A) *Superficies.*
 
 Hic igitur limes est superficies et describi potest : « id per quod fit transitus ab una parte in aliam » ; et tunc praecise sub respectu sub quo per id fit transitus, est indivisibilis. Et ita primum indivisibile, exacte indivisibile (prima notio exacta geometrica), invenimus intellective in phantasmate, in quo haec exactitudo deest et nunc cognoscitur deesse ; id invenimus eadem certitudine, qua in eodem phantasmate entis extensi legebamus *necessitatem* eius divisibilitatis. In eodem actu, si attendimus, tum necessitatem tum exactitudinem primi huius iudicii geometrici attingimus, quamquam nec necessitas nec exactitudo in cognitione sensitiva adest ; *sub utroque respectu* intellectus transcendit sensum. Utrumque inservire potest ad demonstrandam differentiam inter *phantasma*, quod nec necessitatem (sed factum tantum) nec exactitudinem in se continet, ex una parte, et *ideam* ex alia parte ; et differentia relate ad exactitudinem incipientibus est forte clarior quam relate ad necessitatem.
 
+.. folio:: 0075
+   :page: 75
+
 Existit ergo limes indivisibilis (indivisibilis sub respectu praeciso sub quo est « inter » partes : id per quod fit transitus) in ente extenso, primo dato, et oritur actu per eius divisionem.
 
 Hic autem limes est superficies, est id in quod (« contra quod ») inspicimus aspiciendo corpus limitatum [#f7]_. Non utique est semper superficies plana, immo nec polita, sed ut limes ubique est indivisibilis. Sed sub aliis respectibus (secundum latitudinem et longitudinem) clare sese nobis manifestat ut extensa, divisibilis ; secundum hos respectus est « iuxta » partes.
@@ -161,6 +198,9 @@ B) *Linea et punctum.*
 
 Relate ad hanc divisibilitatem superficiei similis consideratio, ac supra exposita est, hic repeti potest. Limes inter partes superficiei est iterum « id per quod fit transitus ab una parte superficiei in aliam » ; hic transitus fit iterum in indivisibili ; hic limes, indivisibilis ut est « inter » partes, est linea, sive curva sive alia. Linea sub alio respectu (in quantum est « iuxta » partes) est iterum extensa, divisibilis. Et ex eius divisione oritur punctum, quod est limes lineae, per quod fit transitus ex una parte lineae in aliam, iterum in indivisibili. Sed nunc tandem aliquando — id iterum patet puro intuitu intellectus in phantasmate — hic processus divisionis finem habet ; pervenimus ad id quod est omni ex parte indivisibile : punctum geometricum, ad id quod ab :person:`Euclide <euclid>` describebatur : :term:`οὗ μέρος οὐθέν <ou-meros-outhen>`. Id non est nihil : est limes lineae, quae est limes superficiei, quae est limes entis extensi originarii, nobis immediate dati ex experientia externa. Quia punctum est talis limes, ideo non tantum est quid indivisibile (omni ex parte) sed est « indivisibile positionem habens » quae est definitio sollemnis apud :person:`Aristotelem <aristotle>` et :person:`S. Thomam <aquinas>`.
 
+.. folio:: 0076
+   :page: 76
+
 De existentia igitur mathematica horum limitum constat ; existunt in potentia intra ens extensum non divisum ; existunt actu per divisionem entis extensi ; et quidem primo oritur superficies, dein linea, dein punctum. Haec necessario sequuntur ex natura entis extensi, ut est extensum.
 
 Si quis ut ideam lineae vel puncti concipiat, vult sequi processum, qui a :person:`Wellstein <wellstein>` descriptus est i. e. si quis vult incipere ab imaginatione granuli arenae (resp. fili tenuis) et processum diminutionis huius obiecti persequi, id nunc sine incommodo facere potest ; iam enim scit *existere* limitem ad quem per hunc processum appropinquamus. Et nunc processus quem :person:`Wellstein <wellstein>` describit, erit legitimus ; iam non *postulatur* existentia limitis ; et ita revera pervenimus ad notionem puncti resp. lineae.
@@ -171,6 +211,9 @@ C) *De indivisibilibus in rerum natura.*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Existuntne indivisibilia haec in rerum natura ? Dicamus primo de superficie ; ibi res est statim clara. Existunt corpora limitata et horum limes est superficies. Non utique opus est, ut sit superficies geometrice simplex : planum, superficies sphaerica perfecta, et ita porro. Forte ea quae in rerum natura inveniuntur, sunt tales, ut nomen geometricum non habeant ; forte habent formas valde complicatas, forte sunt vehementer ruginosae, modo tam microscopico, ut id experientia detegi non possit. Sed sunt veri nominis superficies, quae limitant corpora ; transitus per hos limites, ex non-hoc-corpore in hoc corpus, fit in indivisibili. Possuntne existere in rerum natura superficies illae, geometrice simplices, quae a geometris considerari solent ? Responsum dependet primarie a quaestione utrum hae mathematice existant, utrum possibiles sint in ente extenso ut est extensum ; haec quaestio postea habebit responsum affirmativum, ex quo sine negotio sequetur has superficies etiam in natura possibiles fore.
+
+.. folio:: 0077
+   :page: 77
 
 Existuntne de facto lineae in rerum natura ? Responsum hypotheticum est facillimum : si existunt superficies limitatae, necessario existunt limites earum i. e. lineae. Sed num conditio adimpletur ? Id non est a priori necessarium ; omnia corpora possunt limitari per superficies, quae sunt sicut limes globi perfecti. Ecce haec superficies est finita quidem, sed non est limitata. *Est* ipsa limes, scil. limes corporis (globi) sed in se limitem, qui eam dividit, non habet. Ibi non existit actu linea. Si omnia corpora ita limitata essent, non existeret de facto linea in rerum natura. Sed mathematice i. e. ut sunt extensae, illae superficies divisionem admittunt et, si adest, utique de facto erunt lineae.
 
@@ -185,6 +228,9 @@ Loquebamur de « respectu sub quo superficies est indivisibilis », de « respec
 
 Quid sit dimensio, definitione technica, quae constat ex genere et differentia specifica, definiri nequit. Tamen haec notio est perfecte clara ; quid sit, perfecte intelligitur ex processu supra delineato. Ens extensum quod habet tres dimensiones, est extensum quod triplicem illam divisionem sustinet ; et in hoc ente extenso dari possunt limites, qui duas dimensiones habent, resp. unam vel nullam. Habemus legitimam « definitionem operativam ».
 
+.. folio:: 0078
+   :page: 78
+
 Ecce criterium claritatis huius notionis : Interrogamus, possuntne dari entia extensa, quae v. g. habent duas dimensiones et dimidiam ? Quaestio ne sensum quidem habet ; et quod id statim videmus, inde provenit quod notio dimensionis est clarissima.
 
 Dicebamus supra : existunt mathematice in ente extenso (sive actu sive in potentia) hi limites, qui sunt superficies, linea, punctum ; et consequenter possunt existere in rerum natura. Id significat : haec entia nullius vel unius dimensionis vel duarum dimensionum *ut limites* existunt ; inde non sequitur ea posse existere separatim. Datur ens trium dimensionum : corpus, substantia extensa. *Possuntne* dari entia substantialia duarum dimensionum, vel unius vel nullius (quod tamen ad mundum extensum pertineret ut « positionem habens ») ? Id sane non sequitur ex supra expositis, ex quibus scimus ea extensa ut limites existere. Ad quaestionem utrum talia entia, saltem duarum dimensionum vel unius, separatim existere possint, auctor non potest aliter respondere nisi confitendo plenam suam ignorantiam.
@@ -198,6 +244,9 @@ Potestne existere ens quatuor dimensionum, cuius limes esset ens trium dimension
 
 Methodus nostra investigandi notiones superficiei, dein lineae, dein puncti, videtur esse naturalis menti humanae ; et saepissime inveniuntur locutiones quae haec obiecta tanquam limites definiunt. Sed contra hanc methodum a quibusdam auctoribus obiectio movetur, quam decisivam esse putant ; inde nobis consideranda est. Sumitur ex illa superficie, quam in capite secundo (§ 2 n. 6 pag. 46) iam considerabamus, quae vocatur « :term:`folium Moebii <folium-moebii>` ».
 
+.. folio:: 0079
+   :page: 79
+
 Haec superficies habet quandam proprietatem miram ; dicitur esse *unilateralis*. Quid hoc significet clarum erit ei, qui visu aspicit imaginem illam physicam, cuius constructionem in illo capite descripsimus. Ducamus lineam in illa charta, in medio fere folio et quidem parallelam ad eius marginem ; hanc lineam ducendo in fine iterum attingimus punctum unde incipiebamus et ecce : linea invenitur in utroque latere (facie) folii nostri, quin tamen per marginem pertransierimus. In eodem ergo latere permansimus, folium videtur unum tantum latus habere. Si idem facimus in folio cylindrico, in uno tantum latere linea ducta est, aliud remansit album. Inde :term:`folium Moebii <folium-moebii>` dicitur esse unilaterale, apparenter tantum est bilaterale sicut folium cylindricum. Haec ut intelligantur, omnino videnda sunt in executione reali ; quae tamen, ut in primo capite videbamus, intuitum necessitatis huius proprii manifestare intellectui potest. Est utique proprietas curiosa.
 
 Ecce quomodo ex hac proprietate superficierum, quae unilaterales dicuntur, obiectio fiat contra nostram methodum definiendi superficies, quae superficiem tanquam limitem inter partes extensi trium dimensionum considerat.
@@ -209,6 +258,9 @@ Ait cl. :person:`Couturat <couturat>` :
 Simili modo :person:`Wellstein <wellstein>` :
 
    « In formando conceptu superficiei tantum ex superficie externa vel ab eo quod est duobus corporibus commune initium sumere, non sufficit, quia existunt superficies, quae non, ut totum quid, possunt
+
+.. folio:: 0080
+   :page: 80
 
 limitare corpora, quae non possunt esse superficies limitantes duo corpora » (:cite:`Op. cit. pag. 10 <weber-wellstein:enzyklopaedie:II.p10>`) [#f9]_.
 
@@ -226,9 +278,15 @@ Hic transcribimus descriptionem methodi constructionis exempli :term:`folii Moeb
 
    « Sumamus folium (v. g. papyraceum) quod habet figuram rectanguli oblongi, cuius latituto sit sat parva ; eius extremitates (latera parva), post torsionem per angulum 180 graduum i. e. per dimidiam revolutionem, glutine ad invicem iungimus. Ita oritur superficies quae est similis cylindro (parvae altitudinis), sed in ea adest unus flexus ; operatio facile executioni mandatur. Heaec superficies est ' :term:`folium Moebii <folium-moebii>` ' ».
 
+.. folio:: 0081
+   :page: 81
+
 Attendamus nunc ad id quod ex nostra operatione resultat. Estne vere superficies ? Utique ad exemplificandam superficiem construitur ; sed de facto (sicut nec folium « planum » ex quo construitur) non caret tertia dimensione, profunditate ; haec est parva, et in consideratione negligitur, sed adest. Ergo id quod manu tenemus, est *corpus solidum*, et quidem corpus, cuius unus limes est superficies :person:`Moebii <moebius>`, et quidem cum *toto suo connexu*, :term:`Zusammenhang <zusammenhang>`, est limes huius corporis. Non haec sola superficies limitat hoc corpus, sed id facit simul cum alia. Quae est huius natura, connexus ? In consideratione consueta, quae profunditatem negligit, est linea, limes huius :term:`folii Moebii <folium-moebii>`. Sed in realitate est superficies cuius una dimensio, latitudo, est valde parva (haec est « profunditas » corporis). Et haec altera superficies sese revelat ut alterum :term:`folium Moebii <folium-moebii>`. Habemus ergo corpus reale, limitatum totaliter per duo :term:`folia Moebii <folium-moebii>`, singula cum suo connexu totali ; et per ea totaliter separatum est a « spatio » ambiente. Errant ergo ii qui contendunt hoc esse impossibile ; et plus respondere possumus quam ea quae clms :person:`Voss <voss>` eis respondebat.
 
 Quia de tali *corpore* mentionem facimus, aliud animadvertere liceat, quod forte ipsos mathematicos quid novi, et inexpectati, docere poterit ; id quod cum modestia dictum sit. Consideremus hoc corpus duobus :term:`foliis Moebii <folium-moebii>` limitatum. Construamus id (realiter vel mentaliter) non ex folio tenui (papyraceo, cuius profunditas fere spontanee negligitur) sed ex materia elastica, quae habet formam parallelopipedi oblongi, cuius profunditas est et manet bene observabilis. Corpus quod resultat est illud quod duobus :term:`foliis Moebii <folium-moebii>` bene observabilibus limitatur. Et attendamus ad unum ex hisce foliis. Estne verum, hanc superficiem esse *unilateralem* ? Id contendere solent, atque hoc erat fundamentum difficultatis quae movebatur. Sed ipsam hanc assertionem nunc patet esse erroneam. Haec superficies intuitive habet *duo* latera, *duas* facies, unam versus « spatium » ambiens, alteram versus interius corporis, quod limitat. Non memini me hoc apud ullum mathematicum legisse ; ni fallor, quaedam conclusiones ulteriores ex hoc derivari possunt, sed non est nostrum id facere.
+
+.. folio:: 0082
+   :page: 82
 
 .. _caput-3-la-s2-5:
 
@@ -250,9 +308,15 @@ Ex datis igitur sensitivis hauritur iudicium intellectivum de indivisibilitate l
 
    « Similitudo illa quam :person:`Philosophus <aristotle>` ponit, non attenditur quantum ad omnia. Manifestum est enim quod finis potentiae visivae est cognoscere colores ; finis autem potentiae intellectivae non est cognoscere phantasmata, sed cognoscere species intelligibiles [#f11]_ quas apprehendit a phantasmatibus et in phantasmatibus secundum statum praesentis vitae. Est igitur similitudo quantum ad hoc quod aspicit utraque potentia, non autem ad hoc in quod utriusque potentiae conditio terminatur ».
 
+.. folio:: 0083
+   :page: 83
+
 Iuxta hanc theoriam universaliter id quod in iudicio affirmatur, non de phantasmate dicitur, sed de re quae in phantasmate repraesentatur ; casus nostri (de limitibus geometricis) hoc peculiare habent (quod non universaliter valet) : si id quod in iudicio affirmatur, de ipso phantasmate diceretur, *falsum* esset. Nam mens potest quidem, per reflexionem in suas operationes redire, et ipsum phantasma ut obiectum cognitionis considerare ; id nos praecise fecimus in analysi nostra. Et ex tali reflexione resultat id quod dicebamus : in ipso phantasmate, et in sensibilitate in genere, non adest illa exactitudo, quae in iudicio intellectus de limite entis extensi affirmatur ; ergo de ente extenso prout in phantasmate « esse » habet, cum veritate affirmari non potest. Id vero quod affirmamus, valet quidem de extenso *in se* ; de hoc asserimus id quod in *idea* (composita) adest cum exactitudine.
 
 Alia quoque animadversio, quae supra exposita in genere, spectat, hic addi potest. In omnibus enim his inveniebamus necessitatem quandam, in phantasmate, in datis sensitivis. Et quidem necessitatem *in ipso obiecto*. Putare quis posset hanc necessitatem esse tantum necessitatem in ipsis sensibus, in ipsa phantasia subiectiva. Id non congruit cum eis quae conscientia testatur. Id clarius fieri potest ex iis quae nunc vidimus. Nam hic in phantasmate inveniebamus quandam necessitatem quam intuemur non ad obiectum pertinere, sed solum ad sensum, ad phantasiam. Scilicet : phantasia (sicut sensus externus) *non potest* sibi limites indivisibiles proponere, linea ibi semper necessario latitudinem habet. Sed in hoc casu intelligimus, hanc necessitatem *non* adesse in ipso obiecto, separamus necessitatem subiectivam facultatis, sensus, a necessitate in ipso obiecto. In hoc casu intellectus, sicut in casu necessitatis, ita in cognitione exactitudinis, superat sensum et eius data.
+
+.. folio:: 0084
+   :page: 84
 
 .. _caput-3-la-s2-5-b:
 
@@ -275,6 +339,9 @@ D) *Theoria empirismi.*
 
 Ex iis quae videbamus nunc etiam quaedam dicta a :person:`Stuart Mill <mill>` iam refutata sunt. Recolamus eius effata : « non existunt puncta sine magnitudine ; non lineae sine latitudine nec perfecte rectae ... non circuli quorum radii sunt perfecte aequales ... immo nec possibiles sunt ». Haec nunc patent esse falsa quoad existentiam (saltem possibilem) indivisibilium : puncti, lineae sine latitudine. Utrum idem dicendum sit de elementis qualitativis et de aequalitate (lineis perfecte rectis et radiis circuli perfecte aequalibus) quae ab eo negantur, nunc nondum constat. Id pertinet ad alteram partem problematis exactitudinis, cuius solutio ab alio medio inquisitionis criticae dependet ; ideo supra diximus, hunc auctorem diversos aspectus exactitudinis confundere.
 
+.. folio:: 0085
+   :page: 85
+
 Falsum quoque est id quod ab eodem auctore audiebamus : « ideam nostram puncti concipio esse ideam :term:`*minimi visibilis* <minimum-visibile>` » ; invenimus enim in nostra analysi notionem limitis exacti, quae ducit ad notionem puncti exacti et simul invenimus iudicando existentiam mathematicam harum notionum exactarum.
 
 *Nota.* — Analysin nostram *incepimus in eo puncto*, in quo primo intuitionem *intellectivam* in ens extensum detegimus : in eius figurabilitate, limitatione exacta, divisibilitate triplici, correspondente tribus dimensionibus. In analysi detegimus *intelligibilitatem* huius extensi, nam ea quae affirmamus, novimus tanquam propria profluentia *necessario*, ergo intelligibiliter, ex eo quod est extensum. Unde — omne intelligibile est ens, ei competit esse — ex eo et in eo momento scimus : hoc extensum est ens, ei competit esse. Ideo non opus est, ut originem dati sensibilis inquiramus.
@@ -282,6 +349,9 @@ Falsum quoque est id quod ab eodem auctore audiebamus : « ideam nostram puncti 
 Quomodo cognitio sensitiva ipsa, in qua hoc intelligibile invenimus, oriatur, in specie quomodo perveniamus ad cognitionem sensibilem extensi, quod sese dein revelat ut tridimensionale, potius est quaestio psychologica. Theoria cognitionis intellectivae illius cognitionis (quae est scientia geometrica) incipit ab illa intuitione intellectuali.
 
 Supra per transennam attendimus ad sententiam, quae in cognitione sensitiva iam vult invenire superficiem sine profunditate, extensum secundum duas dimensiones. Haec nobis videtur non esse vera ; putamus in aspectu sensibili primo « superficiei » iam adesse aspectum cuiusdam profunditatis. Sed quia haec quaestio pertinet ad ea quae antecedunt illam primam intuitionem intellectivam, de ea non agemus. Ceterum, si haec sententia esset vera, tamen intacta maneret analysis nostra relate ad lineam et punctum ; nec falsa esset relate ad existentiam superficiei exactae.
+
+.. folio:: 0086
+   :page: 86
 
 .. _caput-3-la-s2-6:
 
@@ -301,6 +371,9 @@ Inde habemus : ex illo uno phantasmate, a quo incipiebamus, aspiciendo vel « ob
 
 Hoc principium divisibilitatis in infinitum ope elementorum exactorum (punctorum) magis stringi potest. Per dichotomiam (et etiam per trichotomiam et ita porro) extensum utique non ita dividi potest, ut indivisibilia tantum resultent. Quaeri potest : nonne id effici posset per divisionem unicam, non successive, quae uno ictu divisibilitatem exhauriret, nonnisi indivisibilia relinqueret ? Id ex superioribus non decisum est, sed responsum negativum aliunde constat.
 
+.. folio:: 0087
+   :page: 87
+
 Ecce : partes in quas extensum dividitur, si ad invicem adduntur, iterum constituunt extensum quod est aequali toti primitivo. Unde : extensum componi potest ex iis in quae dividi potest. Indivisibilia autem, puncta, carent omni extensione, sunt « nihil extensionis » ; et ex additione nihili ad nihilum non potest resultare aliquid ; ex punctis additis non potest resultare extensum. Immo dicendum est : additio *geometrica*, quae in casu linearum, quae ad invicem adduntur, sensum perfectum habet, in casu punctorum *sensu* caret ; nihil non potest addi nihilo, sed tantum quantitas quantitati ; (additio punctorum *arithmetica* sensum utique habet : possumus considerare unum, duo, tria, etc. puncta).
 
 Si autem extensum non potest componi ex punctis, nec in ea, tanquam in partes, dividi potest. Inde sequitur, *quomodocumque* extensum dividatur (non per dichotomiam tantum), *semper* dividitur in extensa, quae iterum dividi possunt ; et ita universaliter statuendum est ; in infinitum est divisibile. (De momento huius divisibilitatis in historia philosophica continui, immo in historia totius philosophiae vide :cite:`*Cosmologiam* ed. 4 pagg. 27-40 <hoenen:cosmologia:p27-40>` ; vide quoque :cite:`*Filosofia della natura inorganica*, pagg. 57-72 <hoenen:filosofia-natura:p57-72>`).
@@ -314,9 +387,15 @@ Ex dictis quaedam sequuntur quae notatu digna esse possunt. Manifestum erat, lin
 
 Iam in antiqua geometria sermo est de linea, ut est « locus punctorum », quae certam proprietatem habent ; ita bissectrix anguli est locus punctorum aeque distantium ab eius cruribus. Haec locutio non intendit illam lineam describere tanquam collectionem punctorum sensu vulgari ; sed sensus est : omne punctum aeque distans a cruribus anguli situm est in illa linea, et vice versa, omne punctum illius lineae est aeque distans a cruribus anguli. Bissectrix non consideratur nisi ut « matrix » illorum punctorum, est potentia (materia) ex qua et in qua puncta aequidistantia actuari possunt.
 
+.. folio:: 0088
+   :page: 88
+
 Aliter res sese habet in theoria moderna collectionum, quae a :person:`Cantor <cantor>` constructa est, saltem si concipitur eo modo quo originaliter ab illo auctore intendebatur. Ibi revera, si de linea tanquam « collectione punctorum » sermo erat, eam intelligebant ut puram seriem punctorum contiguorum. Simili modo aliae collectiones, quorum individua (elementa) per solam definitionem *generis* vel *speciei* determinata erant, iam considerabantur tanquam constitutae ex multitudine (in genere actu infinita) *individuorum* datorum, in se determinatorum. Id utique, iuxta supra exposita admitti nequit. Sed haec theoria nativa ad contradictiones (« paradoxa ») duxit ; inde a plurimis mathematicis tantum in forma correcta adhibetur, in qua, data definitione generica vel specifica (data lege formationis collectionis) elementa individua nondum ut in se determinata considerantur. Talis collectio verificat notionem potentiae :person:`Aristotelis <aristotle>`, quae (ad individua) actuanda est per ulteriorem determinationem. In tali theoria linea iam non est collectio i. e. series punctorum, sed est potentia, in qua puncta actuari possunt, est, ut :person:`Brouwer <brouwer>` ait (in opere :cite:`*Over de grondslagen der wiskunde* 1907 pag. 8 <brouwer:1907:p8>`) : « matrix punctorum simul cogitandorum ». Et operae pretium esset, si mathematicus, qui theoriam Aristotelicam potentiae callet, vellet evolvere theoriam collectionum, quae magnum momentum habet, sub luce huius theoriae Aristotelicae.
 
 Plurimi, ut dictum est, nativam theoriam collectionum iam non admittunt, sed loco eius, theoriam quae plus minusve corrigebatur. Eam plene adhuc admittere videtur :person:`B. Russell <russell>`, qui ex ea antinomias classicas continui realis se solvere posse putabat (Cfr. :cite:`*Revue de Mét. et de Mor.* 1911 pag. 183 <russell:1911:p183>` ; cfr. :cite:`*Cosmologiam* pag. 451 <hoenen:cosmologia:p451>`) ; perperam utique, ut ex praemissis patet. Mathematici qui theoriam nativam collectionum corrigunt, saltem plurimi ut nobis videtur, putant eius contradictiones provenire ex eo, quod infinitum actuale admittit. Ita :person:`Poincaré <poincare>` (:cite:`*Science et Méthode* pag. 212 <poincare:science-methode:p212>`) ait : « *Il n'y a pas d'infini actuel* ; les Cantoriens l'ont oublié, et ils sont tombés dans la contradiction » (sublineatio est ipsius :person:`Poincaré <poincare>` ; cfr. quaedam plura in :cite:`*Cosmologia* ed. 4 pagg. 451-455 <hoenen:cosmologia:p451-455>`).
+
+.. folio:: 0089
+   :page: 89
 
 Quidquid id est, extensum non potest considerari ut collectio punctorum, ex quorum additione vel positione originem habet ; poterit considerari ut materia, potentia, ex qua et in qua in infinitum puncta generari possunt. Saepius in expositionibus mathematicis extensa vel figurae ut collectiones punctorum describuntur ; semper attendendum est utrum id in primo vel altero sensu fiat ; si in primo, periculum erroris adest ; et, si errores evitantur, tamen talis expositio philosophice iustificari non potest. Id etiam (non tantum) obtinet in aequationibus geometriae analyticae, de quibus notam addimus.
 
@@ -329,6 +408,9 @@ Talis formula indicat relationem, quae est inter coordinatas, quae determinant p
 
 Ideo alia interpretatio quaerenda est ; ecce una quae a mathematicis saepe applicatur. Scilicet : Abscissae (*x*) tribuitur variatio *continua*, quae nonnisi per motum habere potest, non per electionem successivam valorum determinatorum ; linea igitur perpendicularis axi abscissarum ita moveatur motu continuo secundum legem determinatam et a solo tempore, tamquam variabili independente dependeat : *x* = *f* (*t*). In ipsa ista linea moveatur punctum, iterum motu continuo, qui sua lege determinatur et a solo eodem tempore dependet ; distantia puncti a linea abscissarum semper ordinatam indicat : *y* = *F* (*t*). Ex compositione horum motuum resultat motus continuus, qui lineam generat, cuius aequatio inveniri potest per eliminationem variabilis *t* ex duabus aequationibus : *x* = *f* (*t*) et *y* = *F* (*t*). In casu nostro duo motus simpliciter exprimi possunt aequationibus *x* = *t* et *y* = sin *t*. Et sensus geometricus nunc est : linea (ordinatarum) movetur semper perpendiculariter ad axim abscissarum (*x*) motu uniformi (*x* = *t*) ; simul punctum in illa linea movetur ita ut distantia ab axi abscissarum exprimatur per legem *y* = sin *t* ; movetur igitur in linea recta, secundum motum periodicum ascendendo et descendendo. Et ex his duobus motibus resultat motus compositus puncti, quod describit lineam quae correspondet aequationi : *y* = sin *x*. Linea ita resultans iam non est collectio i. e. series punctorum, sed est continua, propter continuitatem motus (cfr. infra IV § 2).
 
+.. folio:: 0090
+   :page: 90
+
 *Applicatio.* Haec applicari possunt ad solvendum argumentum, quod a multis mathematicis modernis movetur *contra* valorem intuitionis, ex qua geometria classice ortum habet. Argumentum sumitur ex functionibus, quae sunt analytice quidem continuae sed non habent « derivatam » (quotiens differentiale) sive pro uno valore variabilis independentis, sive etiam pro omnibus. Functionibus continuis geometrice correspondent curvae continuae ; « derivatae » in uno puncto correspondet tangens in illo puncto ad curvam. His igitur functionibus corresponderent curvae, quae essent quidem ubique continuae, sed carerent tangente in uno puncto, immo in singulis punctis. Sed imaginatio intuitiva, quae classice est radix intuitionis intellectivae, non potest sibi repraesentare curvam continuam quae non habet ubique tangentem ; et, si intellectus ex hac imaginatione transire debet ad lineas exactas, affirmare debet : non datur linea continua quae non habet ubique tangentem. Sed, aiunt, analysis exacta demonstrat dari tales lineas ; intuitio ergo in errorem ducit et ei iam fides deneganda est.
 
 Operae pretium est ut hoc argumentum expositum audiamus a viro eximio, :person:`H. Poincaré <poincare>` (:cite:`*La valeur de la science* pagg. 17 sq. <poincare:valeur-science:p17>`). Ait :
@@ -336,6 +418,9 @@ Operae pretium est ut hoc argumentum expositum audiamus a viro eximio, :person:`
    « L'intuition ne peut nous donner la rigueur ni même la certitude, on s'en est aperçu de plus en plus.
 
    Citons quelques exemples. Nous savons qu'il existe des fonctions continues dépourvues de dérivées. Rien de plus choquant pour l'intuition que cette proposition qui nous est imposée par la logique. Nos pères n'auraient pas manqué de dire « Il est évident que toute fonction continue a une dérivée, puisque toute courbe a une tangente ».
+
+.. folio:: 0091
+   :page: 91
 
 Comment l'intuition peut-elle nous tromper à ce point ? C'est que quand nous cherchons à imaginer une courbe, nous ne pouvons pas nous la représenter sans épaisseur ; de même, quand nous nous représentons une droite, nous la voyons sous la forme d'une bande rectiligne d'une certaine largeur. Nous savons bien que ces lignes n'ont pas d'épaisseur ; nous nous efforçons de les imaginer de plus en plus minces et de nous rapprocher ainsi de la limite ; nous y parvenons dans une certaine mesure, mais nous n'atteindrons jamais cette limite.
 
@@ -349,11 +434,17 @@ Sumamus exemplum simplicissimum, classicum, talis functionis quae est ubique con
 
 Functio autem ita definita est ubique continua : et tamen in ipsa origine non habet derivatam. Unde concludunt : ergo curva geometrica quae per illas aequationes definitur, in origine non habet tangentem, quamvis et ibi sit continua.
 
+.. folio:: 0092
+   :page: 92
+
 Interrogamus autem : num revera geometrice « existit » haec curva ? Conemur eum construere per motum compositum puncti supra descriptum. Ponamus igitur *x* = *a* — *t*, tunc habemus : *y* = (*a* — *t*) sin *1* / (*a* — *t*) . Eo momento quo *t* = *0*, linea mobilis est a parte dextra originis in distantia *a* : momento quo *t* = *a* erit in origine et punctum curvae erit *x* = *0* et *y* = *0*. Potestne attingi hoc punctum *ita ut motus puncti in linea mobili ordinatarum* revera realizetur secundum legem *y* = (*a* — *t*) sin *1* / (*a* — *t*) ? Ecce, ut punctum originis attingi posset, valor huius functionis actualiter-infinities deberet (periodice) maximum et minimum attingere, punctum mobile in linea mobili deberet in ea actualiter-infinities ascendere et descendere. Sed — etiamsi quis tenet infinitum actuale non repugnare — tamen infinitum ex definitione *non potest pertransiri*. Inde : motus puncti in linea mobili ordinatarum, si haec originem attingere debet, est impossibilis ; ergo hanc curvam geometrice « existere », secundum hanc methodum non constat. Si linea nostra pergit tantum usque ad distantiam, etiamsi minimam, ab origine coordinatarum, nihil impossibile adest ; inde : quaevis pars curvae existit, dummodo ne cogitetur perducta usque ad originem ; sed in talibus partibus ubique habet tangentem.
 
 Utrum haec functio analytice sensum habet, hic non examinatur ; sed illi aequationi nulla correspondet curva totalis geometrica, ex motu orta. Et methodum aliam construendi curvam non indicant. Ergo id quod ex intuitione sequitur : omnis curva in quolibet puncto in quo est continua, habet tangentem, non refutatur per hoc exemplum ; immo hucusque, potius confirmatur.
 
 Postea, primo a Weierstrasz, constructae sunt functiones, quae etiam mirabiliores sunt : hae sunt ubique continuae et nullibi habent derivatam ; eis dicuntur correspondere curvae quae sunt ubique continuae et tamen nullibi habent tangentem. Eodem modo ac supra solvenda erit difficultas : illae curvae (:term:`kritzelige Kurven <kritzelige-kurven>`) ubique sunt « infinite sinuosae » ita ut ex eodem capite geometrice non existant. Construuntur curvae « approximativae » sed hae sunt normales i. e. habent tangentes.
+
+.. folio:: 0093
+   :page: 93
 
 De his curvis vide ingeniose exposita apud :person:`F. Klein <klein>` :cite:`*Anwendung der Differential- und Integralrechnung* (neuer Abdruck 1907) pagg. 39 sq., 51 sq., 78 sq., 83-102 <klein:1907:p39>`. De his etiam agit :person:`O. Becker <becker>` in libro :cite:`*Beiträge zur phaenomenologischen Begründung der Geometrie und ihrer physikalischen Anwendungen* (in *Jahrbuch fur Philos. und phaenomenologische Forschung* VI 1923) pagg. 90-93 <becker:1923:p90>`. Eius solutio difficultatis non est omni ex parte clara, *forte* quoad rem est eadem ac nostra. Curva a Weierstrasz constructa describitur a Brunschwicg :cite:`*Les étapes de la philosophie mathématique* pag. 338 <brunschvicg:etapes:p338>`.
 
@@ -367,6 +458,9 @@ In superioribus exempla simplicissima « constructionis » geometricae videbamus
 Haec notio « constructionis » a :person:`Kantio <kant>` tanquam per excellentiam mathematica describitur ; per possibilitatem constructionis obiectorum suorum, disciplina mathematica differt a ceteris v. g. a metaphysica. Apud multos alios haec proprietas scientiae mathematicae valde urgetur, immo non raro exaggeratur, ita ut in errorem ducat. Nimium enim tribuitur *activitati* mentis humanae ; interdum omnia ei in hac materia adscribuntur et fit sermo de « creatione » horum obiectorum per mentem humanam ; et ita quidem ut haec notio creationis (utique pro obiectis idealibus) stricte sumenda sit ; immo loquuntur de creatione libera. Patet in tali sententia oriri problema de valore et applicabilitate talis creationis et eam quaestionem ita fieri insolubilem.
 
 Hic modus interpretandi constructionem obiectorum in scientia mathematica est sine dubio erroneus ; id quod ex superioribus patet. Nam in casibus simplicibus, quos hucusque examinabamus, id iam manifestum est. Construimus utique mente nostra ; sed construimus ex materia praeiacente, ex ente extenso ut est extensum. Quod maioris momenti est : *detegimus* ens extensum esse materiam aptam, ex qua construamus ; detegimus « propria » stricte dicta materiae, quae talem constructionem pati potest ; detegimus primo, si ita loqui fas est, « constructibilitatem » tanquam passionem propriam huius subiecti ; detegimus id quod *fieri* potest in et ex hac materia sive potentia. Inde patet, quam apte extensum ab :person:`Aristotele <aristotle>` et scholasticis vocetur : :term:`materia intelligibilis <materia-intelligibilis>`.
+
+.. folio:: 0094
+   :page: 94
 
 Et in hoc inveniendo, simul intelligimus *dependentiam* nostram ab hac materia et a datis sensitivis ; haec omnia non decidimus, non causamus, haec detegimus. *Quod* ibi diversae figurae construi possint, invenimus, quia intelligimus hanc aptitudinem in ente extenso ; *quae* construi possint : multitudo per divisibilitatem, limites exacti partium, puncta sita in lineis et quidem in infinitum, haec omnia detegimus intuitu intellectus aspicientis in datis experimentalibus, in phantasmate. In utraque parte non *imponimus* sed *accipimus*, non agimus nisi abstrahendo simul et intuendo post constructionem in materia sensibiliter data. Activitas nostra construens ligatur per materiam ex qua fit constructio, per id quod intuitus intellectus in aspiciendo phantasmate *detegit*. Id invenitur in hisce casibus simplicibus, id alibi quoque attendi debet, et operae pretium est ut id attente consideremus. Pro activitate nostra verificatur id quod supra a :person:`S. Thoma <aquinas>` audiebamus : data sensitiva sunt non causa totalis sed materia causae. Et ita nexus cum extenso reali ne per momentum quidem solvitur. De his plura infra VII § 1.
 

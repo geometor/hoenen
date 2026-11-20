@@ -4,6 +4,8 @@
 :death_label: 1979
 :lifespan: 1898 – 1979
 :excerpt: Role: German Mathematician*
+:folio: 0017
+:page: 17
 
 .. _person-hasse:
 

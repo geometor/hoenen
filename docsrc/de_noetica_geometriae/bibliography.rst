@@ -1898,7 +1898,7 @@ Amaldi, Ugo (1875 – 1957) — Sui concetti di retta e di piano (Questioni rigu
 
 .. _cite-amaldi-concetti-retta-piano:
 
-* **** (``amaldi:concetti-retta-piano``) — *« U. Amaldi « sui concetti di retta e di piano » »* — **Caput IV**: n. 15 (`LA <caput-4/caput-4.html#occ-cite-amaldi-concetti-retta-piano-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-amaldi-concetti-retta-piano-1>`__)
+* **General** (``amaldi:concetti-retta-piano``) — *« U. Amaldi « sui concetti di retta e di piano » »* — **Caput IV**: n. 15 (`LA <caput-4/caput-4.html#occ-cite-amaldi-concetti-retta-piano-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-amaldi-concetti-retta-piano-1>`__)
 
 .. _cite-amaldi-concetti-retta-piano-p46:
 
@@ -1915,7 +1915,7 @@ Aristotle (384 – 322 BC) — Analytica Posteriora (Posterior Analytics)
 
 .. _cite-aristotle-anal-post:
 
-* **** (``aristotle:anal-post``) — *« Posteriorum »* — **Caput IV**: Animadversiones praeviae. (`LA <caput-4/caput-4.html#occ-cite-aristotle-anal-post-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-aristotle-anal-post-1>`__) | **Caput V**: 2. (`LA <caput-5/caput-5.html#occ-cite-aristotle-anal-post-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-aristotle-anal-post-1>`__)
+* **General** (``aristotle:anal-post``) — *« Posteriorum »* — **Caput IV**: Animadversiones praeviae. (`LA <caput-4/caput-4.html#occ-cite-aristotle-anal-post-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-aristotle-anal-post-1>`__) | **Caput V**: 2. (`LA <caput-5/caput-5.html#occ-cite-aristotle-anal-post-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-aristotle-anal-post-1>`__)
 
 .. _cite-aristotle-anal-post-1-12-77b30:
 
@@ -2428,7 +2428,7 @@ Enriques, Federigo (1871 – 1946) — Questioni riguardanti le matematiche elem
 
 .. _cite-enriques-quaestioni:
 
-* **** (``enriques:quaestioni``) — *« Quaestioni riguardanti le matematiche elementari »* — **Caput IV**: n. 15 (`LA <caput-4/caput-4.html#occ-cite-enriques-quaestioni-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-enriques-quaestioni-1>`__)
+* **General** (``enriques:quaestioni``) — *« Quaestioni riguardanti le matematiche elementari »* — **Caput IV**: n. 15 (`LA <caput-4/caput-4.html#occ-cite-enriques-quaestioni-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-enriques-quaestioni-1>`__)
 
 ----
 
@@ -2533,7 +2533,7 @@ Gilson, Étienne (1884 – 1978) — L'être et l'essence (1948) / Being and Som
 
 .. _cite-gilson-1948:
 
-* **** (``gilson:1948``) — *« E. Gilson, L'être et l'essence, Paris Vrin 1948 »* — **Appendix**: n. 23 (`LA <appendix/appendix.html#occ-cite-gilson-1948-1>`__ · `EN <appendix/appendix-en.html#occ-cite-gilson-1948-1>`__)
+* **General** (``gilson:1948``) — *« E. Gilson, L'être et l'essence, Paris Vrin 1948 »* — **Appendix**: n. 23 (`LA <appendix/appendix.html#occ-cite-gilson-1948-1>`__ · `EN <appendix/appendix-en.html#occ-cite-gilson-1948-1>`__)
 
 .. _cite-gilson-1948-248:
 
@@ -2554,7 +2554,7 @@ Gilson, Étienne (1884 – 1978) — L'être et l'essence (1948) / Being and Som
 
 .. _cite-gilson-1949:
 
-* **** (``gilson:1949``) — *« Being and some philosophers Toronto 1949 »* — **Appendix**: n. 23 (`LA <appendix/appendix.html#occ-cite-gilson-1949-1>`__ · `EN <appendix/appendix-en.html#occ-cite-gilson-1949-1>`__)
+* **General** (``gilson:1949``) — *« Being and some philosophers Toronto 1949 »* — **Appendix**: n. 23 (`LA <appendix/appendix.html#occ-cite-gilson-1949-1>`__ · `EN <appendix/appendix-en.html#occ-cite-gilson-1949-1>`__)
 
 ----
 
@@ -2692,7 +2692,7 @@ Hilbert, David (1862 – 1943) — Grundlagen der Geometrie (Foundations of Geom
 
 .. _cite-hilbert-grundlagen:
 
-* **** (``hilbert:grundlagen``) — *« Grundlagen der Geometrie »* — **Caput IV**: n. 1 (`LA <caput-4/caput-4.html#occ-cite-hilbert-grundlagen-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-hilbert-grundlagen-1>`__), n. 11 (`LA <caput-4/caput-4.html#occ-cite-hilbert-grundlagen-2>`__ · `EN <caput-4/caput-4-en.html#occ-cite-hilbert-grundlagen-2>`__)
+* **General** (``hilbert:grundlagen``) — *« Grundlagen der Geometrie »* — **Caput IV**: n. 1 (`LA <caput-4/caput-4.html#occ-cite-hilbert-grundlagen-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-hilbert-grundlagen-1>`__), n. 11 (`LA <caput-4/caput-4.html#occ-cite-hilbert-grundlagen-2>`__ · `EN <caput-4/caput-4-en.html#occ-cite-hilbert-grundlagen-2>`__)
 
 .. _cite-hilbert-grundlagen-1930:
 
@@ -2742,7 +2742,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — Le « Cogito ergo sum 
 
 .. _cite-hoenen-1937:
 
-* **** (``hoenen:1937``) — *« Le « cogito ergo sum » comme intuition et comme mouvement de la pensée in fasciculo commemorativo periodici Riv. di Filos. Neoscolastica 1937 Cartesio nel terzo centenario del « Discorso del Metodo » pagg. 457-471 »* — **Appendix**: n. 1 (`LA <appendix/appendix.html#occ-cite-hoenen-1937-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-1937-1>`__)
+* **General** (``hoenen:1937``) — *« Le « cogito ergo sum » comme intuition et comme mouvement de la pensée in fasciculo commemorativo periodici Riv. di Filos. Neoscolastica 1937 Cartesio nel terzo centenario del « Discorso del Metodo » pagg. 457-471 »* — **Appendix**: n. 1 (`LA <appendix/appendix.html#occ-cite-hoenen-1937-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-1937-1>`__)
 
 .. _cite-hoenen-1937-457-471:
 
@@ -2814,7 +2814,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — Recherches de logique 
 
 .. _cite-hoenen-1947:
 
-* **** (``hoenen:1947``) — *« Recherches de logique formelle »* — **Caput V**: B) (`LA <caput-5/caput-5.html#occ-cite-hoenen-1947-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-1947-1>`__), n. 3 (`LA <caput-5/caput-5.html#occ-cite-hoenen-1947-2>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-1947-2>`__)
+* **General** (``hoenen:1947``) — *« Recherches de logique formelle »* — **Caput V**: B) (`LA <caput-5/caput-5.html#occ-cite-hoenen-1947-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-1947-1>`__), n. 3 (`LA <caput-5/caput-5.html#occ-cite-hoenen-1947-2>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-1947-2>`__)
 
 .. _cite-hoenen-1947-greg-171:
 
@@ -2856,7 +2856,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — Pour une philosophie d
 
 .. _cite-hoenen-1949:
 
-* **** (``hoenen:1949``) — *« Filosofia della natura inorganica »* — **Caput V**: 2. (`LA <caput-5/caput-5.html#occ-cite-hoenen-1949-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-1949-1>`__)
+* **General** (``hoenen:1949``) — *« Filosofia della natura inorganica »* — **Caput V**: 2. (`LA <caput-5/caput-5.html#occ-cite-hoenen-1949-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-1949-1>`__)
 
 .. _cite-hoenen-1949-193-203:
 
@@ -2930,7 +2930,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — De connexionibus neces
 
 .. _cite-hoenen-1953:
 
-* **** (``hoenen:1953``) — *« Th. du Jug. passim »* — **Appendix**: § 1. (`LA <appendix/appendix.html#occ-cite-hoenen-1953-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-1953-1>`__)
+* **General** (``hoenen:1953``) — *« Th. du Jug. passim »* — **Appendix**: § 1. (`LA <appendix/appendix.html#occ-cite-hoenen-1953-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-1953-1>`__)
 
 .. _cite-hoenen-1953-148:
 
@@ -3120,7 +3120,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — Cosmologia (4th ed., R
 
 .. _cite-hoenen-cosmologia:
 
-* **** (``hoenen:cosmologia``) — *« Cosmologia »* — **Caput II**: 2. (`LA <caput-2/caput-2.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-2/caput-2-en.html#occ-cite-hoenen-cosmologia-1>`__) | **Caput V**: 2. (`LA <caput-5/caput-5.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-cosmologia-1>`__) | **Caput VI**: B) (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-1>`__), 1. (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-2>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-2>`__), 1. (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-3>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-3>`__), n. 2 (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-4>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-4>`__), n. 3 (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-5>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-5>`__) | **Caput VII**: B) (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-1>`__), 3. (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-2>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-2>`__), 3. (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-3>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-3>`__), 3. (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-4>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-4>`__) | **Appendix**: § 5. (`LA <appendix/appendix.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-cosmologia-1>`__), § 7. (`LA <appendix/appendix.html#occ-cite-hoenen-cosmologia-2>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-cosmologia-2>`__)
+* **General** (``hoenen:cosmologia``) — *« Cosmologia »* — **Caput II**: 2. (`LA <caput-2/caput-2.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-2/caput-2-en.html#occ-cite-hoenen-cosmologia-1>`__) | **Caput V**: 2. (`LA <caput-5/caput-5.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-hoenen-cosmologia-1>`__) | **Caput VI**: B) (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-1>`__), 1. (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-2>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-2>`__), 1. (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-3>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-3>`__), n. 2 (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-4>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-4>`__), n. 3 (`LA <caput-6/caput-6.html#occ-cite-hoenen-cosmologia-5>`__ · `EN <caput-6/caput-6-en.html#occ-cite-hoenen-cosmologia-5>`__) | **Caput VII**: B) (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-1>`__), 3. (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-2>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-2>`__), 3. (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-3>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-3>`__), 3. (`LA <caput-7/caput-7.html#occ-cite-hoenen-cosmologia-4>`__ · `EN <caput-7/caput-7-en.html#occ-cite-hoenen-cosmologia-4>`__) | **Appendix**: § 5. (`LA <appendix/appendix.html#occ-cite-hoenen-cosmologia-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-cosmologia-1>`__), § 7. (`LA <appendix/appendix.html#occ-cite-hoenen-cosmologia-2>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-cosmologia-2>`__)
 
 .. _cite-hoenen-cosmologia-152:
 
@@ -3278,7 +3278,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — Reality and Judgment A
 
 .. _cite-hoenen-reality-and-judgment:
 
-* **** (``hoenen:reality-and-judgment``) — *« Reality and Judgment according to St. Thomas Chicago 1952 »* — **Appendix**: n. 1 (`LA <appendix/appendix.html#occ-cite-hoenen-reality-and-judgment-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-reality-and-judgment-1>`__)
+* **General** (``hoenen:reality-and-judgment``) — *« Reality and Judgment according to St. Thomas Chicago 1952 »* — **Appendix**: n. 1 (`LA <appendix/appendix.html#occ-cite-hoenen-reality-and-judgment-1>`__ · `EN <appendix/appendix-en.html#occ-cite-hoenen-reality-and-judgment-1>`__)
 
 .. _cite-hoenen-reality-and-judgment-1952:
 
@@ -3303,7 +3303,7 @@ Hoenen, Petrus Hubertus Jacobus, S.J. (1880 – 1961) — La théorie du jugemen
 
 .. _cite-hoenen-theorie-du-jugement:
 
-* **** (``hoenen:theorie-du-jugement``) — *« La théorie du jugement d'après St. Thomas d'Aquin »* — **Caput I**: n. 2 (`LA <caput-1/caput-1.html#occ-cite-hoenen-theorie-du-jugement-1>`__ · `EN <caput-1/caput-1-en.html#occ-cite-hoenen-theorie-du-jugement-1>`__) | **Caput II**: n. 15 (`LA <caput-2/caput-2.html#occ-cite-hoenen-theorie-du-jugement-1>`__ · `EN <caput-2/caput-2-en.html#occ-cite-hoenen-theorie-du-jugement-1>`__)
+* **General** (``hoenen:theorie-du-jugement``) — *« La théorie du jugement d'après St. Thomas d'Aquin »* — **Caput I**: n. 2 (`LA <caput-1/caput-1.html#occ-cite-hoenen-theorie-du-jugement-1>`__ · `EN <caput-1/caput-1-en.html#occ-cite-hoenen-theorie-du-jugement-1>`__) | **Caput II**: n. 15 (`LA <caput-2/caput-2.html#occ-cite-hoenen-theorie-du-jugement-1>`__ · `EN <caput-2/caput-2-en.html#occ-cite-hoenen-theorie-du-jugement-1>`__)
 
 .. _cite-hoenen-theorie-du-jugement-1946:
 
@@ -3432,7 +3432,7 @@ Killing, Wilhelm (1847 – 1923) — Einführung in die Grundlagen der Geometrie
 
 .. _cite-killing-1893:
 
-* **** (``killing:1893``) — *« W. KILLING, Einführung in die Grundlagen der Geometrie, Münster I (1893) II (1898) »* — **Caput IV**: n. 16 (`LA <caput-4/caput-4.html#occ-cite-killing-1893-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-killing-1893-1>`__)
+* **General** (``killing:1893``) — *« W. KILLING, Einführung in die Grundlagen der Geometrie, Münster I (1893) II (1898) »* — **Caput IV**: n. 16 (`LA <caput-4/caput-4.html#occ-cite-killing-1893-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-killing-1893-1>`__)
 
 .. _cite-killing-1893-i-p5:
 
@@ -3453,7 +3453,7 @@ Klein, Felix (1849 – 1925) — Anwendung der Differential- und Integralrechnun
 
 .. _cite-klein-1907:
 
-* **** (``klein:1907``) — *« Anwendung der Differential- und Integralrechnung. Eine Revision der Prinzipien »* — **Caput I**: § 4. (`LA <caput-1/caput-1.html#occ-cite-klein-1907-1>`__ · `EN <caput-1/caput-1-en.html#occ-cite-klein-1907-1>`__)
+* **General** (``klein:1907``) — *« Anwendung der Differential- und Integralrechnung. Eine Revision der Prinzipien »* — **Caput I**: § 4. (`LA <caput-1/caput-1.html#occ-cite-klein-1907-1>`__ · `EN <caput-1/caput-1-en.html#occ-cite-klein-1907-1>`__)
 
 .. _cite-klein-1907-p11:
 
@@ -3598,7 +3598,7 @@ Newton, Sir Isaac (1642 – 1727) — Philosophiae Naturalis Principia Mathemati
 
 .. _cite-newton-1687:
 
-* **** (``newton:1687``) — *« Philosophiae naturalis principia mathematica »* — **Caput V**: A) (`LA <caput-5/caput-5.html#occ-cite-newton-1687-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-newton-1687-1>`__)
+* **General** (``newton:1687``) — *« Philosophiae naturalis principia mathematica »* — **Caput V**: A) (`LA <caput-5/caput-5.html#occ-cite-newton-1687-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-newton-1687-1>`__)
 
 ----
 
@@ -3611,7 +3611,7 @@ Pasch, Moritz (1843 – 1930) — Vorlesungen über neuere Geometrie (1882; 2nd 
 
 .. _cite-pasch-1882:
 
-* **** (``pasch:1882``) — *« Pasch (1882) »* — **Caput II**: 4. (`LA <caput-2/caput-2.html#occ-cite-pasch-1882-1>`__ · `EN <caput-2/caput-2-en.html#occ-cite-pasch-1882-1>`__)
+* **General** (``pasch:1882``) — *« Pasch (1882) »* — **Caput II**: 4. (`LA <caput-2/caput-2.html#occ-cite-pasch-1882-1>`__ · `EN <caput-2/caput-2-en.html#occ-cite-pasch-1882-1>`__)
 
 ----
 
@@ -3692,7 +3692,7 @@ Poincaré, Henri (1854 – 1912) — Dernières Pensées (1913)
 
 .. _cite-poincare-dernieres-pensees:
 
-* **** (``poincare:dernieres-pensees``) — *« Dernières Pensées »* — **Caput I**: § 4. (`LA <caput-1/caput-1.html#occ-cite-poincare-dernieres-pensees-1>`__ · `EN <caput-1/caput-1-en.html#occ-cite-poincare-dernieres-pensees-1>`__)
+* **General** (``poincare:dernieres-pensees``) — *« Dernières Pensées »* — **Caput I**: § 4. (`LA <caput-1/caput-1.html#occ-cite-poincare-dernieres-pensees-1>`__ · `EN <caput-1/caput-1-en.html#occ-cite-poincare-dernieres-pensees-1>`__)
 
 .. _cite-poincare-dernieres-pensees-p271:
 
@@ -3805,7 +3805,7 @@ Pseudo-Thomas Aquinas / Pseudo-Scotus — Summa Totius Logicae Aristotelis
 
 .. _cite-pseudo-thomas-summa-totius-logicae:
 
-* **** (``pseudo-thomas:summa-totius-logicae``) — *« Summa totius logicae »* — **Caput IV**: n. 29 (`LA <caput-4/caput-4.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__) | **Caput V**: 1. (`LA <caput-5/caput-5.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__)
+* **General** (``pseudo-thomas:summa-totius-logicae``) — *« Summa totius logicae »* — **Caput IV**: n. 29 (`LA <caput-4/caput-4.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__) | **Caput V**: 1. (`LA <caput-5/caput-5.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-pseudo-thomas-summa-totius-logicae-1>`__)
 
 .. _cite-pseudo-thomas-summa-totius-logicae-vii-2:
 
@@ -3848,7 +3848,7 @@ Ross, Sir William David (1877 – 1971) — Aristotle's Metaphysics (1924) / Ari
 
 .. _cite-ross-1936:
 
-* **** (``ross:1936``) — *« W. D. Ross Aristotle's Physics »* — **Caput IV**: n. 7 (`LA <caput-4/caput-4.html#occ-cite-ross-1936-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-ross-1936-1>`__)
+* **General** (``ross:1936``) — *« W. D. Ross Aristotle's Physics »* — **Caput IV**: n. 7 (`LA <caput-4/caput-4.html#occ-cite-ross-1936-1>`__ · `EN <caput-4/caput-4-en.html#occ-cite-ross-1936-1>`__)
 
 ----
 
@@ -4023,7 +4023,7 @@ Thomas Aquinas, St., O.P. (1225 – 1274) — In Aristotelis Libros Posteriorum 
 
 .. _cite-aquinas-anal-post:
 
-* **** (``aquinas:anal-post``) — *« S. Th. »* — **Caput V**: C) (`LA <caput-5/caput-5.html#occ-cite-aquinas-anal-post-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-aquinas-anal-post-1>`__)
+* **General** (``aquinas:anal-post``) — *« S. Th. »* — **Caput V**: C) (`LA <caput-5/caput-5.html#occ-cite-aquinas-anal-post-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-aquinas-anal-post-1>`__)
 
 .. _cite-aquinas-anal-post-i-1-10:
 
@@ -4521,10 +4521,8 @@ Whitehead, Alfred North & Russell, Bertrand — Principia Mathematica (1910–19
 
 .. _cite-whitehead-russell-principia:
 
-* **** (``whitehead-russell:principia``) — *« Principia Mathematica »* — **Caput V**: A) (`LA <caput-5/caput-5.html#occ-cite-whitehead-russell-principia-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-whitehead-russell-principia-1>`__)
+* **General** (``whitehead-russell:principia``) — *« Principia Mathematica »* — **Caput V**: A) (`LA <caput-5/caput-5.html#occ-cite-whitehead-russell-principia-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-whitehead-russell-principia-1>`__)
 
 .. _cite-whitehead-russell-principia-p100:
 
 * **p100** (``whitehead-russell:principia:p100``) — *« Principia Mathematica (pag. 100) »* — **Caput V**: B) (`LA <caput-5/caput-5.html#occ-cite-whitehead-russell-principia-p100-1>`__ · `EN <caput-5/caput-5-en.html#occ-cite-whitehead-russell-principia-p100-1>`__)
-
-----

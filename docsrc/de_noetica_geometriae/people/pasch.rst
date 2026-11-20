@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/pasch/
 :github_url: https://github.com/geometor/pasch
 :excerpt: Role: German Mathematician*
+:folio: 0046
+:page: 46
 
 .. _person-pasch:
 

@@ -1,9 +1,13 @@
 :layout: book
+:title: Chapter II: On the Problem of Necessity
+:lang: en
+:folio: 0027
+:page: 27
 
 .. _caput-2-en:
 
-CHAPTER II
-==========
+Chapter II: On the Problem of Necessity
+=======================================
 
 .. rubric:: ON THE PROBLEM OF NECESSITY
 
@@ -11,6 +15,9 @@ CHAPTER II
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0027
+   :page: 27
 
 .. _caput-2-en-prelim:
 
@@ -24,6 +31,9 @@ The problem is eventually considered insoluble by empiricism (:person:`Stuart Mi
 :person:`Plato <plato>` considers sensitive data as the occasion and preparation for eliciting reminiscence in our mind. :person:`Kant <kant>`, who neglects the problem of exactitude, invents a subjective form of our sensibility.
 
 :person:`Aristotle <aristotle>` solves the problem through the theory of formal abstraction, which uses experience; but this solution, which was also the solution of :person:`St. Thomas <aquinas>` and of certain ancient Scholastics, now seems to have been consigned to oblivion [#f1]_.
+
+.. folio:: 0028
+   :page: 28
 
 In modern mathematical critique, hardly any attention (except perhaps in one single case) is paid to the problem of necessity, but greater attention to the problem of exactitude; which in its own way also recurs in the general theory of the real number. Concerning the problem of exactitude we shall treat in the following chapters; now the problem of necessity must be examined, which is found also in the beginnings of arithmetic, and in its further development. And let us recall: our principal problem is *not* "how is mathematics fully founded and justified?", but we wish especially to examine the activity and value of the human mind in the construction of science, not as a psychological problem, but as a noetic problem. We take our beginning from certain simple "ascertainments" (*constatationes*) of elementary mental facts.
 
@@ -49,6 +59,9 @@ To anyone observing that :math:`5040 = 7!` (that is, :math:`2 \times 3 \times 4 
 
    "Let us say, then, that that number is more suitable which admits in itself the most distributions, and especially those arranged successively in order. For not every number has all divisions into all things. But the number of five thousand and forty, both for war and for peace, for all agreements, partnerships, taxes, and distributions, can be cut into not more than one short of sixty parts, continuously from one up to ten." (According to the translation of Marsilio Ficino).
 
+.. folio:: 0029
+   :page: 29
+
 Let us come to our own ascertainments. How can this number 59 of all possible partitions (into equal parts) be determined? For us the matter is simple. Behold: :math:`5040 = 2 \times 2520 = 3 \times 1680` and so on up to the final division that brings something new: namely, :math:`= 70 \times 72`. For if we proceed further, those which we already had return. If we construct the entire table of these divisions and inspect it, *by counting* we find their number to be 29, which contain :math:`2 \times 29 = 58` possible divisions into equal parts, to which one must be added: the division into 5040 units. Thus, therefore, we arrive at this Platonic knowledge, that the number 5040 admits 59 divisions into equal parts; *this knowledge is certainly a necessary judgment.*
 
 Let us attend first to this final part of the process: after the divisions have been made, we must *count* their number; but this counting is an *experimental operation*, in entirely the same manner in which the counting of the multitude of men who are present in this lecture hall is an experimental operation. Yet this latter operation leads indeed to a true judgment, but not to a necessary truth; the number of those present can vary. The diversity arises from the fact that in :person:`Plato's <plato>` case this experimental operation is applied to *necessary matter*, in the other case to *contingent matter*; but we also intuit that our operation of itself leads to a necessary outcome in both cases. Whence this arises must be investigated later; for now let it suffice that the fact itself be established.
@@ -56,6 +69,9 @@ Let us attend first to this final part of the process: after the divisions have 
 Let us notice further: already before the computation we know that this outcome will be necessary, and indeed in such a way that we already know the number of divisions to be necessarily some determinate number; computation teaches us only the specification of this number.
 
 We can proceed further. We found the possible divisions by applying elementary, but nevertheless derived, rules of modern arithmetic. How :person:`Plato <plato>` did it matters little; but it is indeed of great importance to discover that this can be done even by *experimental* means which, though requiring a long time, are nevertheless possible. Behold: we take 5040 symbols of numbers, or even small bodies of any kind, for example pebbles (*calculi*), whence the name "calculus" is derived. And we attempt to decide how this multitude can be divided into mutually equal parts. First, whether into pairs, and to decide this, we arrange the pebbles thus:
+
+.. folio:: 0030
+   :page: 30
 
 | 1  3  5 ..... and at the end we find 5039
 | 2  4  6 .....                        5040
@@ -76,6 +92,9 @@ That this may become more evident, let us compare this process with another, par
 
 Whence the difference between these cases arises (and others too, in which we have no intuition of necessity or contingency), we shall investigate later; now let us attend especially to what we have found: not every experience leads to a contingent judgment; an experience is given from which we have necessary knowledge; and: from such experience we draw not only *notions*, but necessary *judgments* themselves, the very *nexus* between the terms of the judgment and its necessity.
 
+.. folio:: 0031
+   :page: 31
+
 Now only in passing do we attend to one point: we have spoken of pebbles with which we perform the operations; we know that this is not necessary; the same is obtained if we consider any well-distinguished elements, for example the letters *a*, or crosses, or dots that we write. Intuitively we know that the result follows from the mere *multitude* of individuals, and in reality *flows* necessarily from the nature of *multitude*; and in this sense, in individual judgments the subject is the *cause* of the predicate, which therefore adheres by a necessary nexus to the subject. And we already begin to understand that :person:`Aristotle's <aristotle>` theory of *abstraction* is verified here.
 
 .. _caput-2-en-s1-2:
@@ -94,6 +113,9 @@ A similar example we have in the elements of the combinatorial art. As is well k
 
 The beginnings of the deduction of this necessary theorem are these. If we have two elements, *a* and *b*, there are *two* permutations, that is, series composed of these elements that differ only in order, namely *ab* and *ba*. If a third element *c* is added, this can evidently be added to each of these series, either before the first element, or between the two, or after the second, and from the first permutation result: *cab*, *acb*, *abc*; from the other: *cba*, *bca*, *bac*; neither more nor less. From three elements we have six permutations. But this twofold tripartition shines forth to us only from inspection, whether in the phantasm or in an actual drawing (in both cases a spatial element also enters). We have once again sensitive experimental operations upon a concrete thing, which is the matter of a necessary intellective intuition. And once again it is clear that from experience there can come forth judgments that extend our knowledge, and that are at the same time necessary.
 
+.. folio:: 0032
+   :page: 32
+
 The number of these permutations will be :math:`2 \times 3`; how, for example, by means of the "principle of complete arithmetical induction" one arrives at the general theorem stated above, is of no concern here.
 
 .. _caput-2-en-s1-4:
@@ -104,6 +126,9 @@ The number of these permutations will be :math:`2 \times 3`; how, for example, b
 In the origin of such a judgment, which is certainly necessary, an experiment of the same kind can be used, and indeed must be used. This can easily be shown.
 
 It can be present. For suppose that we do not yet know what specific number will result from the addition of a multitude of 5 units to a multitude that contains 7 units. There was certainly a time when we did not know this. Behold: by an actual operation we perform the addition. We already have 7 individuals; we add another multitude to it *successively* until this latter is exhausted, counting at the same time, for example, by means of the fingers of one hand. After adding the first, 8 results, then 9 ... when the multitude of these fingers is exhausted, we find 12. And then we elicit the necessary judgment: the multitude that results from adding 5 to 7 is the number 12. That we *can* thus find the answer to the question "what results from that determinate addition?", or that we can find the predicate (previously unknown) of the necessary proposition "from the addition of 5 to 7 results the number 12," is clearer than daylight. But, if that is possible, we have once again verified the proposition: an experience is given that leads to a necessary judgment.
+
+.. folio:: 0033
+   :page: 33
 
 Indeed, such an experience seems to be necessary in judgments concerning the addition of numbers to one another; nor does any other method seem available to man for finding for the first time the number that results from a determinate addition. This can be confirmed from the consideration of three methods that have been used for *deducing* that judgment from definitions by means of other principles.
 
@@ -121,6 +146,9 @@ Having thus established the method of specific definition of individual numbers,
 |       2 and 1 and 1 is 3 and 1 (def. 2)
 |       3 and 1 is 4             (def. 3)
 
+.. folio:: 0034
+   :page: 34
+
 Therefore (by the axiom) 2 and 2 is 4" [#f3]_.
 
 Whence such a judgment, expressing what results from the addition of numbers, is considered as an analytic judgment in this sense: experience influences its origin only insofar as *notions* are drawn from it, but the *nexus* between notions, which is affirmed in necessary judgments, is not drawn from experience, but solely from those notions (definitions) and syllogisms, purely analytically. Yet a twofold observation must be made; and each will vindicate the influence of experience upon the cognition of the nexus itself.
@@ -128,6 +156,9 @@ Whence such a judgment, expressing what results from the addition of numbers, is
 The first observation is this. In order that that series of syllogisms may be *as long* as is required so that the final conclusion may be precisely, for example, :math:`5 + 7 = 12`, with all care the individual members of this series must be *counted*, *enumerated*, otherwise we shall err. This perhaps at first glance is not evident if the series is very short, as in :person:`Leibniz's <leibniz>` example; then counting is indeed present, but escapes our attention. If, however, the series is longer, it becomes clear that we must count. And at length the same experimental element that we found above is present in :person:`Leibniz <leibniz>` too; we were counting pebbles, :person:`Leibniz <leibniz>` counts syllogisms, or numbers in syllogisms; experience that uses the phantasm in this quasi-analytic deduction is not lacking; but it is once again an experience that carries with it an intuition of necessity.
 
 The second observation will be this. :person:`Leibniz <leibniz>` sets forth very well the specific definition of numbers; the succeeding number is always defined through its rise from the preceding by the addition of unity. Let us notice again that here it is a question of the definition of *essences*; whence, as will immediately be evident, a certain cognition is presupposed. Behold an example: suppose we have an urn full of marbles and by a throw some of them are cast out; by counting we find three. Can we now establish this definition: three is the number of marbles that are cast out from this urn by a single throw? Evidently not; the following throw will be able to cast out 4 or 5 marbles; the necessity of the effect is lacking, it is contingent. But in the definition of an essence necessity is required. Therefore the mode of defining successive numbers that :person:`Leibniz <leibniz>` uses in his argument can be admitted, because this necessity is present and *is foreknown by us*. We knew that from the addition of unity to any determinate number, *necessarily*, and therefore always, the same other determinate number, the "successor," arises, and not from 3 now 4, at another time 5. Whence did we know this? In no other way than by inspection of the phantasm of a multitude, to which we add unity, do we know the *necessity* of this *judgment*, that thus a number determinate in its essence arises. In those definitions, therefore, it is not a question of *notions* alone, but also of a *judgment*, for whose evidence we need a similar experimental medium. And this judgment is an essential element — though not enunciated — in :person:`Leibniz's <leibniz>` series of syllogisms; it is an "operative definition." Immediately more concerning this and another precognition.
+
+.. folio:: 0035
+   :page: 35
 
 .. _caput-2-en-s1-4-b:
 
@@ -137,6 +168,9 @@ B) *The Method of Mercier.*
 :person:`Cardinal Mercier <mercier>` uses another — yet similar — method to prove the purely analytic character of our judgment: :math:`7 + 5 = 12` (:cite:`*Critériologie*, n. 118, in 8th ed., pp. 282–283 <mercier:criteriologie:118>`). Very well does he observe that the concept of the subject, "7 + 5," is the concept of a sum (*d'une somme*), that is, of that which results from addition, but not the concept of any sum whatever, but of a sum precisely determinate, because it is of two determinate numbers. And he reasons from the principle "the parts composing the whole, and the whole, are identical." Whence from the pure principle of contradiction he concludes to the identity of the subject and predicate of our proposition, which are "7 + 5" and 12 respectively; and thus our judgment is had.
 
 Nevertheless, in this way we do not yet have knowledge of the *species* of this sum; we know that it is a number specifically determinate in itself, but that it is the number 12 we do not yet know after this reasoning. More is required that we may arrive at this knowledge. Whence "symbolic representations" (*des représentations symboliques*) not only *can* (as :person:`Mercier <mercier>` says) but absolutely *must* be used, so that we may know the identity between the subject and this predicate, which is: 12. This he accomplishes thus: the number 7 is written :math:`1 + 1 + 1 + 1 + 1 + 1 + 1`, then the number 5 is written :math:`1 + 1 + 1 + 1 + 1`; and these symbols express well, as we have seen, their definition. In the same way addition is well expressed by the symbol: :math:`(1 + 1 + 1 + 1 + 1 + 1 + 1) + (1 + 1 + 1 + 1 + 1)`; this will be the subject of our judgment. On the other side the predicate will be: :math:`1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1`. It is sufficient, says :person:`Mercier <mercier>`, to delete the parentheses so that the identity between subject and predicate may be manifest, in a sensible manner.
+
+.. folio:: 0036
+   :page: 36
 
 Yet this does not seem to suffice; for it is required, and that completely necessarily, that we inspect whether what is called a bi-unique "correspondence" (*correspondentia bi-univoca*) between the elements of the subject (with parentheses deleted) and the predicate is really present; if this is present, the identity is established. But this is the same experimental element that we found above. The only difference is this: we were inquiring into the number (to us hitherto unknown) that results from addition, and to find it we added 5 units successively. :person:`Mercier <mercier>` assumes that number to be 12, and by comparing this with the effect of addition, accomplished in a single act, verifies his supposition; but a similar counting or comparison of *individual* elements of the predicate with elements of the subject enters here. And here, as above, this operation is experimental, but it is an experiment that in our matter carries with it an intuition of the nexus. A purely analytic argument does not suffice. Add to this that it must be known to us that the omission of the parentheses (that is, the very operation of addition) leads to a *necessary* effect; and this again presupposes an experiment that generates intuition.
 
@@ -156,6 +190,9 @@ In these diverse cases of arithmetical operations, therefore — division into e
 
 Later we shall see that such "appeals to sensitive experience," with which an intellective intuition of necessity is associated, are exceedingly frequent also in the deductive elaboration of science, of *every* science (below, Chapter V).
 
+.. folio:: 0037
+   :page: 37
+
 .. _caput-2-en-s1-5:
 
 5. *Comparison of These Facts with Theories.*
@@ -169,6 +206,9 @@ Then, supposing that not everyone admits this, he restricts his thesis to "pure 
 
 Independently of every distinction between "analytic" and "synthetic" judgments, the result from our ascertainments must be expressed thus: the judgments that we examined, although they arise from experience and must presuppose it, are *known* to us as *necessary* and pertain to *pure* arithmetic. The principle "experience cannot produce necessary judgments" without any doubt admits exceptions. The cases set forth above establish: arithmetical judgments are given whose origin is empirical, but which flow from an experience with which an intellective intuition of their necessity is *associated*. The conditions under which such an intellective intuition is associated with our experience must be investigated. :person:`Kant <kant>` simply *supposes* that an empirical judgment cannot carry with it (*bei sich führen*) necessity; he makes no attempt to demonstrate it. And it seems to have been the common opinion at that time [#f5]_.
 
+.. folio:: 0038
+   :page: 38
+
 The theories of :person:`Plato <plato>` and :person:`Stuart Mill <mill>`, which are opposed to the Kantian theory and to each other, proceed from the same principle. For on account of this :person:`Plato <plato>` admits the doctrine of reminiscence, because he admits the necessity of mathematical theses; on account of this :person:`Stuart Mill <mill>` denies the true necessity of mathematics.
 
 The theory of :person:`Aristotle <aristotle>` denies the universality of this principle, and admits the empirical origin of necessary judgments. As we have already heard, mathematical relations are "seen," but through the intellect, :term:`νοῦν <nous>`. And in general concerning the principles of particular sciences he says :cite:`(*Anal. Pr.* I, 30, 46a17) <aristotle:anal-prior:46a17>` that they must be handed down by experience. In the article cited above (:cite:`*De origine primorum principiorum*, "Gregor." 1933 <hoenen:1933:153-184>`) we established, if we are not mistaken, that the thesis of :person:`St. Thomas <aquinas>` is the same. He himself summarizes this doctrine in these words :cite:`(*Q. D. de Ver.*, q. 10, a. 6, sed contra 2) <aquinas:de-veritate:10.6.sc2>`:
@@ -176,6 +216,9 @@ The theory of :person:`Aristotle <aristotle>` denies the universality of this pr
 "All our knowledge originally consists in the knowledge of first indemonstrable principles. The knowledge of these in us arises from sense." And his general doctrine of judgment seems to be nothing other than an elaboration, but an extremely vast elaboration, of this Aristotelian thesis, or of the equivalent thesis that establishes that we do not see abstract things except in concrete things [#f6]_.
 
 This doctrine, clearly set forth by :person:`Cajetan <cajetan>` and admitted for a certain time by Thomists, was afterwards consigned to oblivion. In the eighteenth century even Scholastics seem to admit, like :person:`Kant <kant>`, and without discussion, also like :person:`Kant <kant>`, that no empirical judgment can become known to us as necessary. The specimens set forth above (and very many similar ones that we shall see later) which contradict this "principle" are neglected.
+
+.. folio:: 0039
+   :page: 39
 
 Certainly not every experience is of such a nature that an intellective intuition of necessity is associated with it, but those cases in which this association is found are surely most worthy of being examined under a noetic respect. If anyone, on account of this influence of experience, wishes to call such judgments "synthetic," he will have necessary synthetic judgments, but certainly not synthetic a priori judgments in the Kantian sense; indeed :person:`Kant <kant>`, because he supposes that such judgments cannot come *from* experience, for that reason invented his theory of the subjective form; but this supposition of his was gratuitous, and is moreover erroneous, as is clear from what has been set forth. Whence *these* necessary empirical judgments (or necessary synthetic judgments) destroy the very foundation of his doctrine.
 
@@ -191,6 +234,9 @@ Above we spoke of the subject and predicate of this proposition :math:`7 + 5 = 1
 We heard this well set forth by :person:`Mercier <mercier>`, who describes the subject of this proposition thus: it is the sum (*la somme*) of two numbers (determinate multitudes) 7 and 5, that is, the number that results from the addition of those numbers (whose species before the judgment is unknown to us); and concerning this resultant multitude it is enunciated that it is the determinate multitude 12. The judgment can therefore be enunciated thus: the number that results from adding 5 to 7 is the number 12.
 
 It is clear that a twofold necessary, intuitive knowledge is *presupposed* here. One is this: it is presupposed that the addition of a number to a number (or rather, more universally: of a multitude to a multitude) generates a number (a multitude) — and indeed a greater one —; and that in such a way that *necessarily* (therefore always) from the addition of a specifically determinate multitude to a determinate one, again a determinate multitude (specifically one, and indeed greater) arises. This appears even better in the Greek formulation, in which for the "number" that results one must say ὁ ἀριθμός, or in the Italian language which says "*il* numero."
+
+.. folio:: 0040
+   :page: 40
 
 And this prior cognition again is not had except from the intuition of the experiment, but in so facile a manner that it is not enunciated. Similar things we found in the analysis of what was proposed by :person:`Leibniz <leibniz>` and :person:`Mercier <mercier>`.
 
@@ -212,6 +258,9 @@ Our judgment "7 + 5 = 12" with its presuppositions therefore comprises these thi
 
 Just as in § 1 we found certain arithmetical judgments to be immediate (because drawn from a certain experience) and necessary, in the same way such judgments can be found in geometric matters.
 
+.. folio:: 0041
+   :page: 41
+
 Yet there is also a vast difference between the two sciences. For the sensitive data, from which we abstract those things that are affirmed in judgment — both terms and their nexus — are *exact* in arithmetic; there those multitudes of which it treats are well determined even in sensitive cognition, consisting even there of elements, individuals, that are well distinct and separate. Whence in those elementary arithmetical judgments the problem of exactitude does not arise; the exactitude that is present in the judgments of the mind was already present in the sensitive data; to this sensitive cognition only necessity was lacking. In geometry, however, the question is twofold; besides the problem of necessity, the problem of exactitude is present. For in sensitive *cognition* — we certainly do not say in the nature of things — there are no points without any extension, for these cannot be perceived by sense; nor are there lines without width; there it cannot be discerned what is precisely the point that divides a line into perfectly equal parts, nor can it be discerned exactly whether a certain line is truly straight, or whether lines are concurrent exactly, in a single point.
 
 Now we treat of the first problem alone; the other we shall consider in the following chapters; and from our exposition itself it will result that these two problems can not only be distinguished, but also separated. If, therefore, in this chapter there is mention of points, these are to be understood as they are present in sensitive data, that is, as small corpuscles, nor is it necessary that they be the minimum visible; so a "line" will be a surface whose width is very small; a "straight line" will be a sensibly straight line; and so on. Concerning these objects immediate judgments can already be discovered, arisen by means of experience even with respect to the nexus between subject and predicate, which are nevertheless necessary.
@@ -222,6 +271,9 @@ Now we treat of the first problem alone; the other we shall consider in the foll
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The object of geometry is extended being as extended. It is often said that "space" is the object of geometry; if this word is taken as synonymous with the expression "extended being as extended," no error is present. But the word "space" is also used for "absolute" or "imaginary" space, that is, for a receptacle that contains all extended bodies in itself and precedes them, which remains when all bodies are destroyed, which eventually is a being of reason (*ens rationis*) only. If we use the word space, there is danger lest we slip from one sense into the other, and be led into error. Moreover, the notion of "extended" precedes the notion of "space"; for this is conceived as an *extended* receptacle; and for this reason only, because and insofar as it is extended, is it the object of geometry. The notion of space is introduced only *after* the consideration of the mutual *local* relations of bodies, that is, of real extended beings. If anyone considers four of the five arguments by which :person:`Kant <kant>` in the Aesthetic attempts to prove that "space" is a form of the sensibility of the subject, in such a way that in place of space, *in* which extended things are said to be present, he substitutes the very notion of "extended," he will immediately see that the arguments do not hold. Extension itself cannot be attributed to the subject merely as a subjective form.
+
+.. folio:: 0042
+   :page: 42
 
 Furthermore, in purely geometric considerations there is mention of the motion of figures, and this we shall vindicate later. But these figures cannot be parts of space, since these cannot be moved; those figures are real extended beings, whose motion can very well be considered.
 
@@ -238,9 +290,15 @@ We immediately understand that a greater and a smaller line can exist, we affirm
 
 How do we understand this truth? Behold, in an actual drawing or in imagination, by dividing we construct a "point" :math:`A` on a segment; and "in this phantasm" we inspect that smaller lines exist, parts of this given line, into which it can be divided. Let us compare this experience with a physical experiment on the same line. Let the line be white or black and, if we wish, let the point :math:`A` be red. In a similar manner we saw the point :math:`A` divide the line into parts. There is nevertheless a vast diversity between this experience and the former. The former we can render by saying: this extended thing is divided by the point :math:`A`; the latter: this white (or black) thing is divided by this red thing. Is it necessary that it be extended? Certainly. Behold, we *intuit* in sensitive data, in the phantasm, that the *possibility* of division *necessarily flows* from the fact that the line is extended, and *is contingently present together* with whiteness or blackness. Therefore what we experience we must render more accurately. In the former case this must be done through a causal (or rational) proposition: this, *because* it is extended, is divisible (or: this is extended, therefore it is divisible). Let us note nevertheless that here we do not have (notwithstanding the words "because" and "therefore") a truncated reasoning; in the mind we have a threefold experience: this is extended, and this is divisible, and third: we experience (in our mind) the necessity of the nexus between the first and the second. In the other case what we experience must be rendered through a purely copulative proposition: this is white and it is divisible (at :math:`A`). It is a purely accidental, contingent judgment.
 
+.. folio:: 0043
+   :page: 43
+
 What we experience in the mathematical case must be rendered through a causal proposition: this (concrete thing) is extended and therefore it is divisible. In the concrete case we already understand the necessity, we understand divisibility to *flow* from being extended. Returning to this singular causal proposition we have: this, *because* extended, is divisible; therefore every extended thing is divisible. Nor does this take place through reasoning; this too is had through intuition, and thus we discover the "proper attribute of quantity" according to :person:`Aristotle <aristotle>`. So in the case of the judgment "7 + 5 = 12" the first prior cognition was the cognition of the "proper attribute" of multitudes.
 
 These things being understood, we can give a description that perfectly determines the notion of "extension," which strictly cannot be "defined," because it is a primitive notion. We see any body present; in it we can delineate, actually or in our imagination, a figure (whatever it may be, it can be a line segment); we "ascertain" (*constatamus*) that this body is "figurable" [#f7]_; at the same time we *understand* that this property of "figurability" (divisibility according to figure) is *necessarily* connected with the body (in opposition, for example, to its "electrizability" by friction). In ordinary life we are not accustomed to notice this explicitly; and yet this "ascertainment" of this necessary bond is always present; it manifests itself if anyone should say that this figurability is something contingent in this body, like, for example, its actual temperature. But we ascertain even more; namely, what is the attribute of the body from which figurability flows. We always understand that it is not its special physical nature (it may be wood, or iron, etc.) nor its softness or hardness, nor its color, and so on, none of its attributes except this unique one, which we then call its "extension"; "a body is figurable *because* it is extended." And this we do not find from a comparison of diverse cases (as happens in purely physical experiments), but through an intellective intuition that is associated with our observation (this again is a simple "ascertainment") through which we understand: the figurability of a body flows from its extension, from it alone, from it necessarily; and therefore it is simultaneously intuition and abstraction. What, then, is extension? It is that attribute of a body from which alone and from which necessarily its figurability, its divisibility, flows. And this extension is the proper object of geometry. If then we sacrifice this primitive notion, the first among those that we know of a body, this will not happen without immense noetic damage [#f8]_.
+
+.. folio:: 0044
+   :page: 44
 
 Let the reader observe that these exact determinations of notions are legitimate "operative definitions."
 
@@ -253,6 +311,9 @@ In a similar manner the other proposition can be examined: a straight line can b
 
 Let us take an example in which there is mention of a judgment that regards order among points. In :person:`Hilbert <hilbert>` "axioms of order" constitute an entire series. On a "straight line" let three "points" be situated, in this order: :math:`A, B, C`. We determine a fourth point so that it is *defined*: a point on the line between :math:`A` and :math:`B`. It is asked: is it also between :math:`A` and :math:`C`? *After inspecting the figure* the answer is immediately given: it is so, and indeed necessarily.
 
+.. folio:: 0045
+   :page: 45
+
 Then it is asked: is it also between :math:`B` and :math:`C`? After inspecting the figure the answer is given: this is impossible. Let us compare this again with the case in which :math:`D` is defined by a physical note: :math:`D` is a point on the line that is red. Looking at the figure we can answer the same questions; and the answer will be: at one time: it is between :math:`A` and :math:`C`, at another time: no; or it is between :math:`B` and :math:`C`, at another time: no. We judge after the same experiment: we inspect the figure. But in the "mathematical" case, besides the inspection of the nexus between the subject and predicate of the judgment, we have an intuition of the necessity of this nexus; in the "physical" case, of the contingency of the nexus. That the predicate is attributed to the subject (or in negative judgments denied to it) we have from experience; that in the former case the nexus is necessary, even in the concrete we intuit indeed, but through the intuition of the intellect in the phantasm, which there penetrates to essences. According to the words of :person:`Aristotle <aristotle>` :cite:`(*De Anima* III, 7, 431b2) <aristotle:de-anima:431b2>`: τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φαντάσμασι νοεῖ.
 
 *Note.* — One of these judgments was concerning impossibility: it is impossible for :math:`D` to be between :math:`B` and :math:`C`. Let us attend for one moment to this case. We do not judge merely *negatively*, that is, we do not merely fail to see the possibility of this position of the point :math:`D` (defined as: "between :math:`A` and :math:`B`"); but we judge *positively*: we see the impossibility of this position. This observation has importance; let us compare this example with another, with the question: whether an extended entity of four dimensions is possible. If in the same manner we consult the imagination, this will result: first we understand the possibility of an extended entity of three dimensions; then if we inquire concerning a fourth, that which we read in the phantasm is nothing other than this: we do not see its possibility, but from this we do not yet have: the possibility of a fourth dimension is positively excluded by this. It is well worth the effort to weigh carefully both cases and their difference in our internal experience; in the one case (of the point :math:`D`) the impossibility is clearly understood to *flow* from the data, in the other case this resultant from the data is certainly not present. See :cite:`*Cosmologia*, 4th ed., pp. 471–474 <hoenen:cosmologia:471-474>`.
@@ -264,6 +325,9 @@ Then it is asked: is it also between :math:`B` and :math:`C`? After inspecting t
 
 Let us consider a "surface" figure, a triangle. We take a certain truth that is similar to the geometric axiom that was first enunciated by the distinguished :person:`Pasch <pasch>` (in the year 1882!) [#f9]_. We draw a "triangle," that is, a figure consisting of three "straight lines" that intersect at three "points." We draw another "straight line" through the vertex, clearly within the vertical angle. Behold the judgment: If this line is sufficiently prolonged, it will necessarily cut the opposite side, the base of the triangle itself. And again in the sensitive data we intellectually intuit the necessity of this event, which we learn from experience. Let us institute again a comparison with the physical case. If the line that is drawn through the vertex is then defined not as "that which is drawn within the vertical angle" but as "that which is red," it does not follow from this that it will cut the base. If accidentally it is in fact situated within that angle, it will certainly cut it; if not, not. And in these cases this happens, not because it is red, but because it has such a position, as has already been set forth above in the cases of points.
 
+.. folio:: 0046
+   :page: 46
+
 The inverse proposition also holds in the "mathematical" case. The line that joins a point of the base with the vertex is situated within the vertical angle. In the first proposition the subject was defined thus: "a straight line within the angle," and from that determination the predicate necessarily flows: "is cutting the base." In the second proposition the matter stands in the inverse way, but there too the nexus is known as necessary. In both cases one flows from the other. And in both cases we need a sensitive datum so that we may know *what the predicate is*, which, *as we already intuit in advance*, will be necessarily connected with the subject. This latter point will be even clearer in the following examples, which we add for that reason. These no longer constitute an "axiom" (that is enunciated), but certainly an "immediate" judgment.
 
 .. _caput-2-en-s2-6:
@@ -273,15 +337,24 @@ The inverse proposition also holds in the "mathematical" case. The line that joi
 
 These are other examples from "topology" (which in our case of "inexactitude" can also be called morphology). Let us imagine, or take in reality, certain sheets, made of whatever matter, that have roughly cylindrical shapes. We can cut them, even physically, in a twofold manner; either (roughly) along a "describing line" or (roughly) perpendicularly to them or to the axis of the cylinder. What results in the first case? As is clear from inspection of the phantasm or from the physical execution of the division: one surface results, which is still connected (which can be unrolled into a plane). What in the second case? There result, as is clear in the same manner: two cylindrical surfaces, no longer connected. Behold the experimental element. Yet it is not a pure physical experiment; for once again we are in the case in which we intuit the necessity of the nexus between the subject (a cylindrical surface divided in such or such a manner) and the predicate (is divided into one or two surfaces respectively). We intuit that the predicate necessarily flows from such an operation exercised upon the object. (We shall examine the case even further immediately). He who has a sufficiently vivid imagination can inspect this in the phantasm: he who does not, will need the physical execution of the operation, but he too, before he inspects what results, intuits that the future effect will necessarily flow from the operation; to know *what* that effect is, he needs a physical experiment (but one suffices); this will be even clearer in the following example.
 
+.. folio:: 0047
+   :page: 47
+
 *On the* "*Möbius strip*." It is a question of the surface called by this name because the distinguished :person:`Möbius <moebius>`, a mathematician of the preceding century, discovered it. We can construct it physically thus. Let us take a strip (for example, of paper) that has the figure of an oblong rectangle, whose width is quite small; its ends (the short sides), after a twist through an angle of 180 degrees, that is, through a half revolution, we join to one another with glue. Thus arises a surface that is similar to a cylinder (of small height), but in it one twist is present; the operation is easily executed. This surface is the ":person:`Möbius <moebius>` strip." Later we shall consider it in another question.
 
 It is accustomed to be called a "unilateral" surface for this reason. Let us draw a line on it in the middle of the surface. Beginning from any point, after a complete circuit, we return to the same point. But then we observe that this line is drawn on both faces of the surface: without penetration through it, without transition across its boundary; it seems to have only one side.
 
 Let us now cut this strip along the line drawn in the middle of the strip, parallel to its edges; we have a division of the strip that corresponds to the second cut that we applied above to the cylindrical strip, and from which two cylindrical strips resulted. What will arise from this cut? The imagination of most men will not be so vivid that they can read in the phantasm what results. But the actual execution of the division teaches that there arise not *two* surfaces, but *one* only, which is similar to the first, but has two twists. (If this strip is again subjected to the same operation, two surfaces arise, but which are linked together like two links of a chain) [#f10]_. This certainly cannot be inspected except after the operation has actually been executed.
 
+.. folio:: 0048
+   :page: 48
+
 Behold, that we may affirm this effect in judgment, we need sensitive experience, indeed physical manipulations. But this experience is associated with the intuition, which we have, of the necessity of that which is thus taught by experience. In this it differs from ordinary physical experience; but it agrees in this, that before the experiment we do not have the notion of the predicate that is to be attributed to the subject. We knew indeed: from that cut of the surface figure, something superficial will arise; the genus was known, but that the effect may be determined in our cognition according to its specific essence, we need experience and indeed real experience, but one experiment suffices.
 
 That an intuition of necessity is present here, both with respect to the genus and with respect to the specific difference, is not to be wondered at. Before the experiment we knew that the effect of the operation does not depend upon the material of the surface; it does not matter whether it is metal, or wood, or paper, or an elastic body. The properties of the material can indeed influence the force that we must apply in order to cut it, but not the topological structure. The only thing that matters for this is the figure of the object as it is extended. This independence from the nature of the matter we do not draw from this last experience; we intuit it through abstraction (concerning which immediately) and *therefore* this experiment becomes a truly intellectual experience.
+
+.. folio:: 0049
+   :page: 49
 
 In the origin of this necessary judgment, therefore, experience itself truly influences as a motive; it determines *what* is to be affirmed, it determines the specification of the predicate, it does not determine the necessity.
 
@@ -305,6 +378,9 @@ This experimental element, in simpler cases, can be that which today is called a
 
 Let us compare this again with a physical judgment, even a certain one, that is expressed by a physical law. "If a glass rod is rubbed with a silk cloth, it attracts light bodies, for example small pieces of paper." This judgment we certainly do not enunciate immediately as general and certain, but only after many experiments, through physical induction (in the modern sense). Another example can be: "a heavy body that is left to itself here falls to the earth." Concerning both judgments surely no one will doubt. Do they express a necessity of nature? Concerning this matter, on account of the constancy of the facts, we will be able to be convinced. But do we *intuit* the necessity, is the *nature* of the nexus between subject and predicate ("rubbed glass is attracting," "a heavy body falls") clear to us? Let us compare these physical laws with the individual examples set forth above, and we see the greatest difference. In the individual mathematical cases we *understand* that the predicate is necessarily connected with the subject, flowing from it; even in cases in which only after the experiment, after the operation, do we know what precisely the predicate is. The understanding of this difference between mathematical and physical cases is also a certain "ascertainment" (*constatatio*) of internal intellectual experience; in mathematical cases we have not only an intuition of the subject and predicate, but moreover of the necessary nature of the nexus; this intuition is lacking in physical cases. For this reason scientists inquire into an "explanation" of the constant fact, that is, into an intellective element that does not (yet) appear. And so in physical judgments the intellect only repeats (in a general way, if the case warrants it) what the sense perceives; in the others the intellect transcends the senses. It is of great benefit to attend longer to that diversity; to those physical examples we shall return immediately.
 
+.. folio:: 0050
+   :page: 50
+
 .. _caput-2-en-s3-2:
 
 2. *Once Again on Theories of Geometric Knowledge in Relation to Experience.*
@@ -314,6 +390,9 @@ If anyone has this diversity well understood, he will immediately understand the
 
 Briefly it can be said: empiricism neglects the *diversity* between physical and mathematical cases, which consists in this, that in physics an intuition of the necessary nature of the nexus is lacking, which in geometry is manifest.
 
+.. folio:: 0051
+   :page: 51
+
 Yet every theory that assumes as a foundation: "from experience a necessary judgment cannot be drawn," every rationalistic theory therefore, lacks value from its very beginnings. So the theory of :person:`Plato <plato>`, which otherwise no one will now defend. So the theory of :person:`Kant <kant>`, who erects this proposition truly as the principle and foundation of his doctrine. Without any justification he asserts it; whence there can be no question of examining his arguments in this matter; he simply affirms it, neglecting the experimental element in geometry. This cannot be explained except from the fact that in advancing this proposition he attended solely to physical laws, or that he admitted it on the authority of :person:`Hume <hume>`. That this Kantian principle is false follows from our entire exposition, or rather from the individual examples that we have seen.
 
 The doctrine of :person:`Aristotle <aristotle>` must therefore be admitted: there is nothing in the intellect that was not previously in sense [#f11]_; and indeed this doctrine is not only to be understood of notions themselves considered separately, but, with :person:`Aristotle <aristotle>`, also of the existence of the nexus between subject and predicate that is affirmed in judgment; the consideration of the notions of subject and predicate does not suffice; to affirm the nexus we again (or simultaneously) need experience. This is the doctrine of :person:`Aristotle <aristotle>` in the final chapter of the :cite:`*Posterior Analytics* <aristotle:anal-post:II.19>`, where he treats of the origin of the first principles of science; this we already heard in two texts that it is helpful to repeat here: :cite:`*Anal. Pr.* I, 30, 46a17 <aristotle:anal-prior:46a17>`: διὸ τὰς μὲν ἀρχὰς τὰς περὶ ἕκαστον ἐμπειρίας ἐστὶ παραδοῦναι and :cite:`*De Anima* III, 7, 431b2 <aristotle:de-anima:431b2>`: τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φαντάσμασι νοεῖ.
@@ -322,11 +401,17 @@ This is the doctrine that :person:`St. Thomas <aquinas>` professes, where he att
 
    "Those things that are known to us through themselves are made known immediately through sense; just as upon seeing the whole and the part we immediately know that every whole is greater than its part without any investigation."
 
+.. folio:: 0052
+   :page: 52
+
 Let us compare this example with a similar physical one. We see two surfaces; a greater :math:`A`, which is red, and a smaller :math:`B`, which is blue; and in a threefold judgment we express what we see: :math:`A` is red and :math:`B` is blue and :math:`A` is greater than :math:`B`. It is a purely copulative judgment. Then we inspect two surfaces, of which :math:`A` is the whole, of which :math:`B` is a part, and we judge: :math:`A` is the whole and :math:`B` is its part; *therefore* :math:`A` is greater than :math:`B`. We have a causal proposition; on account of this intuition, which is lacking in the former case: the relation of magnitude flows necessarily from the relation of whole and part [#f12]_.
 
 This doctrine seems to have been abandoned by those modern Scholastics who think that the consideration of notions suffices without experience of the nexus (cf. :cite:`art. cit. in *Gregorianum*, 1933 <hoenen:1933:153-184>`); but it is still clearly set forth and defended by :person:`Cajetan <cajetan>`. Let us recall the words indicated above at the end of the preceding section.
 
 That we may better understand how sensitive data according to the words of :person:`Cajetan <cajetan>` are the "proper *motive* or *determinant* of the intellect" in affirming a principle, let us recall also another example proposed above concerning the relation "between," where to three points :math:`A, B, C`, situated in that order on a line, we added a fourth, :math:`D`, between :math:`A` and :math:`B`. From the position of point :math:`D` (between :math:`A` and :math:`B`) we understand that the relation of position necessarily flows, both with respect to :math:`A` and :math:`C` and with respect to :math:`B` and :math:`C`; and this position we then affirm, attributing the predicate. This, as consciousness testifies, cannot be done except by inspecting the figure either in the imagination or drawn in reality. Whence do we have it that we in fact affirm: "it is necessarily so"? Certainly from the operation of the intellect abstracting and intuiting. Whence do we have *that which* is affirmed (namely such a position with respect to :math:`A` and :math:`C` or with respect to :math:`B` and :math:`C`)? From sensitive intuition. Under this respect, and under this alone, is it true what :person:`Cajetan <cajetan>` says: The sensitive datum is the "motive or determinant" [#f13]_.
+
+.. folio:: 0053
+   :page: 53
 
 .. _caput-2-en-s3-3:
 
@@ -341,6 +426,9 @@ In the first case we inquired how many divisions of the number 5040 there are. T
 
 In a similar manner the matter stands where there is mention of the multitude of prime numbers, of combinatorics, of the addition of 5 to 7. In geometric cases too the same is found. In the extended the first proper attribute is: it can be divided; the other is: through division there arise again extended entities of the same kind, from a line a line, and so on. And conversely two extended entities of the same kind can be added, and a greater extended entity of the same kind arises. A cylindrical surface or a :person:`Möbius <moebius>` strip can be divided; through division surfaces arise again. How many and of what species they are, experiment reveals, whether mental or even real. In these cases too judgments concerning those first proper attributes, which are nevertheless necessarily presupposed, are not explicitly enunciated by him who pronounces the final judgment (concerning what results). The movement of the mind (*le mouvement de la pensée*) implies such judgments, but the individual phases of this movement are not enunciated.
 
+.. folio:: 0054
+   :page: 54
+
 A fortiori this movement is not explicitly syllogistic; indeed not even implicitly. Let us take again the addition :math:`5 + 7 = 12`. That this judgment may have meaning — as set forth above — these truths must be presupposed: multitude can be added to multitude; next: addition generates a (greater) multitude; only then can this be specifically determined by performing computation. This movement does not take place in a syllogistic manner; if the matter stood thus, it would be discharged by this or a similar process:
 
 1) Every multitude can be added to multitude. But 7 and 5 are multitudes. Therefore 7 and 5 can be added to each other.
@@ -350,6 +438,9 @@ A fortiori this movement is not explicitly syllogistic; indeed not even implicit
 3) Every multitude resulting from addition can be specified by counting. But (as is clear from experiment) in specifying the multitude that results from adding 5 to 7, by counting we arrive at 12. Therefore :math:`7 + 5 = 12`.
 
 It is clear that the process of our mind is different. There is no need that we should already know those three *universal* major premises before this process. Considering *these* multitudes (7 and 5) we immediately discover that they can necessarily be added to each other; in the *particular* case we understand, "by inspecting in the phantasm," the necessity of this proper attribute; and that suffices. Again in the same manner immediately in this particular case we understand that from their addition a (greater) multitude necessarily arises. Whence this is not the process: we know *universal* truth (major premises) and discover (in minor premises) that they can be applied here; but rather it is this: we discover *immediately* the necessary truth of the two conclusions of those syllogisms, one immediately after the other. (And, if we do not wish to proceed to the computation of the resulting number, we can reflect upon these truths and say: this multitude and that other, *because they are multitudes* — for that we intuit — can be added to each other. Therefore every multitude can be added to multitude. But thus we have a movement *opposite* to that syllogistic movement) [#f14]_. Then applying (again without a syllogism) computation, we find the number 12. That process is in no way syllogistic, not even implicitly; syllogisms are not only not enunciated, but, as is clear from our analysis, are not even present in the mind. Nevertheless in our mind there is a progressive process from one thing to another.
+
+.. folio:: 0055
+   :page: 55
 
 .. _caput-2-en-s3-4:
 
@@ -364,12 +455,18 @@ Come now, in the case of the judgment that we are considering (:math:`7 + 5 = 12
 
 Thus, if we are not mistaken, the process that leads to the judgment :math:`7 + 5 = 12` must be explained; but, as is evident, it is exercised much more swiftly than it is described here. If, however, the matter stands thus, it not only does not consist in a series of syllogisms, but not even in implicit judgments, that is, which are affirmed indeed but not enunciated, which are mental *affirmations*; only *virtually* are these judgments present, and at individual moments can pass into actual judgments. From this theory the fact is easily explained which recurs frequently in "analytics," that is, in the resolution to first principles. Often it is difficult to enunciate all first principles explicitly. Sometimes even after a long and laborious analysis, principles remain that were always applied, never enunciated, even by those who wished to enunciate everything. Thus in geometry, axioms of order, of which we saw some above, were always applied, before the distinguished :cite:`Pasch (1882) <pasch:1882>` [#f16]_ never enunciated; they remain latent and are not discovered precisely because they are so clear, so "meager" (*ieiuna*). And in our theory that is all the more explicable, because in the mind itself they are present only as elements of the first operation of the mind which immediately, before they are affirmed, are joined with new elements into a more complex idea; these affirmations are not present except virtually in the judgment that follows. And the two truths that are presupposed before the judgment :math:`7 + 5 = 12` seem to be such; for we confess that we do not know where they were enunciated. And perhaps on account of the same reason many of those things that have been said in this chapter, not concerning mathematical principles, but concerning our mind's mode of operating, are not accustomed to be described. But that these considerations are necessary in the general philosophy of human knowledge seems to be clear.
 
+.. folio:: 0056
+   :page: 56
+
 .. _caput-2-en-s4:
 
 § 4. ON THE MATERIAL AND FORMAL NEXUS [#f17]_
 ---------------------------------------------
 
 The theory of :person:`Aristotle <aristotle>` therefore seems to be the only one that takes account of those things that reflection upon the origin of these mathematical judgments teaches; it is the only one that does not deny to experience its influence, which it in fact possesses. But how is it explained, if on the other hand it is clear that in physical judgments, which have the same origin, this intuition of the necessity of the nexus, which nevertheless can be present, is lacking? A full explanation we shall give elsewhere; here we add certain things, sufficient as we hope.
+
+.. folio:: 0057
+   :page: 57
 
 .. _caput-2-en-s4-1:
 
@@ -386,6 +483,9 @@ Cases exist in which from the very form of the subject the form of the predicate
 
 Other cases are those in which the form of the subject necessarily *presupposes* the form of the predicate, for example: "that which acts, is," "I who think, am."
 
+.. folio:: 0058
+   :page: 58
+
 In all these cases not a material nexus only (purely material) is had, but a nexus that can be called *formal.* The predicate is to be affirmed of the subject "by reason of the form imported by the subject"; so :person:`St. Thomas <aquinas>` (:cite:`III *Sent.*, d. 11, q. 1, a. 4, ad 6 <aquinas:sent:III.11.1.4.ad6>`): "for the truth of a proposition it suffices that the predicate belong to the subject in any manner whatever; but for a proposition to be per se, it must belong to it by reason of the form imported by the subject."
 
 .. _caput-2-en-s4-2:
@@ -399,6 +499,9 @@ The second case that we described occurs very frequently in physical sciences, w
 
 Thence the difference that we found above in fact between physical and mathematical cases we can now explain more fully. The greatest difference is not this: that in physics only after long and repeated experiments can a general law be established (in experiments in which it is a question of determining specific "constants," a single experiment can suffice) whereas in mathematics a single experiment, indeed often a "thought experiment" that is accomplished in imagination, suffices. Yet that a single experiment may suffice, there is prerequired even in mathematics long experience and preparation in the sensitive faculties, which is already exercised in infancy itself, so that notions may be sufficiently understood by us and can be abstracted. That too is the doctrine of :person:`Aristotle <aristotle>` and :person:`St. Thomas <aquinas>` at the end of the :cite:`*Posterior Analytics* <aristotle:anal-post:II.19>`, and of :person:`Cajetan <cajetan>` also, who very well describes this preparative sensitive process (see his words resumed in the article cited above :cite:`*De origine principiorum*, p. 159 <hoenen:1933:159>`). But the difference is above all in this: in mathematical cases we *intuit* the necessity, in physical laws we *conclude* that it is present. And thence it arises that in physics, even after long experience, we see only a material nexus (constant certainly), not the formal nexus (which must be present); in mathematics, however, both we observe the material nexus (each form is in the same suppositum) and at the same time we intuit, with the intellect certainly, the formal nexus.
 
+.. folio:: 0059
+   :page: 59
+
 Immediately we shall make a further step in explanation. First in passing we wish to note one thing. Those general physical judgments presuppose, as was said, the necessity of the nexus; whence they presuppose a formal nexus between subject and predicate; whence *in themselves* they will have to be *intelligible.* But this intelligibility is not evident *to us* in a pure physical law. Because nevertheless it must be present, the further task of science is to discover it. And to this precisely physical *theories* serve, which attempt to attribute this intelligibility, the formal nexus itself, to laws. But the examination of the mode in which science and natural philosophy attain this goal does not pertain to this work. Many things concerning this question are found in our :cite:`*Cosmologia* <hoenen:cosmologia>`.
 
 .. _caput-2-en-s4-3:
@@ -410,7 +513,13 @@ From our internal experience we have: judgments are present (mathematical cases)
 
 How can we arrive at enunciating a physical law, well determined, in such a way that conviction concerning that formal nexus, to us nevertheless not transparent, arises? By means of physical induction, so called, in which many times the circumstances of experiments are varied, so that those properties of bodies that do not influence the outcome of the experiment (that is, the predicate to be determined) are eliminated from the enunciation and the rest are retained. This takes place according to methods that have been described, more or less successfully, by :person:`Stuart Mill <mill>`. Thus help is had for judging what properties are required in a body so that another may follow. These properties will constitute the form that in the judgment expressing the law determines the subject, that other thing will be the predicate. This method could be called "physical" or "experimental abstraction"; for by choosing diverse circumstances, now one and then another property that can influence the effect we omit; from them therefore we "physically abstract." Subjecting an object to this method, at length we can arrive at a judgment that expresses a formal nexus, which nevertheless in its nature is not manifest to us. Whence there remains, as said above, the necessary task of physical theory, which must inquire into this nature; that intelligibility is present we know; what it is, we do not yet know.
 
+.. folio:: 0060
+   :page: 60
+
 Far otherwise does the matter stand in mathematical cases. Let us recall the example of the division of cylindrical strips; by a transverse section two strips arise, again cylindrical, by a longitudinal section one surface only, which can be developed into a plane. Do these effects depend upon color, hardness, and innumerable other qualities of the material of the cylinders? Certainly not. Does this become known, as above in a physical law, through multiple experience that selects and examines materials of diverse qualities? Certainly not so. Each of us understood what results immediately, whether in a single physical execution, or — for perhaps none of us ever subjected a cylindrical strip to division in this way — in imagination alone. Behold: our mind itself has the aptitude in such a case of *abstracting the form that matters* from the matter with forms that do not matter. The form that matters here is extension with its figure, and immediately we understand that from this alone depends what will result in a determinate section (what this is, experiment then reveals); immediately we understand that this does not depend upon colors, upon other qualities, upon the physical essence of the body that is divided. For in this positive intellection abstraction consists, not merely in *not considering* sensible qualities: intuitively we understand that these qualities have no importance.
+
+.. folio:: 0061
+   :page: 61
 
 But thus we have that which by Scholastics is accustomed very well to be called *formal abstraction*, that is, abstraction of form (transparent to us) from matter (to us, at least not so transparent).
 
@@ -423,6 +532,9 @@ Even in physics we can approach this perfection, so that from a single experimen
 And now it is an excellent epistemological exercise, if the reader examines again the individual examples, recounted above, under this newly acquired light. It will be clear to him that the Aristotelian theory of formal abstraction contains the entire explanation of the problem of the *necessity* of immediate mathematical judgments; the judgments are necessary, although that we may affirm them we need experience, although we abstract these truths from sensitive data. Whence mathematics was simply called by :person:`Aristotle <aristotle>`: :term:`τὰ ἐξ ἀφαιρέσεως <ta-ex-aphaireseos>`.
 
 In the individual examples we find in our mind the intuition of the external senses, the intuition of the imagination, but moreover an intellective intuition, which considers what the phantasm represents, so that in it it may intuit the necessary nexus: ταῦτα ἐστὶν οἷον ὁρᾶν τῇ νοήσει. Because it inspects in the phantasm, it will be an *intuition conjoined with abstraction*; abstraction is present, but because this is formal, therefore intellective intuition is associated with it.
+
+.. folio:: 0062
+   :page: 62
 
 *Note* 1. — In formal abstraction a certain form is abstracted from a certain matter. Let us note well that here it is not always a question of physical form in relation to physical matter. Here "form" is an element in the object that is transparent to us; matter is an element in the same object that is more or less obscure to us, as is clear from the entire exposition. And so this matter, from which abstraction is made, physically can be a form. Thus in all our examples abstraction must be made from colors, from other qualities (besides figure), from the specific nature of bodies, all of which physically are forms or presuppose forms. But these physical forms are less transparent to the human mind than quantity itself, whether discrete or continuous; therefore for it they are like matter, less knowable.
 
@@ -438,6 +550,9 @@ Matter, therefore, from which abstraction is made, is not always physical matter
 
 :person:`St. Thomas <aquinas>`, in his final words, calls quantified substance "intelligible matter"; which confirms what was said by us: in formal abstraction, form is that which is transparent to us; for this intelligible matter is that which through formal abstraction remains in our mind. :person:`Aristotle <aristotle>` uses the same expression :term:`ὕλη νοητή <hyle-noete>` to describe extended being. It is called "matter" because from it mathematical figures are made; and "intelligible" because to the human mind it is entirely transparent.
 
+.. folio:: 0063
+   :page: 63
+
 It is called matter because it is *potency* to those figures as to its acts. This Aristotelian notion of potency, if we are not mistaken, will be able and must serve to elucidate many questions that are raised in modern mathematical philosophy.
 
 *Note* 2. — Let these things said concerning the problem of necessity suffice. Again we observe that in these matters points, lines, straight lines, surfaces, strictly so called, have never been considered, but only those that can be perceived by the senses and that are roughly such.
@@ -445,6 +560,9 @@ It is called matter because it is *potency* to those figures as to its acts. Thi
 For these all things that we have said already hold. But for that reason we do not yet have the most general principles; but rather specific ones, though certainly necessary. We always looked at a determinate case in the phantasm (numerically determinate therefore), but concerning this case (in the intellect certainly no longer numerical, particular, but specifically determined by the most specific species) a necessary judgment already held. Certain ones also immediately had a greater universality, but not yet a perfect one; that this may be had, the problem of exactitude must also be considered. For: where there was mention of the divisibility of a line, we have not yet spoken of divisibility to infinity, for that this may be established, points strictly so called must also be considered. So in :person:`Pasch's <pasch>` axiom, the line through the vertex of the triangle must not approach too close to one of the sides, because then the axiom that says that two straight lines cannot have two common points must be considered, which again presupposes the problem of exactitude. But all these things have no influence upon the problem of necessity, which therefore is solved independently of this universality.
 
 One thing we wish to note further in relation to the saying of :person:`Einstein <einstein>` of which we spoke in the first chapter. From what has been said it clearly follows that those moderns err entirely who wish to equate geometry (applied to natural bodies) completely with physical sciences. This they do on account of the difficulties of the problem of exactitude. Now, even if this problem were insoluble, this would remain true: the truths of approximate geometry, of which we have now treated, differ by the whole heaven from physical laws; on account of the intuition of necessity that is associated with the former, and is lacking in the others. This too is an experimental fact, an "ascertainment" (*constatatio*), but an intellective one. And this intuition must be attributed to formal abstraction, of which the human mind in relation to mathematical matters is capable.
+
+.. folio:: 0064
+   :page: 64
 
 And thus in these considerations our principal goal already seems very well attained: we know the mode of acting, the activity, of our intellect in these specifically determinate activities. According to :person:`St. Thomas <aquinas>` from the object the act is known, from the act the potency, with respect to their noetic nature.
 

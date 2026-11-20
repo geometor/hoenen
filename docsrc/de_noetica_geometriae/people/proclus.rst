@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/proclus/
 :github_url: https://github.com/geometor/proclus
 :excerpt: Role: Neoplatonic Philosopher & Commentator on Euclid*
+:folio: 0022
+:page: 22
 
 .. _person-proclus:
 

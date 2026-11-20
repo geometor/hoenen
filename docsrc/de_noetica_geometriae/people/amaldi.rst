@@ -4,6 +4,8 @@
 :death_label: 1957
 :lifespan: 1875 – 1957
 :excerpt: Role: Italian Mathematician*
+:folio: 0132
+:page: 132
 
 .. _person-amaldi:
 

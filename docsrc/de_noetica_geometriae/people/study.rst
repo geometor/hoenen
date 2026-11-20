@@ -4,6 +4,8 @@
 :death_label: 1930
 :lifespan: 1862 – 1930
 :excerpt: Role: German Mathematician*
+:folio: 0020
+:page: 20
 
 .. _person-study:
 

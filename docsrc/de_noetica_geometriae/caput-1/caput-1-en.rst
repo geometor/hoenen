@@ -1,9 +1,13 @@
 :layout: book
+:title: Chapter I: On the Origin of Geometric Knowledge and Its Problematics
+:lang: en
+:folio: 0009
+:page: 9
 
 .. _caput-1-en:
 
-CHAPTER I
-=========
+Chapter I: On the Origin of Geometric Knowledge and Its Problematics
+====================================================================
 
 .. rubric:: ON THE ORIGIN OF GEOMETRIC KNOWLEDGE — AND ITS PROBLEMATICS
 
@@ -11,6 +15,9 @@ CHAPTER I
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0009
+   :page: 9
 
 We begin with a very concise exposition of the historical development of the problems surrounding geometric knowledge, from :person:`Plato <plato>` and :person:`Aristotle <aristotle>` onward. In what follows, we will not presuppose the doctrine of :person:`Aristotle <aristotle>` (and of the Scholastics); we shall only inquire whether within it are found principles and data that contain the solution to noetic problems, even modern problems. Nor do we wish to exclude an interpretation of certain texts of :person:`Aristotle <aristotle>` that differs from our own. But we are convinced that we have found in :person:`Aristotle <aristotle>` illumination for the study of modern problems, and conversely, in the latter, the means for interpreting :person:`Aristotle <aristotle>`.
 
@@ -20,6 +27,9 @@ We begin with a very concise exposition of the historical development of the pro
 -------------------------------------------------------------
 
 The general epistemology of :person:`Aristotle <aristotle>` is set forth primarily in his *Analytics*, and for our specific subject, above all in the *Posterior Analytics*. These treat principally of "science" in the strict sense (:term:`ἐπιστήμη <episteme>`), which constructs apodictic demonstrations, and which is contradistinguished from "intellect" in the proper sense (:term:`νοῦς <nous>`), which apprehends the *first principles* from which demonstrations take their start. The *Prior Analytics* study the instruments of demonstration, that is, syllogisms according to their *form* alone; such a syllogism, even when "valid," can be constructed from premises that are neither certain nor true. The *Posterior Analytics* take as their object *demonstration* strictly so called, whose premises are true, certain, and necessary, that is, the syllogism that produces scientific knowledge in the strict sense. In this, not only the form, but also the *matter* and content must be considered. Here is a paraphrase of the commentary of :person:`St. Thomas <aquinas>` (:cite:`*Anal. Post.* I, lect. 6 <aquinas:anal-post:I.6>`) expounding these distinctions.
+
+.. folio:: 0010
+   :page: 10
 
 :person:`Aristotle <aristotle>`, in his investigations, proves that in demonstration, the analysis (resolution) that examines the premises of a conclusion cannot be extended to infinity, and that a strictly circular demonstration is likewise invalid. Analysis must therefore discover primitive propositions, first principles, axioms, postulates, and hypotheses. This is said of propositions insofar as they are elements of syllogisms.
 
@@ -33,6 +43,9 @@ Consequently, a twofold problem is considered in these books: 1st, the problem o
 
 It appears clear that all these matters are not considered in the abstract, that is, in such a way that no *specialized* science is examined, and that this holds true above all in the second problem, inasmuch as it must primarily consider the *matter* of propositions, "because propositions that are *per se* and necessary are taken."
 
+.. folio:: 0011
+   :page: 11
+
 Hence :person:`Aristotle <aristotle>`, in these investigations, almost always keeps before his eyes as the archetype of science: geometry—both when he treats of demonstrative science in general, and, as is self-evident, in the very numerous cases in which he draws examples from geometry. :person:`St. Thomas <aquinas>` notes this at the very beginning of his commentary; he says (:cite:`*Anal. Post.* I, lect. 1, n. 10 <aquinas:anal-post:I.1.10>`):
 
    "[:person:`Aristotle <aristotle>`] manifests the premised proposition through induction. And first in demonstrative matters wherein science is acquired. Among these, however, the mathematical sciences are more principal, on account of their most certain mode of demonstration."
@@ -43,11 +56,17 @@ The geometers themselves, therefore, in constituting their science, carried out 
 
 This doctrine reappears, as it seems, in a more developed form in :person:`Aristotle <aristotle>`. He distinguishes (:cite:`*Anal. Post.* I, ch. 2 <aristotle:anal-post:I.2>`) among the propositions that serve as principles of the sciences: those that are :term:`ἀξιώματα <axioma>` (common conceptions of the mind, dignities) from those that are either :term:`ὑποθέσεις <hypothesis>` (suppositions) or :term:`αἰτήματα <aitema>` (petitions, postulates). The difference may be briefly described thus: an :term:`ἀξίωμα <axioma>` is evident to anyone; not so those other propositions. A principle of a specialized science, if it accords with the opinion of the learner, will be a *supposition*; if not, it will be a *postulate* [#f1]_. :person:`Plato <plato>` too had already spoken of the :term:`ὁμολογία <homologia>` [agreement] that exists between teacher and learner (:cite:`*Rep.* VII, 533c <plato:rep:VII.533c>`). Yet all these principles must be received by the geometer from another, higher science, whether they are proved in it through demonstration strictly so called, or through the consideration of terms. This other science, which is assumed in place of Platonic dialectic and from which the specialized science receives such principles, is according to :person:`St. Thomas <aquinas>` either metaphysics (:cite:`*Anal. Post.* I, lect. 5, n. 7 <aquinas:anal-post:I.5.7>`; :cite:`lect. 17, n. 4 <aquinas:anal-post:I.17.4>`) or "natural philosophy" (:cite:`*ibid.*, lect. 5, n. 7 <aquinas:anal-post:I.5.7>`); but it is always philosophy.
 
+.. folio:: 0012
+   :page: 12
+
 It is clear that in Peripatetic philosophy it is the office of the *philosopher* to determine concerning the first principles of geometry—and this will become even clearer from the following chapters—whether you attribute that office to metaphysics, to natural philosophy, or to a branch of philosophy distinct from these, which you may call the theory of knowledge or noetics.
 
 The resolution of geometric propositions leads therefore to certain primary propositions, and in carrying out this resolution itself, almost everything will have to be left to the mathematicians themselves; only general matters, which, as we were saying, concern the general structure of science, will also have to be considered by the philosopher, as well as the activity of the human mind in the individual operations that constitute the science; for these without any doubt pertain to the epistemologist. Yet in examining the value of principles, the principal office falls upon philosophers. We can carry this out for a twofold end. The first is this: that *all* the foundations, as they say, of a *complete* geometric science may genuinely be proved to be justified, so that it becomes truly manifest that the entire science of geometry can be safely constructed upon these foundations; toward this completeness we shall not strive in our lectures, although we shall treat the principal questions.
 
 Yet there is also a second end of this philosophical inquiry: we shall discover conclusions (and perhaps methods) that will have great value for the *general theory* of knowledge. One point we bring forward now, leaving the rest to be seen in the course of the work. This theory certainly cannot be constructed unless the *judgment* of the human mind is examined in relation to its meaning, its origin, and its value. In order to evaluate judgment itself, however, it does not suffice to premise some general definition of judgment and analyze it; rather, certain determinate judgments must genuinely be elicited—they must therefore arise in our mind—and these judgments must be considered as to their origin and value [#f2]_. Just as we inspect these necessary and universal judgments themselves in concrete cases by an intuition of the mind—examples will abound in the course of our exposition—so too the universal theory of judgment itself shines forth from apt determinate judgments, which are then no longer considered merely as judgments of such a specialized science, but as specimens of judgment itself as such, which reveal the nature of this operation of the human mind to the mind itself. Examination of mathematical principles will furnish the very best specimens of this kind, if indeed what we heard :person:`St. Thomas <aquinas>` saying is true, namely that this science possesses the most certain mode of *demonstration*. For demonstration comprises not only rectitude of form, but also and especially the known necessity of the matter, and hence the necessity of principles. Whence it is wrong for a philosopher who devotes himself to the theory of knowledge to neglect these principles.
+
+.. folio:: 0013
+   :page: 13
 
 .. _caput-1-en-s2:
 
@@ -58,11 +77,17 @@ All these considerations must be urged in our time more than ever before. To und
 
 Up to roughly the middle of the preceding century, the common opinion both of philosophers and of mathematicians—and indeed of the entire human race—was this: that mathematical knowledge is ultimately drawn from the data of sensibility, whether from the external senses or from the imagination. In further explanation, to be sure, there was a diversity of opinions. For :person:`Plato <plato>`, on account of the imperfection of sensibility, the data of the senses were nothing more than the occasion or preparation required in order that the mind might recollect for itself what it had previously seen by mental intuition (see :cite:`*Meno* 82b-85b <plato:meno:82b-85b>` and elsewhere). And mathematical forms themselves, as it seems, could only be imperfectly participated in by sensible things. Aristotle held that "mathematicals" (:term:`τὰ ἐξ ἀφαιρέσεως <ta-ex-aphaireseos>`) are obtained through abstraction from sensitive data, both as regards notions and as regards first principles, which themselves are also said to be known through a kind of induction [#f3]_. Not, to be sure, in such a way that the judgment of the mind merely reproduces what the senses report; rather, just as in the abstraction of ideas from sensitive data there is an operation of the agent intellect, so too in the origin of those judgments that are first principles there is a similar operation that transcends sense and attains the nature; in the data of the imagination, the mind itself by a true mental intuition inspects natures (:cite:`*Anal. Post.* I, 12, 77b30 <aristotle:anal-post:I.12.77b30>`): ταῦτα (i.e., mathematicals) δ' ἐστὶν οἷον ὁρᾶν τῇ :term:`νοήσει <noesis>` ["these things are, as it were, to see by intellection"]. Cf. :cite:`*De An.* III, 8, 432a5-9 <aristotle:de-anima:III.8.432a5-9>` (:cite:`St. Thomas, lect. 13; Pirotta n. 791 <aquinas:de-anima:III.13.791>`), :cite:`*ibid.* III, 7, 431a14-16; 431b2 <aristotle:de-anima:III.7.431a14-b2>` (:cite:`St. Thomas, lect. 12; Pirotta nn. 770-772, n. 777 <aquinas:de-anima:III.12.770-777>`).
 
+.. folio:: 0014
+   :page: 14
+
 By :person:`Kant <kant>`, a subjective form of external sensibility is devised to explain the necessity of geometric knowledge. Concerning this opinion we shall say more later; for now let it suffice to have noted that even in this opinion an intuition (though not an intellective one) through the phantasm is admitted, which is supposed to explain the origin of geometric knowledge.
 
 These schools therefore agree in admitting the *necessity* and *exactitude* of mathematical knowledge. In the preceding century, empiricism, especially as set forth by :person:`Stuart Mill <mill>`, entirely admits the origin of mathematical knowledge from the data of the senses, but on that account equates it entirely with physical knowledge, so that it denied both the apodictic necessity and the all-around exactitude that the human race had always attributed to mathematical knowledge.
 
 This empiricist theory we shall later be able to dispatch in short order as inept; yet it well indicates two problems whose solution the epistemologist will have to find if he wishes to vindicate *necessity* and *exactitude* for mathematical knowledge. This is exceedingly urgent today, not on account of that empiricist theory, but on account of modern theories that take their origin from these difficulties. For these theories reject the classical theories in their entirety, and by that very fact thoroughly overthrow the age-old conviction that mankind held concerning the value of geometric science. The duty of examining these problems is therefore without any doubt pressing.
+
+.. folio:: 0015
+   :page: 15
 
 .. _caput-1-en-s3:
 
@@ -75,6 +100,9 @@ This problem is found, as has been said, both in geometry and in arithmetic. Yet
 
 Not everyone describes this second problem well; :person:`Kant <kant>` seems not to have attended to it at all; in modern problematics it plays the leading role, although, as we shall see, not everyone has been able to express it clearly in every problem.
 
+.. folio:: 0016
+   :page: 16
+
 Modern theories therefore arise above all from the difficulties of the second problem; of the problem of necessity—except in a single case, of which later—they speak little; it seems to be regarded as solved from the fact that they describe "pure" mathematics as a pure "creation" of the human mind, in which view the problem of exactitude then also seems to vanish. Yet then, as is clear, other questions arise: the question of the real meaning of such a doctrine created by the human mind, and the question of its applicability to the real world, to which they nonetheless apply this doctrine. Nor is it surprising that in this question the crude view of empiricism occasionally returns. Thus :person:`Einstein <einstein>`:
 
    "How can it be that mathematics, which is after all produced by the human mind independently of all experience, can be applied so perfectly to reality? Can the human intellect, then, without experience, through its pure thought alone, attain the properties of real things?
@@ -82,6 +110,9 @@ Modern theories therefore arise above all from the difficulties of the second pr
    To this question, in my opinion, the brief answer must be: insofar as the theses of mathematics refer to reality, they are not certain; insofar as they are certain, they do not concern reality." [#f4]_
 
 That such statements, even if one abstracts from purely rhetorical exaggeration, demand a new examination of the foundations of mathematics is clear. They presuppose a lengthy evolution of doctrines that more or less deny credence to the imaginative intuition of the continuum—from which geometric knowledge nonetheless arises—and indeed describe it as leading into errors.
+
+.. folio:: 0017
+   :page: 17
 
 This modern evolution has progressed mainly along a twofold path, and each concerns the problem of the transition from the inexactitude of sensation to the exactitude of the mathematical intellect. The first path leads to what is called the arithmetization of the continuum, the second to the doctrines that take their origin from the critique of the Fifth Postulate of :person:`Euclid <euclid>`. Let us briefly survey this evolution [#f5]_.
 
@@ -98,6 +129,9 @@ Yet they also already discovered that there are lines (e.g., the side and the di
 
 More modern thinkers, certainly from :person:`Descartes <descartes>` onward, regarded all these proportions as numbers; and just as the Greeks had a "continuum of proportions," which is the ":term:`ensemble <insieme>`" (*insieme*) of all proportions in the continuum, so the moderns have a continuum of numbers, the ":term:`ensemble <insieme>`" of "real numbers," which contains not only integers, but also fractional numbers, as well as irrational numbers (both algebraic and transcendental). By means of these numbers, modern "analysis" could be constituted, which, through the infinitesimal *calculus*, can subject the continuum, and even continuous changes, to *calculation*. Yet these numbers and this analysis were deduced from the intuitive continuum; these numbers are nothing other than another *name* for the proportions of the Greeks.
 
+.. folio:: 0018
+   :page: 18
+
 On this point, in the course of the preceding century, difficulties were raised; the intuitive continuum, on account of the lack of *exactitude* of sensitive perception, did not seem to be an apt medium from which the body of real numbers might be deduced; whence they endeavored to deduce it in another way, from the pure arithmetic intuition of the series of integers (1, 2, 3 ... *ad infinitum*), which does not labor under the defect of inexactitude.
 
 Few describe this difficulty with precision; here are two most celebrated names of learned men who speak with complete clarity.
@@ -109,6 +143,9 @@ Few describe this difficulty with precision; here are two most celebrated names 
 In the arithmetic definition of a real number (e.g., by means of a decimal fraction), however, no such threshold is given:
 
    "In the ideal region of Arithmetic there is no finite threshold value, as in the empirical region; rather, the exactitude with which numbers are defined, or at least regarded as defined, is unlimited." [#f8]_
+
+.. folio:: 0019
+   :page: 19
 
 A certain difficulty that we have we omit here, as well as the manner in which he then proceeds in the construction of analysis (and of "precise" abstract geometry, ":term:`Praezisionsmathematik <praezisionsmathematik>`").
 
@@ -122,6 +159,9 @@ Let us also hear the words of :person:`H. Poincaré <poincare>`:
 
 In all this, :person:`Poincaré <poincare>` seems to neglect our *intellective* intuition of continuous extension; nor is he alone among mathematicians in doing so. It must be added, however, that elsewhere he does not in every respect reject our geometric intuition in rigorous science, where it will be an intellective intuition. In :cite:`*Dernières Pensées* <poincare:dernieres-pensees>` he criticizes a certain topological definition, saying that "this definition makes light of the intuitive origin of the notion of the continuum, and of all the riches that are contained in this notion. It belongs to the type of those definitions that occur so frequently in mathematics, since they endeavored to 'arithmetize' this science. Those definitions, irreproachable from a mathematical standpoint, as we were saying, cannot satisfy the philosopher" [#f11]_.
 
+.. folio:: 0020
+   :page: 20
+
 Because they neglect the intuitive origin of the notion of the continuum, and consequently its "riches," they are therefore deficient from a philosophical standpoint; we shall immediately add: and they render the application of analysis thus constituted to real extended things difficult, not to say impossible. Yet let us also attend to what :person:`Poincaré <poincare>` then adds: "I do not mean to say that this arithmetization is something bad; I say that it is not the whole" [#f12]_. It will be most useful, but because it is not the whole, it will not be surprising if it occasionally falls short, and then, if it is regarded as "the whole," it will be able to lead to errors.
 
 Analysis, therefore, because it is constructed purely arithmetically starting from the series of integers, no longer depends, as before, upon the intuition of the continuum, but conversely is employed to construct a certain "abstract" geometry. And this is so, as we heard, because they deny credence to the intuition of the continuum on account of the inexactitude of sensitive data. Indeed, they think that they possess certain examples (we shall examine them later) that are deduced from analysis and are said positively to contradict imaginative intuition.
@@ -132,6 +172,9 @@ If these things are true, they constitute for the philosopher a most grave probl
 
    "Decisive for judging the state of affairs seems to us to be the circumstance that a geometry truly independent of analysis, *such as the ancient ideal would properly demand*, manifestly turns out to be a dream." [#f13]_
 
+.. folio:: 0021
+   :page: 21
+
 Yet the difficulty becomes still graver if further examination teaches that this classical geometry cannot be constructed from analysis and dependently upon it either. For in such a case, mathematicians of the greatest genius up to the middle of the preceding century would have erred not only in method, but also in what they thought they had discovered.
 
 And indeed, in the case we suppose, the matter seems to stand thus. To be sure, if it is a question of approximate application (:term:`Approximationsmathematik <approximationsmathematik>` according to :person:`F. Klein <klein>`), there is no great difficulty; for this treats only of experimental extended things, *insofar as* they are known by the senses by means of inexact sensitive perception. Yet if it is a question of the properties of *abstract* extension, of the extended as extended, about which classical geometry reasoned, this will not be able, as it seems to us, to be deduced from analysis *without all the very same difficulties reappearing in this application itself*. And thus we have made no progress.
@@ -139,6 +182,9 @@ And indeed, in the case we suppose, the matter seems to stand thus. To be sure, 
 If this is true, must we not affirm that the human intellect does not know this extension perfectly either—that which the human race has hitherto always believed? What in particular must be said of the Aristotelian theory of knowledge, which firmly held that this science arises from sensitive data?
 
 Something else is added. Shortly after the beginning of this century, within this very proud arithmetic analysis itself, difficulties arose which according to some (thus :person:`Weyl <weyl>`, :person:`Brouwer <brouwer>`, and others) lead to a veritable "crisis" in mathematics. And there is one or another (e.g., the distinguished :person:`O. Hölder <hoelder>`) who thinks that the difficulties cannot be solved except through a return to the consideration of the intuitive continuum—which seems to us to be true. All the more urgent is the office of inquiring into the manner of overcoming the inexactitude of sensitive data, which we shall endeavor to do in what follows.
+
+.. folio:: 0022
+   :page: 22
 
 .. _caput-1-en-s5:
 
@@ -153,6 +199,9 @@ At first glance, necessity seems to be denied to geometry; and indeed there are 
 
 There remains, however, another most grave problem: the entire human race and all mathematicians, even those who were not satisfied with the Fifth Postulate, acknowledged Euclidean geometry as the *sole* necessary one; if this is an error, how is it to be explained; if it is not an error, what is to be said of the severe modern critique? It is clear: once again it is a question of a grave problem that has great importance in the general theory of knowledge. Do not :person:`Aristotle <aristotle>` and :person:`St. Thomas <aquinas>`, when they wish to propose an absolutely certain thesis as an example, choose theorems from Euclidean geometry?
 
+.. folio:: 0023
+   :page: 23
+
 .. _caput-1-en-s6:
 
 § 6. ON SO-CALLED AXIOMATICS.
@@ -161,6 +210,9 @@ There remains, however, another most grave problem: the entire human race and al
 Out of this critique an entire science has developed, a branch of "judicative logic," which they call *Axiomatics*. Above we spoke of the intrinsic necessity and immunity from internal contradiction that belongs to the individual geometric systems, even non-Euclidean ones. In order that these properties may be established, the *first* principles of such a science must genuinely be enunciated, each and every one. Once this is done, a single system, e.g., Euclidean geometry, can be enunciated as a vast conditional proposition. Let us indicate the principles by the letters *A*, *B* ... and *F*, and then the conclusions by the letters *P*, *Q*, *R* ... The whole of geometry can now be enunciated thus: If *A* and *B* ... and *F*, then *P* and *Q* and *R* and ... This proposition, as truly conditional, enunciates intrinsic necessity. And this science will be: *hypothetico-deductive*. Many axiomaticians maintain that pure geometry is nothing other than such a hypothetico-deductive system. The fundamental hypothesis, i.e., the series of axioms *A*, *B* ... *F*, is no longer examined in relation to the real value of the propositions; indeed, according to extreme axiomaticians, not even in relation to their meaning. Well known are the words with which the distinguished :person:`Hilbert <hilbert>` begins his exposition in the first chapter of the book :cite:`*Die Grundlagen der Geometrie* <hilbert:grundlagen:1930>`:
 
    "We think of three different systems of things: the things of the f i r s t system we call *points* and designate them by the letters *A*, *B*, *C*, ...; the things of the s e c o n d system we call *straight lines* and designate them by the letters *a*, *b*, *c*, ...; the things of the t h i r d system we call *planes* and designate them by the letters α, β, γ, ..." [#f14]_
+
+.. folio:: 0024
+   :page: 24
 
 Therefore neither value nor meaning matters, but they require only that from the premised hypothesis, deduction be carried out according to pure formal logic through valid syllogisms.
 
@@ -173,6 +225,9 @@ This position leads both to problems and to valuable results. The first problem 
 Yet axiomatics has also discovered valuable results. Namely: as has already been said, it begins from a system of "axioms" concerning whose evidence it presupposes nothing, and therefore a system could without any doubt be posited from which, quickly or after a longer deduction, a contradiction would follow. In order that deduction may be safe, it is therefore required that this be guarded against. And they investigated and discovered methods of demonstrating that a determinate system is immune from contradiction even in future conclusions. Such methods, at times most ingenious, are without doubt a valuable development of logic.
 
 Moreover, these methods permit investigations into the particularities of the structure of science, just as :person:`Aristotle <aristotle>` did in the *Posterior Analytics* with respect to general structure. Not all conclusions require for their deduction the entire series of axioms; and it was possible to determine in various cases how a system of axioms can be distinguished into diverse parts that influence diverse parts of the science. Thus the structure of science can be known more distinctly. We have here a further development of the doctrine of :person:`Aristotle <aristotle>`. Connected with this question and with the problem of non-contradiction are methods of inquiring into the true mutual *independence* of the axioms that are proposed; and these too bring profit for "judicative logic."
+
+.. folio:: 0025
+   :page: 25
 
 And this entire method of proving non-contradiction seems to lead to a problem that coheres with ontology, namely with the theory of possibles. As possibles are described: objects whose notes involve no mutual contradiction. Can this theory be applied to systems which according to axiomatics are immune from contradiction, e.g., to non-Euclidean geometry? And in general to the problem of "mathematical existence," concerning which :person:`Aristotle <aristotle>` and :person:`St. Thomas <aquinas>` also possess a theory yet to be developed?
 

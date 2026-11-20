@@ -4,6 +4,8 @@
 :death_label: 1727
 :lifespan: 1642 – 1727
 :excerpt: Role: English Mathematician & Natural Philosopher*
+:folio: 0192
+:page: 192
 
 .. _person-newton:
 

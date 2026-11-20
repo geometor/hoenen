@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0223
+:page: 223
+
 .. _caput-7-summary:
 
 AI SUMMARY & ANALYSIS — Chapter 7: On Extension as Intelligible Matter
@@ -7,6 +12,9 @@ AI SUMMARY & ANALYSIS — Chapter 7: On Extension as Intelligible Matter
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0223
+   :page: 223
 
 Executive Summary
 -----------------

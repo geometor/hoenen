@@ -4,6 +4,8 @@
 :death_label: 1923
 :lifespan: 1847 – 1923
 :excerpt: Role: German Mathematician*
+:folio: 0130
+:page: 130
 
 .. _person-killing:
 

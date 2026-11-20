@@ -4,6 +4,8 @@
 :death_label: 1966
 :lifespan: 1881 – 1966
 :excerpt: Role: Dutch Mathematician & Founder of Intuitionism*
+:folio: 0021
+:page: 21
 
 .. _person-brouwer:
 

@@ -4,6 +4,8 @@
 :death_label: 1947
 :lifespan: 1861 – 1947
 :excerpt: Role: British Mathematician & Process Philosopher*
+:folio: 0169
+:page: 169
 
 .. _person-whitehead:
 

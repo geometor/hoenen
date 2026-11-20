@@ -1,0 +1,99 @@
+{
+  "folio": "0172",
+  "page": "172",
+  "section": "05_caput_5",
+  "graphics": [
+    {
+      "id": "g1",
+      "graphic_id": "0172.g1",
+      "caption": "Linear order of points A, B, C, D, E, ..., K on a straight line (Hilbert, Grundlagen der Geometrie, Theorem 6)",
+      "bbox": [
+        384,
+        444,
+        782,
+        92
+      ],
+      "white_point": 232,
+      "black_point": 35,
+      "png_file": "0172.g1.png",
+      "svg_file": "0172.g1.svg",
+      "overlap_recall_pct": 97.98,
+      "overlap_precision_pct": 99.41,
+      "geometry": {
+        "line": {
+          "ref": "[ A K ]",
+          "p1": [
+            25,
+            59.17
+          ],
+          "p2": [
+            761,
+            61.77
+          ]
+        },
+        "points": {
+          "A": {
+            "line_pos": [
+              50.56,
+              59.26
+            ],
+            "dot_pos": [
+              50.56,
+              66.03
+            ]
+          },
+          "B": {
+            "line_pos": [
+              162.83,
+              59.66
+            ],
+            "dot_pos": [
+              162.83,
+              66.4
+            ]
+          },
+          "C": {
+            "line_pos": [
+              265.94,
+              60.02
+            ],
+            "dot_pos": [
+              265.94,
+              66.33
+            ]
+          },
+          "D": {
+            "line_pos": [
+              372.59,
+              60.4
+            ],
+            "dot_pos": [
+              372.59,
+              65.93
+            ]
+          },
+          "E": {
+            "line_pos": [
+              480.61,
+              60.78
+            ],
+            "dot_pos": [
+              480.61,
+              66.43
+            ]
+          },
+          "K": {
+            "line_pos": [
+              709.86,
+              61.59
+            ],
+            "dot_pos": [
+              709.86,
+              68.71
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

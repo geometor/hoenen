@@ -1,9 +1,16 @@
 :layout: book
+:title: Praefatio
+:lang: la
+:folio: 0005
+:page: 5
 
 .. _preface-la:
 
 PRAEFATIO
 =========
+
+.. folio:: 0005
+   :page: 5
 
 Hoc opus agit de « noetica geometriae », i. e. de ea scientiae philosophicae noeticae parte, cuius obiectum est natura cognoscitiva mentis humanae in quantum haec scientiam geometricam construit.
 
@@ -13,9 +20,15 @@ In his capitibus noetice examinamus axiomata, quae ad constructionem geometriae 
 
 Sed habemus quoque rationem profundiorem et decisivam, quare systemate incompleto propositionum primitivarum, indemonstrabilium, contenti simus, immo contenti esse debeamus. Nam, ut in capite V monstrabimus, impossibile est tale systema statuere. Nam in ipsa deductione — non tantum geometriae, sed etiam aliarum scientiarum, quae continuo evolvi possunt — menti humanae necessarium esse videtur, semper iterum novas propositiones primitivas, indemonstrabiles et tamen cognitas ut necessarias, invocare ; id non tantum necessarium esse videtur, sed simul, in illis scientiis, possibile ; in infinitum. Methodus noetica inquirendi in has propositiones videtur esse maximi momenti, manifestat enim naturam noeticam mentis humanae, non tantum in initiis, fundamentis, scientiarum inquirendis, sed etiam in scientia deductive construenda. Tale exercitium noeticum repetitum, etiam propter « habitum » quem gignit, videtur esse, non quidem necessarium, tamen valde utile pro noetica generali, in qua negligi solet, quamquam eius munus est tales inquisitiones perficere. Propter talem negligentiam fieri potest et fit, ut quaedam systemata noetica in errorem cadant. Id tamen non necessario fit ; nam ea quae in tali analysi noetica deteguntur, in mente humana exculta implicite adsunt et naturaliter eius indagationes intellective dirigunt ; sed adsunt implicite tantum sive « :term:`in actu exercito <in-actu-exercito>` » ; noeticae munus est talia principia explicite statuere, actum exercitum perducere ad « :term:`actum signatum <in-actu-signato>` ». Id in sequentibus saepe obviam habebimus.
 
+.. folio:: 0006
+   :page: 6
+
 Sed in titulo huius operis etiam plus dicimus. Noeticam geometriae vocamus « originem » theoriae cognitionis. Et intendimus dicere, hanc disciplinam non tantum incipere posse a noetica geometriae (saltem ab eius principiis) sed eam ita necessario incipere debere. Id in ultimo paragrapho capitis VII stabilire conabimur, ex natura rei, sed etiam ex doctrina :person:`S. Thomae <aquinas>`, cuius doctrinam de iudicio mentis humanae in alio opere late exponebamus ; et ibi iam frequenter ad noeticam geometriae remittebamus [#f2]_.
 
 Cosmologiam scholasticam, sine talibus indagationibus, praeviis vel simultaneis, construi et ab antinomiis plene salvari non posse, historice constat. Sed et pro aliis disciplinis philosophicis hoc exercitium practicum continuum, cui mens humana in hac analysi noetica incumbit, maximam videtur afferre utilitatem, includendo eam quae notionem ipsius « esse » actualis examinat. Ut hoc illustretur huic libro addimus tanquam appendicem articulum nostrum :cite:`*De connexionibus necessariis inter actus existentiales* ex periodico *Gregorianum* 1953 pag. 603-639 <hoenen:1953:603-639>`.
+
+.. folio:: 0007
+   :page: 7
 
 Unum hic addere liceat. Sunt philosophi, forte non pauci, qui ubi in elucubratione philosophica effata geometrica, vel mathematica in genere, etiam si de simplicissimis agitur, obviam habent, statim a lectione et studio deterrentur. Ne timeant, parvus hic labor, ni fallor, uberrimos fructus generabit. Non plus exigitur quam id, quod :person:`Plato <plato>` dicitur exigere a quovis philosopho.
 

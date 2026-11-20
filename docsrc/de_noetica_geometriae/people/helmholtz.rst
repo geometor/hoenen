@@ -4,6 +4,8 @@
 :death_label: 1894
 :lifespan: 1821 – 1894
 :excerpt: Role: German Physicist, Physiologist & Philosopher of Science*
+:folio: 0123
+:page: 123
 
 .. _person-helmholtz:
 

@@ -1,9 +1,13 @@
 :layout: book
+:title: Chapter V: On Axiomatics
+:lang: en
+:folio: 0157
+:page: 157
 
 .. _caput-5-en:
 
-CHAPTER V
-=========
+Chapter V: On Axiomatics
+========================
 
 .. rubric:: ON AXIOMATICS
 
@@ -11,6 +15,9 @@ CHAPTER V
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0157
+   :page: 157
 
 .. _caput-5-en-s1:
 
@@ -30,6 +37,9 @@ The words employed are the same as those occurring in classical geometry; but th
 
 Because this method, perfectly elaborated by mathematicians, is proposed as the most perfect method of constructing science—every science—general epistemology will have to examine it: admitting what is sound, and rejecting or correcting whatever is erroneous. From this labor Scholastic epistemologists will not be able to withdraw themselves.
 
+.. folio:: 0158
+   :page: 158
+
 .. _caput-5-en-s1-2:
 
 2. *On the Method of Aristotle.*
@@ -43,6 +53,9 @@ The sole function of geometry itself, therefore, is pure deduction from first pr
 
 It is diverse, however, from axiomatics in the modern sense. :person:`Aristotle <aristotle>`, for science worthy of the name, demands not only *correctness* of reasoning, which is the proper function of science, but moreover the *truth*, and indeed the necessary truth, of all premises, ultimately therefore of the axioms. Then, and then only, is the reasoning a "demonstration." And this truth must also be known as necessary in order that "science" may be had. Concerning this object the entire :cite:`*Posterior Analytics* <aristotle:anal-post>` treats. It is clear that there the cognition of the *meaning* of terms is presupposed, both in the axioms and in the conclusions demonstratively deduced.
 
+.. folio:: 0159
+   :page: 159
+
 From this first diversity from modern axiomatics others flow, as we shall see, and those of the greatest moment.
 
 .. _caput-5-en-s1-3:
@@ -51,6 +64,9 @@ From this first diversity from modern axiomatics others flow, as we shall see, a
 ~~~~~~~~~~~~~~~~~~~~~
 
 A certain system, in some way intermediate, is also described, or at least indicated. Let geometry begin from a system of axioms, or "first propositions," that are acknowledged and known as *true* and (it must be added: if they are not intuitively intelligible through themselves) are to be established by another science, which the distinguished :person:`Freudenthal <freudenthal>` calls "pre-geometry" [#f2]_; other moderns, among whom :person:`Gonseth <gonseth>` stands out, designate it by the name ":term:`la doctrine préalable <doctrine-prealable>`" [the prior doctrine]; it is also called by the ancient name "dialectic," which nevertheless does not seem to be identical with the dialectic of :person:`Plato <plato>`. We today call that science rather "noetics." For it inquires into the properties of the human intellect from its concrete activity, which constructs science, including geometric science; and this activity becomes known to the intellect from its concrete object (according to diverse modes of concretion). To this noetics, and indeed to its initial part (because the human intellect begins from the senses and the first things truly *understood* in sensitive data are properly arithmetic and geometric data), pertains that pre-geometric science. But it is clear that noetics extends itself much more broadly. In this science, therefore, attention is directed to the very activity of the human mind; but it is not psychology; for the activity of the human mind essentially has a twofold aspect: according to one aspect, it regards the *subject* itself, the soul, and if this is considered, we are engaged rather in psychology; but according to the other, *intentional* aspect, that activity regards the *object*; contact with the object is never broken and is primary; *from* the object the very noetic nature of the intellect is known; then we are engaged in the other science, in noetics.
+
+.. folio:: 0160
+   :page: 160
 
 This requirement of first principles for geometry is perfectly Aristotelian. But there are thinkers (thus the distinguished :person:`Freudenthal <freudenthal>`) who add another requirement, which agrees with the requirements of modern "axiomatics." They demand, namely, that by that prior science an *entire* system of first propositions be established, in such a way that thereafter no "appeal to the phantasm" be permitted, and that no new *first* proposition be tacitly introduced (as :person:`Euclid <euclid>` rather often does). And this requirement is posited, as they say, in order that deductions may have perfect logical rigor. And the system will have to be complete in this manner, from the very beginning, so that the whole of geometry can be deduced from this system without the introduction of any new proposition read from the phantasm.
 
@@ -65,6 +81,9 @@ The method that the distinguished :person:`Freudenthal <freudenthal>` proposes c
 
 In evaluating axiomatics, a certain general difficulty immediately arises, which nevertheless is easily solved. Someone will be able to say: if the meaning of geometric terms is ignored, or must be completely neglected, shall we be able to proceed logically in such a subject, through logical processes of the *mind*? This difficulty, as was said, is easily solved; already in the Middle Ages, indeed by :person:`Aristotle <aristotle>`, it was already practically solved. The solution consists in that process which we previously called "symbolic abstraction" (see :cite:`*Théorie du jugement*, Ch. VII, § 6 <hoenen:theorie-du-jugement:c7:s6>`, and above, Chapter IV, § 7).
 
+.. folio:: 0161
+   :page: 161
+
 .. _caput-5-en-s2-1:
 
 1. *On the Syllogism Expressed in Words.*
@@ -78,6 +97,9 @@ In the Middle Ages these symbols (letters) employed in expounding logical theory
 
 1) The terms must *have* a meaning, even if this remains unknown to us. In the example adduced, the three terms A, B, C each occur twice; in order that the consequence be valid, the same term in these two places must have the same meaning; it is supposed, therefore, to have a determinate meaning. And this meaning must be such that those terms signifying it can meaningfully be the subject and predicate of a proposition. Hence what is often said in this doctrine, "those terms have no meaning," is erroneous.
 
+.. folio:: 0162
+   :page: 162
+
 2) Moreover, the structure of the symbolic proposition must be known to us, that is, the diversity of functions of subject and predicate; otherwise the consequence is not understood by us to be present; and in the very formula of the proposition this must be clear from the order, the structure, of the entire proposition; this will later be shown to have great weight. That *order* is decisive is evident already from the names of those terms; one is called the *middle* term, the others *extremes*.
 
 It is not necessary, however, that these things have already been theoretically examined, that is, that "taught logic" (*logica docens*) precede. That such reasonings are valid, and perspicuous to us as valid, can already be established from the natural activity of the human mind. Therefore "taught logic" itself is also possible, which is constructed and examined theoretically; and that without a circle. How broadly logic constructed by means of Aristotelian symbols can be developed, we demonstrated in the work cited above. We *naturally* know, therefore, the valid logical structure of reasoning in every syllogism that is not too intricate. If it is such, we must invoke taught logic.
@@ -85,6 +107,9 @@ It is not necessary, however, that these things have already been theoretically 
 What has been said regards so-called predicative propositions, which consist of a subject and a predicate, as is customary in classical logic. But the same holds for "relational" propositions considered in the logic of relations, which are scarcely examined in classical logic. In these reasonings too we have a natural intuition into the validity of reasoning, if the form is not too complicated.
 
 And this is the foundation of the possibility of axiomatics. That preliminary difficulty is solved and is easily solved; we must, however, in order that the solution be valid, suppose that in such a mode of procedure the human *mind* primarily still operates and under this light attend to its structure; if this operation is moreover eliminated, and in its place *purely external manipulation* succeeds (as occurs in logistics), we shall have to speak in another way, as we shall see. Now let us attend to that operation of the mind.
+
+.. folio:: 0163
+   :page: 163
 
 .. _caput-5-en-s2-2:
 
@@ -111,11 +136,17 @@ B) *Syllogizing Activity is Natural.*
 
 Above we were already saying that this activity is natural to the human mind, that is, the mind exercises it antecedently to every logical *theory* treating of this activity, and knows that it does so legitimately. And this logical theory can only be developed in reflection upon natural activity.
 
+.. folio:: 0164
+   :page: 164
+
 This is clear from the very history of logic. :person:`Aristotle <aristotle>`, in constructing this theory, discovered the principles of this science in the syllogisms (not always explicitly formulated) that men used in the sciences, indeed in daily life. And :person:`Aristotle <aristotle>` himself, in constructing his logical system, always had before his eyes the most perfect science existing at that time, geometry. :person:`Locke <locke>` expresses this facetiously (though against logical theory) by saying: "God has not been so sparing to men to make them barely two-legged creatures, and left it to :person:`Aristotle <aristotle>` to make them rational ... He has given them a mind that can reason, without being instructed in methods of syllogizing" [#f5]_. And even after :person:`Aristotle <aristotle>`, men, learned and unlearned, who do not know logical theory, reason according to certain syllogistic moods (especially Barbara), and in general, not accidentally but *per se*, reason well. Below we shall also see very frequent specimens of reasoning in Barbara, where men do not suspect that such a syllogism is present.
 
 Such correct reasoning is an activity proceeding from the "nature" (most strictly so called, Aristotelian ":term:`physis <physis>`") of the human mind; it is not the application of a general theory to particular cases. "Logical laws" are thus not "norms" imposed from without that the mind looks to in its operation in order to reason well; they are acts proceeding from its nature, they are its very life. Thus "physical laws" (which are very improperly so called) are not "norms of acting" for physical things; they are *descriptions* of their activity and passivity, that is, of their "nature."
 
 Those "logical laws" are not to be called psychological laws either, for they regard objects. They are often called "laws of thought" (German ":term:`Denkgesetze <denkgesetze>`"), which name nevertheless must be interpreted as: "laws of what is thought," or "of what is to be thought" (German ":term:`des Gedachten <das-gedachte>`") [#f6]_. They are best called "noetic laws." Therefore they are accurately expressed in terms regarding the objects themselves; even if they are expressed "purely" logically, that is, in such a way that transcendent, symbolic terms omitting the determination of meaning are explicitly employed, these terms always stand (*supponunt*) for the objects themselves, now unspecified. Thus above we already heard :person:`Aristotle <aristotle>` affirming the correctness of the syllogism of the mood Barbara by a conditional proposition that affirms something universally concerning *objects*. It is a "logical law," but it is expressed as a function of terms that stand for the objects themselves. Thus also in the case of such truths holds the adage of :person:`St. Thomas <aquinas>`: from the object the act is known (and its noetic nature), and from the act the potency, that is, the noetic nature of the general activity of the syllogizing mind. The intuitive act begins from the concrete object; the intuition remains in the transition to the abstract object, that is, in symbolic abstraction.
+
+.. folio:: 0165
+   :page: 165
 
 In constructing science, this form, which can thus be abstracted, is present in determinate, concrete dispositions of things; hence logic, which the human mind naturally uses in constructing any science whatever, is form in the matter of such science; it is ":term:`logica utens <logica-utens>`" or logic "in use." Hence :person:`St. Thomas <aquinas>` *identifies* logic in use, in diverse sciences, not with the science of logic itself, but with the concrete, material science of which it is the form. Thus, if I mistake not, the text from :cite:`*Metaphysics* IV, lect. 4, no. 577 <aquinas:met:4.l4.n577>` is to be understood.
 
@@ -123,11 +154,17 @@ And thus the laws of logic in use are not "norms" properly so called; they are, 
 
 :term:`Taught logic <logica-docens>` (*logica docens*), or theoretical logic, which is developed from this natural logic, discovers indeed logical, syllogistic laws that can also be and are employed as norms in judging the correctness of a complicated syllogism. In deducing this logic we certainly also use syllogistic reasonings; but these syllogisms pertain to natural logic, which is intuitively known (or are prior laws thus derived). It has been said [#f7]_ that theoretical logic necessarily contains a circle (which is not considered vicious). From what has been said, it is evident that this is not true. Logic could not be constructed without a circle, and indeed a vicious circle, if all logical laws, all syllogistic moods, even the mood Barbara itself, had to be demonstrated. That this cannot be done, but also that this is not required, has already rather often been said (cf. :cite:`*Théorie du jugement*, Ch. VI, § 4 <hoenen:theorie-du-jugement:c6:s4>`).
 
+.. folio:: 0166
+   :page: 166
+
 We were saying "even the mood Barbara itself." For this recurs again and again. If we wish to examine a certain concrete syllogism, in any science, with respect to its correctness, we inquire into its logical form; if this is one of the reasonings established in theoretical logic, it must be admitted. This is the truly normative function of theoretical logic. But this examination or its result (in the mind!) is a syllogism in Barbara, namely: Such a mode of reasoning is legitimate; this is the universal major. Now this reasoning is in that mode (this is the minor established from inspection of this syllogism). Therefore. Later we shall see again that this mental use of the mood Barbara occurs very frequently, in all sciences.
 
 Thus in constructing science, in deducing, we can and do employ a twofold method indiscriminately. We can attend to the logical form of premises expressed in words (whether attending to, or attending less or not at all to specific meaning), and naturally intuit that from these premises such a conclusion follows. But we can also, and sometimes must, compare this form with a logical law deduced in theoretical logic.
 
 In this "taught," theoretical logic, we shall be able, even according to Aristotelian and medieval symbolism, to deduce a truly huge multitude of logical truths, as we demonstrated in the work cited above, :cite:`*Recherches de logique formelle* <hoenen:1947>`. And this is to be marveled at: these truths, even very complex ones, which can be multiplied into infinity, retain this form indicating their origin from the contemplation of concrete *objects*, and manifest their relations to objects. This we already marveled at in :cite:`*op. cit.*, p. 315 <hoenen:1947:p315>`. They arise from the activity of the human mind, but they are not psychological, but noetic.
+
+.. folio:: 0167
+   :page: 167
 
 These logical laws treat universally of things themselves, of any disposition of things whatever; hence they have the same subject as metaphysics, which considers all being, according to the words of :person:`St. Thomas <aquinas>` (:cite:`*In Boeth. de Trin.*, q. 6, a. 1 <aquinas:de-trin:q6.a1>`): "both sciences (metaphysics and logic) are common, and in a certain way concerning the same subject" (text according to the Wyser recension). It is what :person:`Riehl <riehl>` (*loc. cit.*) expresses by saying "Denkgesetze sind Gesetze des Gedachten, des Gegenständlichen überhaupt" [Laws of thought are laws of what is thought, of the objective in general].
 
@@ -151,7 +188,13 @@ This system of axioms must necessarily satisfy the requirement of immunity from 
 
    Concerning this extreme position we say only a single word. The word "follows" (*sequitur*) is used thus in the sense it has in the "material implication" of logistics, which establishes no necessary intrinsic relation between premises and conclusion. In the Middle Ages, by all thinkers so far as I know (except perhaps Pseudo-Scotus), the adage "*ex absurdo sequitur quodlibet*" was used in another sense, where "follows" has the sense of intrinsic consequence; and moreover "anything" (*quodlibet*) does not signify "any proposition whatever," but only "both true and false" (cf. :cite:`*Théorie du jugement*, Ch. IV, § 3 B <hoenen:theorie-du-jugement:c4:s3>`).
 
+.. folio:: 0168
+   :page: 168
+
 If a part of science is constructed in an axiomatic mode, or rather if its parts are examined with respect to logical structure by means of axiomatics (cf. above, Chapter I, § 6), axiomatics can supply precious methods. But axiomaticians and semi-axiomaticians wish to deduce the *entirety* of geometry from a *previously* established system of axioms. Therefore they demand (not only immunity from intrinsic contradiction) but also a *complete* system of axioms. The accurate determination of this *completeness*, however, is a notorious crux of the axiomatic method. Concerning this we shall not treat. Let us call "complete" that geometry containing all notions (terms) and all theorems present and deduced in classical geometry (including non-Euclidean), and to be further deduced. Regarding this construction of science, axiomaticians greatly praise the *rigor* of their method, in opposition to the classical intuitive method, which is said to lack "rigor" on account of repeated (often tacit) "appeal to the geometric phantasm." But in a noetic examination of this axiomatic construction, difficulties are detected that are very serious, and for the most part are not considered. We reduce them to three heads: there is a practical difficulty, a theoretical difficulty (these two are intrinsic), and a difficulty in the application of geometry, which is more extrinsic, but not entirely so.
+
+.. folio:: 0169
+   :page: 169
 
 .. _caput-5-en-s3-2:
 
@@ -171,6 +214,9 @@ Let us ask the axiomatician: Do you admit such a theorem, established in classic
 
 We said that the demonstration of Theorem 5 in :person:`Hilbert <hilbert>` is also illustrated by a geometric figure. This of course is not added so that something may be deduced *from* it, but serves merely as an aid. As a "heuristic aid," they say; but this must also be understood in such a way as to be an aid to the reader to grasp the logical evolution of the argument. But this too, both of them, all the more reinforces the practical difficulty we are describing, which seems perhaps to return at every single step.
 
+.. folio:: 0170
+   :page: 170
+
 This method is introduced, they say, in order that the rigor of modern mathematical analysis may also be introduced into geometry. The rigor of deduction in nineteenth-century analysis, of that period sometimes called ":term:`l'ère de la rigueur de Weierstrass <ere-de-la-rigueur-de-weierstrass>`" [the era of Weierstrassian rigor], of the ":term:`epsilonic art <ars-epsilontica>`" (*ars epsilontica*), is truly admirable (though in its very foundations it seems lacking). But if the practical difficulty (and the defect of elegance) becomes so great in geometry, we do not say in analysis, doubt can arise whether, even if theoretical rigor is present, it practically subsists. We say, if it is present theoretically; for a theoretical difficulty is also present, a doubt concerning right (*dubium iuris*); concerning this we must now treat.
 
 .. _caput-5-en-s3-2-b:
@@ -182,32 +228,50 @@ That a difficulty concerning right is present is discovered immediately, though 
 
 And in such a case of "appeal" to the phantasm, the disposition of the thing looked upon is geometric rather than "logical"; and we shall have a new "first proposition," immediate, besides the axioms. We repeat: here is present a great field of noetic investigations, and let these be commended to Scholastics. In such a deduction of "complete geometry," are "appeals to the geometric phantasm" truly absent?
 
+.. folio:: 0171
+   :page: 171
+
 In order that an answer may be had, noetic inquiry must not be restricted to "pre-geometry," or the "prior science," but must extend also to the very deduction of geometry; the activities of the human mind in this very deduction must be examined; this noetics is not geometry, but a science whose object is geometry in its constitution, in its becoming (*in suo fieri*); it is a philosophical science, a habit of its own kind, which certainly not all mathematicians possess. This, therefore, is the question: in the very activity by which the human mind constructs geometry deductively, is every appeal to the geometric phantasm excluded, or can it be excluded?
 
 :person:`Poincaré <poincare>`, who certainly does not despise the methods of modern axiomatics, already maintained that the "axioms of order" established by :person:`Hilbert <hilbert>`, and topological elements in general, cannot be employed in geometry without a certain intuition of this kind (:cite:`*Dernières Pensées*, pp. 93–95 <poincare:dernieres-pensees:p93>`; cf. :cite:`ibid., p. 271 <poincare:dernieres-pensees:p271>`). And yet :person:`Poincaré <poincare>`, as we saw above (Chapter I, § 4), did not love geometric intuition. Does :person:`Hilbert <hilbert>` in his deductions truly exclude every appeal to the geometric phantasm?
 
 If anyone asserts this (and very many mathematicians seem to do so), he will have to demonstrate it from a noetic examination of the individual steps of such deduction; which, so far as I know, they do not do. Meanwhile it will be permissible, with :person:`Poincaré <poincare>`, to doubt the "rigor" of the deduction. But more must be said: such an appeal seems to be present; and that immediately. If in :person:`Hilbert <hilbert>` (*loc. cit.*) we read the following theorem (6), which is a generalization of Theorem 5, and which (it is to be regretted) is not demonstrated but only enunciated, we observe these things: 1) a figure is proposed from which the *meaning* of the assertion is to be read; 2) also a series of symbols (letters) for the same end; these only regard the practical difficulty spoken of above; yet they are serious. But the theoretical difficulty is also not avoided.
 
-   Behold the enunciation of this Theorem 6: "In any given number of points of a single straight line, these can always be so designated with letters A, B, C, D, E, ..... K
+.. folio:: 0172
+   :page: 172
 
-that the point designated by B lies between A on the one hand and C, D, E, .... K on the other hand, further C between A, B on the one hand and D, E, ..... K on the other hand, then D between A, B, C on the one hand and E ..... K on the other, etc. Besides this arrangement
+..
 
-   ::
+   Behold the enunciation of this Theorem 6: "In any given number of points of a single straight line :g:`AK <0172.g1:[ A K ]>`, these can always be so designated with letters :g:`A <0172.g1:A>`, :g:`B <0172.g1:B>`, :g:`C <0172.g1:C>`, :g:`D <0172.g1:D>`, :g:`E <0172.g1:E>`, ..... :g:`K <0172.g1:K>` that the point designated by :g:`B <0172.g1:B>` lies between :g:`A <0172.g1:A>` on the one hand and :g:`C <0172.g1:C>`, :g:`D <0172.g1:D>`, :g:`E <0172.g1:E>`, .... :g:`K <0172.g1:K>` on the other hand, further :g:`C <0172.g1:C>` between :g:`A <0172.g1:A>`, :g:`B <0172.g1:B>` on the one hand and :g:`D <0172.g1:D>`, :g:`E <0172.g1:E>`, ..... :g:`K <0172.g1:K>` on the other hand, then :g:`D <0172.g1:D>` between :g:`A <0172.g1:A>`, :g:`B <0172.g1:B>`, :g:`C <0172.g1:C>` on the one hand and :g:`E <0172.g1:E>` ..... :g:`K <0172.g1:K>` on the other, etc. Besides this arrangement
 
-          A    B    C    D    E        K
-        ──•────•────•────•────•────────•──
+   .. picture:: 0172.g1.svg
+      :alt: Calibrated interactive diagram of Hilbert Theorem 6 linear order A, B, C, D, E, ..., K
+      :caption: Calibrated interactive vectorization of Hilbert's Theorem 6 linear order (Folio 0172, p. 172).
+
+   .. picture:: 0172.g1.png
+      :alt: Archival facsimile bitmap of Hilbert Theorem 6 diagram (Folio 0172, p. 172)
+      :caption: Archival scan facsimile from *De Noetica Geometriae* (Rome 1954, Folio 0172, p. 172).
 
    there is given only a single other that is of the same structure, namely the inverse" [#f9]_.
 
 The order of this series of symbols must be looked upon in order to understand what is said in the theorem concerning the order of points on a line, which arises from the unknown relation "between"; the theorem asserts that the order of points is designated by the intuitive order of the series of letters. In the relation of points, the meaning of the word "between" is neglected, but in the order of symbols, *in whatever way it is described*, it cannot be neglected. Therefore also those new terms can be introduced by :person:`Hilbert <hilbert>` which he uses, which previously were neither named nor (implicitly) defined, namely the terms "on the one hand" and "on the other hand" (:term:`einerseits <einerseits>` and :term:`andererseits <andererseits>`), whose meaning must be understood intuitively and is taken from the order of letters (or even of words describing the abstract relation). But these terms then intuitively indicate the nature of the relations holding for letters, specific specimens of which in individual cases of applying the theorem must be looked upon in the phantasm, and understood in it as necessary; then there is always had an appeal to the phantasm of order between symbols or words. And what is of greater moment: the meaning of this intuitive relation expressed by the words "on the one hand" and "on the other hand" is *entirely the same* as the meaning of the relation "between" (it can be called "interity," just as in English they say ":term:`betweenness <betweenness>`") attributed to points. For "betweenness" in a series of symbols is a geometric "betweenness," because this series can only be looked upon "in space"; it is a spatial relation. If this intuition is called "logical," it must be urged that that same order, even in symbols, is primarily and intuitively "geometric," spatial, and remains such.
 
+.. folio:: 0173
+   :page: 173
+
 And wherever this theorem is applied, and that happens very frequently, whether directly or indirectly, an appeal is had to such a geometric phantasm; and in axiomatics this is done tacitly, as it seems. And let us observe: even if, as is done in axiomatics, this proposition is considered as a *deduced* theorem, its application in specific cases demands an appeal to a specifically determined phantasm, and thus a *first*, immediate proposition arises in the middle of deduction. :person:`Poincaré <poincare>` said well that in matters governed by "axioms of order" and in topological matters in general, appeal to intuition cannot be avoided. And in the axiomatic method, this appeal consequently is made tacitly. We of course do not say that deduction on that account is erroneous, nor even that this harms its rigor. But it certainly cannot be said that geometry, after the system of axioms is established, no longer appeals to intuition. And thus we better understand :person:`Euclid <euclid>`, who is often faulted because he explicitly establishes *no axiom of order*, but tacitly introduces those he needs. Nor is it a fault not explicitly to enunciate, but tacitly to employ, such judgments that legitimately result from the inspection of the phantasm. For they are virtual judgments, which the noeticist encounters so often, as we saw in what was expounded above in so many pages, and shall see even more often in what follows. If they are enunciated—which is not forbidden—they constitute *first*, *immediate* propositions. And thence seems to follow what was said above: it is impossible from the beginning to construct a complete system of axioms, complete in this sense, that it would render superfluous all subsequent appeal to geometric intuition. If the propositions that thus result are not to be called "axioms," they are nevertheless first, immediate, intelligible through themselves, not deduced; and if the name "axiom" is denied to them, the same seems ought to be done regarding "axioms of order"; hence these are not enunciated by :person:`Euclid <euclid>`.
 
 The conclusion of the enunciation of Theorem 6 also leads to the same conclusion. There it is said: "besides this arrangement (:term:`Bezeichnungsweise <bezeichnungsweise>`) there is given only a single other, which is of the same structure (:term:`Beschaffenheit <beschaffenheit>`), namely the inverse (:term:`die umgekehrte <umgekehrt>`)." There the term "inverse" (:term:`umgekehrt <umgekehrt>`) is supposed known as to its meaning. It is considered, of course, as a "logical" term signifying the intuitive order of letters arranged in a series. But in a manner similar to what was said above, it must be said: This arrangement of letters in a linear series is a spatial arrangement; its observation, and the intellective intuition associated with it, are geometric observation and intuition. Thus, however, we have not the introduction of logic into geometry, but the introduction of geometry into logic, precisely as the use of numbers in geometric axiomatics is not something logical, but something arithmetic in logic. And this arrangement in a series that can be inverted coheres with the notion of geometric direction—not the direction of a line relative to the surrounding extension, but along the line itself, which can be twofold so that one is inverse, opposite, to the other. In this too, this geometric intuition is not excluded, but included.
 
+.. folio:: 0174
+   :page: 174
+
 And we understand the position of :person:`Poincaré <poincare>`, spoken of above, who holds that in topological elements intuition cannot be excluded.
 
 What we detect in the noetic examination of relational propositions holds in similar fashion of the logical instrument itself that we use in rigorous deduction, that is, of syllogistic reasoning. It is impossible for us to think without a phantasm. It is not necessary that this be a phantasm of the object itself (indeed objects are given that cannot be attained by any phantasm); a verbal phantasm, or one consisting of other symbols, will be able to suffice under certain conditions. In the axiomatic deduction of geometry we need such a phantasm, and not only for the exposition (for others) of our reasoning. In :person:`Hilbert <hilbert>` (in his geometry), these are phantasms of words. In these the human mind, under certain conditions, can still have an intellective intuition of syllogistic consequence; without such intuition, deduction would already disappear. We observe two things: 1) there we *continuously* need a tacit appeal to those phantasms; tacit, for explicitly there is enunciated only what we intuit in the phantasm, not the correctness of the syllogistic form itself (and we do well, for to do this always is impossible; see :cite:`*Théorie du jugement*, Ch. VI, § 4, 2nd ed., p. 201 <hoenen:theorie-du-jugement:c6:s4>`). But in order that this be done correctly, we must indeed intuit the *order* of words, *which again is spatial*; as was already said above, the very logical names "middle term" and "extreme terms" indicate this. In logic itself we need geometric intuition, absolutely, and more than elsewhere. We observe 2): With the best right, geometers are not accustomed to mention the correctness of their syllogisms (their form), just as they make no mention of the nature of the human mind's activity in such deduction. Only logisticians sometimes place in a single body of "axioms" both purely logical (i.e., logistic) principles and principles regarding the matter of the science treated. But logisticians must employ other means of deduction, manipulations. And now it is marvelous: in such logistic deduction, as also in algebraic deductions and transformations, at individual steps, appeals, even tacit ones, to phantasms (and syllogisms!) can be indicated by the noeticist. Concerning these, more in the following section.
+
+.. folio:: 0175
+   :page: 175
 
 Pure axiomatics, therefore, even theoretically cannot suffice to construct the entirety of geometry. But the axiomatic method itself has its great utility in investigating the structural connections found between diverse theorems of this science (cf. above, Chapter I, § 6). In carrying out this investigation, however, the axiomatician will have to attend to first propositions that he perhaps assumes from intuition.
 
@@ -225,6 +289,9 @@ The difficulty flowing from application we shall consider in § 5; first, in § 
 
 Geometry, therefore, on account of difficulties both practical and theoretical, cannot be constructed in an axiomatic, or even semi-axiomatic, mode. For man, who in this life cannot think without a phantasm, if he does not have a phantasm of the object itself being considered, at least and always needs a phantasm of words or other signs; moreover, he needs the inspection of combinations of words or other symbols representing connections of objects. Indeed, both phantasms must have a spatial structure, in this sense therefore geometric. Now this "appeal to the phantasm" is a recourse to sensitive data, but such that with it there is associated an intellective intuition, which in individual cases in its own way must solve both the problem of necessity and, if present, the problem of exactitude. These things are established from the foregoing.
 
+.. folio:: 0176
+   :page: 176
+
 And we saw that :person:`Euclid <euclid>` is to be praised because even in the middle of deduction he admits recourse to the phantasm in cases determined in individual species. This we praised above (Chapter IV, § 7) where his first theorem was treated, in which he was vehemently carped at. In that case this recourse permits him to arrive at an exact conclusion, without an *illegitimate* transition from an inexact phantasm to exact intellection. Nor is he to be blamed because he does this tacitly.
 
 In order, however, that this necessity of recourse to the phantasm, and its universality, may become more evident, let us see specimens from other sciences, among which are certain ones constructed today explicitly to the end of avoiding "appeal to the phantasm."
@@ -239,6 +306,9 @@ Above, in the first four chapters, we already saw abundantly that to establish f
 1) Localization is prior to motion according to place; this does not prevent admitting with :person:`Aristotle <aristotle>` (:cite:`*Physics* IV, ch. 1–2 <aristotle:phys:4.1>`) that the notion of place, even as to its existence, becomes known to us after motion itself and from it. In our cognition, motion is prior and place posterior, both as to essence and as to existence.
 
 2) These local relations are relations *in the order of existence* and between existential acts (cf. our article *De connexionibus necessariis inter actus existentiales* in the Appendix).
+
+.. folio:: 0177
+   :page: 177
 
 3) As was already said above, in order that successive contact, that is, local motion of a *rigid* body, be possible, it is required that that extension which is the medium of localization be the principle of individuation, as explained in the question concerning the possibility of congruent figures. This property of extension is therefore more fundamental, prerequired objectively prior to the local motion of a rigid body. Perhaps here too it can be said that the observation of motions of sensibly rigid bodies is prerequired, just as in :person:`Aristotle <aristotle>` the observation of motion is prior to the notion of place; but in both cases objectively the order of priority and posteriority is inverse.
 
@@ -258,6 +328,9 @@ A) *On Arithmetic.*
 
 We say: in arithmetic deduction such recourse to the phantasm recurs again and again, and cannot be avoided. Let there be a very elementary algebraic equation: *ax*² = *bx* + *c* (1). To calculate the "value" of the symbol *x* (to solve the equation), we have universal rules permitting us to transform such an equation, supposed valid, into another, also valid. Such a rule is: the translation of a term (or complex of terms) from one member of an equation to the other, with sign changed. Thus from that given equation, supposed valid, follows this other, also valid: *ax*² — *bx* — *c* = 0 (2).
 
+.. folio:: 0178
+   :page: 178
+
 We ask: what occurs noetically in our *mind* while we perform such an operation, and then affirm what results? And noetic analysis says: the application of the rule of "translation" supposes this universal truth (the "major"): every equation resulting by translation from any valid equation is itself valid. We add in the mind the "minor": now from the (valid) equation *ax*² = *bx* + *c* by translation there arises *ax*² — *bx* — *c* = 0. Therefore this is valid (affirmed).
 
 We observe first: the process of the mind here consists in a syllogism in Barbara, more accurately called "of type Barbara."
@@ -268,11 +341,17 @@ Naturally, therefore, we intuit in such a mental syllogism the correctness of th
 
 Hence we have what we first observe: in *every* such process there occurs in the *mind* a syllogism (of type Barbara); it is not expressed in words, but mentally *directs* the act of affirming the conclusion; it does this, as was said above (Chapter V, § 2 B), not as an extrinsic norm, but as an intellective activity of the mind itself, as "nature." It is therefore a syllogism in "exercised act" (*actu exercito*); our noetic investigation does not *introduce* the syllogism, but *detects* its presence; it causes it to pass from exercised act into "signified act" (*actum signatum*).
 
+.. folio:: 0179
+   :page: 179
+
 And such an operation seems to be present in virtually every step of this arithmetic science. Other operations in which the same is found are so-called "substitutions" in algebraic formulas. The use of the syllogism of type Barbara seems to be immense.
 
 The second thing to be observed in this operation regards the minor of this syllogism. Now that minor was: by the indicated translation from (1) there arises (2). We ask: how is this *necessary* and universal proposition established in the individual species? Noetic analysis manifests this: we must carry out the operation of "translation"; which requires an external manipulation, whether actual (on paper) or represented in the phantasm, and the *empirical* inspection of what results. But with this empirical inspection, with this appeal to the phantasm, as with the activity of manipulation itself, there is associated an intuition of the mind, understanding what results to be necessary. And we observe: this necessity, even in our activity, is known intuitively by us. Hence we do not say: in this experiment, at this hour, in this place equation (2) results, but it necessarily results; of itself always and everywhere the same equation in the individual species results [#f10]_. It is a universal proposition because we are dealing with "necessary matter" and with our necessary activity concerning this matter. And these necessities are known naturally by us, without reasoning, through naturally formal intuitive abstraction.
 
 Under the respect of abstraction, the case is entirely the same as that of axioms, which are first principles, "dignities." That minor is also a *first* proposition, in this sense that it is *immediate*, known without a syllogistic *middle*, from appeal to intuition. But it is not an axiom, because not many other things are deduced from it: it is employed only once.
+
+.. folio:: 0180
+   :page: 180
 
 In this simplest case, rapid inspection of the phantasm suffices; in complicated cases, this inspection can demand greater care and circumspection. But the noetic elements entering there remain the same.
 
@@ -283,6 +362,9 @@ The second remark, therefore, will be this: *in virtually every step* of such ar
 Let us resume: In virtually every step of arithmetic deduction there is present a syllogism in exercised act, and for its minor there is required an appeal to intellective intuition in the phantasm. And we add: in this recourse to sensitive data there is present again an element of spatial order, a geometric element. Why is this excluded in geometry itself?
 
 Both elements present in our mind in each of those steps of arithmetic deduction are applied *tacitly*; yet this is considered by no one, even among those who carp at this in geometry, as a defect of logical *rigor*. This "taciturnity" can be removed by noetic inquiry, which, as already said, makes a "signified act" out of an "exercised act." Hence it is also evident that these exercised acts cannot be called "unconscious." For they intelligibly direct the operations of our mind; and therefore in reality no defect of rigor is present there. The same two elements are found in another very frequent operation regarding algebraic formulas, namely in "substitution." Similar specimens of this we shall find in logistics itself.
+
+.. folio:: 0181
+   :page: 181
 
 .. _caput-5-en-s4-3-b:
 
@@ -297,6 +379,9 @@ Primitive and derived rules are distinguished. We name two that seem to be princ
 
 Let us see a specimen of substitution, and indeed that which constitutes the first step in the deduction of the first theorem (\*2.01) from the work :cite:`*Principia Mathematica* (p. 100) <whitehead-russell:principia:p100>`. This theorem, expressed in words, enunciates: "if *p* implies not-*p*, then *p* is false" (*p* is the symbol of a proposition). The demonstration begins through the substitution of the symbol not-*p* for the symbol *p* in the axiom called "tautology," which says: "*p* or *p* implies *p*" (\*1.2). From this substitution there results (1): "not-*p* or not-*p* implies not-*p*." The *affirmation* of this result is nothing other than the application of the general primitive rule of legitimate substitution (A proposition resulting by such legitimate substitution from a valid, or true, proposition is valid). But the very *content* of the result, that is, the *specific* resulting proposition, is not known except through real manipulation and intuition into sensitive data. For we ask: whence do we know that formula (1) and not another results by the indicated substitution into the formula of the axiom? It is a case similar to the algebraic case expounded above. It is not seen in the general rule; this affirms only in a universal mode the legitimacy of substitution; that thence a *specific* result may be had, it must be further determined—this is done in individual applications of the general rule—and inspection of sensitive data, appeal to intuition, is necessary. In our case, in the very first step of deduction, this operation is very simple, but cases can also be given that are very complicated. That sensitive intuition is simultaneous with an intellective intuition of necessity, as in the algebraic case; the result, even as to its specific "content" or "determination," is known as necessary, not contingent. Then from the application of the general rule of legitimate substitution enunciated above, we affirm the resulting formula, with its specific content; it is a necessary, not a contingent judgment.
 
+.. folio:: 0182
+   :page: 182
+
 And these things recur again and again, in virtually every step of logistic deduction, which is a certain combinatorial art according to determinate rules, primitive and deduced.
 
 And let us observe further: these phantasms or sensitive data in general contain not only a *multitude* of symbols, but also their spatial, geometric order. In non-geometric sciences themselves, in deduction itself, recourse to geometric phantasms is necessary; and these methods are greatly praised on account of their deductive "rigor." Why, then, in the name of rigor is this recourse excluded in geometry itself?
@@ -304,6 +389,9 @@ And let us observe further: these phantasms or sensitive data in general contain
 We note moreover: in logistics, according to :person:`Whitehead <whitehead>` and :person:`Russell <russell>`, and in other systems too, arithmetic numbers themselves are not supposed known; their notions and the propositions holding of them must be discovered in a logistic mode, after immense prior labor. Yet in hundreds of formulas preceding, they are present, e.g., in the system of punctuation, and these systems of dots *must be understood* and employed in their natural sense, and there enters either the recognition of geometric figure, or the order of natural numbers, or rather both. Those things are employed intuitively which after much labor are said to be known at long last.
 
 ----
+
+.. folio:: 0183
+   :page: 183
 
 .. _caput-5-en-s4-3-recap:
 
@@ -320,6 +408,9 @@ In these arithmetic calculations, the intuitive sense of terms (of numbers, of t
 
 We can inquire concerning other sciences; there in general it seems admitted that we attend to the meaning of words; there axiomatics is not applied, nor, except in special cases, operation upon symbols. But there nevertheless certain things seem to approach axiomatics. Concerning which a few words at least must be said here.
 
+.. folio:: 0184
+   :page: 184
+
 .. _caput-5-en-s4-3-c:
 
 C) *Deduction in Other Sciences.*
@@ -333,11 +424,17 @@ A sign of this we find in the classical Scholastic method of disputation. If som
 
 An extreme specimen in this context is that which :person:`Aristotle <aristotle>` describes in passing (:cite:`*Posterior Analytics* I, 12, 77b30–33 <aristotle:anal-post:1.12:77b30>`) to illustrate the noetic difference between a term (expressed by voice) and the notion of the mind itself, especially in mathematics, where we as it were see notions with our mind. Such a realization of the notion, on the occasion of an ambiguous word, expels ambiguity. Such an equivocal word is the word "cycle" (*cyclus*), which is used of the geometric circle, but also of the cycles of poems after Homer. He says: "is every cycle a figure? If a diagram is constructed, it is clear. What then? Are epic poems a cycle? It is clear that they are not." It is an extreme example, but less extreme ones occur frequently. And in the classical method, where that ":term:`distinguo <distinguo>`" occurs, it is an appeal to intellective intuition, to rectify incorrect reasoning.
 
+.. folio:: 0185
+   :page: 185
+
 At this point we encounter something that at first sight is very strange. The axiomatician, to save the "rigor" of deduction, does so by introducing *rigid terms*, which are always used in the same sense without possible equivocation. And to attain this, he sacrifices, and does so very explicitly, meaning itself, that is, our cognition of the notions of which terms are signs. The classical :person:`Philosopher <aristotle>`, to restore rigor, proceeds in the inverse manner: he appeals to the true, determinate meaning of words that was obscured or too much neglected; through recourse to intuition he causes intellection to revive. And thus, if this is well done, that rigor is restored is clearer than light. Who does better? The axiomatician who sacrifices our cognition to purely formal deductive rigor, and thus, if science is cognition, sacrifices science worthy of the name itself, or the classical thinker, who wishes to restore meaning, that is, cognition, that is, science? The axiomatician of course can intend (not all do this) to find again the meaning of his complete system, that is, to apply his construction to a certain reality; indeed, such reality can direct him in construction. Concerning practical and theoretical difficulty we treated sufficiently above; concerning the difficulty of this application we shall treat in the following section.
 
 Not on that account must everything comprehended in axiomatics be rejected. And the very method of disputation described above is a sign that in the classical method of constructing sciences, which uses and must use syllogisms expressed in words, elements of axiomatics are present, and must be considered in noetic examination. They are present, for often in constructing deductions, in diverse reasonings, man can attend to words alone, which preserve the logical structure of reasoning so that the conclusion, expressed in words of course, is recognized as legitimate and therefore, because premises are supposed true, as also true. This can be done and is done, perhaps too much done.
 
 Man in the sciences intends to attain reality, but on account of the imperfection of the intellect, which must proceed from imperfect cognition to more perfect cognition, he needs also the movement consisting in reasoning, which must use the syllogistic process. These syllogisms are primarily mental and lead to conclusions that are mental judgments, not mere oral propositions. Thus alone does he arrive at new scientific cognitions.
+
+.. folio:: 0186
+   :page: 186
 
 But in this mental labor he is greatly aided by terms, by propositions, by syllogisms expressed in words. He needs them not only to communicate science to others, but also, indeed in a large way, that his own mental activity may be facilitated. But because we wish to *understand*, we must always return to the understanding of the *meaning* of our discourses; this we intend to do not only at the end, through the application of the complete theory, but rather often, indeed regularly, in the very progress of reasoning.
 
@@ -347,11 +444,17 @@ Behold certain points perhaps worthy of attention. If a certain new notion, a ne
 
 This we can already recognize where we are dealing with intuitions to which a phantasm corresponds, with mathematical intuitions. Let us take, e.g., the mathematical judgment that arises if in a physical body we trace a figure; we can express this thus: a body is divisible through figure. We intuit the necessity of this disposition of the thing; and indeed because in this case we have the faculty of abstracting formally and intuitively: a body *because extended* is divisible through figure. In a similar case in the mind itself, this precise nexus, between extension and divisibility through figure, is in the intellective representation itself of the *body* (with the figure traced) simultaneously with other nexuses of the body with its attributes (and of attributes among themselves, at least materially, i.e., through the intermediate body itself), and therefore an *activity* of abstraction is required that that formal nexus may be perceived; naturally, of course, the human mind exercises this activity, but active operation is required. In the verbal expression, however, "a body because extended is divisible," even more in this: "the extended is divisible," this abstraction has already been made; its effect, the separation of this nexus from other attributes that are of no importance, is already present in the formula itself; and therefore it now has greater stability, firmness, consistency: and the proposition itself teaches other men more easily what they ought to attend to in the phantasm. By verbal expression (e.g., because the extended is divisible) we fix our attention and that of others on what must be attended to, and which without such admonition is not sufficiently attended to (or not without more intense effort) and is neglected. Almost as if by words we fix attention on special parts of a certain painting, we understand it clearly; if not, this occurs only in a vague way. But words do not *give* the intuition of what is important, but arouse it, and efforts are spared.
 
+.. folio:: 0187
+   :page: 187
+
 This case is of course still very simple and easy. In others, even where mathematical matters are treated, it will be more difficult; then it will be even more necessary to propose a formula in which the effect of the abstraction made is expressed in a stable manner and its use rendered easier.
 
 In cases where we are dealing with the disposition of things "of which there is no phantasm" (:cite:`St. Thomas <aquinas:anal-post>`), concerning those, namely, that "are in our soul," the utility, indeed the necessity, of employing verbal formulas having "stability" will be even greater. In order that we may truly understand such dispositions of things, we must arouse them in our mind, just as to understand in act in geometric matters we must inspect the phantasm; and such a vital action is already more dynamic than static. Moreover, such an operation, even a purely mental one, in this life, in order to be aroused, needs us to begin from sensitive data that permit a transition to purely mental operations. In such a process, therefore, if we wish to run through it fully (and this in the beginning is absolutely necessary), we must expend much greater, and more complicated, labor. But then we shall be able to express what results in stable words; and employ such a proposition in a syllogism, in which we attend to the words and their order alone, and we can arrive at a conclusion. This use of the verbal syllogism therefore becomes much easier; that syllogism is a phantasm without which man cannot understand. And this simplification explains, if I mistake not, the fertility of the syllogism.
 
 In the end, however, we tend toward the understanding of the specific meaning of conclusions, and we direct the gaze of the mind to the dispositions of *things*, not only to their signs, that is, words, from the very nature of our mind. And in the ultimate perfection of cognition, toward which the human mind necessarily tends by its nature, we arrive through "resolution all the way to first principles," according to the words of :person:`St. Thomas <aquinas>`, intuitively known, and then we have an intuition also of the connection of truths, in which the human intellect, after laborious movement, arrives at the "rest" (*quies*) of the intuition of the whole (cf. :cite:`*Théorie du jugement*, Ch. I, § 4, pp. 37 ff. <hoenen:theorie-du-jugement:c1:s4>`).
+
+.. folio:: 0188
+   :page: 188
 
 The human mind, therefore, in its natural mode of deducing, undoubtedly needs elements of procedure elaborated in axiomatics, but which there are pushed to an extreme no longer justified.
 
@@ -374,6 +477,9 @@ A) *On the Application of Classical Geometry.*
 
 Classical geometry, as a science deductively constructed, was applied to physical extensions since antiquity: not only to astronomy, but also to physical science concerning sublunary objects, to kinematics, to mechanics, to acoustics, to optics, and more recently to field theory. This application, which especially since Newton's work :cite:`*Philosophiae naturalis principia mathematica* <newton:1687>` had splendid success, contains no difficulty. That extension ("space") whose laws were established in geometry was discovered through abstraction in physical objects, and was realized in them. It was applied to that from which it was abstracted.
 
+.. folio:: 0189
+   :page: 189
+
 In this application, the necessity of relations in physical extensions is easily known, through the same formal abstraction. Regarding exactitude a difficulty is present, which nevertheless is easily solved. In order that physical extensions may be quantitatively known, we need measurements, which on account of diverse causes (imperfection of the senses, imperfection of instruments, influx of physical laws) can never be perfectly exact. The difficulty is solved from the fact that we thus have truly approximate values, and according to geometric laws themselves the meaning of the notion itself and the degree of approximation will be able to be determined. Elsewhere (:cite:`*Théorie du jugement*, Ch. IX, § 3 <hoenen:theorie-du-jugement:c9:s3>`) we already said that in the application of classical geometry to physical extensions the cognition of necessity remains, but the cognition of exactitude must be sacrificed; in its place, however, we have approximation worthy of the name. (Cf. also above, Chapter II, § 2, no. 6, "on mathematical experimental judgments" of the mathematician Stahl, and Chapter I, § 4, :person:`Klein's <klein>` ":term:`Approximationsmathematik <approximationsmathematik>` and :term:`Praezisionsmathematik <praezisionsmathematik>`").
 
 Thus the mathematical science of physical extensions, "Newtonian physics," was constructed since his celebrated work.
@@ -387,6 +493,9 @@ If, however, we wish to apply axiomatically constructed geometry, greater diffic
 
 The notion of *extension* itself does not seem to be expressed in these words; it will be that *in which the systems are possible* of which :person:`Hilbert <hilbert>` speaks (above, Chapter I, § 6); through relations these systems are formed. Generally it will be possible to speak thus: to the terms must be attributed the meaning they have in classical geometry.
 
+.. folio:: 0190
+   :page: 190
+
 Next, however, it must be examined whether the axioms, which now have an intuitive meaning and affirm real relations between subjects, are verified in physical extensions. Internal non-contradiction in the axiomatic system alone no longer suffices; without such examination, unknown proper attributes could be given in extended entities that would imply a contradiction (this seems to be *postulated* in the last axiom of :person:`Hilbert <hilbert>`, but this too would have to be verified; but how?).
 
 In the verification of axioms (and the same holds if a certain theorem is directly examined), the problems of necessity and exactitude return *in their entirety*. In physical extensions, all dispositions of things that verify the individual axioms must be empirically observed. And because geometric propositions are to be held as necessary, these empirically known dispositions must *be* necessary; a disposition that was not necessary would *not* verify the axioms; moreover, these empirically known dispositions must also be *known* as necessary. There is required, as in the system of :person:`Aristotle <aristotle>` expounded above, empirical observation with which the understanding of necessity is associated; that experience is not sufficient which is had in physical cases, in which de facto the constancy of facts can perhaps be established through many experiments, but not their necessity, for the *intuition of a necessary connection* is not present; intuitive abstraction is lacking there, of which above (Chapter II, § 2, no. 3). The same abstraction is therefore required as in classical geometry, in order that the application may be justified on the part of necessity.
@@ -395,11 +504,17 @@ From what has been said it results: in order that axiomatically constructed geom
 
 Even greater is the difficulty if the problem of exactitude is considered, from which at long last the critique leading to the construction of axiomatics arose. At first sight it seems to be the same as that which we indicated above, treating of the application of classical geometry to physical extensions in the Newtonian manner; for exactitude in measurements must be sacrificed in this too. But in classical geometry the solution is easy and classical: what we know imperfectly, inexactly from experience, we can compare with exact figures and their exact relations, known from abstract geometry; for we are dealing with the same extension. And thus we can judge concerning the approximation of empirical data to exact objects. And we can attribute the causes of the defect of exactitude to the means of our observation, objective and subjective; there we can rightly speak of experiments "conceptually" or "in principle" possible; this expression has meaning.
 
+.. folio:: 0191
+   :page: 191
+
 Not so in the application of axiomatically constructed geometry. If we wish to apply this *directly* to physical extensions, we find discrepancies that cannot immediately be explained in such a way that cognition drawn from the senses appears to be an *approximation* to absolutely exact data.
 
 Let us take an axiomatic proposition (in :person:`Hilbert <hilbert>` it is a theorem, in another system it will be able to be considered an axiom): "between two points on a line there always exists a third." In the line of experience, even in the phantasm, this is *not* verified; there we arrive at *minima sensibilia*, which for the senses are indivisible; and that proposition implies that the third intermediate point causes a division or is a division. Is that proposition verified "approximately" in an experimental line? That must be denied; the geometric line is divisible into infinity, the sensible line only down to a minimum. And thus an *infinite* discrepancy seems to be present between the physical line and the geometric line; this cannot be called an approximation. And such cases can be multiplied.
 
 Directly, therefore, axiomatic geometry (after the introduction of the "meaning" of symbols) will not be able to be applied to physical extensions with the classical correction. Indirectly, of course, the application will again be able to be justified, for the difficulty even here has a solution. For from physical objects we can abstract the notion of pure extension (as realized in those objects, of course; cf. :cite:`*Cosmologia*, 4th ed., p. 40 <hoenen:cosmologia:p40>`; :cite:`*Théorie du jugement*, Ch. X <hoenen:theorie-du-jugement:c10>`). To this extension, as represented intellectively (for the necessity of relations is known) in the mind, axiomatic geometric propositions can meaningfully be "applied." In that extension, objects concerning which axiomatic geometric propositions hold *exactly* can be mentally constructed, actuated, that is, they exist mathematically. And because this extension is found in physical objects, therefore axiomatic geometry will also hold concerning this extension, realized in the nature of things. And because there they are *observed* imperfectly, without mathematical exactitude, they can therefore be justified as an approximation worthy of the name; concerning these we truly have ":term:`Approximationsmathematik <approximationsmathematik>`" [#f12]_.
+
+.. folio:: 0192
+   :page: 192
 
 In order, however, that this solution of the difficulty may be truly valid, it is required that the application to "abstract extension" itself be justified. But in the analysis of conditions it appears that in this application there must be found all those things that are also required relative to the problem of exactitude, in order that the first propositions of classical geometry may be justified. And thus axiomatically constructed geometry is nothing other than a superfluous means to discovering that geometry which can be applied to physical extensions in such a way that the cognition resulting from measurements is truly approximative.
 
@@ -407,7 +522,13 @@ There are mathematicians who contend that that burden of applying geometry to ph
 
 In such a proud, quasi-aristocratic separation of axiomatically constructed geometry from physical extension, a purely experimental object, other inconveniences also seem to arise. If they do not wish to care concerning the meaning of geometry after its construction, they now have a science that knows nothing real except a series of formal consequences in a symbolic world. What is worse: as we saw above (Chapter V, § 2 A), geometric words *must* have a meaning, otherwise the syllogistic discourse employed will have no value; and axiomaticians, like :person:`Hilbert <hilbert>`, employ that discourse; but the office of determining meaning is left to others. Someone will be able to advance further and say that he employs syllogistic rules *not* as they are modes of operating of the human mind, which understands that correct consequence holds for reality, but only as freely chosen rules of manipulating symbols, which in this case are words. In such a position, the entirety of "abstract" geometry (though it is not truly abstract; it is an artificial construction, or creation as they say, and in this case a construction out of words that have no meaning) is nothing but a pure game with symbols (I do not say a children's game, for it is very difficult). The reality considered there is the very order of symbols, which are no longer signs of any reality, but the very reality upon which they operate. This game, however, seems no longer worthy of the name "science." And moreover observe that in such manipulation, as in algebra and in logistics, in individual steps the operations are directed in exercised act by mental syllogisms, which they also wish to avoid.
 
+.. folio:: 0193
+   :page: 193
+
 Physicists, therefore, will be able to expect no aid from such a mathematician. It cannot happen, nevertheless, that they do not attempt to construct geometry. For since the first attempts, even pre-scientific ones, to know nature, man sees a huge noetic discrimination between the relations he observes regarding the extension of bodies and their multitude (numbers) on the one hand, and physical properties on the other hand, in this sense: observing a body in which he traces a figure, he affirms "this body is figurable"; observing a body that after friction attracts small particles, he affirms "this body is electrifiable." These two cases noetically differ from each other by the whole heavens (*toto caelo*), and this does not remain unknown. In the first case, man intellectively intuits the *necessity* of the connection, and that because through abstractive intuition he understands that "figurability" flows from the extension of the body, and from it alone, and from it necessarily. In the other case, this is totally lacking. In such a case, the physicist from repeated and varied experiments will be able to know a "physical law"; he will be able firmly to believe that necessity is present there, but he does not *understand* the connection. In order to arrive at this, the physicist must employ the method of inquiring into this intellection by means of a hypothesis, an explanatory physical theory.
+
+.. folio:: 0194
+   :page: 194
 
 It is clear that such a physicist tends toward developing his physical science concerning the body as it is extended; but the method will be different by the whole heavens: he begins from intellection and will attempt to elaborate it deductively. He will attempt to become a geometer, to construct this apodictic part of his science; he will construct classical geometry in the classical manner. The human mind itself, which wishes to understand, attempts from those data of experience to construct an apodictic science.
 

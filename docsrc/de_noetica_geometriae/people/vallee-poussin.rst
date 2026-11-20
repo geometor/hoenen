@@ -4,6 +4,8 @@
 :death_label: 1962
 :lifespan: 1866 – 1962
 :excerpt: Role: Belgian Mathematician*
+:folio: 0169
+:page: 169
 
 .. _person-vallee-poussin:
 

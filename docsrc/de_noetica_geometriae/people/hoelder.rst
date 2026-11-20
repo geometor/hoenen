@@ -4,6 +4,8 @@
 :death_label: 1937
 :lifespan: 1859 – 1937
 :excerpt: Role: German Mathematician*
+:folio: 0021
+:page: 21
 
 .. _person-hoelder:
 

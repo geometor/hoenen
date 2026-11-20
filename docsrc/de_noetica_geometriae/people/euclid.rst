@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/euclid/
 :github_url: https://github.com/geometor/euclid
 :excerpt: Role: Ancient Greek Geometer*
+:folio: 0011
+:page: 11
 
 .. _person-euclid:
 

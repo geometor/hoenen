@@ -4,6 +4,8 @@
 :death_label: 1948
 :lifespan: 1869 – 1948
 :excerpt: Role: German Neo-Scholastic Philosopher*
+:folio: 0014
+:page: 14
 
 .. _person-geyser:
 

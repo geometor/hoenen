@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/aristotle/
 :github_url: https://github.com/geometor/aristotle
 :excerpt: Role: Ancient Greek Philosopher (The Stagirite)*
+:folio: 0009
+:page: 9
 
 .. _person-aristotle:
 

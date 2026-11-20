@@ -4,6 +4,8 @@
 :death_label: 1928
 :lifespan: 1863 – 1928
 :excerpt: Role: Scottish Classical Scholar*
+:folio: 0260
+:page: 260
 
 .. _person-burnet:
 

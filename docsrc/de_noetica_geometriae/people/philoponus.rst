@@ -4,6 +4,8 @@
 :death_label: 570
 :lifespan: c. 490 – c. 570 AD
 :excerpt: Role: Alexandrian Christian Philosopher & Aristotelian Commentator*
+:folio: 0261
+:page: 261
 
 .. _person-philoponus:
 

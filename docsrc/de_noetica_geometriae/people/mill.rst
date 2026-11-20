@@ -4,6 +4,8 @@
 :death_label: 1873
 :lifespan: 1806 – 1873
 :excerpt: Role: British Empiricist Philosopher*
+:folio: 0014
+:page: 14
 
 .. _person-mill:
 

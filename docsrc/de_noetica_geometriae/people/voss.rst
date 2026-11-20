@@ -4,6 +4,8 @@
 :death_label: 1931
 :lifespan: 1845 – 1931
 :excerpt: Role: German Mathematician*
+:folio: 0080
+:page: 80
 
 .. _person-voss:
 

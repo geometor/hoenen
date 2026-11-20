@@ -4,6 +4,8 @@
 :death_label: 1868
 :lifespan: 1790 – 1868
 :excerpt: Role: German Mathematician & Astronomer*
+:folio: 0047
+:page: 47
 
 .. _person-moebius:
 

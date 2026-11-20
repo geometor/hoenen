@@ -4,6 +4,8 @@
 :death_label: 1945
 :lifespan: 1869 – 1945
 :excerpt: Role: British Idealist Philosopher & Plato Scholar*
+:folio: 0107
+:page: 107
 
 .. _person-taylor:
 

@@ -8,10 +8,11 @@
 
    designari poterunt, ut punctum designatum per B situm sit inter A ex una parte et C, D, E, .... K ex altera parte, dein C inter A, B ex una parte et D, E, ..... K ex altera parte, dein D inter A, B, C ex una parte et E ..... K ex altera etc. Praeter hanc dispositionem
 
-   ::
+   .. picture:: 0172.g1.svg
+      :alt: Diagramma theorematis 6 Hilberti (A, B, C, D, E, ..., K)
 
-          A    B    C    D    E        K
-        ──•────•────•────•────•────────•──
+   .. picture:: 0172.g1.png
+      :alt: Facsimile archivale diagrammatis (Folio 0172, p. 172)
 
    datur tantum unica alia quae eiusdem structurae est, scil. inversa » [#f9]_.
 

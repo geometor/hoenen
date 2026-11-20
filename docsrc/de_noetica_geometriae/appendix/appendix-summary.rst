@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0249
+:page: 249
+
 .. _appendix-summary:
 
 AI SUMMARY & ANALYSIS — Appendix: On the Necessary Connections Between Existential Acts
@@ -7,6 +12,9 @@ AI SUMMARY & ANALYSIS — Appendix: On the Necessary Connections Between Existen
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0249
+   :page: 249
 
 Executive Summary
 -----------------

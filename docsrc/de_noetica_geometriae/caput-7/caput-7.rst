@@ -1,4 +1,8 @@
 :layout: book
+:title: Caput VII: De Extensione ut est Materia Intelligibilis
+:lang: la
+:folio: 0223
+:page: 223
 
 .. _caput-7-la:
 
@@ -12,6 +16,9 @@ CAPUT VII
    :depth: 3
    :backlinks: none
 
+.. folio:: 0223
+   :page: 223
+
 .. _caput-7-la-s1:
 
 § 1. De constructione figurarum geometricarum.
@@ -23,9 +30,15 @@ Ipsae autem figurae sunt primarie « passiones » extensionis ut talis. Et primo
 
 Haec optime explicantur in doctrina, quam :person:`S. Thomas <aquinas>` de hac materia tradit (:cite:`*Anal. Post.* I lect. 2 n. 5 <aquinas:anal-post:I.2.5>`). In scientiis « quae sunt de aliquibus accidentibus nihil prohibet id, quod accipitur ut subiectum respectu alicuius passionis, accipi ut passionem respectu anterioris subiecti ». In hoc autem processu non datur regressus in infinitum, « est enim devenire ad aliquod primum in scientia illa, quod ita accipitur ut subiectum, quod nullo modo sit passio ». Et casus noster ut specimen ponitur : « sicut in mathematicis scientiis, quae sunt de quantitate continua vel discreta ». Quantitas continua est id quod supra vocabamus extensionem, obiectum, vel subiectum fundamentale geometriae [#f1]_. Et haec distinctio dein clare exponitur.
 
+.. folio:: 0224
+   :page: 224
+
 Figurae igitur quae merito ut subiecta propriarum passionum et « per se accidentium » assumuntur, oriuntur ex extensione, quae eas omnes in potentia, sed in potentia tantum, continet. Ex ea actu oriri debent per *constructionem*. Ita iam dicendum est ubi de primis figuris sermo est : de superficiebus, lineis, punctis, quae sunt extensa duarum dimensionum, vel unius tantum, vel nullius ; fiunt in vel ex solido dato, per huius divisionem quamcumque, quae superficies gignit, quarum divisiones ducunt ad lineas, quarum divisiones ad puncta ut limites ducunt. Hae divisiones iam sunt constructiones. Sed actuatio figurae in extensione per excellentiam « constructio » vocatur, si agitur de figuris determinatis exactis, sive « perfectis ». In his casibus constructio figurae in extensione, ut materia ex qua, est demonstratio earum *existentiae*. Ita patet figuram talem, quae definitur, revera ut subiectum existere, i. e. fieri posse per operationem indicatam, primo mathematice, consequenter (quia extensioni competit esse in rerum natura) etiam realiter ; id quod non implicat *nos* etiam in realitate eam realizare posse.
 
 Constructionem apud Graecos esse demonstrationem existentiae mathematicae illorum subiectorum, quae iuxta demonstrationem construuntur, post demonstrationem huius facti, quam Zeuthen dedit, communiter, ni fallimur, admittitur. Doctrina quae tenet « construi posse » esse idem ac « mathematice existere » est doctrina Graecorum pro subiecto geometrico.
+
+.. folio:: 0225
+   :page: 225
 
 Sed eadem doctrina pertinet quoque ad patrimonium noeticae scholasticae, quamquam id in theoriis modernis cognitionis iam non memoratur. Audiamus :person:`S. Thomam <aquinas>` (in eadem lectione). In scientiis mathematicis « ea quae sunt prima in genere quantitatis, sicut *unitas* et *linea* et *superficies* et alia huiusmodi », « supponuntur ». Et pergit : « quibus suppositis, per demonstrationem quaeruntur quaedam alia, sicut triangulus aequilaterus, quadratum in geometricis, et alia huiusmodi. Quae quidem demonstrationes quasi operativae dicuntur, ut est illud *super rectam lineam datam triangulum aequilaterum constituere*. Quo adinvento, rursus de eo aliquae passiones probantur ».
 
@@ -35,15 +48,24 @@ Notamus : 1) duae figurae exactae, subiecta propriarum passionum, quae nominantu
 
 Supra (III § 2 n. 7) iam dicebamus geometriam (in oppositione ad metaphysicam, vel ad philosophiam in genere) a :person:`Kantio <kant>` tanquam scientiam « constructivam » considerari, id quod a modernis communiter accipitur. Sed haec sane non sunt inventio ingenii :person:`Kantii <kant>`, est hereditas aristotelica. Sed quidem haec indoles geometriae modo exaggerato et erroneo exprimitur per sententiam, quae affirmat obiecta geometriae a mente creari, immo id fieri per creationem liberam. In tali sententia negligitur id quod analysis noetica clare ostendit : figura in geometria et eius existentia mathematica a mente non ex nihilo producitur, sed eius possibilitas in subiecto fundamentali, in ipsa extensione ut potentia, detegitur. Producitur quidem ab activitate nostra, sed producitur, etiam in mente nostra, ex materia, quae est extensio, per cuius proprietates activitas nostra ligatur. In ipsa extensione, figurae non sunt actu (id a :person:`B. Russell <russell>` supponebatur !) sed in potentia tantum ; et ut haec potentia, i. e. possibilitas harum figurarum detegatur, mens humana indiget actuatione, constructione ; secundum dictum :person:`Aristotelis <aristotle>` (:cite:`*Met.* IX 9, 1051 a 32 <aristotle:met:IX.9.1051a32>`) :term:`ποιοῦντες γιγνώσκουσιν <poiountes-gignoskousin>` apud :person:`S. Thomam <aquinas>` « facientes cognoscunt » (Cfr. :cite:`*Th. du Jug.* ch. X § 4, 5 <hoenen:1953:theorie:X.4-5>`). Ideo extensio est materia ex qua figurae fiunt, sed est materia intelligibilis. Ita subiectum fundamentale geometriae est ipsa extensio, et figurae sunt eius passiones propriae; et dein et ipsae fiunt subiecta geometriae cum suis propriis passionibus, et « per se accidentibus ». Quaenam figurae possibiles sint, « existant », non igitur dependet ab activitate nostra, sed ab indole extensionis, materiae nobis datae, sed nobis intelligibilis.
 
+.. folio:: 0226
+   :page: 226
+
 Prima genera generalissima figurarum, quae nobis innotescunt, sunt superficies et lineae (et puncta) ; in harum productione primo ipsam notionem extensionis intelligibiliter detegimus, ut fontis ex qua sola et necessario profluit figurabilitas corporum. Ex datis sensitivis haec nobis modo inexacto innotescunt, sed cito, in reflexione super haec data, detegimus eorum exactitudinem in ipsa re (non in phantasmate) i. e. exactitudinem relate ad indivisibilitatem secundum unam « dimensionem », vel secundum duas, vel omnimodam (in puncto).
 
 Dein in ipsa illa extensione, ex qua figurae magis specificatae, sed in datis sensitivis inexactae, producuntur et nobis innotescunt, observamus — et est iterum proprium extensionis — quod figurae (inexacte inter se aequales) habere possunt diversam « positionem » et insuper diversam « orientationem » in extensione, quae « orientatio » originem habet in « directione » linearum, nobis iterum intelligibili ut est proprium linearum, quae diverso modo per punctum « transire » possunt (de « positione » et « orientatione » cfr. supra IV § 4 n. 2). Hae notiones dein ad exactitudinem perfectam perpoliri possunt (quoad « quid sint ») et denique ex cognitione reflexiva extensionis ut est principium individuationis (etiam quoad orientationem) in illa exactitudine ut « existentes » detegi possunt. Ita ut supra expositum est, pervenimus ad cognitionem existentiae (non quidditatis tantum), et quidem « ubique » in extensione, lineae perfecte rectae, et circuli perfecti. Existentia mathematica harum figurarum ex cognita indole extensionis intelligitur, et quidem « existentia ubique et in omni orientatione » (pro rectis). In extenso realizato construuntur ope instrumentorum, quae vocantur « regula et circinus » ; in realitate hae constructiones sunt inexactae, sed earum possibilitas, sicut et possibilitas instrumentorum perfectorum et eorum usus, perfecte intelligitur et in constructione mentali adhibetur. Ad construenda mentaliter subiecta (figuras) magis complicata i. e. ad earum existentiam mathematicam (in potentia in subiecto fundamentali, ipsa extensione) probandam, hae constructiones elementares, in « demonstratione quasi operativa », ut :person:`S. Thomas <aquinas>` dicit, adhibentur. Et ita v. g. iam Graeci demonstrabant existentiam quinque corporum platonicorum, et inexistentiam sive impossibilitatem aliorum « corporum regularium ».
+
+.. folio:: 0227
+   :page: 227
 
 Legitimitas constructionum elementarium apud :person:`Euclidem <euclid>` exprimitur per tria prima postulata : « 1) postuletur ut a quovis puncto ad quodvis punctum recta linea ducatur ; 2) et ut recta linea terminata in directum educatur in continuum ; 3) ut quovis centro radioque circulus describatur » (iuxta versionem :cite:`Heiberg <euclid:elements:I.post1-3>`). Ad executionem duorum priorum constructionum adhibetur « regula », ad tertiam « circinus ». Haec postulata a geometra « supponuntur » ut legitimata, sed stabiliri possunt in scientia praegeometrica, ut supra factum est.
 
 Alia media demonstrandi existentiam figurarum determinatarum dein utique introduci possunt. Unum supra indicatum est, ubi linea construitur ope motus puncti qui componitur ex duobus motibus, « eliminando » dein « tempus », dummodo de existentia motuum constet (exemplum in III § 2 n. 6 C ad alium scopum adhibebatur).
 
 Clarum est quomodo geometria sit « scientia constructiva suorum subiectorum » (secundariorum) ; supponit intellectam indolem subiecti fundamentalis, ipsius extensionis, ex qua clarum est quaenam subiecta secundaria sint possibilia, mathematice existant. Ex extensione construuntur figurae, non vice versa extensio tanquam systema ex figuris, sicut fieri videtur apud :person:`Hilbert <hilbert>`, qui tamen non explicat quid intendat per vocem « systema ». Sane non eo modo pervenimus ad notionem « extensionis ».
+
+.. folio:: 0228
+   :page: 228
 
 .. _caput-7-la-s2:
 
@@ -70,6 +92,9 @@ Incipimus ab arithmeticis recolentes ea quae supra in capite II exponebamus.
 
 *b)* E converso multitudines ut tales ad invicem *addi* possunt ; et resultat multitudo maior. Et ut supra (II § 1 n. 4) iam dictum est : haec pertinent ad prima intelligibilia, quae tam clara sunt ut enuntiari non soleant, quamquam cognita praesupponuntur. Est iterum passivi quid simul cum eo quod ex « pati » resultat.
 
+.. folio:: 0229
+   :page: 229
+
 *c)* Comparare possumus diversas multitudines ad invicem relate ad earum « quantitatem ». Et id facere possumus construendo « correspondentiam » bi-univocam inter elementa multitudinum quas comparamus. Multitudines ita inveniuntur esse sive aequales sive inaequales et in hoc casu invenimus, quaenam sit maior quaenam minor. Operatio nostra non *producit* eam aequalitatem sive inaequalitatem, sed eas agnoscere nobis permittit. Et intelligimus multitudinem huic operationi subiici posse et ex hoc « pati » oriri resultatum necessarium, intelligibile.
 
 *d)* Haec applicantur in « enumeratione » multitudinum ; id facimus stabiliendo correspondentiam elementorum multitudinis computandae cum elementis seriei numerorum naturalium. Ita *speciem* multitudinis determinamus i. e. non producimus illam speciem, sed eam detegimus. Id supra (II § 1 n. 4) applicavimus in inquirendo quaenam sit species multitudinis, quae resultat ex additione multitudinum specifice determinatarum ; dein in multiplicatione id applicatur. Haec omnia sunt igitur proprietates *passivae* multitudinum ; et tam clare ab homine praescientifico cognoscuntur, ut, quando volunt claritatem alicuius veritatis exprimere, id faciant verbis « id digitis computare potes ».
@@ -77,6 +102,9 @@ Incipimus ab arithmeticis recolentes ea quae supra in capite II exponebamus.
 *e)* In arte combinatoria (supra II § 1 n. 4) quae fundamentaliter inquirit in ordinationes possibiles elementorum multitudinis, idem obtinet. Interrogamus « quomodo elementa huius multitudinis *ordinari* possunt ? » ; et hic respectus passivus est iterum per se intelligibilis. Notemus insuper, quod in inquirendis primis principiis huius artis indigemus etiam consideratione ordinis elementorum *spatialis*, qui ibi intrat et suo etiam modo passivitatem primo respicit.
 
 *f)* Haec amplius extendi possunt. Supra (V § 4 n. 3) considerabamus operationes, quae efficiuntur in evolvendis scientiis, in arithmetica (algebra), sed etiam in logistica. Ibi specialiter duae transformationes formularum considerantur, quas vocabamus « translationem termini » et « substitutionem ». Et ibi idem redit: intelligimus primo et sponte, formulas tales transformationes *pati* posse, et simul intelligimus, formulas alias, specifice determinatas, necessario resultare. Et ita hic, sicut in casibus superioribus, habemus in his formulis materiam intelligibilem, cuius respectus passivus de se est intelligibilis.
+
+.. folio:: 0230
+   :page: 230
 
 .. _caput-7-la-s2-1-b:
 
@@ -97,6 +125,9 @@ Et idem proprium passivum extensionis, quod exprimitur per formulam « est princ
 
 Id quod resultat est quoque intelligibile : est extensum maius quod est simile uni extenso continuo ; ita ex tali contactu duorum cuborum intelligitur oriri corpus quod est sicut parallelopipedum. Ex hoc alia sequuntur, quae magnitudinem » spectant ; extensiones addi possunt ad invicem, extensio « multiplicari » potest ; intelligitur ut subiectum harum operationum arithmeticarum. Duo propria primitiva sunt correlativa i. e. relative ad invicem opposita, sicut dividi et multiplicari. Sed omnia intelliguntur ut propria *passiva* extensionis.
 
+.. folio:: 0231
+   :page: 231
+
 *d)* Ut supra dictum est (V § 4 n. 2), ex hoc secundo proprio primitivo, ex possibilitate contactus, tum permanentis tum fluentis, in ordine existentiae actualis intelligibiliter profluunt ea, quae localisationem corporum eorumque motum localem spectant. Et reflexio analytica in problemata localisationis et motus localis absque dubio est summi momenti noetici in cosmologia, et, ut historice patet, consequenter in noetica generali.
 
 Et haec intelligibilitas passivitatis eius materiae, quae est extensio, in omnibus hisce casibus provenit ex nostra abstractione (quam vocamus formalem intuitivam) per quam discernimus in corporibus extensionem ut proprietatem, ex qua sola in medio aliorum propriorum corporum hae propriae passiones profluunt.
@@ -112,6 +143,9 @@ In genere ipsum influxum causalitatis efficientis non percipimus. Exceptio facie
 
 Utique principium causalitatis ipsum intelligimus. Si aliquid mutatur (passio percipitur) necessario praesupponenda est (tanquam natura prius) causa efficiens quae est alia ab ipso moveri ; omne quod movetur ab alio movetur. Et intelligimus hanc causam efficientem, hoc aliud, actualiter *existere* debere et talis esse naturae ut apta sit ad producendum illum effectum determinatum, illud « fieri ». Sed ipsum principium causalitatis non indicat quodnam sit illud agens aliud, quod est causa efficiens vel eam continet, nec in omni casu directe eius naturam revelat (cfr. :cite:`*Gregor.* 1953 pagg. 617-619 <hoenen:1953:gregorianum:617-619>` et infra in appendice). Ita in genere naturam activitatis determinatam non per se intelligimus.
 
+.. folio:: 0232
+   :page: 232
+
 Sed in casibus nostris, in activitate quae passivitati materiae intelligibilis correspondet, quidam respectus activitatis sunt nobis per se intelligibiles. Haec breviter indicabimus.
 
 .. _caput-7-la-s2-2-a:
@@ -122,6 +156,9 @@ A) *In arithmeticis.*
 In casibus supra expositis haec statim inveniuntur : In divisione multitudinum, in earum additione et multiplicatione, in stabilienda correspondentia bi-univoca inter elementa multitudinum, in earum enumeratione, in ordinationibus diversis elementorum multitudinis et earum computatione (cfr. supra II § 1) dein in transformatione formularum (supra V § 4 n. 3), in omnibus his operationibus statim et per se intelligimus quomodo activitatem nostram operantem dirigere debeamus, sive mentaliter sive etiam actualiter, ut passivitas, potentialitas, materiae intelligibilis actuetur ; activitas, quae tali modo dirigitur, *necessario* ad actuationem effectus ducit. Si mentaliter tantum operamur, sufficit multitudo repraesentata in phantasmate ; si actualiter operamur, requiritur existentia actualis huius materiae ; iuxta adagium « movetur ergo existit » (cfr. :cite:`*Gregor.* art. cit. <hoenen:1953:gregorianum>` et infra appendicem part. I). Et animadverte : etiam in operatione pure mentali circa multitudinem repraesentatam, haec repraesentari, sive cogitari debet ut existens.
 
 In singulis casibus huius activitatis invenitur aliquid, quod est directe et per se intelligibile, secundum quod activitas correspondere debet effectui quem causat; sed iste effectus est effectus (forma) in materia intelligibili ; inde est quod ipsa correspondentia in activitate est intelligibilis. In puris physicis, activitas quae agit, sed non in materiam intelligibilem, debet quoque habere talem correspondentiam, ex ipso principio causalitatis, sed haec nos latet, et tantum post inquisitionem forte diuturnam nobis innotescit. In nostris igitur casibus activitas statim intelligitur, quia agitur de materia intelligibili. Circa hanc quoque materiam dari possunt activitates, quae quoad partem sunt contingentes, vel quarum necessitas nos latet. Fac me ex urna continente globulos (sicut in calculo probabilitatis considerari solent) haurire manum plenam globulis ; eos computans invenio me hausisse duodecim; repetendo experimentum, tantum undecim habeo. Si, calculando summam numerorum 7 et 5 una vice invenio 12 et dein 11, saltem in uno ex his calculis erravi ; scio me versari in materia necessaria et *activitate necessaria de se*. In primo casu exitus sine errore in experimento repetito potest esse diversus ; nam ibi adest elementum contingens in activitate, qua arripio manu globulos ; et est « capacitas » manus quae arripit ; haec facile variari potest, et id novimus. Non omnis operatio circa materiam necessariam est necessaria. (Utique si in experimento repetito *omnia* in utroque experimento in activitate sunt eadem, et id possibile est, idem erit effectus resultans).
+
+.. folio:: 0233
+   :page: 233
 
 Quod dantur operationes nostrae circa arithmetica, quae sunt necessariae et quarum indoles nobis est per se intelligibilis, erit clarum. Tantum animadvertendum est : activitas nostra per se infallibilis, v. g. simplex enumeratio multitudinis, per accidens errare potest ; si sumus fatigati, vel propter aliam rationem non satis attenti, operatio de se infallibilis, a nobis male perficitur, propter indispositionem accidentalem. Et talis error, qui theoretice sane non est tragicus, ideo per repetitionem, omni cura executioni datam, ut error cognosci et corrigi potest. Facultas humana de se infallibilis, per accidens fallere potest.
 
@@ -134,6 +171,9 @@ B) *In geometricis.*
 
 In nostra activitate circa arithmetica inveniuntur igitur elementa, quae de se necessario ducunt ad effectum determinatum, quae est igitur intelligibilis pro mente nostra. Nec tantum intelliguntur illae activitates ut necessariae, de se non contingentes, sed insuper intelliguntur ducere ad resultata exacte determinata ; etiam sub hoc respectu sunt intelligibiles.
 
+.. folio:: 0234
+   :page: 234
+
 In geometricis etiam necessitatem, nobis cognitam, invenimus in materia intelligibili quae est extensio (supra II § 2). In eadem materia detegimus quoque existentiam figurarum exactarum, quae in ea construi possunt, quamquam, in oppositione ad arithmetica, sensus exactitudinem attingere non possunt (supra III et IV).
 
 Expectandum est, etiam in activitate nostra circa geometrica, relate ad ipsam hanc activitatem nostram, analogiam adesse cum activitate circa arithmetica. Non perfecta similitudo expectanda est, sed analogia, propter differentiam, quae ibi invenitur relate ad sensus ; id quod potest esse fons difficultatum.
@@ -144,6 +184,9 @@ Sed difficultates oriuntur relate ad determinationem ulteriorem harum figurarum,
 
 Sed si agitur de constructione reali in extensis realibus, oritur duplex difficultas. Nam ipsa activitas externa humana naturam habet, quae est partim sensitiva ; ideoque et ipsa participat defectu exactitudinis, quae in cognitione sensitiva invenitur. Dein instrumenta, quibus utitur ad perficiendas constructiones, eodem defectu exactitudinis magis vel minus afficiuntur. Propter leges physicas iam ipsa passivitas materiae intelligibilis (nam extensum ex quo et in quo figura construitur, habet « naturam » physicam) non semper perfecte actuari potest. Et simili modo perfecta exactitudo instrumentorum realium attingi non poterit, quamquam intelligitur adesse posse in idealibus.
 
+.. folio:: 0235
+   :page: 235
+
 Sed simul intelligimus has difficultates vinci posse eo sensu, quod defectus exactitudinis magis vel minus corrigi potest ; constructio realis potest esse « approximatio » ad constructionem idealiter exactam et notam.
 
 Supra (§ 1) nominavimus constructiones elementares Graecorum, secundum quas linea recta ducitur inter duo puncta, vel recta terminata in directum educitur in continuum, et quovis centro radiove circulus describitur. De possibilitate passiva iam constat (pro pura extensione). Pro executione practica adhibentur, tanquam instrumenta, « regula » et « circinus ». Regula applicatur ad duo puncta vel ad lineam educendam (haec possibilitas applicationis constat ex altero proprio extensionis). Executio nostra applicationis, et ipsum instrumentum reale, carent exactitudine, sed simul intelligimus executionem realem appropinquare posse, magis vel minus, ad operationem idealem. Simili modo in construendo circulo ope circini. Activitas nostra, etiam quoad exactitudinem, continet elementa nobis intelligibilia.
@@ -151,6 +194,9 @@ Supra (§ 1) nominavimus constructiones elementares Graecorum, secundum quas lin
 Haec sunt elementaria, sed similia invenimus in operationibus magis complicatis, in innumeris casibus in vita quotidiana, in evolvendis scientiis physicis et technicis. Ut unum exemplum nominemus ex hisce : in construendis superficiebus approximative exactis in instrumentis nostris vel in obiectis physicis, ut est superficies speculi plani vel prismatis, vel superficies sphaerica, utimur operationibus i. e. activitate cuius elementa geometrica nobis sunt pervia.
 
 Ut momentum proprium noeticum huius facti cognitionis nostrae magis elucescat, iterum hunc casum comparare possumus cum casu pure physico, de quo iam superius agebamus, cum electrizatione virgae vitreae ope frictionis. Post frictionem illa virga attrahit corpuscula levia, qua vi ante frictionem carebat. Inquirentes in causam efficientem huius mutationis, valde cito admittimus, eam sitam esse in activitate frictionis ; sed hanc activitatem physicam non intuitive intelligimus, sicut in casibus geometricis, de quibus supra, intelligebamus aspectum geometricum activitatis nostrae, sicut in hoc ipso casu intelligimus motum, ex quo frictio oritur, ex nostra activitate. Elementa geometrica in activitate intelligimus.
+
+.. folio:: 0236
+   :page: 236
 
 Et hic intellectus provenit ex eo, quod relate ad elementa geometrica, gaudemus facultate abstrahendi intuitive formaliter. Sed non omnis influxus causalis physicus nos latet in non-geometricis ; nam similia, sed in minori gradu, inveniuntur in quibusdam non-geometricis, in comparandis qualitatibus, in considerando earum intensitate ; de hisce infra quaedam addemus. (Vide :cite:`*Cosmologiam* <hoenen:cosmologia>` de cognitione qualitatum et intensitatum, et in :cite:`ed. 4 notam XI <hoenen:cosmologia:nota-XI>` de sensibilibus propriis).
 
@@ -172,11 +218,17 @@ Terminum « origo » derivamus ex textu capitali :person:`S. Thomae <aquinas>`, 
 
 Ibi agitur de cognitione nostra intellectiva, non de sensitiva ; nam haec cognitio dicitur provenire ex cognitione sensitiva ; atque id ex toto articulo constat. Nec tantum agitur de principiis, quae sunt notiones, sed etiam et praesertim de iudiciis ; nam haec sunt principia *indemonstrabilia*. Et expresse docemur haec prima principia indemonstrabilia esse originem *omnis* nostrae cognitionis intellectivae, ideo etiam eius, quae non directe ex datis sensitivis habetur, ut sunt ipsa noetica et metaphysica. Hae nascuntur ex principiis illis mathematicis ut ex origine ; non utique ita ut ex eis per demonstrationem syllogisticam deducantur ; quomodo ex eis nascantur, ulterius indagandum erit et quidem in ipsa noetica construenda.
 
+.. folio:: 0237
+   :page: 237
+
 Nam noetica est scientia, quae naturam ipsius intellectionis, :term:`noeseos <noesis>`, perscrutari intendit. Et consideratio principiorum mathematicorum non tantum de facto est prima pars noeticae, sed id necessario est, si cognitio nostra intellectiva ex sensibus derivari debet.
 
 Prima pars noeticae non potest consistere in consideratione ipsius « intelligere » abstracti, nec in consideratione iudiciorum de « casibus physicis ». Noetica perscrutatur ipsum intelligere et quidem primo « actum », postea tantum ipsum intellectum actum elicientem ; ex actu cognoscitur potentia, Qui intellectum examinat debet scire « quid sit intelligere » et ut hoc sciat, mens debet elicere actum intelligendi et animadvertere « hoc est intelligere ». Sed, ut :person:`S. Thomas <aquinas>` saepe dicit, « intelligere est intelligere aliquid » ; id quod videtur esse clarissimum ; intelligere sine addito obiecto sensum non habet. Ille terminus « aliquid » non significat notionem « aliquid », quae enumerari solet inter transcendentalia, sed supponit pro dispositione rei determinata, pro intelligibili specificato. Sed *primum* huiusmodi obiectum (in intellectu procedente de potentia in actum) non poterit esse ipse actus intelligendi, quia ita supponeretur processus in infinitum. Debet esse aliquid in mundo externo, a sensu praesentato (ipsa sensatio quae potest ducere ad quoddam principium « sentio ergo sum » absque dubio non est aliquid primitivi). Primum nostrum intelligere intelligit aliquid quod est obiectum externum. Ut ipsum intellectum cognoscamus debemus cognoscere eius actum intelligendi, ut hunc cognoscamus praerequiritur intellectio genuina obiecti externi ; et ita actus cognoscitur ex obiecto, ex hoc obiecto externo intellecto.
 
 Sed haec obiecta, prout a nobis cognoscuntur, facile dividuntur in duas classes; una continet ea quae supra saepe vocabamus « casus mathematicos », altera continet « casus physicos ». Resumamus specimina supra posita. In corpore dato observamus figuram delineari posse, et affirmamus : « hoc corpus est figurabile » ; in alio specimine observamus, corpus post frictionem acquirere vim attrahendi corpuscula levia, et affirmamus : « hoc corpus est electrizabile per frictionem ». Si nihil amplius inquirimus, casus videntur esse omnino similes. In ulteriore tamen reflexione in ea, quae in mente nostra inveniuntur, invenimus inter duos casus discrimen capitale. Nam interroganti « quare hoc affirmas ? » in primo casu respondemus « quia hoc intelligo » in altero « quia hoc video oculis ». In primo casu novimus *necessitatem* nexus inter corpus subiectum et eius figurabilitatem, in secundo casu deest cognitio necessitatis ipsius nexus ; i. e. in primo casu *intelligimus* nexum et ideo affirmamus, in secundo deest intellectio ipsius nexus et eum affirmamus tantum, quia eum sensu observamus. Ita sese manifestat ingens discrimen noeticum inter integras duas classes notitiarum, quae in mente nostra adsunt relate ad obiecta externa, inter « casus mathematicos » (non tantum geometricos sed etiam arithmeticos et similes) et « casus physicos ».
+
+.. folio:: 0238
+   :page: 238
 
 .. _caput-7-la-s3-2:
 
@@ -187,6 +239,9 @@ Nondum contendimus, haec critice iustificari, tantum dicimus : homo qui incipit 
 
 Plus etiam detegit ; nam statim invenit rationem quoque huius discriminis inter duas classes notitiarum suarum. In primo enim casu simul intelligit, figurabilitatem profluere, non ex colore vel alio attributo corporis praeter unum solum (quod dein extensionem vocamus) et ex hoc *necessario* profluere. In secundo casu omnino non patet ex quonam attributo corporis profluat electrizabilitas. Et hanc notitiam exprimimus dicendo : in primo casu homo habet abstractionem formalem intuitivam, in altero ea caret. Et id notum est, ut supra iam exponebamus, etiam homini praephilosophico, sed :term:`in actu exercito <in-actu-exercito>` non :term:`in actu signato <in-actu-signato>`. Et reflexio noetica nihil facit nisi perducit hanc notitiam ad :term:`actum signatum <in-actu-signato>`.
 
+.. folio:: 0239
+   :page: 239
+
 Et haec est diversitas fundamentalis, ob quam noetica distinguere debet duas classes cognitionum nostrarum, etiam vulgarium, quas in mente nostra invenimus. Describebamus unum specimen classis mathematicae et quidem omnium primum, ni fallimur, scilicet figurabilitatem corporum. Operae pretium est, quaedam alia breviter describere vel enumerare. Supra inveniebamus alterum exemplum fere aeque primitivum : corpora se invicem extrinsece tangere possunt et ita oritur systema corporum quod est simile uni corpori ex quo systema illud, unum per contactum tantum, oriri posset. Momentum huius intuitionis simplicissimae, possibilitatis contactus et eius quod ex contactu resultat, supra (V § 4 n. 2) descriptum est. Interrogamus : unde in corporibus haec possibilitas profluit ? Statim intelligimus, vere intelligimus, eam oriri ex extensione, et ex ea sola, et ex ea necessario. Et nunc attendendum est : haec extensio est omnino identica cum ea quam primo detegebamus ex figurabilitate ; hoc explicite dicere non est superfluum, momentum noeticum habet (VII § 2 n. 1 B c).
 
 Et ex *eadem* iterum extensione profluere intelliguntur proprietates figurarum, quae ex divisione extensionis (sive ex additione per contactum) oriuntur : ut sunt modi transeundi linearum per puncta, in quibus proprietates primitivae intuitive agnoscuntur, proprietates localizationis et motus localis. Haec omnia intuitive deteguntur ex eadem abstractione formali.
@@ -195,6 +250,9 @@ Insuper in hisce, praeter necessitatem relationum, etiam detegimus earum exactit
 
 Uno verbo hic memoramus similes relationes noeticas inveniri in arithmeticis et similibus, et ibi intuitiones primitivae, propositiones immediatae, per se et statim intelligibiles, in infinitum multiplicantur (supra V § 4).
 
+.. folio:: 0240
+   :page: 240
+
 Insuper recolamus, in ipsis nostris *activitatibus* relate ad haec obiecta necessitatem inveniri (§ 2 n. 2), et, saltem in operationibus mentalibus, exactitudinem. Haec quoque sunt acquisita noetica oriunda ex consideratione « casuum mathematicorum », per « resolutionem ad prima principia » ut :person:`S. Thomas <aquinas>` dicere solet. Ita « quantitas » sive continua, sive discreta, i. e. extensio et multitudo, sese revelat ut materia intelligibilis, in passivitate et in quibusdam saltem activitatibus nostris relate ad eam.
 
 Breviter resumamus. Intelligere est intelligere « aliquid » ; hoc « aliquid » designat obiectum determinatum, specificatum. In origine hoc obiectum nondum potest esse « ipsum intelligere » in genere ; debet esse obiectum externum a sensu acceptum. Et in his primae intelligibilitates, quae in mente nostra inveniuntur, sunt principia primitiva mathematica, non tantum axiomata, sed etiam aliae propositiones primae i. e. immediatae, quae in deductione mathematica applicantur. Sed non sunt principia « physica ». Noetica, quae examinat intellectionem nostram, scire debet « quid sit intelligere » et id originaliter experitur in « casibus mathematicis ».
@@ -202,6 +260,9 @@ Breviter resumamus. Intelligere est intelligere « aliquid » ; hoc « aliquid �
 Haec est « notitia primorum principiorum indemonstrabilium » in qua « omnis nostra cognitio originaliter consistit » et quorum « cognitio in nobis ex sensu oritur ».
 
 Ipsa scientia mathematica ex his primis principiis derivatur per ratiocinium syllogisticum, sed in ipsa non consistit « omnis nostra cognitio ». Tamen ex eisdem principiis etiam aliae scientiae nascuntur, metaphysica et ipsa noetica generalis, sed non per ratiocinium syllogisticum sed per ulteriorem reflexionem in ea, quae in mente nostra fiunt, quando haec in datis sensitivis nexum necessarium vere intelligit ; tunc cognoscit quid sit « intelligere », et insuper intelligibilitatem comportare ipsum « esse » (obiectivum sensu realismi, quod ita per definitionem operativam definiri potest) ; hoc « esse » competit intelligibili et soli intelligibili (in se). In hac reflexione critica mens nostra ipsam notionem suae intellectionis acquirit, et in ea suam ipsius naturam noeticam cognoscit. Detegit iustificationem suae affirmationis « ita est », detegit relationes inter ens et intellectum : intelligibile est ens, quod est principium fundamentale noeticae generalis. Insuper detegit principium inversum : ens (de se) est intelligibile ; et ita intrat in regionem metaphysicae. Tali modo hae scientiae ex primis principiis mathematicis nascuntur.
+
+.. folio:: 0241
+   :page: 241
 
 Intellectio ipsa non habet repraesentationem in sensu (sicut mathematica et physica) sed eius natura cognoscitur ex intellectione mathematicorum quorum dispositiones rei ex sensibus assumuntur. In hoc sensu :person:`S. Thomas <aquinas>` (sicut postea :person:`Leibniz <leibniz>` cui hoc effatum tribui solet) noto adagio « nihil est in intellectu quod non prius fuerit in sensu », addit « nisi ipse intellectus » (:cite:`*Q. D. de Malo* q. 6 a. 1 ad 18 <aquinas:de-malo:6.1.ad18>` cfr. :cite:`*Th. du Jug.* Ch. VII § 1 ed. 2 pagg. 214 sq. <hoenen:1953:theorie:214>`). Sed haec per longum et latum exponuntur in :cite:`*Th. du Jug.* Ch. VII <hoenen:1953:theorie:VII>` et alibi.
 
@@ -213,6 +274,9 @@ Neglectus considerationis huius abstractionis formalis intuitivae (quae revelat 
 
 Addimus : saepe dicitur unum exemplum « casus mathematici » sufficere ut haec omnia intelligantur. Et verum est, non indigemus multitudine talium casuum, ex quorum *comparatione* cognitio nostra induceretur ; non talis indolis est nostra abstractio, nam est intuitiva. Sed ex alia parte dicendum est : praerequiritur multum exercitium facultatum sensitivarum, ut data sensitiva apta fiant ex quibus intuitive abstrahamus ; id quod ab :person:`Aristotele <aristotle>` describitur in famoso ultimo capitulo :cite:`*Analyticorum Posteriorum* <aristotle:anal-post:II.19>` et in principio :cite:`*Metaphysicorum* <aristotle:met:I.1>`. Simili modo multum exercitium « resolutionis ad prima principia » requiritur ut processus, quos mens humana natura sua exercet, clare detegi et formulari possint, ut mentis humanae iudicia ex :term:`actu exercito <in-actu-exercito>` (ex statu virtuali, ut supra saepius dictum est) :term:`in actum signatum <in-actu-signato>` perducantur. Etiam in hoc casu requiritur veri nominis « habitus » huius resolutionis. Ideo tale exercitium frequens et diligens « resolutionis noeticae » valde commendandum est, immo necessarium esse videtur, ut noetica generalis digne construatur. Et prima obiecta huius exercitii sunt ii quos vocabamus « casus mathematicos ».
 
+.. folio:: 0242
+   :page: 242
+
 Ita in analysi noetica intuitionum, quas habemus relate ad « casus mathematicos », non tantum indoles ipsius cognitionis geometricae et arithmeticae sese nobis :term:`in actu signato <in-actu-signato>` manifestat, sed insuper ex ea, per reflexionem, quae ulterius (est terminus :person:`S. Thomae <aquinas>`) instituitur, detegimus eius relationes obiectivas (in sensu realistico) ad ipsum « esse » ad ens. Tantum his intuitionibus muniti construere possumus noeticam ulteriorem, etiam cognitionis « casuum physicorum ».
 
 .. _caput-7-la-s3-3:
@@ -222,6 +286,9 @@ Ita in analysi noetica intuitionum, quas habemus relate ad « casus mathematicos
 
 Ratio affirmationis relationum geometricarum erat : « quia intelligo », in relationibus physicis erat : « quia video ». In utroque casu materia affirmationis hauritur ex sensibus, sed ratio prioris affirmationis ex sola intellectione huius materiae sumitur, ratio alterius etiam ex testimonio sensus. Dicimus « etiam », nam *in* ipsis propositionis affirmantis terminis debet adesse aliquid quod intelligimus (ita :person:`S. Thomas <aquinas>` cfr. :cite:`*Th. du Jug.* Ch. IV § 4 et Ch. X § 1 <hoenen:1953:theorie:IV.4,X.1>`) ; sed ipse nexus, qui affirmatur, non sese manifestat ut intelligibilis ; ideo praecise ut ratio affirmationis datur : « quia video ». Requiritur igitur, et quidem prius, iustificatio critica valoris testimonii sensus. Haec pars noeticae praesupponit « originem » noeticae et eius evolutionem ulteriorem, quam describebamus. Hanc partem noeticae, quae valorem testimonii sensus examinat, fuse exponebamus in opere :cite:`*Théorie du Jugement* Ch. VIII-XII <hoenen:1953:theorie:VIII-XII>` et hic analysin non repetimus. Tantum quaedam puncta specialia hic exponere liceat.
 
+.. folio:: 0243
+   :page: 243
+
 1. In « casibus mathematicis » *ex quidditate* intellecta intuitive inferimus ipsum « esse » quod huic quidditati *competit* ; et illud « esse » est esse realisticum, quod ita « operative definiri » potest ; secundum hoc « esse » quidditas actuari potest, vel actuatum est. E contra in « casibus physicis » in genere ex *esse actuali* relationis inferimus (vi principii quod exprimitur « ens est intelligibile ») nexum illum inter quidditates debere esse intelligibilem, sive sit intelligibilis in se sive ex alio i. e. ex causa. Ut hoc « esse », a solo sensu menti propositum, iure affirmetur, requiritur iustificatio testimonii sensus, ut in capitibus citatis ex :cite:`*Th. du Jug.* <hoenen:1953:theorie:VIII-XII>` exponitur.
 
 2. In analysi noetica, quae hanc iustificationem manifestat, tanquam elementum ultimo-decisivum (quod ipsam actualitatem spectat) invenimus quasdam activitates nostras necessarias, intelligibiles. Tales activitates, quae actualitatem materiae intelligibilis, subiecti activitatis, praesupponunt, si ipsa activitas actu et non mentaliter tantum exerceatur, supra (VII § 2 n. 2) inveniebamus.
@@ -229,6 +296,9 @@ Ratio affirmationis relationum geometricarum erat : « quia intelligo », in rel
 :person:`S. Thomas <aquinas>` talis activitatis considerationem introducit in multis textibus, in quibus artifici humano sui operis cognitionem, quoad eius esse actuale, tribuit *propter* huiusmodi suam activitatem, quae in tali materia necessario producit talem effectum. Atque hanc doctrinam applicat ad explicandam illam scientiam Dei, quae respicit actualem existentiam rerum creatarum et scientia visionis vocatur. Et ipse hanc theoriam applicat ad solvendos casus, in quibus difficultas oritur de ipsa actualitate materiae, quae activitatem recipit ; :person:`Aristoteles <aristotle>` quoque hoc facere videtur (:cite:`*Th. du Jug.* Ch. X § 5 <hoenen:1953:theorie:X.5>`).
 
 3. Dictum est in « casibus physicis », in oppositione ad « casus mathematicos » deesse abstractionem intuitivam nexus qui affirmatur. Id in genere verum est. Sunt tamen quaedam relationes physicae, quae non extensionem vel multitudinem spectant, sed qualitates, quae tamen permittunt talem abstractionem. Hi casus respiciunt divisionem generis in species et distinctionem generum inter se (rubrum et viride necessario pertinent ad idem genus, coloris, distinctum a genere sonorum), sed praesertim proprietates « intensitatis » talium qualitatum, pertinentium ad genus subalternum qualitatum patibilium. In his habemus intellectionem intuitivam relate ad « gradus » intensitatis, ex qua obiectivitatem huius generis cum suis propriis cognoscimus ; de his fuse in :cite:`*Cosmologia* <hoenen:cosmologia>`.
+
+.. folio:: 0244
+   :page: 244
 
 In hac materia intensitatum detegimus analogiam inter lineam geometricam et intensitatem. Adest similitudo in ordinatione « punctorum » in utroque obiecto ; sed etiam adest fundamentale discrimen : linea componi potest ex lineis minoribus praeexistentibus et dividi in lineas, post divisionem existentes, non ita intensitas relate ad intensitates minores. Alia similitudo consistit in eo, quod secundum utrumque obiectum dari potest motus, et hic motus, etiam si est motus alterationis, habet extensionem stricte dictam, fluentem (cfr. supra VI § 3 et :cite:`*Gregorianum*, 1953, pagg. 3-19 <hoenen:1953:gregorianum:3-19>`). Sed ibi est et alia discrepantia magni momenti : linea est extensum unidimensionale in extenso (v. g. in plano) plurium dimensionum situm, sed duratio motus est extensum unidimensionale quod non est situm in extenso altiori (ibid.).
 
@@ -238,6 +308,9 @@ Habemus igitur etiam relate ad qualitates, praesertim relate ad earum intensitat
 
 Hae abstractiones, quae tantum conferunt ad construendas scientias naturales, sine dubio considerandae sunt in noetica speciali, quae de indole harum scientiarum iudicare debet, sed saepissime negliguntur, si non spernuntur.
 
+.. folio:: 0245
+   :page: 245
+
 Ceterum in illis scientiis construendis physici, iam inde a saeculis, methodos adhibent, quae sub alio respectu similes sunt abstractioni formali intuitivae, et quae ideo eius defectum in mente nostra relate ad haec obiecta supplere plus minusve possunt ; inveniuntur primo in « physica mathematica » experimentali, quae in mediis phaenomenis complexis physicis illas « formas » detegere valet, inter quas relationes experimentales constantes, « leges physicae », valent. In mathematicis, in materia intelligibili, has formas intuitive detegimus ; « le mathématique se détache du fond du réel » dicebat :person:`Meyerson <meyerson>`. Ita in physica ars experimentalis imitatur abstractionem naturalem in mathematicis (de hac comparatione cfr. dicta :cite:`*Th. du Jug.* Ch. XI § 3 n. 2 et n. 3 C et D <hoenen:1953:theorie:XI.3>`).
 
 Sed propter suam originem hae leges manent « phaenomenales » in hoc sensu, quod necessitas nexus constantis, qui lege affirmatur, ex constantia concluditur, sed a nobis nondum intelligitur, quamquam in se intelligibilis esse debet. Ad hanc intuitionem quoque attingendam introducitur « theoria physica explicativa », quae, incipiendo ab hypothesi, conatur « explicare » i. e. intelligibiles facere leges experimentales. Ubi animadvertendum est : fit ut in tali theoria, praeter elementa, quae relationes intuitive intelligibiles continent, etiam alia adhibeantur, quae sunt adhuc leges experimentales, sed notiores (frequentissime et in variis circumstantiis stabilitae) ; tunc oriuntur theoriae typi noetici mixti ; hae absque dubio sunt obiecta dignissima profundioris examinis noetici. Sed talis inquisitio non, vel fere non, a noeticis instituitur, exigitur tamen ab eorum scientia philosophica.
@@ -246,15 +319,24 @@ Et etiam in hac methodo theoretico-explicativa adhibere possumus, immo debemus, 
 
 4. Iam supra (V § 5 A) dictum est, in *applicatione* geometriae ad res physicas, manere quidem cognitionem nostram *necessitatis* relationum, sed eius *exactitudinem* interire. Huius enim cognitio dependet a mensuris, quae propter imperfectionem sensuum et instrumentorum et influxum legum physicarum perfecta exactitudine carent. Sed scire possumus nos ex his fontibus habere cognitionem approximatam, cuius valor, inter certos limites etiam determinari poterit.
 
+.. folio:: 0246
+   :page: 246
+
 In applicatione legis physicae, quae formula mathematica in se exacta exprimitur, idem obtinere non est mirum. Sed in casu legis physicae, ex experimentis cognitae, fieri potest ut ipsa lex, per formulam exactam expressa, exacta non sit. Talis formula per experimenta magis exacta corrigi poterit in oppositione ad formulam, quae relationes geometricas in physicis exprimit. Ita venerabilis lex attractionis Newtonis correctione indigere videtur (relate ad dependentiam secundum inversum quadrati distantiae) ; lex autem, quae exprimit superficiem sphaericam esse proportionalem quadrato radii, corrigi non poterit. Immo fieri poterit ut lex physica experimentalis, pro magnitudine ordinaria sat accurata, in extremis, sive versus magnitudinem sive versus parvitatem, *totaliter* deficiat ; id sine ulla absurditate supponi poterit (cfr. :cite:`*Th. du Jug.* Ch. XI § 3 B et Ch. IX § 3 in ed. 2 pagg. 319 resp. 262-263 ; ed. 1 323 resp. 265-266 <hoenen:1953:theorie:319>` ; :cite:`*R. a. J.* pagg. 269 resp. 223 <hoenen:1947:reality:269>`, et :cite:`*Gregorianum* 1953 pag. 30 <hoenen:1953:gregorianum:30>`).
 
 Id non est mirum ; sequitur ex illis, quae relate ad problemata necessitatis et exactitudinis statuebamus. Sed quidem mirum, et valde mirum est, quod oppositum obtinere potest : ex observationibus physicis non perfecte exactis derivari potest lex perfecte exacta, sicut arithmetica applicata ad (non nimis magnos) multitudines. Specimen maxime admirandum erit hoc, quod antea iam ita describebamus (:cite:`*Gregorianum* 1953 pag. 23 <hoenen:1953:gregorianum:23>`) : in ultima sua evolutione « theoria atomica ad hoc pervenit, ut elementa chimica, *cum suis propriis*, ordinare possit iuxta ordinem numerorum naturalium 1, 2, 3, ..... 92 ..... ». Suum cuique speciei proprium per numerum tribuitur. Hic sponte meminimus adagii mediaevalis ex :person:`Aristotele <aristotle>` desumpti « species sunt sicut numeri ». Talis exitus theoriae sine ullo dubio noeticos invitat ut processum longum, qui ad talem splendidum terminum perducit, sub aspectu noetico diligenter perscrutentur.
 
 Quaedam indicare possumus. Primum gressum versus hunc finem iam fecit Dalton per suam legem stoechiometricam parvorum numerorum integrorum. Et *praesupponebat* (non tacite tantum) in legibus stoechiometricis agi de corporibus « puris », de quibus in rerum natura hae statuuntur leges cum exactitudine parvorum numerorum integrorum. In magnifica evolutione theoriae atomicae, cuius apicem nominabamus, inde a prima definitione « corporum purorum » (quae ea ut « corpora hyletropica » considerat, et est initium definitionis operativae) de quibus leges stoechiometricae valent, adsunt et iterum iterumque redeunt omnes illi casus (et similes) in quibus inveniebamus abstractionem formalem intuitivam, aristotelicam, tum relate ad elementa arithmetica et geometrica, tum relate ad methodos quantitativas experimentales, et etiam theoretico-explicativas, nam in ista longa evolutione etiam considerationes theoreticae, explicativae, intrant. In :cite:`*Cosmologia* <hoenen:cosmologia>` systematice et fuse examinavimus evolutionem theoriae atomicae in ordine ad problema cosmologicum : quomodo mixta sint entia ; et multa elementa noetica ibi explicite et implicite (sed non inconscie) considerantur ; sed haec considerare explicite et systematice in ordine ad noeticam est opus magni momenti. Et ibi noeticus attendere debebit ad problemata necessitatis et exactitudinis, de quibus agebamus, et semper iterum ad abstractionem formalem intuitivam.
 
+.. folio:: 0247
+   :page: 247
+
 5. Unum punctum hic breviter addendum esse putamus. Ipsa abstractio intuitiva cognitionis nostrae relationum necessariarum (non tantum inter formas sed) etiam inter ipsos actus existentiales in mente nostra detegitur [#f3]_. Talis intuitio principaliter enuntiatur in principio, iam antiquo, sed quod celebritatem acquisivit in formula cartesiana « cogito ergo sum ». In eo principio intuitive affirmatur connexio inter *actualitatem* cogitationis et *actualitatem* subiecti cogitantis, inter *esse* accidentale et *esse* substantiale, quod est natura prius. Sed similes intuitiones detegimus in mente nostra relate ad connexiones in rebus physicis. Quasdam hic indicamus. Si formulis similibus formulae cartesianae utimur, enuntiari possunt :
 
 « Hoc movetur ergo *existit* ». In hoc casu uterque actus existentialis, motus et esse substantiale praevium, est in eodem subiecto.
+
+.. folio:: 0248
+   :page: 248
 
 Sed etiam actualitas subiecti distincti ita necessario praesupponitur et cognosci potest : « Hoc corpus transfertur, ergo locus *existit* ». Vel ubi intrat principium causalitatis : « *Hoc movetur, ergo causa movens existit* ». Haec quoque causa in genere est in subiecto distincto.
 

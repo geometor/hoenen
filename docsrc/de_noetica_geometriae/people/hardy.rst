@@ -4,6 +4,8 @@
 :death_label: 1947
 :lifespan: 1877 – 1947
 :excerpt: Role: British Mathematician*
+:folio: 0169
+:page: 169
 
 .. _person-hardy:
 

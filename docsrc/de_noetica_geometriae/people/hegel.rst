@@ -4,6 +4,8 @@
 :death_label: 1831
 :lifespan: 1770 – 1831
 :excerpt: Role: German Idealist Philosopher*
+:folio: 0164
+:page: 164
 
 .. _person-hegel:
 

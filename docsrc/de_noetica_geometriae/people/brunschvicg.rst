@@ -4,6 +4,8 @@
 :death_label: 1944
 :lifespan: 1869 – 1944
 :excerpt: Role: French Idealist Philosopher & Historian of Mathematics*
+:folio: 0093
+:page: 93
 
 .. _person-brunschvicg:
 

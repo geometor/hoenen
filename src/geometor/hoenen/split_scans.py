@@ -1,14 +1,12 @@
-#!/usr/bin/env python3
 """
 geometor.hoenen.split_scans
 Processes raw scan PDFs into individual, contrast-enhanced grayscale page images
 organized into chapter folders, preserving original scans and reporting status.
 """
 
-import os
+import re
 import shutil
 import subprocess
-import re
 from pathlib import Path
 
 BASE_DIR = Path("/home/phi/PROJECTS/geometor/hoenen")
@@ -24,7 +22,7 @@ def move_original_file(src: Path, dst: Path):
     if not src.exists():
         return
     dst.parent.mkdir(parents=True, exist_ok=True)
-    res = subprocess.run(['git', 'mv', str(src), str(dst)], capture_output=True, text=True)
+    res = subprocess.run(['git', 'mv', str(src), str(dst)], check=False, capture_output=True, text=True)
     if res.returncode != 0:
         shutil.move(src, dst)
 
@@ -57,10 +55,10 @@ def find_gutter(img_path):
         gutters = [(v, x) for x, v in vals if min_x <= x <= max_x]
         if gutters:
             gutters.sort()
-            val, gx = gutters[0]
+            _val, gx = gutters[0]
             return gx, w
         return int(w * 0.33) if w < h else w // 2, w
-    except Exception as e:
+    except (subprocess.SubprocessError, OSError, ValueError) as e:
         print(f"Gutter detection error for {img_path}: {e}")
         return 1650, 3300
 

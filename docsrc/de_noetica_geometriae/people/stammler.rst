@@ -4,6 +4,8 @@
 :death_label: 1977
 :lifespan: 1898 – 1977
 :excerpt: Role: German Philosopher of Mathematics & Logic*
+:folio: 0166
+:page: 166
 
 .. _person-stammler:
 

@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0195
+:page: 195
+
 .. _caput-6-notes:
 
 TRANSLATION NOTES — Chapter 6: On the Fundamental Subject of Geometry
@@ -7,6 +12,9 @@ TRANSLATION NOTES — Chapter 6: On the Fundamental Subject of Geometry
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0195
+   :page: 195
 
 1. Philological & Conceptual Analyses
 -------------------------------------

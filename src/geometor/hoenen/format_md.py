@@ -1,6 +1,8 @@
 import sys
 from pathlib import Path
+
 from google import genai
+
 
 def format_section(section_name: str):
     print(f"Formatting {section_name}...")
@@ -42,11 +44,7 @@ Text to format:
     )
     
     out_path = docsrc / f"{section_name}.md"
-    out_text = response.text
-    if out_text.startswith("```markdown"):
-        out_text = out_text[11:]
-    if out_text.endswith("```"):
-        out_text = out_text[:-3]
+    out_text = response.text.removeprefix("```markdown").removesuffix("```")
     out_path.write_text(out_text.strip(), encoding="utf-8")
     print(f"Saved formatted markdown to {out_path.name}")
 

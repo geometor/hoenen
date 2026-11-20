@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/aquinas/
 :github_url: https://github.com/geometor/aquinas
 :excerpt: Role: Scholastic Philosopher & Theologian (Doctor Angelicus)*
+:folio: 0006
+:page: 6
 
 .. _person-aquinas:
 

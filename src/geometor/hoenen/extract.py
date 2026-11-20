@@ -1,9 +1,8 @@
-import os
-import sys
 from pathlib import Path
+
 from google import genai
-from google.genai import types
 from PIL import Image
+
 
 def extract_text(image_path: Path) -> str:
     print(f"Extracting text from {image_path.name}...")
@@ -70,7 +69,7 @@ if __name__ == '__main__':
             output_file.write_text(text, encoding='utf-8')
             print(f"Saved to {output_file}")
             
-        except Exception as e:
+        except (OSError, RuntimeError, ValueError) as e:
             print(f"Error during extraction: {e}")
     else:
         print("Test file not found.")

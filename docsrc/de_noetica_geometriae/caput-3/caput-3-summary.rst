@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0065
+:page: 65
+
 .. _caput-3-summary:
 
 AI SUMMARY & ANALYSIS — Chapter 3: On the Problem of Exactitude (Part I: On the Existence of Indivisibles)
@@ -7,6 +12,9 @@ AI SUMMARY & ANALYSIS — Chapter 3: On the Problem of Exactitude (Part I: On th
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0065
+   :page: 65
 
 Executive Summary
 -----------------

@@ -1,7 +1,16 @@
+:orphan:
+:layout: book
+:lang: en
+:folio: 0005
+:page: 5
+
 .. _preface-en-3-1:
 
 PREFACE
 =======
+
+.. folio:: 0005
+   :page: 5
 
 This work deals with the "noetics of geometry," that is, with that part of philosophical noetic science whose object is the cognitive nature of the human mind insofar as it constructs geometric science.
 

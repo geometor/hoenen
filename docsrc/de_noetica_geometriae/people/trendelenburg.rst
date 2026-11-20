@@ -4,6 +4,8 @@
 :death_label: 1872
 :lifespan: 1802 – 1872
 :excerpt: Role: German Philosopher & Aristotle Scholar*
+:folio: 0107
+:page: 107
 
 .. _person-trendelenburg:
 

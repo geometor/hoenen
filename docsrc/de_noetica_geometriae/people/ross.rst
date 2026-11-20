@@ -4,6 +4,8 @@
 :death_label: 1971
 :lifespan: 1877 – 1971
 :excerpt: Role: Scottish Philosopher & Aristotle Scholar*
+:folio: 0253
+:page: 253
 
 .. _person-ross:
 

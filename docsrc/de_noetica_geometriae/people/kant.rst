@@ -4,6 +4,8 @@
 :death_label: 1804
 :lifespan: 1724 – 1804
 :excerpt: Role: German Critical Philosopher*
+:folio: 0014
+:page: 14
 
 .. _person-kant:
 

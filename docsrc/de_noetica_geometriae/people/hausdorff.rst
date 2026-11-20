@@ -4,6 +4,8 @@
 :death_label: 1942
 :lifespan: 1868 – 1942
 :excerpt: Role: German Mathematician & Founder of General Topology*
+:folio: 0135
+:page: 135
 
 .. _person-hausdorff:
 

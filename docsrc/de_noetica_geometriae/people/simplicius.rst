@@ -4,6 +4,8 @@
 :death_label: 560
 :lifespan: c. 490 – c. 560 AD
 :excerpt: Role: Neoplatonic Commentator on Aristotle*
+:folio: 0252
+:page: 252
 
 .. _person-simplicius:
 

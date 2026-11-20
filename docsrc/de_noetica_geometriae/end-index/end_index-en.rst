@@ -1,10 +1,13 @@
-:title: Analytical Index (Table of Contents)
+:title: Analytical Index
 :layout: book
+:lang: en
+:folio: 0289
+:page: 289
 
 .. _end-index-en:
 
-ANALYTICAL INDEX (TABLE OF CONTENTS)
-====================================
+Analytical Index
+================
 
 .. rubric:: *(Index Analyticus, pp. 289–293)*
 
@@ -12,6 +15,9 @@ ANALYTICAL INDEX (TABLE OF CONTENTS)
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0289
+   :page: 289
 
 Preface *(Praefatio)*
 ---------------------
@@ -74,6 +80,9 @@ Chapter II. - On the Problem of Necessity
   * :ref:`1. - On the Material and Formal Nexus Itself <caput-2-en-s4-1>` *(De ipso nexu materiali et formali)*
   * :ref:`2. - Physical Laws and Mathematical Principles <caput-2-en-s4-2>` *(Leges physicae et principia mathematica)*
   * :ref:`3. - On So-Called Formal Abstraction <caput-2-en-s4-3>` *(De abstractione formali quae dicitur)*
+
+.. folio:: 0290
+   :page: 290
 
 Chapter III. - On the Problem of Exactitude. Part I: On the Existence of Indivisibles
 -------------------------------------------------------------------------------------
@@ -147,6 +156,9 @@ Chapter IV. - On the Problem of Exactitude. Part II: On Exact Figures and Relati
 * :ref:`§ 6. On Non-Euclidean Geometry Relative to Human Cognition <caput-4-en-s6>` *(De geometria non-euclidica relate ad cognitionem)*
 * :ref:`§ 7. On Classical Geometry Relative to the Philosophy of Cognition <caput-4-en-s7>` *(De geometria classica relate ad philosophiam cognitionis)*
 
+.. folio:: 0291
+   :page: 291
+
 Chapter V. - On Axiomatics
 --------------------------
 
@@ -191,6 +203,9 @@ Chapter V. - On Axiomatics
 
   * :ref:`A. On the Application of Classical Geometry <caput-5-en-s5-a>` *(De applicatione geometriae classicae)*
   * :ref:`B. On the Applicability of Axiomatically Constructed Geometry <caput-5-en-s5-b>` *(De applicabilitate geometriae axiomatice constructae)*
+
+.. folio:: 0292
+   :page: 292
 
 Chapter VI. - On the Fundamental Subject of Geometry
 ----------------------------------------------------
@@ -238,6 +253,9 @@ Chapter VII. - On Extension as Intelligible Matter
   * :ref:`1. - General Survey <caput-7-en-s3-1>` *(Conspectus generalis)*
   * :ref:`2. - On Mathematical Cases <caput-7-en-s3-2>` *(De casibus mathematicis)*
   * :ref:`3. - On Physical Cases <caput-7-en-s3-3>` *(De casibus physicis)*
+
+.. folio:: 0293
+   :page: 293
 
 APPENDIX: On Necessary Connections Between Existential Acts
 -----------------------------------------------------------

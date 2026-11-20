@@ -4,6 +4,8 @@
 :death_label: 1955
 :lifespan: 1885 – 1955
 :excerpt: Role: German Mathematician & Mathematical Physicist*
+:folio: 0021
+:page: 21
 
 .. _person-weyl:
 

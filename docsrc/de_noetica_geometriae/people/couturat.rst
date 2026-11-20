@@ -4,6 +4,8 @@
 :death_label: 1914
 :lifespan: 1868 – 1914
 :excerpt: Role: French Logician & Philosopher of Mathematics*
+:folio: 0034
+:page: 34
 
 .. _person-couturat:
 

@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0009
+:page: 9
+
 .. _caput-1-notes:
 
 TRANSLATION NOTES — Chapter 1: On the Origin of Geometric Knowledge and Its Problematics
@@ -7,6 +12,9 @@ TRANSLATION NOTES — Chapter 1: On the Origin of Geometric Knowledge and Its Pr
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0009
+   :page: 9
 
 1. Translation Criteria and Apparatus Standards
 -----------------------------------------------

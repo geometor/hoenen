@@ -4,6 +4,8 @@
 :death_label: 1927
 :lifespan: 1891 – 1927
 :excerpt: Role: French Historian of Ancient Philosophy*
+:folio: 0261
+:page: 261
 
 .. _person-carteron:
 

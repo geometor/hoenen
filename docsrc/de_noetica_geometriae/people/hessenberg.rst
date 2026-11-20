@@ -4,6 +4,8 @@
 :death_label: 1925
 :lifespan: 1874 – 1925
 :excerpt: Role: German Mathematician & Neo-Friesian Philosopher*
+:folio: 0048
+:page: 48
 
 .. _person-hessenberg:
 

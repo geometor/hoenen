@@ -4,6 +4,8 @@
 :death_label: 369 BC
 :lifespan: c. 417 – c. 369 BC
 :excerpt: Role: Ancient Greek Mathematician*
+:folio: 0011
+:page: 11
 
 .. _person-theaetetus:
 
