@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0249
+:page: 249
+
 .. _appendix-notes:
 
 TRANSLATION NOTES — Appendix: On the Necessary Connections Between Existential Acts
@@ -7,6 +12,9 @@ TRANSLATION NOTES — Appendix: On the Necessary Connections Between Existential
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0249
+   :page: 249
 
 1. Philological & Conceptual Analyses
 -------------------------------------

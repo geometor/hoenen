@@ -4,6 +4,8 @@
 :death_label: 1280
 :lifespan: c. 1200 – 1280
 :excerpt: Role: Scholastic Philosopher & Doctor of the Church*
+:folio: 0148
+:page: 148
 
 .. _person-albertus:
 

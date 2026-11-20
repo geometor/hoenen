@@ -1,4 +1,8 @@
 :layout: book
+:title: Caput V: De Axiomatica
+:lang: la
+:folio: 0157
+:page: 157
 
 .. _caput-5-la:
 
@@ -11,6 +15,9 @@ CAPUT V
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0157
+   :page: 157
 
 .. _caput-5-la-s1:
 
@@ -30,6 +37,9 @@ Voces, quae adhibentur, sunt eaedem ac illae, quae in geometria classica occurru
 
 Quia haec methodus, perfecte elaborata a mathematicis, tanquam methodus perfectissima construendi scientiam, omnem scientiam, proponitur, epistemologia generalis debebit eam examinare, quae bona sunt admittere, si quae erronea, ea rejicere sive corrigere. Huic labori epistemologi scholastici non poterunt sese subtrahere.
 
+.. folio:: 0158
+   :page: 158
+
 .. _caput-5-la-s1-2:
 
 2. *De methodo Aristotelis.*
@@ -43,6 +53,9 @@ Ipsius igitur geometriae sola functio est pura deductio ex principiis primis, se
 
 Sed est diversum ab axiomatica sensu moderno. :person:`Aristoteles <aristotle>` pro veri nominis scientia non tantum exigit *rectitudinem* ratiocinii, quod est propria functio scientiae, sed insuper *veritatem*, et quidem necessariam, omnium praemissarum, ultimatim igitur axiomatum. Tunc, et tunc tantum, ratiocinium est « demonstratio ». Et haec veritas ut necessaria etiam cognosci debet, ut habeatur « scientia ». De hoc obiecto integra :cite:`*Analytica Posteriora* <aristotle:anal-post>` agunt. Clarum est, ibi praesupponi cognitionem *sensus* terminorum, tum in axiomatibus, tum in conclusionibus deductis demonstrative.
 
+.. folio:: 0159
+   :page: 159
+
 Ex hac prima diversitate ab axiomatica moderna aliae, ut videbimus, profluunt, et quidem maximi momenti.
 
 .. _caput-5-la-s1-3:
@@ -51,6 +64,9 @@ Ex hac prima diversitate ab axiomatica moderna aliae, ut videbimus, profluunt, e
 ~~~~~~~~~~~~~~~~~~~~~
 
 Etiam systema quoddam, quodammodo intermedium, describitur, vel saltem indicatur. Geometria incipiat a systemate axiomatum, vel « propositionum primarum », quae ut *verae* agnoscuntur et cognoscuntur et (addendum est : si non sunt per se intuitive intelligibiles) stabiliendae sunt per aliam scientiam, quam cl. :person:`Freudenthal <freudenthal>` « praegeometriam » vocat [#f2]_ ; alii moderni, inter quos eminet :person:`Gonseth <gonseth>`, eam nomine « :term:`la doctrine préalable <doctrine-prealable>` » designant ; etiam antiquo nomine « dialectica » vocatur, quae tamen non videtur esse identica cum dialectica :person:`Platonis <plato>`. Nos hodie eam scientiam potius « noeticam » vocamus. Nam inquirit in proprietates intellectus humani ex eius activitate concreta, quae scientiam, etiam geometricam, construit ; et haec activitas ex suo obiecto concreto (secundum diversos modos concretionis) intellectui innotescit. Ad hanc noeticam, et quidem ad eius partem initialem (quia intellectus humanus incipit a sensibus et prima vere *intellecta* in datis sensitivis sunt proprie data arithmetica et geometrica) pertinet illa scientia praegeometrica. Sed clarum est, noeticam sese multo latius extendere. In hac igitur scientia attentio dirigitur ad ipsam activitatem mentis humanae ; sed non est psychologia ; nam activitas mentis humanae essentialiter duplicem habet aspectum ; secundum unum respicit ipsum *subiectum*, animam, et si hic consideratur, versamur potius in psychologia ; sed secundum alterum respectum, *intentionalem*, activitas illa respicit *obiectum* ; contactus cum obiecto nunquam solvitur et est principale ; *ex* obiecto cognoscitur ipsa natura noetica intellectus ; tunc in altera scientia versamur, in noetica.
+
+.. folio:: 0160
+   :page: 160
 
 Haec exigentia primorum principiorum pro geometria est perfecte aristotelica. Sed sunt (ita cl. :person:`Freudenthal <freudenthal>`) qui aliam addant, quae convenit cum exigentiis « axiomaticae » modernae. Exigunt scilic. ut ab illa scientia praevia *integrum* systema propositionum primarum statuatur, ita ut dein nulla « appellatio ad phantasma » permittatur, ut nulla nova propositio *prima* tacite (ut :person:`Euclides <euclid>` saepius facit) introducatur. Et haec exigentia statuitur, ut aiunt, ut deductiones perfectum rigorem logicum habeant. Et systema tali modo completum esse debebit, inde ab initio, ut tota geometria ex hoc systemate deduci possit, sine introductione novae propositionis, quae ex phantasmate legitur.
 
@@ -65,6 +81,9 @@ Methodus, quam cl. :person:`Freudenthal <freudenthal>` proponit, iure nominari p
 
 In diiudicanda axiomatica statim difficultas quaedam generalis surgit, quae tamen facile solvitur. Dicere quis poterit : si sensus terminorum geometricorum ignoratur, vel penitus negligendus est, num in tali materia logice, per processus *mentis* logicos, procedere poterimus ? Haec difficultas, ut dictum est, facile solvitur ; iam in medio aevo, immo ab :person:`Aristotele <aristotle>`, iam practice soluta est. Solutio consistit in eo processu, quem antea « abstractionem symbolicam » nominavimus (Vid. :cite:`*Théorie du jugement*, Ch. VII § 6 <hoenen:theorie-du-jugement:c7:s6>`, et supra IV § 7).
 
+.. folio:: 0161
+   :page: 161
+
 .. _caput-5-la-s2-1:
 
 1. *De syllogismo verbis expresso.*
@@ -78,6 +97,9 @@ In medio aevo haec symbola (litterae), quae in exponenda theoria logica adhibent
 
 1) Termini debent *habere* sensum ; etiamsi hic nobis ignotus maneat. In exemplo allato tres termini A, B, C singuli bis occurrunt ; ut consequentia valida sit, idem terminus in his binis locis eundem sensum habere debet ; supponitur igitur eum sensum determinatum habere. Atque hic sensus debet esse talis, ut illi termini, qui hoc significant, cum sensu subiectum et praedicatum propositionis esse possint. Inde id quod saepe dicitur in hac doctrina « illi termini non habent sensum », est erroneum.
 
+.. folio:: 0162
+   :page: 162
+
 2) Insuper nobis nota esse debet structura propositionis symbolicae ; i. e. diversitas functionum subiecti et praedicati ; secus consequentia a nobis non intelligitur adesse ; et in ipsa formula propositionis id ex ordine, structura, totius propositionis debet esse clarum ; id postea patebit momentum habere. *Ordinem* esse decisivum patet iam ex nominibus illorum terminorum ; unus vocatur terminus *medius*, alii *extremi*.
 
 Sed non opus est ut haec theoretice iam examinata sint, i. e. ut praecedat « logica docens ». Ratiocinia talia valida, et ut valida nobis perspicua esse, iam constare potest ex naturali activitate mentis humanae. Ideo etiam possibilis est ipsa « logica docens », quae theoretice construitur et examinatur ; idque sine circulo. Quam late evolvi potest logica, ope symbolorum aristotelicorum constructa, in opere supra citato, demonstravimus. Cognoscimus igitur *naturaliter* structuram logicam validam ratiocinii in omni syllogismo, qui non est nimium intricatus. Si est talis, debemus invocare logicam docentem.
@@ -85,6 +107,9 @@ Sed non opus est ut haec theoretice iam examinata sint, i. e. ut praecedat « lo
 Haec quae dicta sunt, spectant propositiones praedicativas, quae dicuntur, quae constant ex subiecto et praedicato ; sicut in logica classica fieri solet. Sed idem valet pro propositionibus « relationalibus » quae in logica relationum considerantur, quae in logica classica vix examinantur. Etiam in his ratiociniis habemus intuitum naturalem in validitate ratiocinii, si forma non est nimis complicata.
 
 Et hoc est fundamentum possibilitatis axiomaticae. Difficultas illa praevia soluta est et facile solvitur ; debemus tamen, ut solutio valeat, supponere, in tali modo procedendi *mentem* humanam primarie adhuc operari et sub hac luce attendere ad eius structuram ; si haec operatio insuper eliminatur, et in eius locum *manipulatio pure externa* succedit (ut in logistica fit), alio modo dicendum erit, ut videbimus. Nunc ad illam operationem mentis attendamus.
+
+.. folio:: 0163
+   :page: 163
 
 .. _caput-5-la-s2-2:
 
@@ -111,11 +136,17 @@ B) *Activitas syllogizans est naturalis.*
 
 Supra iam dicebamus hanc activitatem esse menti humanae naturalem, i. e. mens eam exercet antecedenter ad omnem *theoriam* logicam, quae de hac activitate agit, et scit se ita legitime facere. Et haec theoria logica tantum evolvi potest in reflexione super activitatem naturalem.
 
+.. folio:: 0164
+   :page: 164
+
 Id clarum est ex ipsa historia logicae. :person:`Aristoteles <aristotle>`, construendo hanc theoriam, detegebat principia huius scientiae in syllogismis (non semper explicite formulatis) quibus homines utebantur in scientiis, immo in vita quotidiana. Et ipse :person:`Aristoteles <aristotle>`, in construendo systemate logico, semper ante oculos habebat perfectissimam scientiam tunc temporis existentem, geometriam. :person:`Locke <locke>` id facetiose exprimit (sed contra theoriam logicam) dicendo : « Deus non ita parce donavit hominem, ut eum tantum creaverit animal bipes, et :person:`Aristoteli <aristotle>` reliquerit, ut eum faceret animal rationale ... Homini donavit mentem, quae ratiocinari potest, quin addisceret methodos syllogizandi » [#f5]_. Et etiam post :person:`Aristotelem <aristotle>` homines, docti et indocti, qui non callent theoriam logicam, iuxta quosdam modos syllogisticos (praesertim Barbara) ratiocinantur, et in genere, non per accidens sed per se, bene ratiocinantur. Infra videbimus quoque specimina frequentissima ratiocinii in Barbara, ubi homines non suspicantur talem syllogismum adesse.
 
 Tale ratiocinium rectum est activitas, quae provenit ex « natura » (strictissime dicta, « :term:`physi <physis>` » aristotelica) mentis humanae ; non est applicatio theoriae generalis ad casus particulares. « Leges logicae » ita non sunt « normae » ab extrinseco impositae, quas mens respicit in sua operatione, ut bene ratiocinetur, sunt actus provenientes ex sua natura, sunt eius vita ipsa. Ita « leges physicae » (quae valde improprie ita vocantur) non sunt « normae agendi » pro rebus physicis, sunt *descriptiones* earum activitatis et passivitatis i. e. earum « naturae ».
 
 Illae « leges logicae » nec dicendae sunt leges psychologicae, nam respiciunt obiecta. Saepe nominantur « leges cogitationis » (germanice « :term:`Denkgesetze <denkgesetze>` ») quod tamen nomen interpretandum est : « leges cogitatorum », sive « cogitandorum » (germanice « :term:`des Gedachten <das-gedachte>` » ) [#f6]_. Optime dicuntur « leges noeticae ». Ideo accurate exprimuntur terminis qui ipsa obiecta respiciunt ; etiam si « pure » logice exprimuntur i. e. ita ut explicite termini transcendentes, symbolici, qui determinationem sensus omittunt, adhibeantur, hi termini semper pro obiectis ipsis, nunc non specificatis, supponunt. Ita supra iam audiebamus :person:`Aristotelem <aristotle>` affirmantem rectitudinem syllogismi modi Barbara propositione conditionali, quae aliquid affirmat universaliter de *obiectis*. Est « lex logica » sed exprimitur in functione terminorum qui pro obiectis ipsis supponunt. Ita et in casu talium veritatum valet adagium :person:`S. Thomae <aquinas>` : ex obiecto cognoscitur actus (et eius natura noetica) et ex actu potentia i. e. natura noetica activitatis generalis mentis syllogizantis. Incipit actus intuitivus ab obiecto concreto, permanet intuitio in transitu ad obiectum abstractum, i. e. in abstractione symbolica.
+
+.. folio:: 0165
+   :page: 165
 
 In construenda scientia, haec forma, quae ita abstrahi potest, adest in dispositionibus rei determinatis, concretis ; inde logica, qua mens humana naturaliter utitur in construenda quavis scientia, est forma in materia talis scientiae ; est « :term:`logica utens <logica-utens>` » vel « in usu ». Inde :person:`S. Thomas <aquinas>` logicam in usu, in diversis scientiis, *identificat*, non cum ipsa scientia logicae, sed cum scientia concreta, materiali, cuius est forma. Ita, ni fallor, intelligendus est textus ex :cite:`*Met.* IV lect. 4 n. 577 <aquinas:met:4.l4.n577>`.
 
@@ -123,11 +154,17 @@ Et ita leges logicae utentis non sunt « normae » proprie dictae, sunt ut iam d
 
 :term:`Logica docens <logica-docens>`, vel theoretica, quae inde ab hac logica naturali evolvitur, invenit utique leges logicas, syllogisticas, quae etiam ut normae adhiberi possunt et adhibentur in diiudicanda rectitudine syllogismi complicati. In hac logica deducenda utimur utique etiam ratiociniis syllogisticis ; sed hi syllogismi pertinent ad logicam naturalem, quae intuitive cognoscitur (vel sunt leges priores ita derivatae). Dictum est [#f7]_ logicam theoreticam necessario circulum continere (qui non ut vitiosus consideratur). Ex dictis patet, id non esse verum. Logica non posset sine circulo, et quidem circulo vitioso, construi, si omnes leges logicae, omnes modi syllogistici, etiam ipse modus Barbara, demonstrari deberent. Id fieri non posse, sed etiam id non requiri, iam saepius dictum est (cfr. :cite:`*Théorie du Jugem.* Ch. VI § 4 <hoenen:theorie-du-jugement:c6:s4>`).
 
+.. folio:: 0166
+   :page: 166
+
 Dicebamus « etiam ipse modus Barbara ». Nam hic iterum iterumque recurrit. Si quendam syllogismum concretum, in quavis scientia, relate ad eius rectitudinem examinare volumus, inquirimus in eius formam logicam ; si haec est una ex ratiociniis, in logica theoretica stabilitis, admittendus est. Haec est functio vere normativa logicae theoreticae. Sed hoc examen vel eius resultatum (in mente !) est syllogismus in Barbara, scil. : Talis modus ratiocinandi est legitimus ; haec est maior universalis. Atqui hoc ratiocinium est in eo modo (est minor de qua constat ex inspectione huius syllogismi). Ergo. Postea iterum videbimus hunc usum mentalem modi Barbara frequentissime occurrere, in omnibus scientiis.
 
 Ita in construenda scientia, in deducendo, duplicem methodum promiscue adhibere possumus, et adhibemus. Attendere possumus ad formam logicam praemissarum verbis expressam (sive attendentes sive minus vel non attendentes ad sensum specificum) et naturaliter intuemur ex his praemissis sequi talem conclusionem. Sed etiam possumus, et interdum debemus, hanc formam comparare cum lege logica, in logica theoretica deducta.
 
 In hac « logica docente », theoretica, poterimus, etiam secundum symbolismum aristotelicum et mediaevalem, vere ingentem multitudinem veritatum logicarum deducere, ut demonstravimus in opere supra citato :cite:`*Recherches de logique formelle* <hoenen:1947>`. Et hoc mirandum est : hae veritates, etiam valde complexae, quae in infinitum augeri possunt, retinent hanc formam, quae indicat earum originem ex contemplatione *obiectorum* concretorum, et earum relationes ad obiecta manifestant. Id iam mirabamur in :cite:`op. cit. pag. 315 <hoenen:1947:p315>`. Oriuntur ex activitate mentis humanae, sed non sunt psychologicae, sed noeticae.
+
+.. folio:: 0167
+   :page: 167
 
 Hae leges logicae universaliter agunt de ipsis rebus, de quavis dispositione rei ; inde habent idem subiectum ac metaphysica quae omne ens considerat iuxta verba :person:`S. Thomae <aquinas>` (:cite:`*In Boet. de Trin.* q. 6 a. 1 <aquinas:de-trin:q6.a1>`) : « utraque scientia (metaphysica et logica) communis est, et circa idem subiectum quodammodo » (textus iuxta recensionem Wyser). Est id quod :person:`Riehl <riehl>` (loc. cit.) exprimit dicendo « Denkgesetze sind Gesetze des Gedachten, des Gegenständlichen überhaupt ».
 
@@ -151,7 +188,13 @@ Hoc systema axiomatum necessario satisfacere debet exigentiae immunitatis a cont
 
    De hac positione extrema unum tantum verbum dicimus. Vox « sequitur » ita adhibetur in sensu quem habet in « implicatione materiali » logisticae, quae nullam relationem intrinsecam necessariam inter praemissas et conclusionem statuit. In medio aevo ab omnibus, in quantum scio (excepto forte pseudo-Scoto) adagium « ex absurdo sequitur quodlibet », in alio sensu adhibetur, ubi « sequitur » habet sensum consequentiae intrinsecae ; et insuper « quodlibet » non significat « quaevis propositio » sed tantum « tum verum tum falsum » Cfr. :cite:`*Théorie du jugem.* ch. IV § 3 B <hoenen:theorie-du-jugement:c4:s3>`).
 
+.. folio:: 0168
+   :page: 168
+
 Si pars scientiae modo axiomatico construitur, vel potius si eius partes relate ad structuram logicam ope axiomaticae examinatur (cfr. supra I § 6) axiomatica pretiosas methodos suppeditare potest. Sed axiomatici et semi-axiomatici deducere volunt *integram* geometriam ex systemate axiomatum *praevie* statuto. Ideo exigunt (non tantum immunitatem a contradictione intrinseca) sed etiam systema axiomatum *completum*. Sed determinatio accurata huius *completudinis* est crux notoria methodi axiomaticae. De hac non agemus. Vocemus « integram » eam geometriam, quae continet omnes notiones (terminos) et omnia theoremata, quae in geometria classica (inclusa non-Euclidica) adsunt et deducuntur, et ulterius deducentur. Quoad hanc constructionem scientiae axiomatici valde laudant *rigorem* suae methodi, in oppositione ad methodum intuitivam classicam, cui « rigor » deesse dicitur propter repetitam « appellationem (saepe tacitam) ad phantasma » geometricum. Sed in examine noetico huius constructionis axiomaticae difficultates deteguntur, quae sunt valde seriae, et pro magna parte non considerantur. Eas reducimus ad tria capita : est difficultas practica, difficultas theoretica (hae duo sunt intrinsecae) et difficultas in applicatione geometriae, quae est magis extrinseca, sed non totaliter.
+
+.. folio:: 0169
+   :page: 169
 
 .. _caput-5-la-s3-2:
 
@@ -171,6 +214,9 @@ Interrogemus axiomaticum : Num admittis tale theorema, in geometria classica pos
 
 Diximus demonstrationem theorematis 5 apud :person:`Hilbert <hilbert>` etiam figura geometrica illustrari. Haec sane non additur, ut *ex* ea aliquid deducatur, sed tantum tanquam adiumentum inservit. Ut « adiumentum heuristicum », aiunt, sed id etiam ita intelligendum est, ut sit adiumentum lectori, ut argumenti evolutionem logicam capiat. Sed id quoque, utrumque, eo magis urget difficultatem practicam, quam describimus, quae redire videtur forte in singulis gressibus.
 
+.. folio:: 0170
+   :page: 170
+
 Haec methodus introducitur, aiunt, ut rigor analyseos mathematicae modernae etiam in geometriam introducatur. Rigor deductionis in analysi saeculi XIX, illius periodi, quae interdum vocatur « :term:`l'ère de la rigueur de Weierstrass <ere-de-la-rigueur-de-weierstrass>` », « :term:`artis epsilonticae <ars-epsilontica>` », est revera admirabilis (in ipsis autem fundamentis deesse videtur). Sed si difficultas practica (et defectus elegantiae) tanta fit in geometria, non dicimus in analysi, dubium oriri potest utrum, etiamsi adsit rigor theoreticus, is practice subsistat. Dicimus, si adest theoretice ; nam adest quoque difficultas theoretica, dubium iuris ; de hoc agendum nunc est.
 
 .. _caput-5-la-s3-2-b:
@@ -182,32 +228,50 @@ Difficultatem iuris adesse, statim sed adhuc vago modo, invenitur, si quis compa
 
 Et in tali casu « appellationis » ad phantasma dispositio rei quae aspicitur, est potius geometrica quam « logica » ; et habebimus novam « propositionem primam », immediatam, praeter axiomata. Repetimus : hic adest magnus campus inquisitionum noeticarum, et hae scholasticis commendentur. Num in tali deductione « geometriae integrae » revera non adsunt « appellationes ad phantasma » geometricum ?
 
+.. folio:: 0171
+   :page: 171
+
 Ut responsum habeatur, inquisitio noetica non ad « praegeometriam », vel « scientiam praeviam », restringenda est, sed etiam ad ipsam deductionem geometriae ; examinandae sunt activitates mentis humanae in hac ipsa deductione ; haec noetica non est geometria, sed scientia, cuius obiectum est geometria in sua constitutione, in suo fieri ; est scientia philosophica, habitus sui generis, quem sane non omnes mathematici habent. Haec est igitur quaestio : num in ipsa activitate, qua mens humana geometriam construit deductive, omnis appellatio ad phantasma geometricum excluditur, vel excludi potest.
 
 :person:`Poincaré <poincare>`, qui sane methodos modernae axiomaticae non spernit, iam sustinebat, « axiomata ordinis », quae a :person:`Hilbert <hilbert>` statuta sunt, et in genere elementa topologica, in geometria adhiberi non posse sine quadam intuitione huius generis (:cite:`*Dernières Pensées* pagg. 93-95 <poincare:dernieres-pensees:p93>` ; cfr. :cite:`ibid. pag. 271 <poincare:dernieres-pensees:p271>`). Et tamen :person:`Poincaré <poincare>`, ut supra (I § 4) videbamus, intuitionem geometricam non amabat. Num :person:`Hilbert <hilbert>` in suis deductionibus revera excludit omnem appellationem ad phantasma geometricum ?
 
 Si quis hoc asserit (et permulti mathematici hoc facere videntur) id debebit demonstrare ex examine noetico singulorum gressuum talis deductionis ; id quod, in quantum scio, non faciunt. Interim licitum erit, cum :person:`Poincaré <poincare>` de « rigore » deductionis dubitare. Sed plus dicendum est : talis appellatio videtur adesse ; idque iam statim. Si apud :person:`Hilbert <hilbert>` (loc. cit.) legimus sequens theorema (6) quod est generalisatio theorematis 5, et quod (dolendum est) non demonstratur sed tantum enuntiatur, haec observamus : 1) proponitur figura e qua *sensus* asserti legendus est ; 2) etiam series symbolorum (litterarum) ob eundem finem ; sed haec tantum respiciunt difficultatem practicam, de qua supra ; sunt tamen seria. Sed etiam difficultas theoretica non evitatur.
 
-   Ecce enuntiatio huius theorematis 6 : « In quovis numero dato punctorum unius rectae, haec semper ita litteris A, B, C, D, E, ..... K
+.. folio:: 0172
+   :page: 172
 
-designari poterunt, ut punctum designatum per B situm sit inter A ex una parte et C, D, E, .... K ex altera parte, dein C inter A, B ex una parte et D, E, ..... K ex altera parte, dein D inter A, B, C ex una parte et E ..... K ex altera etc. Praeter hanc dispositionem
+..
 
-   ::
+   Ecce enuntiatio huius theorematis 6 : « In quovis numero dato punctorum unius rectae :g:`AK <0172.g1:[ A K ]>`, haec semper ita litteris :g:`A <0172.g1:A>`, :g:`B <0172.g1:B>`, :g:`C <0172.g1:C>`, :g:`D <0172.g1:D>`, :g:`E <0172.g1:E>`, ..... :g:`K <0172.g1:K>` designari poterunt, ut punctum designatum per :g:`B <0172.g1:B>` situm sit inter :g:`A <0172.g1:A>` ex una parte et :g:`C <0172.g1:C>`, :g:`D <0172.g1:D>`, :g:`E <0172.g1:E>`, .... :g:`K <0172.g1:K>` ex altera parte, dein :g:`C <0172.g1:C>` inter :g:`A <0172.g1:A>`, :g:`B <0172.g1:B>` ex una parte et :g:`D <0172.g1:D>`, :g:`E <0172.g1:E>`, ..... :g:`K <0172.g1:K>` ex altera parte, dein :g:`D <0172.g1:D>` inter :g:`A <0172.g1:A>`, :g:`B <0172.g1:B>`, :g:`C <0172.g1:C>` ex una parte et :g:`E <0172.g1:E>` ..... :g:`K <0172.g1:K>` ex altera etc. Praeter hanc dispositionem
 
-          A    B    C    D    E        K
-        ──•────•────•────•────•────────•──
+   .. picture:: 0172.g1.svg
+      :alt: Diagramma calibratum theorematis 6 Hilberti (A, B, C, D, E, ..., K)
+      :caption: Diagramma geometricum interactivum theorematis 6 Hilberti (Folio 0172, p. 172).
+
+   .. picture:: 0172.g1.png
+      :alt: Facsimile archivale diagrammatis (Folio 0172, p. 172)
+      :caption: Imago archivalis ex editione Romana anni 1954 (Folio 0172, p. 172).
 
    datur tantum unica alia quae eiusdem structurae est, scil. inversa » [#f9]_.
 
 Ordo huius seriei symbolorum aspiciendus est, ut intelligatur quid in theoremate dicatur de ordine punctorum in linea, qui ex ignota relatione « inter » oritur ; theorema affirmat ordinem punctorum designari per ordinem intuitivum seriei litterarum. In relatione punctorum sensus vocis « inter » negligitur, sed in ordine symbolorum, *quocumque modo describitur*, non potest negligi. Ideo etiam ab :person:`Hilbert <hilbert>` introduci possunt novi illi termini quibus utitur, qui prius nec nominati nec definiti (implicite) sunt, scilicet termini « ex una parte » et « ex alia parte » (:term:`einerseits <einerseits>` et :term:`andererseits <andererseits>`), quorum sensus intuitive intelligi debet et sumitur ex ordine litterarum (vel etiam verborum quae relationem abstractam describunt). Sed hi termini deinde intuitive indicant naturam relationum, quae valent pro litteris, et quarum specimina specifica in singulis casibus applicationis theorematis in phantasmate aspici, et in eo ut necessariae intelligi debent ; tunc habetur semper appellatio ad phantasma ordinis inter symbola sive verba. Et quod est maioris momenti : sensus huius relationis intuitivae, quae exprimitur verbis « ex una parte » et « ex alia parte » est *omnino idem* ac sensus relationis « inter » (« interitas » vocari poterit, sicut anglice dicunt « :term:`betweenness <betweenness>` ») quae punctis tribuitur. Nam « interitas » in serie symbolorum est « interitas » geometrica, quia haec series nonnisi « in spatio » aspici potest, est relatio spatialis. Si haec intuitio « logica » dicitur, urgendum est, illum eundem ordinem, etiam in symbolis, primarie et intuitive esse « geometricum » spatialem, et talis manet.
 
+.. folio:: 0173
+   :page: 173
+
 Et ubicunque hoc theorema applicatur, et id fit saepissime, sive directe sive indirecte, habetur appellatio ad tale phantasma geometricum ; et in axiomatica id fit tacite, ut videtur. Et animadvertamus : etiamsi, ut in axiomatica fit, haec propositio ut theorema *deductum* consideratur, eius applicatio in casibus specificis exigit appellationem ad phantasma specifice determinatum, et ita oritur propositio *prima*, immediata, in media deductione. :person:`Poincaré <poincare>` bene dixit, in eis quae reguntur ab « axiomatibus ordinis » et in topologicis in genere, appellationem ad intuitionem evitari non posse. Et in methodo axiomatica, haec appellatio consequenter fit tacite. Nos sane non dicimus, deductionem ideo esse erroneam, immo nec id nocere eius rigori. Sed dici sane nequit geometriam, post statutum systema axiomatum, non iam appellare ad intuitionem. Et ita melius intelligimus :person:`Euclidem <euclid>`, cui saepe vitio vertitur, quod *nullum axioma ordinis* explicite statuit, sed tacite ea quibus indiget, introducit. Nec hoc est vitium, talia iudicia, quae resultant legitime ex inspectione phantasmatis, non explicite enuntiare, tacite adhiberi. Sunt enim iudicia virtualia, quae noeticus tam saepe obviam habet, ut in supra expositis in tot paginis videbamus, et in sequentibus etiam saepius videbimus. Si enuntiantur — id non prohibetur — constituunt propositiones *primas*, *immediatas*. Et inde videtur sequi quod supra dictum est : impossibile est inde ab initio construere systema completum axiomatum, completum hoc sensu, quod superfluum faceret omnem sequentem appellationem ad intuitionem geometricam. Si propositiones, quae ita resultant, non vocandae sunt « axiomata », sunt tamen primae, immediatae, per se intelligibiles, non deductae ; et si ipsis denegatur nomen « axioma », idem fieri debere videtur relate ad « axiomata ordinis » ; inde haec ab :person:`Euclide <euclid>` non enuntiantur.
 
 Etiam finis enuntiationis theorematis 6 ad eandem ducit conclusionem. Ibi dicitur : « praeter hanc dispositionem (:term:`Bezeichnungsweise <bezeichnungsweise>`) datur tantum unica alia, quae eiusdem structurae (:term:`Beschaffenheit <beschaffenheit>`) est, scilicet inversa (:term:`die umgekehrte <umgekehrt>`) ». Ibi terminus « inversus » (:term:`umgekehrt <umgekehrt>`) quoad sensum supponitur notus. Consideratur scilicet tanquam terminus « logicus », qui significat ordinem litterarum in serie dispositarum intuitivum. Sed simili modo ac supra dicendum est : Haec dispositio litterarum in serie lineari est dispositio spatialis, eius observatio, et intuitio intellectiva ei associata, sunt observatio et intuitio geometrica. Ita autem non habetur introductio logicae in geometriam, sed introductio geometriae in logicam, praecise sicut usus numerorum in axiomatica geometrica non est quid logici, sed quid arithmetici in logica. Et haec dispositio in serie, quae inverti potest, cohaeret cum notione directionis geometricae, non directionis lineae relate ad extensum ambiens, sed secundum ipsam lineam, quae potest esse duplex ita ut una sit inversa, opposita, alterius. In hoc quoque haec intuitio geometrica non est exclusa, sed inclusa.
 
+.. folio:: 0174
+   :page: 174
+
 Et intelligimus positionem :person:`Poincaré <poincare>`, de qua supra dictum est, qui tenet in elementis topologicis intuitionem non posse excludi.
 
 Haec quae detegimus in examine noetico propositionum relationalium, simili modo valent de ipso instrumento logico, quo in deductione rigorosa utimur, i. e. de ratiocinio syllogistico. Impossibile est nobis cogitare sine phantasmate. Non opus est ut hoc sit phantasma ipsius obiecti (immo dantur obiecta quae a nullo phantasmate attingi possunt) ; sufficere poterit, sub certis conditionibus, phantasma verbale, vel ex aliis symbolis consistens. In deductione axiomatica geometriae indigemus tali phantasmate, nec tantum ad expositionem (pro aliis) nostri ratiocinii. Apud :person:`Hilbert <hilbert>` (in eius geometria) haec sunt phantasmata verborum. In his mens humana, sub quibusdam conditionibus, potest adhuc habere intuitionem intellectivam consequentiae syllogisticae ; sine tali, deductio iam dispareret. Duo observamus : 1) ibi *continuo* indigemus appellatione tacita ad illa phantasmata ; tacita, nam explicite enuntiatur tantum id quod intuemur in phantasmate, non ipsa rectitudo formae syllogisticae (et bene facimus, nam hoc semper fieri est impossibile ; vide :cite:`*Théorie du Jug.* Ch. VI § 4 ed. 2 pag. 201 <hoenen:theorie-du-jugement:c6:s4>`). Sed ut hoc recte fiat quidem debemus intueri *ordinem* verborum, *qui iterum est spatialis* ; ut supra iam dictum est, ipsa nomina logica « terminus medius » et « termini extremi » hoc indicant. In ipsa logica indigemus intuitione geometrica, absolute, et magis quam alibi. Observamus 2) : Optimo iure geometrae non solent mentionem facere rectitudinis syllogismorum suorum (formae earum), sicut non faciunt mentionem naturae activitatis mentis humanae in tali deductione. Tantum logistici in unum corpus « axiomatum » interdum simul ponunt principia pure logica (i. e. logistica) et principia quae respiciunt materiam scientiae de qua agitur. Sed logistici alia media deductionis, manipulationes, adhibere debent. Et nunc mirum est : in tali deductione logistica, sicut etiam in deductionibus et transformationibus algebraicis, in singulis gressibus, appellationes, etiam tacitae, ad phantasmata (et syllogismi !) a noetico indicari possunt. De his plura in paragrapho sequente.
+
+.. folio:: 0175
+   :page: 175
 
 Axiomatica igitur pura etiam theoretice non potest sufficere ad construendam integram geometriam. Sed magnam suam habet utilitatem ipsa methodus axiomatica in perscrutandis connexionibus structuralibus, quae inveniuntur inter diversa theoremata huius scientiae (cfr. supra cap. I § 6). In hac tamen perscrutatione persolvenda axiomaticus attendere debebit ad propositiones primas, quas forte ex intuitione assumit.
 
@@ -225,6 +289,9 @@ Difficultatem quae ex applicatione profluit, in § 5 considerabimus, prius, in �
 
 Geometria igitur, propter difficultates tum practicas tum theoreticas, construi non potest modo axiomatico, sive etiam semi-axiomatico. Nam homo qui in hac vita sine phantasmate cogitare non potest, si non habet phantasma ipsius obiecti quod considerat, saltem et semper indiget phantasmate verborum vel aliorum signorum, insuper indiget inspectione combinationum verborum vel aliorum symbolorum, quae connexiones obiectorum repraesentant. Immo utrumque phantasma debet habere structuram spatialem, in hoc igitur sensu geometricam. Est autem haec « appellatio ad phantasma » recursus ad data sensibilia, sed talis ut ei associetur intuitio intellectiva, quae in singulis casibus suo modo solvere debet tum problema necessitatis, tum, si adest, problema exactitudinis. Haec ex superioribus constant.
 
+.. folio:: 0176
+   :page: 176
+
 Et videbamus :person:`Euclidem <euclid>` laudandum esse eo quod etiam in media deductione admittit recursum ad phantasma in casibus qui in specie individua sunt determinati. Id supra (cap. IV § 7) laudabamus ubi de eius primo theoremate sermo erat, in quo vehementer carpebatur. In illo casu hic recursus ei permittit pervenire ad conclusionem exactam, sine transitu *illegitimo* ex phantasmate inexacto ad intellectionem exactam. Nec vituperandus est ex eo quod hoc tacite facit.
 
 Ut autem haec necessitas recursus ad phantasma, et eius universalitas, magis pateat, videamus specimina ex aliis scientiis, inter quas sunt quaedam, quae hodie explicite construuntur eo fine ut evitetur « appellatio ad phantasma ».
@@ -239,6 +306,9 @@ Supra, in primis quattuor capitibus iam abunde videbamus, ad statuenda prima pri
 1) Localisatio est praevia motui secundum locum ; id non impedit quominus cum :person:`Aristotele <aristotle>` admitti possit (:cite:`*Phys.* IV c. 1-2 <aristotle:phys:4.1>`) notionem loci etiam quoad eius existentiam nobis innotesci post ipsum motum et ex eo. In cognitione nostra prior est motus posterior locus, et quoad essentiam et quoad existentiam.
 
 2) Hae relationes locales sunt relationes *in ordine existentiae* et inter actus existentiales (cfr. Artic. nostrum *De connexionibus necessariis inter actus existentiales* in appendice).
+
+.. folio:: 0177
+   :page: 177
 
 3) Ut supra iam dictum est, ut contactus successivus, i. e. motus localis corporis *rigidi* possibilis sit, requiritur ut illud extensum, quod est medium localisationis, sit principium individuationis, ut explicatum est in quaestione de possibilitate figurarum congruentium. Haec proprietas extensionis est igitur fundamentalior, praerequiritur obiective praevie ad motum localem corporis rigidi. Forte et hic dici poterit, observationem motuum corporum sensibiliter rigidorum, praerequiri, sicut apud :person:`Aristotelem <aristotle>` observationem motus antecedenter ad notionem loci ; sed in utroque casu obiective ordo prioritatis et posterioritatis est inversus.
 
@@ -258,6 +328,9 @@ A) *De arithmetica.*
 
 Dicimus : in deductione arithmetica talis recursus ad phantasma iterum iterumque redit, ac evitari non potest. Sit aequatio algebraica valde elementaris : *ax*² = *bx* + *c* (1). Ut « valor » symboli *x* calculetur (ut aequatio solvatur) habemus regulas universales quae permittunt, talem aequationem, quae valida supponitur, in aliam, etiam validam, transformare. Talis regula est : translatio termini (vel complexus terminorum) ex uno membro aequationis in alterum, mutato signo. Ita ex data illa aequatione, quae supponitur valida, sequitur haec altera, etiam valida : *ax*² — *bx* — *c* = 0 (2).
 
+.. folio:: 0178
+   :page: 178
+
 Interrogamus : quid fit noetice in *mente* nostra, dum talem operationem perficimus, et dein affirmamus id quod resultat ? Et analysis noetica dicit : applicatio regulae « translationis » supponit hanc veritatem universalem (« maiorem ») ; omnis aequatio, quae resultat per translationem ex quavis aequatione valida, et ipsa est valida. Addimus in mente « minorem » : atqui ex aequatione (valida) *ax*² = *bx* + *c* per translationem oritur *ax*² — *bx* — *c* = 0. Ergo haec est valida (affirmatur).
 
 Animadvertimus primo : processus mentis hic consistit in syllogismo in Barbara, accuratius dicitur « typi Barbara ».
@@ -268,11 +341,17 @@ Naturaliter igitur intuemur in tali syllogismo mentali, rectitudinem consequenti
 
 Inde habemus quod primo observamus : in *omni* tali processu in *mente* fit syllogismus (typi Barbara) ; non exprimitur verbis, sed mentaliter *dirigit* actum affirmandi conclusionem ; id non facit, ut supra dictum est (V § 2 B), ut norma extrinseca, sed ut activitas intellectus ipsius mentis, ut « natura ». Est igitur syllogismus in « actu exercito » ; investigatio nostra noetica non *introducit* syllogismum, sed eius praesentiam *detegit* ; facit eum transire ex actu exercito in « actum signatum ».
 
+.. folio:: 0179
+   :page: 179
+
 Et talis operatio videtur adesse in singulis fere gressibus huius scientiae arithmeticae. Aliae operationes, in quibus idem invenitur, sunt « substitutiones » quae dicuntur in formulis algebraicis. Usus syllogismi typi Barbara videtur esse immensus.
 
 Alterum, quod animadvertendum est in hac operatione, respicit minorem huius syllogismi. Erat autem haec minor : per translationem indicatam ex (1) oritur (2). Interrogamus : quomodo constat de hac propositione *necessaria* et universali in specie individua ? Analysis noetica haec manifestat : debemus operationem « translationis » executioni mandare ; id quod exigit manipulationem externam, sive actualem (in charta) sive repraesentatam in phantasmate, et inspectionem *empiricam* eius quod resultat. Sed huic inspectioni empiricae, huic appellationi ad phantasma, sicut et ipsi activitati manipulationis, associatur intuitio mentis, intelligentis id quod resultat esse necessarium. Et animadvertimus : haec necessitas, etiam in activitate nostra, a nobis intuitive cognoscitur. Inde non dicimus : in hoc experimento, in hac hora, in hoc loco resultat aequatio (2), sed necessario resultat, ex se semper et ubique resultat eadem in specie individua [#f10]_. Est propositio universalis quia agitur de « materia necessaria » et de activitate nostra necessaria circa hanc materiam. Et hae necessitates a nobis naturaliter cognoscuntur, sine ratiocinio, per abstractionem naturaliter formalem intuitivam.
 
 Sub respectu abstractionis casus omnino idem ac casus axiomatum, quae sunt prima principia, « dignitates ». Illa minor etiam est *prima* propositio, hoc sensu quod est *immediata*, cognoscitur sine *medio* syllogistico, ex appellatione ad intuitionem. Sed non est axioma, quia non multa alia ex ea deducuntur : semel tantum adhibetur.
+
+.. folio:: 0180
+   :page: 180
 
 In hoc casu simplicissimo sufficit inspectio rapida phantasmatis ; in casibus complicatis haec inspectio exigere poterit maiorem sollicitudinem et circumspectionem. Sed elementa noetica quae ibi intrant, manent eadem.
 
@@ -283,6 +362,9 @@ Altera igitur animadversio erit haec : *in singulis fere gressibus* talis deduct
 Resumamus : In singulis fere gressibus deductionis arithmeticae adest syllogismus in actu exercito, et pro huius minore requiritur appellatio ad intuitionem intellectivam in phantasmate. Et addimus : in hoc recursu ad data sensitiva adest iterum elementum ordinis spatialis, elementum geometricum. Quare hoc in ipsa geometria excluditur ?
 
 Utrumque elementum, quod in singulis illis gressibus deductionis arithmeticae in mente nostra adest, applicatur *tacite* ; id tamen a nemine, etiam illorum qui hoc in geometria carpunt, tanquam defectus *rigoris* logici consideratur. Haec « taciturnitas » tolli potest per inquisitionem noeticam, quae, ut iam dictum est, ex « actu exercito » facit « actum signatum ». Inde etiam patet hos actus exercitos non posse vocari « inconscios ». Nam intelligibiliter dirigunt operationes mentis nostrae ; et ideo revera ibi non adest defectus rigoris. Eadem duo elementa inveniuntur in alia operatione frequentissima circa formulas algebraicas, scilicet in « substitutione ». Specimina huius similia inveniemus in ipsa logistica.
+
+.. folio:: 0181
+   :page: 181
 
 .. _caput-5-la-s4-3-b:
 
@@ -297,6 +379,9 @@ Distinguuntur regulae primitivae et derivatae. Nominamus duas, quae videntur ess
 
 Videamus specimen substitutionis, et quidem eam quae constituit primum gressum in deductione primi theorematis (\*2.01) ex opere :cite:`*Principia Mathematica* (pag. 100) <whitehead-russell:principia:p100>`. Hoc theorema, verbis expressum, enuntiat : « si *p* implicat non-*p*, tunc *p* est falsum » (*p* est symbolum propositionis). Demonstratio incipit per substitutionem symboli non-*p* pro symbolo *p* in axiomate quod vocatur « tautologia » et quod dicit : « *p* vel *p* implicat *p* » (\*1.2). Ex hac substitutione resultat (1) : « non-*p* vel non-*p* implicat non-*p* ». *Affirmatio* huius resultati non est nisi applicatio regulae generalis primitivae substitutionis legitimae (Propositio quae per talem substitutionem legitimam resultat ex propositione valida, vel vera, est valida). Sed ipsum *contentum* resultati i. e. propositio *specifica* resultans, non cognoscitur nisi per manipulationem realem et intuitionem in data sensitiva. Nam interrogamus : undenam scimus, formulam (1) et non aliam resultare per substitutionem indicatam in formulam axiomatis ? Est casus similis casui algebraico supra exposito. Non videtur in regula generali ; haec affirmat tantum modo universali legitimitatem substitutionis ; ut inde habeatur resultatum *specificum* ulterius determinanda est — hoc fit in singulis applicationibus regulae generalis — et necessaria est inspectio datorum sensitivorum, appellatio ad intuitionem. In nostro casu, in ipsissimo primo gressu deductionis, haec operatio est simplicissima, sed possunt dari casus etiam valde complicati. Iste intuitus sensitivus simul est cum intuitione intellectiva necessitatis, sicut in casu algebraico ; resultatum, etiam quoad « contentum » sive « determinationem » specificam cognoscitur ut necessarium non contingens. Dein ex applicatione regulae generalis supra enuntiatae substitutionis legitimae, formulam resultantem, cum contento specifico, affirmamus; est iudicium necessarium, non contingens.
 
+.. folio:: 0182
+   :page: 182
+
 Et haec semper iterum recurrunt, in singulis fere gressibus deductionis logisticae, quae est ars quaedam combinatoria secundum regulas determinatas, primitivas et deductas.
 
 Et animadvertamus adhuc : haec phantasmata vel data sensitiva in genere, non tantum continent *multitudinem* symbolorum, sed etiam eorum ordinem spatialem, geometricum. In ipsis scientiis non geometricis, in ipsa deductione necessarius est recursus ad phantasmata geometrica ; et hae methodi valde laudantur propter suum « rigorem » deductivum. Quare igitur, nomine rigoris hic recursus in ipsa geometria excluditur ?
@@ -304,6 +389,9 @@ Et animadvertamus adhuc : haec phantasmata vel data sensitiva in genere, non tan
 Notamus insuper : in logistica, secundum :person:`Whitehead <whitehead>` et :person:`Russell <russell>`, et in aliis quoque systematibus, ipsi numeri arithmetici non ut cogniti supponuntur ; eorum notiones et propositiones, quae de eis valent, modo logistico, post immensum laborem praevium, inveniendae sunt. Tamen in centenis formulis quae praecedunt, adsunt v. g. in systemate interpunctionis, et haec systemata punctorum *intelligenda sunt*, et in sensu naturali adhibenda sunt, et ibi intrat sive agnitio figurae geometricae, sive ordo numerorum naturalium, sive potius utrumque. Intuitive adhibentur ea, quae post multum laborem tandem aliquando cognosci dicuntur.
 
 ----
+
+.. folio:: 0183
+   :page: 183
 
 .. _caput-5-la-s4-3-recap:
 
@@ -320,6 +408,9 @@ In his calculis arithmeticis sensus intuitivus terminorum (numerorum, additionis
 
 Interrogare possumus de aliis scientiis ; ibi in genere ad sensum verborum nos attendere admitti videtur, ibi non applicatur axiomatica, nec, nisi in casibus specialibus, operatio in symbola. Sed ibi tamen quaedam ad axiomaticam accedere videntur. De quibus pauca saltem hic dicenda sunt.
 
+.. folio:: 0184
+   :page: 184
+
 .. _caput-5-la-s4-3-c:
 
 C) *Deductio in aliis scientiis.*
@@ -333,11 +424,17 @@ Signum huius invenimus in methodo classica disputandi scholastica. Si quis in ta
 
 Extremum specimen in hoc contextu est illud quod :person:`Aristoteles <aristotle>` per transennam (:cite:`*Anal. Post.* I 12 77 b 30-33 <aristotle:anal-post:1.12:77b30>`) describit ad illustrandum differentiam noeticam inter terminum (voce expressum) et ipsam notionem mentis, praesertim in mathematicis ubi notiones quasi videmus mente nostra. Talis realisatio notionis, occasione vocis ambiguae, expellit ambiguitatem. Verbum tale aequivocum est vox « cycli » quae adhibetur de circulo geometrico, sed etiam de cyclis poematum post Homerum. Ait : « estne omnis cyclus figura ? Si diagramma construitur, clarum est. Quid tunc ? Epica sunt cyclus ? Clarum est quod non ». Est exemplum extremum, sed minus extrema frequenter occurrunt. Et in methodo classica, ubi illud « :term:`distinguo <distinguo>` » occurrit, id est appellatio ad intuitum intellectivum, ad rectificandum ratiocinium incorrectum.
 
+.. folio:: 0185
+   :page: 185
+
 In hoc puncto aliquid obviam habemus, quod prima facie est valde mirum. Axiomaticus, ut « rigorem » deductionis salvet, id facit introducendo *terminos rigidos*, qui semper sine aequivocatione possibili in eodem sensu adhibentur. Et ut hoc attingat, sacrificat, et id valde explicite facit, ipsum sensum i. e. cognitionem nostram notionum quarum termini sunt signa. :person:`Philosophus <aristotle>` classicus, ut rigorem restituat, modo inverso procedit, appellat ad verum sensum determinatum verborum qui obscuratus vel nimis neglectus erat, per recursum ad intuitionem reviviscere facit intellectionem. Et ita, si hoc bene fit, rigorem restitui, luce clarius est. Quis melius facit ? Axiomaticus qui sacrificat cognitionem nostram rigori pure formaliter deductivo, et ita, si scientia est cognitio, ipsam scientiam veri nominis, an classicus, qui sensum i. e. cognitionem, i. e. scientiam restituere vult ? Axiomaticus utique intendere potest (non omnes hoc faciunt) sensum sui systematis integri iterum invenire, i. e. applicare suam constructionem ad quandam realitatem, immo talis realitas potest eum dirigere in constructione. De difficultate practica et theoretica supra sufficienter agebamus ; de difficultate huius applicationis in paragrapho sequente sermo erit.
 
 Non ideo omne quod in axiomatica comprehenditur, reprobandum erit. Et ipsa methodus disputationis supra descripta signum est huius quod in methodo classica construendi scientias, quae utitur et uti debet syllogismis verbis expressis, elementa axiomaticae adsunt, et in examine noetico considerari debent. Adsunt, nam saepe in deductionibus construendis, in diversis ratiociniis, homo attendere potest ad sola verba, quae structuram logicam ratiocinii conservant ita ut conclusio, verbis utique expressa, tanquam legitima ideoque, quia praemissae verae supponuntur, etiam tanquam vera agnoscatur. Id fieri potest et id fit, fortasse nimis fit.
 
 Homo in scientiis realitatem attingere intendit, sed propter imperfectionem intellectus, qui ex imperfecta cognitione ad perfectiorem procedere debet, indiget quoque motu, qui in ratiocinando consistit, qui uti debet processu syllogistico. Hi syllogismi sunt primarie mentales et conducunt ad conclusiones, quae sunt iudicia mentalia, non mere propositiones orales. Ita tantum ad cognitiones novas scientificas pervenit.
+
+.. folio:: 0186
+   :page: 186
 
 Sed in hoc labore mentali magnopere adiuvatur per terminos, per propositiones, per syllogismos verbis expressos. Non tantum eis indiget ut aliis scientiam communicet, sed etiam, immo largo modo, ut propria activitas mentalis facilitetur. Sed quia *intelligere* volumus, semper redeundum est ad intellectionem *sensus* orationum nostrarum ; id non tantum in fine, per applicationem theoriae integrae, facere intendimus, sed saepius, immo regulariter, in ipso progressu ratiocinii.
 
@@ -347,11 +444,17 @@ Ecce quaedam puncta forte attentione digna. Si nova quaedam notio, nova relatio 
 
 Id iam agnoscere possumus, ubi agitur de intuitionibus quibus phantasma correspondet, de intuitionibus mathematicis. Sumamus v. g. iudicium mathematicum, quod oritur si in corpore physico figuram delineamus ; ita hoc exprimere possumus : corpus est divisibile per figuram. Intuemur necessitatem huius dispositionis rei ; et quidem ideo quia in hoc casu facultatem habemus abstrahendi formaliter et intuitive : corpus *quia extensum* est divisibile per figuram. In simili casu in ipsa mente hic praecise nexus, inter extensionem et divisibilitatem per figuram, est in ipsa repraesentatione intellectiva *corporis* (cum figura delineata) simul cum aliis nexibus corporis cum suis attributis (et attributorum inter se, saltem materialiter i. e. per ipsum corpus intermedium) et ideo *activitas* abstractionis requiritur ut iste nexus formalis percipiatur ; naturaliter utique mens humana hanc activitatem exercet, sed operatio activa requiritur. In expressione autem verbali « corpus quia extensum est divisibile », plus etiam in hac : « extensum est divisibile » haec abstractio iam facta est ; eius effectus, separatio huius nexus ab aliis attributis, quae non important, iam adest in ipsa formula ; et ideo iam maiorem stabilitatem, firmitatem, consistentiam habet : et ipsa propositio alios homines facilius docet ad quid attendere debeant in phantasmate. Expressione verbali (v. g. quia extensum est divisibile) attentionem nostram et aliorum figimus in id quod attendendum est, et quod sine tali admonitione non sufficienter attenditur (vel non sine conatu intensiore) et negligitur. Fere sicut si verbis attentionem figimus in partibus specialibus cuiusdam picturae eam clare intelligimus, si non, id tantum vago modo fit. Sed verba non *dant* intuitionem eius quod importat, sed suscitant eam, et conatibus parcitur.
 
+.. folio:: 0187
+   :page: 187
+
 Hic casus est utique adhuc valde simplex et facilis. In aliis, ubi etiam de mathematicis agitur, erit difficilius ; tunc magis etiam necessarium erit formulam proponere in qua modo stabili effectus abstractionis factae exprimitur et eius usus facilior redditur.
 
 In casibus ubi agitur de dispositione rerum « quorum non est phantasma » (:cite:`S. Th. <aquinas:anal-post>`), de eis scilicet quae « sunt in anima nostra », etiam maior erit utilitas, immo necessitas adhibendi formulas verbales, quae « stabilitatem » habent. Ut tales dispositiones rerum revera intelligamus, debemus eas suscitare in mente nostra, sicut ad intelligendum actu in geometricis debemus inspicere phantasma ; et talis actio vitalis iam est magis dynamica quam statica. Insuper talis operatio, etiam pure mentalis, in hac vita, indiget, ut suscitetur, ut incipiamus a datis sensitivis quae transitum permittunt ad operationes pure mentales. In tali igitur processu, si eum plene percurrere volumus (et id in initio est absolute necessarium) multo maiorem, et magis complicatum, laborem impendere debemus. Sed dein id quod resultat verbis stabilibus exprimere poterimus ; et talem propositionem in syllogismo adhibere, in quo ad verba et eorum ordinem tantum attendimus, et ad conclusionem pervenire possumus. Hic usus syllogismi verbalis ideo fit multo facilior ; ille syllogismus est phantasma sine quo homo intelligere nequit. Et haec simplificatio explicat, ni fallor, fertilitatem syllogismi.
 
 Sed in fine ad intellectionem sensus specifici conclusionum tendimus, et aciem mentis ad dispositiones *rerum* non tantum ad earum signa i. e. verba dirigimus, ex ipsa indole mentis nostrae. Et in ultima perfectione cognitionis, ad quam mens humana necessario ex natura sua tendit, pervenimus per « resolutionem usque ad prima principia », iuxta verba :person:`S. Thomae <aquinas>`, intuitive cognita, et tunc habemus intuitionem etiam connexionis veritatum, in qua intellectus humanus, post laboriosum motum, ad « quietem » intuitionis totius pervenit (cfr. :cite:`*Théorie du Jug.* Ch. I § 4 pagg. 37 sq. <hoenen:theorie-du-jugement:c1:s4>`).
+
+.. folio:: 0188
+   :page: 188
 
 Mens igitur humana, in modo suo naturali deducendi, indiget absque dubio elementis procedendi, quae in axiomatica elaborata sunt, sed quae ibi usque ad extremum non iam iustificatum urgentur.
 
@@ -374,6 +477,9 @@ A) *De applicatione geometriae classicae.*
 
 Geometria classica, tanquam scientia deductive constructa, inde ab antiquitate ad extensa physica applicabatur ; non tantum ad astronomiam, sed etiam ad scientiam physicam de obiectis sublunaribus, ad cinematicam, ad mechanicam, ad acusticam, ad opticam, recentius ad theoriam camporum. Haec applicatio, quae praesertim inde a Newtonis opere :cite:`*Philosophiae naturalis principia mathematica* <newton:1687>` splendidum habebat successum, nullam continet difficultatem. Extensio illa (« spatium ») cuius leges in geometria statuebantur, per abstractionem in obiectis physicis detegebatur, et in illis erat realisata. Applicabatur ad illud ex quo abstrahebatur.
 
+.. folio:: 0189
+   :page: 189
+
 In hac applicatione necessitas relationum in extensis physicis facile cognoscitur ; per eandem abstractionem formalem. Quoad exactitudinem adest difficultas, quae tamen facile solvitur. Ut extensa physica quantitative cognoscantur, indigemus mensuris, quae propter diversas causas (imperfectionem sensuum, imperfectionem instrumentorum, influxum legum physicarum) nunquam perfecte exactae esse possunt. Solvitur difficultas ex eo quod ita valores vere approximatos habemus, et secundum ipsas leges geometricas sensus ipsius notionis et gradus approximationis determinari poterit. Alibi (:cite:`*Théorie du Jug.* Ch. IX § 3 <hoenen:theorie-du-jugement:c9:s3>`) iam dicebamus in applicatione geometriae classicae ad extensa physica manere cognitionem necessitatis, sed cognitionem exactitudinis sacrificari debere ; sed loco eius habemus veri nominis approximationem. (Cfr. etiam supra II § 2 n. 6 « de iudiciis experimentalibus mathematicis » mathematici Stahl et I § 4 :person:`Kleinii <klein>` « :term:`Approximationsmathematik <approximationsmathematik>` et :term:`Praezisionsmathematik <praezisionsmathematik>` »).
 
 Ita scientia mathematica extensorum physicorum, « physica Newtonis », inde ab eius opere celeberrimo constructa est.
@@ -387,6 +493,9 @@ Sed si applicare volumus geometriam axiomatice constructam, maiores difficultate
 
 Ipsa notio *extensionis* in his verbis non videtur exprimi ; erit illud *in quo possibilia sunt systemata* de quibus :person:`Hilbert <hilbert>` loquitur (supra I § 6) ; per relationes haec systemata efformantur. Generaliter ita dici poterit : terminis tribui debet sensus quem habent in geometria classica.
 
+.. folio:: 0190
+   :page: 190
+
 Sed dein examinari debet, utrum axiomata, quae nunc sensum intuitivum habent et quae relationes reales inter subiecta affirmant, in extensis physicis verificentur. Iam non sufficit sola non-contradictio interna in systemate axiomatico ; sine tali examine in extensis propria ignota dari possent quae contradictionem importarent (id *postulari* videtur in ultimo axiomate :person:`Hilbert <hilbert>`, sed id quoque verificandum esset ; sed quomodo ?).
 
 In verificatione axiomatum (et idem valet si theorema quoddam directe examinatur) *ex integro* redeunt problemata necessitatis et exactitudinis. In extensis physicis empirice observari debent omnes dispositiones rei, quae singula axiomata verificant. Et quia propositiones geometricae tanquam necessariae habendae sunt, hae dispositiones empirice cognitae debent *esse* necessariae ; dispositio, quae non esset necessaria, *non* verificaret axiomata ; insuper hae dispositiones, empirice cognitae, etiam *cognosci* debent ut necessariae. Requiritur, sicut in systemate :person:`Aristotelis <aristotle>` supra exposito, observatio empirica, cui associatur intellectus necessitatis ; non sufficit illa experientia, quae habetur in casibus physicis, in quibus de facto constare poterit, et per multa experimenta forte de constantia factorum, sed non de necessitate, nam non adest *intuitio nexus* necessarii ; deest enim ibi abstractio intuitiva de qua supra (II § 2 n. 3). Requiritur igitur abstractio eadem ac in geometria classica, ut applicatio iustificetur ex parte necessitatis.
@@ -395,11 +504,17 @@ Ex dictis resultat : ut geometria axiomatice constructa applicari possit ad exte
 
 Maior est etiam difficultas, si problema exactitudinis consideratur, ex quo tandem aliquando critica, quae ad constructionem axiomaticae duxit, orta est. Prima facie videtur esse eadem ac illa, quam supra indicavimus, agentes de applicatione geometriae classicae ad extensa physica, more Newtoniano ; nam exactitudo in mensuris in hac quoque sacrificari debet. Sed in hac solutio est facilis et classica : id quod ex experientia imperfecte, inexacte cognoscimus, comparare possumus cum figuris et earum relationibus exactis, notis ex geometria abstracta ; nam agitur de eadem extensione. Et ita iudicare possumus de approximatione datorum empiricorum ad obiecta exacta. Et causas defectus exactitudinis mediis nostrae observationis, obiectivis et subiectivis, tribuere possumus ; ibi iure loqui possumus de experimentis « conceptualiter », vel « in principio » possibilibus ; sensum habet haec locutio.
 
+.. folio:: 0191
+   :page: 191
+
 Non ita in applicatione geometriae axiomatice constructae. Si hanc *directe* ad extensa physica applicare volumus, invenimus discrepantias, quae non statim ita explicari possunt, ut cognitio ex sensibus hausta appareat esse *approximatio* ad data absolute exacta.
 
 Sumamus propositionem axiomaticam (apud :person:`Hilbert <hilbert>` est theorema, in alio systemate considerari poterit ut axioma) : « inter duo puncta in linea existit semper tertium ». In linea experientiae, etiam in phantasmate, id *non* verificatur ; ibi pervenimus ad minima sensibilia, quae pro sensibus sunt indivisibilia ; et illa propositio importat quod tertium punctum intermedium divisionem causat vel divisio est. Num illa propositio in linea experimentali « approximative » verificatur ? Id negandum est ; linea geometrica in infinitum est divisibilis, linea sensibilis tantum usque ad minimum. Et ita videtur adesse *infinita* discrepantia inter lineam physicam et geometricam ; id vocari non potest approximatio. Et tales casus multiplicari possunt.
 
 Directe igitur geometria axiomatica (post introductum « sensum » symbolorum) ad extensa physica applicari non poterit cum correctione classica. Indirecte utique iterum iustificari poterit applicatio, nam difficultas etiam hic solutionem habet. Ex obiectis enim physicis abstrahere possumus notionem extensionis purae (utique ut realisatae in illis obiectis, cfr. :cite:`*Cosmologiam* ed. 4 pag. 40 <hoenen:cosmologia:p40>` ; :cite:`*Théorie du Jug.* ch. X <hoenen:theorie-du-jugement:c10>`). Ad hanc extensionem, prout in mente, intellective (nam necessitas relationum cognoscitur) repraesentatur, propositiones geometricae axiomaticae « applicari » cum sensu possunt. In ea extensione obiecta, de quibus propositiones geometricae axiomaticae *exacte* valent, mentaliter construi, actuari possunt, i. e. mathematice existunt. Et quia haec extensio in obiectis physicis invenitur, ideo etiam de hac extensione, realisata in rerum natura, geometria axiomatica valebit. Et quia ibi imperfecte, sine exactitudine mathematica *observantur*, ideo ut veri nominis approximatio iustificari possunt ; de his habemus vere « :term:`Approximationsmathematik <approximationsmathematik>` » [#f12]_.
+
+.. folio:: 0192
+   :page: 192
 
 Sed ut haec solutio difficultatis vere valida sit, requiritur ut applicatio ad ipsam « extensionem abstractam » iustificetur. Sed in analysi conditionum apparet, in hac applicatione inveniri debere omnia, quae etiam relate ad problema exactitudinis requiruntur, ut primae propositiones geometriae classicae iustificentur. Et ita geometria axiomatice constructa non est nisi medium superfluum ad inveniendam illam geometriam, quae ad extensa physica applicari possit ita ut cognitio ex mensuris resultans sit vere approximativa.
 
@@ -407,7 +522,13 @@ Sunt mathematici qui contendunt, illud onus applicandi geometriam ad extensa phy
 
 In tali separatione superba, quasi-aristocratica, geometriae axiomatice constructae, ab extensione physica, obiecto pure experimentali, etiam alia incommoda surgere videntur. Si de sensu geometriae post eius constructionem curare non volunt, iam habent scientiam, quae nihil reale cognoscit nisi seriem consequentiarum formalium in mundo symbolico. Quod peius est : ut supra (V § 2 A) videbamus verba geometrica sensum habere *debent*, secus discursus syllogisticus, qui adhibetur, nullum valorem habebit ; et axiomatici, ut :person:`Hilbert <hilbert>`, eum discursum adhibent ; sed munus determinandi sensum aliis relinquitur. Poterit quis ulterius progredi et dicere se adhibere regulas syllogisticas *non* ut sunt modi operandi mentis humanae, quae intelligit consequentiam rectam pro realitate valere, sed tantum ut regulas, libere electas, manipulandi symbola, quae in hoc casu sunt verba. In tali positione integra geometria « abstracta » (sed non est vere abstracta, est constructio artificialis, seu creatio ut aiunt, et in hoc casu constructio ex verbis quae sensum non habent) non est nisi purus ludus cum symbolis (non dico ludus parvulorum, nam est valde difficilis). Realitas, quae ibi consideratur est ipse ordo symbolorum, quae iam non sunt signa alicuius realitatis, sed ipsa realitas in quam operantur. Hic autem ludus nomine « scientiae » iam non dignus esse videtur. Et insuper animadverte, in tali manipulatione, sicut in algebra et in logistica, in singulis gressibus operationes, in actu exercito dirigi per syllogismos mentales, quos etiam evitare volunt.
 
+.. folio:: 0193
+   :page: 193
+
 Physici ergo a tali mathematico nullum auxilium expectare poterunt. Fieri tamen non potest, ut geometriam non construere conentur. Nam inde a primis conatibus, etiam praescientificis, cognoscendi naturam, homo videt ingens discrimen noeticum inter relationes, quas observat relate ad extensionem corporum et multitudinem (numeros) eorum ex una parte, et proprietates physicas ex altera parte ; hoc sensu : observans corpus in quo figuram delineat, affirmat « hoc corpus est figurabile », observans corpus, quod post frictionem attrahit corpuscula parva, affirmat « hoc corpus est electrizabile ». Hi duo casus noetice toto caelo ab invicem distant, idque non manet ignotum. In primo casu homo intellective intuetur *necessitatem* nexus, et id quia per intuitionem abstractivam intelligit, « figurabilitatem » profluere ex extensione corporis, et ex ea sola, et ex ea necessario. In altero casu id totaliter deest. In tali casu physicus ex repetitis et variatis experimentis poterit cognoscere « legem physicam » ; necessitatem ibi adesse firmiter credere poterit, sed nexum non *intelligit*. Ut ad hoc perveniat physicus adhibere debet methodum inquirendi in hanc intellectionem ope hypotheseos, theoriae explicativae physicae.
+
+.. folio:: 0194
+   :page: 194
 
 Clarum est talem physicum in hoc tendere, ut scientiam suam physicam de corpore ut est extensum etiam evolvat ; sed methodus erit toto caelo diversa : incipit ab intellectione et eam deductive elaborare conabitur. Conabitur fieri geometra, construere hanc partem scientiae suae apodicticam ; construet geometriam classicam modo classico. Ipsa mens humana, quae intelligere vult, conatur, ex illis datis experientiae scientiam apodicticam construere.
 

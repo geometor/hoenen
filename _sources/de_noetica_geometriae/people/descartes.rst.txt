@@ -4,6 +4,8 @@
 :death_label: 1650
 :lifespan: 1596 – 1650
 :excerpt: Role: French Philosopher & Mathematician*
+:folio: 0017
+:page: 17
 
 .. _person-descartes:
 

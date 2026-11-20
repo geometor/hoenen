@@ -4,6 +4,8 @@
 :death_label: 1924
 :lifespan: 1853 – 1924
 :excerpt: Role: Historian of Ancient & Medieval Philosophy*
+:folio: 0067
+:page: 67
 
 .. _person-baeumker:
 

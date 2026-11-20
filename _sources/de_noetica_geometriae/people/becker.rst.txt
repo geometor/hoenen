@@ -4,6 +4,8 @@
 :death_label: 1964
 :lifespan: 1889 – 1964
 :excerpt: Role: Phenomenologist & Historian of Ancient Mathematics*
+:folio: 0093
+:page: 93
 
 .. _person-becker:
 

@@ -1,4 +1,8 @@
 :layout: book
+:title: Appendix: De Connexionibus Necessariis inter Actus Existentiales
+:lang: la
+:folio: 0249
+:page: 249
 
 .. _appendix-la:
 
@@ -12,12 +16,18 @@ APPENDIX
    :depth: 3
    :backlinks: none
 
+.. folio:: 0249
+   :page: 249
+
 .. _appendix-la-s1:
 
 § 1. « Movetur ergo est ».
 --------------------------
 
 Formula, quae est titulus huius primae partis, similis est adagio cartesiano « :term:`cogito ergo sum <cogito-ergo-sum>` ». Iam ante nonnullos annos [#f1]_ detegere conati sumus sensum quem :person:`Cartesius <descartes>` his suis verbis tribuit. Concludebamus : haec propositio non est syllogismus truncatus, nec est conclusio syllogismi, sed refert simplicem intuitum intellectus : « cum autem animadvertimus nos esse res cogitantes, prima quaedam notio est, quae ex nullo syllogismo concluditur ; neque etiam cum quis dicit, *ego cogito, ergo sum sive existo*, existentiam ex cogitatione per syllogismum deducit, sed tamquam rem per se notam simplici mentis intuitu agnoscit, ut patet ex eo quod, si eam per syllogismum deduceret, novisse prius debuisset istam maiorem *illud omne quod cogitat, est sive existit* ». Sed haec propositio universalis et necessaria cognoscitur potius ex *experientia* interna, quae necessitatem intuitive detegit. Pergit dicendo : « atqui profecto ipsam potius discit ex eo quod apud se experiatur fieri non posse ut cogitet nisi existat » [#f2]_.
+
+.. folio:: 0250
+   :page: 250
 
 Et homo hanc necessitatem in ipsa illa *experientia* sua interna detegit, id quod exprimitur per formulam : ego qui cogito necessario sum ; ita in ipsa prima formula quae famosum adagium exprimit in ipso :cite:`*Discours de la Méthode* (A. et T. VI 32, 17) <descartes:discours:VI.32>` : « Il fallait nécessairement, que moi, qui le pensais, fusse quelque chose ».
 
@@ -29,6 +39,9 @@ Sed eadem veritas, ut principium quoddam primum, i. e. immediatum et per se notu
 
 Positio :person:`Aristotelis <aristotle>` et :person:`S. Thomae <aquinas>` quoad essentialia est eadem ac positio :person:`Cartesii <descartes>`. Etiam apud :person:`S. Thomam <aquinas>` haec « experientia » est talis, ut ei associetur intuitus intellectivus naturae et necessitatis huius nexus. Inde statim ad propositionem universalem transire possumus : omne quod cogitat, est. Sed :person:`S. Thomas <aquinas>` simili modo (aliter ac :person:`Cartesius <descartes>`) veritatem universaliorem statuit. Non tantum cogitationem nostram, sed activitatem in genere considerat. Inde eius principium universalius : « :term:`agere sequitur ad esse in actu <agere-sequitur-esse>` », vel : « omne quod agit est ens actu ». Ubi per transennam notamus : agere est suppositorum, et esse (quod est esse substantiale) est natura prius quam agere.
 
+.. folio:: 0251
+   :page: 251
+
 Haec antea statuebamus ; in praesente elucubratione quaedam alia principia addere volumus, quae originem habent ex perceptione *externa*, et ea noetice examinare et comparare cum noetica principii « :term:`cogito ergo sum <cogito-ergo-sum>` ».
 
 *B)* Principium « :term:`cogito ergo sum <cogito-ergo-sum>` » immediate ducit ad propositionem universalem « omne quod cogitat, est ». Haec nexum necessarium et ideo universalem affirmat, nexum inter duas *actualitates*, inter *esse* substantiale subiecti et *esse* accidentale cuiusvis eius cogitationis, et quidem ita, ut *esse* cogitationis quidem a nobis prius *cognoscatur*, sed *esse* substantiale *ontologice* praesupponatur.
@@ -36,6 +49,9 @@ Haec antea statuebamus ; in praesente elucubratione quaedam alia principia adder
 Similem propositionem apud :person:`Aristotelem <aristotle>` et :person:`S. Thomam <aquinas>` pro corporibus invenimus, scilicet « omne quod movetur, est ». Haec propositio similem structuram habet. Nam affirmat nexum necessarium inter esse substantiale subiecti quod movetur, et motum, qui est eius esse accidentale. Una actualitas, scil. esse substantiale, ontologice praesupponitur, sed, iuxta eorum doctrinam, altera actualitas, ipse motus, a nobis prius, et quidem ut actualitas, cognoscitur ; immo haec duo « esse » et eorum nexus simili modo a nobis cognosci videntur ac principium « :term:`cogito ergo sum <cogito-ergo-sum>` ».
 
 In :cite:`*Phys.* V 1 (225 a 25 sqq.) <aristotle:phys:V.1.225a25>`, ubi :person:`Aristoteles <aristotle>` motum stricte dictum ab aliis mutationibus (generatione et corruptione) distinguit, statuitur principium τὸ δὲ ἁπλῶς μὴ :term:`τόδε <tode>` οὐδαμῶς [ἐνδέχεται κινεῖσθαι] ἀδύνατον γὰρ τὸ μὴ ὂν κινεῖσθαι. Agitur de substantia, :term:`τόδε <tode>`, et de ea dicitur : si non est ens actu non potest moveri (ne per accidens quidem). Id quod a :person:`S. Thoma <aquinas>` redditur (:cite:`i. h. l. lect. 2 n. 8 <aquinas:phys:V.2.8>`) : « quod simpliciter non est hoc aliquid, non potest moveri ». Ex hac formula, per contrapositionem, statim alia, aequivalens, intelligitur : quod movetur, necessario est ens simpliciter ; et in commentario repetit argumentum « impossibile est quod non est moveri », id quod ut principium per se notum consideratur.
+
+.. folio:: 0252
+   :page: 252
 
 Haec de omni motu dicuntur. Altera consideratio :person:`Aristotelis <aristotle>`, quae directe motum localem respicit, breviter memoretur. εἰ πᾶν τὸ κινούμενον ἐν τόπῳ, τὸ δὲ μὴ ὂν οὐκ ἔστιν ἐν τόπῳ· εἴη γὰρ ἄν που (:cite:`225 a 31-32 <aristotle:phys:V.1.225a31>`).
 
@@ -49,13 +65,22 @@ Sicut igitur universaliter admittitur principium « :term:`agere sequitur esse <
 
 *C).* Iuxta auctores nostros et alia convenientia existit inter haec principia, scilicet in processu, secundum quem ad eorum cognitionem pervenimus. Haec quoque convenientia attentione dignissima est. :person:`Aristoteles <aristotle>` hunc processum describit in :cite:`*Met.* XI c. 3 <aristotle:met:XI.3>`. Ibi repetitur id quod iam in :cite:`*Phys.* V 1 <aristotle:phys:V.1>` legebamus : actualitas illa quae est « moveri », praesupponit actualitatem sui subiecti i. e. substantiae. Prima actualitas, quae nobis ut actualitas innotescit, est ipse motus, immo motus videtur describi tanquam actualitas per excellentiam : hac intellecta, consequenter alias actualitates detegimus, inter quas hic speciatim nominatur actualitas subiecti motus, i. e. id quod in subiecto, substantia, requiritur ut possit esse subiectum motus, prout motus est actualitas. En eius verba (:cite:`loc. cit. 1047 a 30-b 2 <aristotle:met:IX.3.1047a30>`) : ἐλήλυθε δ᾽ ἡ :term:`ἐνέργεια <energeia>` τοὔνομα, ἡ πρὸς τὴν :term:`ἐντελέχειαν <entelecheia>` συντιθεμένη, καὶ ἐπὶ τὰ ἄλλα ἐκ τῶν κινήσεων μάλιστα· δοκεῖ γὰρ ἡ :term:`ἐνέργεια <energeia>` μάλιστα ἡ κίνησις εἶναι, διὸ καὶ τοῖς μὴ οὖσιν οὐκ ἀποδιδόασι τὸ κινεῖσθαι, ἄλλας δέ τινας κατηγορίας, οἷον διανοητὰ καὶ ἐπιθυμητὰ εἶναι τὰ μὴ ὄντα, κινούμενα δὲ οὔ, τοῦτο δέ ὅτι οὐκ ὄντα :term:`ἐνεργείᾳ <energeia>` ἔσονται :term:`ἐνεργείᾳ <energeia>`. τῶν γὰρ μὴ ὄντων ἔνια :term:`δυνάμει <dynamis>` ἐστίν· οὐκ ἔστι δέ, ὅτι οὐκ :term:`ἐντελεχείᾳ <entelecheia>` ἐστίν [#f3]_.
 
+.. folio:: 0253
+   :page: 253
+
 Actualitas igitur detegitur (primo sensibus) in subiecto quod movetur, et est ibi primarie ipse motus, qui ut actualitas etiam primo *intelligitur*. :person:`Alexander Aphrodisiensis <alexander>` in suo commentario :cite:`i. h. l. <alexander:met:573.16>` optime dicit quod ἡ :term:`ἐνέργεια <energeia>` ἐν κινήσει θεωρεῖται [#f4]_, ubi θεωρεῖται non tantum visum, sed magis intellectionem respicere videtur.
 
 Dein *nomen* « actualitas », :term:`energeia <energeia>`, extenditur ad alias actualitates ; et hoc ideo quia *notio* extenditur. Optime :person:`S. Thomas <aquinas>` notat (:cite:`i. h. l. Cath. n. 1805 <aquinas:met:IX.3.1805>`) « cum enim nomina sint signa intelligibilium conceptionum, illis primo imponimus nomina, quae primo intelligimus, *licet sint posteriora secundum ordinem naturae* ». Verba ultima, a nobis sublineata, specialiter respiciunt casum nostrum, in quo id, quod est posterius secundum naturam, scil. motus, prius cognoscitur ut actualitas quam esse substantiale subiecti ; et ideo apud :person:`S. Thomam <aquinas>` et apud :person:`Aristotelem <aristotle>`, hic processus cognitionis actualitatis statim enuntiatur de hoc casu, quia in eo intuitive legitur. Ita quoque Alexander (:cite:`loc. cit. lin. 24 sqq. <alexander:met:573.24>`), a quo etiam remittimur ad :cite:`*Phys.* V 225 a 25 sqq. <aristotle:phys:V.1.225a25>` Tali igitur modo, iuxta auctores nostros, pervenimus ad formandam « intelligibilem conceptionem » actualitatis, primo in motu, quem observamus, dein in eius subiecto observato, et dein, in reflexione naturali, ad intelligentiam relationis (et ordinis naturalis) inter utramque actualitatem. Cognitione prior est intelligentia motus, posterior intelligentia actualitatis substantiae, quae tamen natura est prior et cognoscitur ut prior. Haec relatio cognoscitur ut necessaria, inde in :cite:`*Phys.* V <aristotle:phys:V>` explicite ut *impossibile* ponitur quod non-ens moveretur. Et haec cognitio necessitatis est signum intellectionis obiectivae.
 
+.. folio:: 0254
+   :page: 254
+
 Haec cognitio generi humano universaliter tribuitur, in singulis textibus. Ibi tamen supponendum est, hanc veritatem cognosci et applicari :term:`in actu exercito <in-actu-exercito>` (sicut accidit in tot principiis) non :term:`in actu signato <in-actu-signato>`, qui tantum invenitur post analysin philosophicam, post inquisitionem dialecticam, sicut hic exponitur apud :person:`Aristotelem <aristotle>` [#f5]_.
 
 In detegendo igitur principio de necessitate existentiae subiecti quod movetur, similis est processus mentis nostrae ei qui ducit ad principium « :term:`cogito ergo sum <cogito-ergo-sum>` ». In fine huius processus mentis resultat intuitio, quae exprimi poterit formula « :term:`hoc movetur, ergo est <movetur-ergo-est>` ». Sicut in « :term:`cogito ergo sum <cogito-ergo-sum>` » prius nobis actualitas cogitationis et in ea (vel sub ea) actualitas subiecti cogitantis innotescit, ita in percipiendo motum (motum huius subiecti), ut actualitatem, in reflexione naturali et spontanea agnoscimus actualitatem eius subiecti. Et in utroque casu haec altera actualitas (subiecti) ut natura prior consideranda est, ut conditio possibilitatis alterius ; cognoscitur ut profundior, ut fundamentalis. Una actualitas (cogitationis resp. motus) est aliud esse, i. e. alius *modus essendi* ac alia actualitas (animae, eius quod movetur) i. e. esse ipsius substantiae, i. e. *modus essendi* simpliciter. Prior modus essendi est « in alio », alter est « per se ». Et, id quod est momenti decisivi, hae relationes nobis innotescunt ut relationes *necessariae*, et quidem inter ipsas actualitates, modos essendi, *non directe* inter quidditates ; ipsi modi essendi nihil quidditativi in se continent (« esse non est forma sed actus »). Sunt quidem actus « quidditatum », formarum, sive quasi-formarum.
+
+.. folio:: 0255
+   :page: 255
 
 Et ex tali intuitione *necessitatis* harum relationum progredimur ad iudicia universalia. Sicut ex « :term:`cogito ergo sum <cogito-ergo-sum>` » progredimur ad universale « omne quod cogitat est », (vel universalius relate ad subiectum « omne quod agit est ens actu », quae est formula :person:`S. Thomae <aquinas>`) ita, in casu relationis inter motum et eius subiectum, ex intuitione « :term:`hoc movetur ergo est <movetur-ergo-est>` » ad universale « omne quod movetur est » vel « omne quod movetur est ens actu ». Apud :person:`S. Thomam <aquinas>` est et alia formula universalis sc. « :term:`agere sequitur (i. e. praesupponit) ad esse in actu <agere-sequitur-esse>` » ; ita quoque dicere possumus « :term:`moveri (vel pati) sequitur esse <moveri-sequitur-esse>` » vel : sicut « omne quod agit est ens actu » ita et « omne quod patitur, est ens actu ».
 
@@ -66,6 +91,9 @@ Inquirenti analytice in modum procedendi noeticum mentis nostrae, etiam quaedam 
 :person:`S. Thomas <aquinas>` de « :term:`cogito ergo sum <cogito-ergo-sum>` » dicit : possum cogitare me non esse, sicut possum cogitare me non fuisse ; sed prius non possum affirmando asserere ; en eius verba (:cite:`*Q. D. de Ver.* q. 10 a. 12 ad 7 <aquinas:de-veritate:10.12.ad7>`) :
 
    « Cogitare aliquid non esse, potest intelligi dupliciter. Uno modo ut haec duo simul in apprehensione cadant ; et sic nihil prohibet quod quis cogitat se non esse, sicut cogitat se aliquando non fuisse ... Alio
+
+.. folio:: 0256
+   :page: 256
 
 modo ita quod huic apprehensioni assensus adhibeatur ; et sic nullus potest cogitare se non esse cum assensu : in hoc enim quod cogitat aliquid, percipit se esse ».
 
@@ -79,17 +107,26 @@ Obiecta in utroque casu sunt actus existentiales. Etiam dum in abstracto de his 
 
 Prima principia quae mens humana detegit respiciunt relationes mathematicas (cfr. :cite:`*Th. du Jug.* passim <hoenen:1953>`). Sumamus simplicissimum inter ea, principium quod affirmat extensum esse divisibile per figuram. Nexus qui hic tanquam necessarius affirmatur est nexus inter duas quidditates, inter extensionem entis extensi et eius divisibilitatem, sive (ut :person:`Cartesius <descartes>` ait) « figurabilitatem » (cfr. :cite:`*Gregorianum* XXX, 1949, pagg. 195 sq. <hoenen:1949:195>`). Specificationes huius principii ducunt ad axiomata geometrica. Statim apparet iam differentia inter principium geometricum et duo illa de quibus agebamus, quae respiciunt nexum non inter duas essentias, quidditates, sed inter existentias, modos essendi.
 
+.. folio:: 0257
+   :page: 257
+
 Etiam prima principia mathematica originem habent ex experientia rerum externarum, sicut principium motus. Et quidem per operationem quam vocabamus :term:`abstractionem intuitivam formalem <abstractio-intuitiva>` ; haec in datis *concretis* sensitivis (etiam solius phantasiae) duas formas (extensionem et figurabilitatem) detegit inter quas nexus adest ; inde est abstractio ; intelligimus enim simul alias formas (v. g. colores) quae in eodem subiecto inveniuntur, nihil importare, inde est :term:`abstractio *formalis* <abstractio-formalis>` ; id intuitive intelligimus et sponte, inde est :term:`abstractio *intuitiva* <abstractio-intuitiva>`. « Le mathématique se détache du fond du réel », ait :person:`Meyerson <meyerson>` [#f7]_.
 
 In hoc principio detegendo non opus est ut obiecta, in quibus id per illam abstractionem naturalem detegimus, sensibus externis actu observentur ; sufficit dispositio rei in phantasmate et ex eo in mente praesentata. Nec in hoc casu debemus illam dispositionem rei ut actu existentem *cogitare*, agitur de relatione quidditativa. E contra, si principium « quod movetur est » ex simili praesentatione in solo phantasmate intelligimus, dispositionem rei (i. e. motum rei) ut existentem, ut pertinentem ad ordinem existentiae actualis, concipere debemus, ut supra iam dictum est. Relatio mathematica viget inter ipsas essentias, quidditates, relatio quae affirmatur in principio motus, est relatio inter existentias, modos essendi. Si notionem « motus » concipimus, concipimus aliquem « modum essendi », quoddam fieri successivum continuum.
 
 In utroque casu nexus qui affirmatur, cognoscitur ut necessarius, in casu mathematico tanquam nexus inter *formas*, in casu metaphysico tanquam nexus inter *actus*, qui non sunt formae, qui ipsi nullam quidditatem *continent*, sed quidem quidditates *respiciunt* ; sicut « esse non est forma sed actus » ita nec modi essendi sunt formae. Quia tamen in utroque casu nexus cognoscitur ut necessarius, propositio, quae dispositionem rei affirmat, est :term:`propositio per se <propositio-per-se>`. Utrique casui opponitur casus, quem vocabamus « physicum », in quo per observationem (cui *non* associatur intuitus intellectivus necessitatis ipsius nexus), tantum nexum materialem cognoscimus (i. e. formae percipiuntur in eodem subiecto, in eadem materia ; et affirmatio huius non producit nisi :term:`propositionem per accidens <propositio-per-accidens>`). Et in hoc sensu abstractio, quae ducit ad « quod movetur est » dici potest « late formalis » [#f8]_. (De propositionibus « :term:`per se <propositio-per-se>` » et « :term:`per accidens <propositio-per-accidens>` » et earum structura vide :cite:`*Th. du Jug.* ch. III et IV <hoenen:1953:ch3>`).
 
+.. folio:: 0258
+   :page: 258
+
 Operae pretium est ut hoc magis dilucidemus. In concretis, ex quibus per :term:`abstractionem formalem <abstractio-formalis>` detegimus haec principia quae sunt iudicia sive :term:`propositiones per se <propositio-per-se>`, invenire quoque possumus dispositiones rei quae tantum per iudicia :term:`per accidens <propositio-per-accidens>` affirmantur. Si ego cogito, et in illa cogitatione detego « esse » meum ut necessario praesuppositum, id affirmo per principium « :term:`cogito ergo sum <cogito-ergo-sum>` ». Sed in conscientia mea etiam detego alias dispositiones rei, quae affirmari tantum possunt per :term:`propositionem per accidens <propositio-per-accidens>`. Dum cogito, simul audio melodiam. Hi actus *tantum* per nexum materialem iunguntur, hi actus per accidens sunt in eodem subiecto, et id intelligo ; ideo haec dispositio rei tantum affirmatur in :term:`propositione per accidens <propositio-per-accidens>` : cogito et audio melodiam. Simili modo in obiecto, cuius motum observo — quod igitur necessario *est*, « :term:`hoc movetur ergo est <movetur-ergo-est>` » — simul observare possum alium actum v. g. quod est rubrum ; et id cognosco et affirmo ut contingens in :term:`propositione per accidens <propositio-per-accidens>` : hoc quod movetur est rubrum.
 
 Ex illa oppositione character :term:`abstractionis intuitivae formalis <abstractio-intuitiva>` magis illucescit.
 
 Haec est ergo prima convenientia cum discrepantia inter utrumque casum, quidditativum et existentialem. In principio quidditativo detegimus relationem necessariam inter formas (quidditates) et intelligendo detegimus obiectivitatem nexus observati i. e. his relationibus *competit esse* ; sed non opus est, ut nobis has formas (earum subiectum) ut actu existentes repraesentemus. In principio existentiali detegitur quoque relatio necessaria, et ideo obiectiva, noumenalis, sed non inter formas, sed inter actus essendi ; et simul detegitur valor relativus horum modorum essendi, quorum unus est « per se », alter « in alio », unus est « substantiae », alter « accidentis », una est « ens », alterum est « entis ens ». Sed id detegimus sive in eis quae sunt actu, hic et nunc, sive in obiectis, quae nobis ut existentia repraesentamus. Videtur necessarium esse, haec in theoria cognitionis considerare.
+
+.. folio:: 0259
+   :page: 259
 
 Est et alia differentia inter casus mathematicos et duos illos metaphysicos. In priori casu, in quo enuntiatur propositio « (omne) extensum est figurabile », forma, quae subiectum determinat, extensio, est natura prior quam forma praedicati, et id statim a nobis intelligitur ; intuemur figurabilitatem *profluere* ex extensione. In casibus illis metaphysicis res inverso modo se habet ; « cogito » non est natura prius quam « sum », « movetur » non prius quam « est ». E contra haec « esse » substantialia a parte rei *praesupponuntur* ante « esse » accidentalia. Haec quidem a nobis prius cognoscuntur, sed in hac cognitione, per abstractionem illam (late) formalem detegimus, illa « esse » substantialia natura esse priora.
 
@@ -99,6 +136,9 @@ Propositio rationalis in omnibus his casibus merito adhibetur : « :term:`cogito
 
 ----
 
+.. folio:: 0260
+   :page: 260
+
 Finaliter notamus : non tantum :person:`S. Thomas <aquinas>`, sed etiam :person:`Aristoteles <aristotle>` non negligit notiones actualitatis, ipsius esse et modorum essendi i. e. existendi ; et admittit relationes necessarias inter modos essendi, quae nobis intuitive innotescunt.
 
 In textu ex :cite:`*Eth. Nic.* (IX 9 1170 a 31 sqq.) <aristotle:eth-nic:IX.9.1170a31>` principium « :term:`cogito ergo sum <cogito-ergo-sum>` » affirmatur sub forma propositionis causalis, quae prioritatem cognitionis cogitationi tribuit : *quia* sentimus nos sentire et intelligimus nos intelligere, *ideo* sentimus et intelligimus nos esse (cfr. articulum supra citatum :cite:`*Le cogito ergo sum* etc. pagg. 470 sqq. <hoenen:1937:470>`) [#f9]_.
@@ -106,6 +146,9 @@ In textu ex :cite:`*Eth. Nic.* (IX 9 1170 a 31 sqq.) <aristotle:eth-nic:IX.9.117
 Principium quod affirmat relationem necessariam inter motum, ut est actualitas, et actualitatem substantialem subiecti motus, alio modo exprimitur. Semel stabilitum id (cum Graecis communiter) enuntiat : « non-ens non potest moveri », quod est aequivalens huic enuntiationi : « quod movetur est ens actu ». Ubi originem huius principii explicat, urget similitudinem et differentiam inter modos actualitatis, inter motum et existentiam subiecti, et prioritatem cognitionis pro motu vindicat et iterum revenit propositio quaedam causalis : « et ideo » (διό :cite:`1047 a 32 <aristotle:met:IX.3.1047a32>`) communiter non-enti denegatur motus, qui est actualitas μάλιστα pro nobis.
 
 « :term:`Movetur ergo est <movetur-ergo-est>` » est igitur principium, quod affirmat nexum necessarium et ut talem a nobis cognitum, et quod respicit « esse », ordinem existentialem. Sed apud :person:`Aristotelem <aristotle>` et :person:`S. Thomam <aquinas>` et alia principia huius indolis inveniuntur ; de his quoque breviter agemus.
+
+.. folio:: 0261
+   :page: 261
 
 .. _appendix-la-s2:
 
@@ -120,6 +163,9 @@ Sicut ex actualitate, quae est motus, novimus actualitatem ipsius substantiae, q
 
 Et ipse :person:`Aristoteles <aristotle>`, post stabilitam quidditatem loci (quid est et quomodo existit) hanc doctrinam applicat ubi dicit (:cite:`c. 5, 212 a 31 sq. <aristotle:phys:IV.5.212a31>`) : « cui igitur corpori est corpus extraneum circumdans ipsum, hoc est in loco, cui non, non ». Hic casus potest videri fictitius, sed hanc conclusionem statim applicat ad casum realissimum, ad universum (:cite:`ibid. 212 b 14 sqq. <aristotle:phys:IV.5.212b14>`) : « universum non est alicubi. Id enim quod est alicubi, ipsum est aliquid, et dein aliud quid debet esse iuxta ipsum in quo (est id) quod continet » [#f10]_.
 
+.. folio:: 0262
+   :page: 262
+
 Nota est difficultas quae inde oritur relate ad motum ultimae sphaerae. Non est huius loci de eius solutione agere. Factum, quod est difficultas et ut seria consideratur, suo modo demonstrat theoriam :person:`Aristotelis <aristotle>` eam esse quam exponebamus. De difficultate legi poterit :person:`S. Thomas <aquinas>` qui ei longam :cite:`lectionem 7 <aquinas:phys:IV.7>` tribuit [#f11]_. Ex ea tantum transcribimus pulchrum textum : « sicut :person:`Aristoteles <aristotle>` supra dixit, non quaereretur locus, nisi propter motum qui demonstrat locum ex hoc quod corpora succedunt sibi in uno loco. Unde, licet locus non sit de necessitate corporis, est tamen de necessitate corporis quod movetur secundum locum » (:cite:`lect. cit. n. 7 <aquinas:phys:IV.7.7>`).
 
 Atque ita in fine statuere possumus : sicut de motu ut principium per se et statim intelligibile admittitur : « :term:`hoc movetur ergo locus est <hoc-movetur-ergo-locus-est>` » ; ita valet, tanquam principium deductum de esse in loco : « hoc est alicubi, ergo (ipsum est et) locus est actu ».
@@ -130,6 +176,9 @@ Sed et aliud elementum in his principiis adest, propter quod in illa theoria con
 
 :person:`Hume <hume>` docuisse dicitur possibilitatem relationis necessariae inter existentiam unius rei et existentiam alterius ab intellectu nullo modo videri posse ; inde eius theoria de causalitate. Ita saltem :person:`Kant <kant>` fundamentum eius theoriae exponit atque approbat (:cite:`*Prolegomena Vorrede* et § 27 <kant:prolegomena:27>`). Immo videtur id etiam extendendum esse ad substantiam et accidens. Hic habemus principia in quibus talis possibilitas, immo realisatio, nobis est intuitive intelligibilis : hae relationes inter actualitates, existentias, et quidem necessariae, talia obiecta constituunt nostrae intuitionis. Breviter id exponamus.
 
+.. folio:: 0263
+   :page: 263
+
 Id valde clare invenimus in altero principio : « :term:`hoc movetur localiter ergo locus est <hoc-movetur-ergo-locus-est>` ». Locus est absque dubio aliquid a motu et a subiecto quod movetur distinctum ; ab eo separatur ut :person:`Aristoteles <aristotle>` dicit. Motus est actualitas fluens, existentia fluens. Et illud aliud ut necessarium praesupponitur, et quidem tanquam actualitas, aliquid quod, uno vel alio modo, existit, quod intuitive cognoscimus ex cognito motu. Motus quasi digito monstrat aliam existentiam quae praesupponitur [#f12]_.
 
 Sed idem iam suo modo habetur in priori illo principio : « :term:`hoc movetur ergo est <movetur-ergo-est>` ». Nam *in* illo esse fluente, quod motus vocatur, vel *ex* eo, *aliud esse* cognoscimus, esse fixum ipsius substantiae quae movetur. In vel ex uno cognoscimus aliud ; et utrumque, prius et posterius, est actus existentialis, existentia quaedam ; et relatio inter utrumque actum a nobis cognoscitur ut necessaria, hoc sensu, quod « moveri » necessario praesupponit « esse » eius quod movetur. Unum « esse » iterum indicat aliud, prius est « esse in alio » alterum « esse per se ». Sicut in « :term:`cogito ergo sum <cogito-ergo-sum>` ».
@@ -137,6 +186,9 @@ Sed idem iam suo modo habetur in priori illo principio : « :term:`hoc movetur e
 In his duobus casibus motus, actus existentialis, nobis revelat necessitatem *alterius* existentiae (subiecti motus, et, in motu translationis, ipsius loci). Quidditates, quarum sunt modi essendi, ita nobis non innotescunt, tantum existentiae ; ut quidditates cognoscamus, ulterior inquisitio, saepe non facilis, requiritur, sed independenter de existentiis, quae praesupponendae sunt, constat. Tali igitur modo existentia alterius ex existentia data cognosci potest, et quidem ut *necessario* praesupposita.
 
 :person:`Hume <hume>` tantum in problema causalitatis (efficientis) inquirebat et ibi suam interrogationem ponebat : quomodo possibile est ex una existentia aliam cognoscere ; et interrogatio ipsa impossibilitatem suggerit. Sed et in hoc casu, simili modo una *existentia* ex alia existentia cognosci, intuitive statui potest. Habebimus enim principium :
+
+.. folio:: 0264
+   :page: 264
 
 .. _appendix-la-s3:
 
@@ -149,6 +201,9 @@ Hoc principium, quod est principium causalitatis in quantum motum respicit, simi
 
 Pro omni origine entis actu ex potentia exigit causam efficientem, et hanc debere esse actu, ut aliquid per se clarum affirmat. Dein haec specialiter de motu repetit : exigit aliquid quod movet, κινοῦν, et de hoc constat, quod debet existere actu : τὸ δὲ κινοῦν :term:`ἐνεργείᾳ <energeia>` ἤδη ἔστιν [#f13]_.
 
+.. folio:: 0265
+   :page: 265
+
 Etiam :person:`Aristoteles <aristotle>` simplici intuitu intellectus, in vel ex existentia illa, quae est « moveri », intuetur *existentiam* alterius, moventis. Haec quoque sunt aristotelica, et exprimi possunt formula : « hoc movetur, ergo causa movens existit ».
 
 Etiam doctrina :person:`S. Thomae <aquinas>` in hoc puncto est notissima ; exigit causam moventem, et quidem actu existentem : quod agit est ens actu. Sufficiat hic pauca verba exscribere ex eius commentario :cite:`i. h. l. (n. 1848) <aquinas:met:IX.7.1848>` : « semper enim oportet quod id quod est in potentia ens, sit actu ens ab agente quod est actu ens ... Et ita semper eo quod est in potentia est aliquid prius quod movet et movens est in actu ». Ita ex una existentia detegitur alia et simul ordo ontologicus inter has existentias.
@@ -157,6 +212,9 @@ Ex tota hac consideratione clarum est, hoc principium causalitatis non indicare,
 
 Ex hoc deduci potest, aliud praesuppositum, quod apud :person:`Hume <hume>` et alios philosophos invenitur, esse erroneum ; supponunt scilicet notionem causalitatis, et ipsum principium, in nobis oriri ex observatione repetita successionis constantis phaenomenorum. In tali suppositione primo inveniremus phaenomenon determinatum constanter praecedere alteri phaenomeno, inde oriretur notio causae et effectus, ex eorum relationibus ut constanter prioris et posterioris, et convictio necessitatis. Ita non oriri notionem causae moventis, nec cognitionem principii causalitatis, clarum est ex nostra analysi ; intellectio principii et eius valoris habetur independenter a quavis observatione ordinis phaenomenorum ; et ideo indeterminatum relinquit responsum ad quaestionem quodnam sit illud existens determinatum quod movet. Principium causalitatis in quantum respicit existentiam moventis, tantum exigit ut hoc sit *aliud* a mobili, in quantum movetur, sed ceterum id indeterminatum relinquit ; inde ulterius inquirendum est. Verum quidem est, nos in hac ulteriori investigatione adhibere posse, immo saepe debere, observationem ordinis prioritatis inter phaenomena.
 
+.. folio:: 0266
+   :page: 266
+
 Specimen historicum splendidum talis processus, qui ducit ad cognitionem illius agentis quod est causa movens, invenitur in modo quo :person:`Newton <newton>` ex observatione motuum planetarum, tanquam causam attractionis invenit solem (et pro motu lunae terram nostram) dein attractionem universalem. De hac historia legi potest id quod scribebamus in :cite:`*Th. du Jug.* Ch. XI § 3 n. 3 B ed. 1 pagg. 318-324, 2 pagg. 314-318 <hoenen:1953:314>` ; :cite:`*R. a. J.* pagg. 264-269 <hoenen:reality-and-judgment:264>`.
 
 Et dein aliae remanent quaestiones, quae causalitatem efficientem spectant, scilicet relate ad quidditates causae et effectus ; nam ad intelligendum effectum non sufficit existentia cuiusvis causae, sed debent quoque dari relationes inter quidditates causae et effectus ; et in hac quaestione redit adagium « :term:`agere sequitur esse <agere-sequitur-esse>` » in secundo sensu. Sed haec quaestio non est huius investigationis. Hic tantum inquirimus in relationes quae vigent inter existentias, actus existentiales, et eas expositas invenimus etiam apud :person:`Aristotelem <aristotle>`.
@@ -164,6 +222,9 @@ Et dein aliae remanent quaestiones, quae causalitatem efficientem spectant, scil
 Est et alius error in quem quasi necessario incidunt ii, qui :person:`Hume <hume>` sequuntur in eius doctrina relate ad originem nostrae affirmationis principii causalitatis. :person:`Hume <hume>`, ubi de necessitate agit, quam nos (immerito ut ait) principio tribuimus, hanc necessitatem ponit in ipsa causa agente quoad effectum, i. e. causa de se necessario producit effectum ; et id fit consequenter, si principium habet originem quam ei tribuunt. Sed si eo modo oritur ac supra descriptum est, haec necessitas asserenda est : dato motu, necesse est existere causam; sed non opus est ut haec sit « causa necessaria »; poterit esse causa libera, et tamen satisfacit exigentiae principii necessarii causalitatis ; sed non asserit hanc causam esse « causam necessariam ».
 
 Habemus igitur, etiam apud :person:`Aristotelem <aristotle>`, principium : « hoc movetur, ergo causa movens *existit* », quod statuit relationes necessarias inter existentias ; hae sunt relationes inter actus sed non directe inter formas. Concludamus ea quae dicta sunt per textum :person:`Aristotelis <aristotle>` ex libro qui est inter novissima eius operum, ex :cite:`libro XII metaphysicorum (cap. 6 1071 b 28) <aristotle:met:XII.6.1071b28>` : πῶς γὰρ κινηθήσεται, εἰ μὴ ἔσται :term:`ἐνεργείᾳ <energeia>` τι αἴτιον. Si igitur quid movetur debet necessario dari causa efficiens actualis. Et animadvertamus, in hoc quoque nihil asseri nisi necessitatem actualitatis causae, principium non indicat quodnam sit praecise agens quod est causa ; est *quaedam* causa actu : :term:`ἐνεργείᾳ <energeia>` τι αἴτιον. Et insuper : ex nota existentia effectus necessario infertur existentia causae, non vice-versa.
+
+.. folio:: 0267
+   :page: 267
 
 .. _appendix-la-s4:
 
@@ -177,6 +238,9 @@ Unitas motus continui tantum haberi potest ex fine, qui ideo non est terminus ta
 Terminus iste intentus ut *producendus*, non in abstracto tantum, praesupponitur ; est, iuxta doctrinam saepe repetitam « genesi posterius, sed natura prius » quam motus (cfr. textus in :cite:`*Cosmologia* n. 158 <hoenen:cosmologia:158>`). Ut producendus (non ut productus) est prior, immo est principium ipsius motus, et ut tale influit et necessario praesupponitur. Durante motu non est actuatus (nisi imperfecte) sed revera producendus est, id in quod motus tendit est *actualitas* termini. Dici potest finem « intentionaliter » in motu esse actu.
 
 Haec exprimuntur per adagium, prima facie sat mirum, secundum quod id quod movetur est imperfectum et « procedens versus suum *principium* » τὸ γιγνόμενον ἀτελὲς καὶ ἐπ᾽ :term:`ἀρχὴν <arche>` ἴον (:cite:`*Phys.* VIII 7, 261 a 13 <aristotle:phys:VIII.7.261a13>`) ; simile adagium in :cite:`*Met.* (IX 1050 a 7-9) <aristotle:met:IX.8.1050a7>` : ἅπαν ἐπ᾽ :term:`ἀρχὴν <arche>` βαδίζει τὸ γιγνόμενον καὶ :term:`τέλος <telos>`). Quia terminus motus, :term:`τέλος <telos>`, est :term:`ἀρχὴ <arche>`, influens motum, debet adesse relatio necessaria inter motum, actualitatem moventis et mobilis, et actualitatem illam in quam tendit.
+
+.. folio:: 0268
+   :page: 268
 
 Habemus igitur relationem necessariam inter duas actualitates, sicut in tribus prioribus casibus ; sed in illis statim detegebatur ab intellectu humano, et ideo erat communiter acceptata, sed in hoc casu praerequiritur analysis longior relate ad unitatem motus. Exprimi poterit : « hoc movetur ergo tendit in terminum producendum » ; vel : « hoc movetur ergo terminus intentionaliter existit ». Requiritur longior analysis, sed post eam directe intelligitur, tanquam relatio necessaria inter duas actualitates ; haec relatio indicat indolem intentionalem motus, cui correspondet activitas intentionalis agentis.
 
@@ -201,6 +265,9 @@ Apud :person:`Aristotelem <aristotle>` (et :person:`S. Thomam <aquinas>`) quaeda
 
 Ultimum in hoc differt a caeteris, quod in his subiectum mobile, locus, causa efficiens ut existentia *praesupponuntur*, dum e contra finis, natura quidem prior est, sed effici, sive attingi, debet per medium motum, existit tantum intentionaliter. Sed hoc quoque intelligendum est in ordine existentiali. Actualitas subiecti et loci et causae praesupponitur, actualitas termini sequitur ; inde ultimum adagium exprimi potest : hic movetur ergo tendit in perfectionem *actuandam*, quae durante motu intentionaliter existit.
 
+.. folio:: 0269
+   :page: 269
+
 Omnes hae formulae relationem necessariam statuunt inter actualitates, sicut et primum principium :person:`Cartesii <descartes>` : « :term:`cogito ergo sum, sive existo <cogito-ergo-sum>` ». Etiam, sicut formula cartesiana, indicant processum, secundum quem mens humana haec principia detegit. In omnibus etiam hoc simili modo constat : antecedens illationis immediatae, quae tali formula exprimitur, est prius in cognitione nostra, consequens eius est id quod est ontologice prius (etiam in adagio 4 quod finem spectat).
 
 Haec prioritas relate ad cognitionem nostram magis explicite (sed minus nervose) exprimitur per formulas : « quia scio hoc moveri, ideo scio hoc existere ». Et ita porro. Id etiam :person:`Cartesius <descartes>` iam applicat in suo principio.
@@ -208,6 +275,9 @@ Haec prioritas relate ad cognitionem nostram magis explicite (sed minus nervose)
 Ut diximus, hae formulae resultant ex analysi noetica specialiter instituta. Sed ipsae veritates, quas exprimunt, adsunt in mente humana, et affirmantur, et applicantur, et iustificantur, independenter a tali analysi specialiter instituta. Tunc alio modo exprimuntur ; v. g. prima : « non-ens non potest moveri » vel modo positivo : « quod movetur, est ens » (:person:`Aristoteles <aristotle>` id ut communiter admissum describit). Inde analysis noetica non facit nisi reducit has veritates ex :term:`actu exercito <in-actu-exercito>` in :term:`actum signatum <in-actu-signato>`.
 
 Formulae igitur hoc commune habent, quod id quod a nobis prius cognoscitur, est ontologice posterius. Et in hoc differunt, ut supra notatum est, ab illis primis principiis, quae relationes essentiales, quidditativas, respiciunt. Ita principium « hoc est extensum ergo figurabile ». Ibi « figurabilitas », quae extenso tribuitur, tanquam proprium, ex « extensione » profluit, est ei et « natura » et « cognitione » posterius. Forte differentia, quae hic invenitur inter principia quidditativa et principia existentialia, erit universalis ; sed id affirmare non audemus. Ea quae videbamus, videntur exigere examen talium relationum, tum in noetica tum in metaphysica, ubi nimis negligi videntur. Quaedam alia hic breviter adumbramus.
+
+.. folio:: 0270
+   :page: 270
 
 .. _appendix-la-s5:
 
@@ -224,9 +294,15 @@ Simili modo non tantum resultat « praesentia » duorum corporum ad invicem, sed
 
 Si haec accuratius examinantur nova relatio detegitur, hucusque nondum formulata, inter haec elementa. Dicebamus : ex contactu inter duo existentia extensa oritur « praesentia ». Sed supponebamus (et implicite id semper plene intelligimus) haec duo existentia *simul* existere, i. e. simul in duratione, « in tempore ». Si unum *post* alterum existit actu, non potest ille contactus « localis » oriri. Inde hae existentiae debent dari *simul in duratione*, atque id (natura) *prae*supponitur, prius quam contactus localis, et quidem *necessario*.
 
+.. folio:: 0271
+   :page: 271
+
 Simili modo in casu distantiae. Ibi non tantum supponuntur tria extensa existentia, sed necessario praesupponitur quoque : haec tria *simul* in duratione existere, etiam illa duo, quae distant, etiam si eorum distantia est enormis. Id non est aliquid, quod ex experientia sola novimus, est aliquid, quod intuitive *intelligimus*. Id tam bene intelligimus, ut non necessarium esse putemus haec explicite enuntiari ; intellectus adest :term:`in actu exercito <in-actu-exercito>`, non :term:`in actu signato <in-actu-signato>`. Et sic invenimus relationem necessariam inter duo « esse accidentalia » : « esse in loco » (sive « esse distantia ») ex una parte et « esse simul in tempore » ex alia parte ; et simultaneitas in tempore necessario praerequiritur ut aliud « esse accidentale » dari possit. (Quomodo ordo inter durationes, « esse simultaneum » vel « esse unum post alterum », oriatur ex solo initio existentiarum corporum vide :cite:`*Gregorianum*, 1953, pagg. 6-16 <hoenen:1953:greg:6>`).
 
 Haec sequuntur etiam in ipsa doctrina localisationis, quam auctor theoriae relativitatis, :person:`Einstein <einstein>`, tenet [#f17]_. Nam et ipse statuit, relationes locales inter corpora non esse nisi relationes contactuum mutuorum. Et idem semper admittitur in calculis mechanicae, quae corpora et eorum situationes et motus considerant in systemate coordinatarum ; partes huius spatii coordinatarum tanguntur per corpora, quae ibi ponuntur et moventur ; omnino ac id fit in nostra imaginatione spatiali, sicut id fit in aethere Lorentzii : ex his contactibus ibi oriuntur locationes, et distantiae (tacite) supponuntur oriri immediate, sine temporis intervallo. Qui talem originem relationum localium tenet, supponit (saltem tacite) existentiam loci et locati, et quidem existentiam *simultaneam* etiam eorum quae distant, iuxta ea, quae supra exposita sunt. In locis supra citatis iam concludebamus :person:`Einstein <einstein>` in sua negatione obiectivitatis simultaneitatis in distantibus deviare ab hac sua correcta explicatione originis relationum localium.
+
+.. folio:: 0272
+   :page: 272
 
 Nunc addimus : ex eadem theoria localisationis, quae implicite continet principium existentiae simultaneae eorum, quae sunt in contactu cum partibus huius « spatii », etiam alia dicta :person:`Einstein <einstein>` excluduntur. Ait enim notionem simultaneitatis esse primitivam tantum relate ad ipsas perceptiones nostras sensibiles. In sua theoria localisationis implicatur notio simultaneitatis *obiectorum* (non eorum perceptionum tantum) tum quae sunt praesentia tum quae sunt absentia ; et quidem ut notio primitiva. (Cfr. :cite:`artic. supra cit. ex *Gregor.* 1953 <hoenen:1953:greg:3>`).
 
@@ -240,11 +316,17 @@ Dicebamus in hoc casu inveniri relationem necessariam inter duo « esse accident
 
 Universalem relationem inter actus existentiales iam describebamus in opere nostro :cite:`*Théorie du Jugement* (Ch. X <hoenen:1953:ch10.5>` :cite:`§ 5 <hoenen:1953:ch10.5>`). Ibi via describitur secundum quam S. Thomas conditiones stabilire videtur, sub quibus iustificatur testimonium sensuum nostrorum, qui referunt existentiam actualem obiectorum de quorum obiectivitate (existentia possibili) iam intellective constat. Ibi adagium adhibetur Aristotelis et S. Thomae, quod breviter enuntiatur eorum verbis ποιοῦντες γιγνώσκουσιν facientes cognoscunt (:cite:`*Met.* IX 1051 a 32 <aristotle:met:1051a32>`, :cite:`S. Th. lect. 10 n. 1894 <aquinas:met:9.10.1894>`) [#f18]_.
 
+.. folio:: 0273
+   :page: 273
+
 Talis est structura elementi decisivi in hac doctrina. In rerum natura sunt permulta propria corporum, quorum obiectivitas iam intellective cognoscitur, ex relationibus necessariis, intellectis, quidditativis ; de eorum actualitate nondum ideo constat. Et insuper nobis ita cognita est natura diversarum actionum, quas nos exercere possumus in talia corpora, et effectus harum actionum. Talem actionem nos exercere possumus in *repraesentatione* nostra, in obiecta *repraesentata* ; sed actionem *actualem* tantum in materiam *actualem*, cuius existentia praesupponitur. Actualitatem actionis autem novimus per reflexionem in ea, quae « in anima *praesentia* » sunt. Inde, sicut in « :term:`cogito <cogito-ergo-sum>` » actuali detegimus « :term:`sum <cogito-ergo-sum>` » actuale, in accidente existente existentiam substantiae, ita in actualitate actionis in externa actualitatem huius materiae detegimus. Est iterum relatio necessaria inter actualitatem quam experimur et existentiam alterius obiecti. Hanc relationem iam antea ita exprimebamus (:cite:`op. cit. pag. 300, ed. 2 pag. 296, in vers. Angl. pag. 251 <hoenen:1953:300>`) : « :term:`facio ergo materia rei factibilis adest <facio-ergo-materia-rei-factibilis-adest>` ».
 
 Pro multis particularitatibus remittimus ad idem opus. Uti iam dictum est :person:`S. Thomas <aquinas>` tali modo videtur iustificare universaliter cognitionem nostram actualitatis obiectorum externorum, forte etiam :person:`Aristoteles <aristotle>`. Certum est utrumque, etiam :person:`Aristotelem <aristotle>`, veritatem, quae in nostro adagio exprimitur, applicare ad distinguendam veri nominis perceptionem ab illusione (vide :cite:`op. cit. <hoenen:1953:300>`).
 
 Et in hoc quoque casu, sicut in casibus supra examinatis, relatio necessaria est inter actualitatem nobis prius notam, et aliam quae est natura prior, et in illa attingitur [#f19]_.
+
+.. folio:: 0274
+   :page: 274
 
 .. _appendix-la-s6:
 
@@ -261,11 +343,17 @@ Haec etiam ab :person:`Aristotele <aristotle>` enuntiantur in textu ad quem supr
 
 In eo loco (:cite:`lin. 10 <aristotle:phys:251a10>`) ut principium asserit : ἀναγκαῖον ἄρα :term:`ὑπάρχειν <hyparchein>` τὰ :term:`πράγματα <pragma>` τὰ δυνάμενα κινεῖσθαι καθ᾽ ἑκάστην :term:`κίνησιν <kinesis>`. Id ex sua definitione motus (:cite:`lib. III <aristotle:phys:3>`) derivatur, sed, ut dein asserit, independenter a sua analysi communiter admittitur. Res, :term:`πράγματα <pragma>`, quae mobiles sunt motu stricto, debent actu adesse, :term:`ὑπάρχειν <hyparchein>` ut moveantur ; ita alterabile pro alteratione, mobile secundum locum pro motu locali ; unum specificum nominatur ; et « combustibile antequam comburitur » καυστὸν εἶναι πρὶν κάεσθαι ; sed ibi addit etiam rem, quae est causa efficiens combustionis, καυστικὸν πρὶν κάειν debere esse ; non tantum combustibile *existere* debet sed etiam comburens. Et utrumque (saltem natura) ante combustionem ; et haec prioritas non tantum statuitur pro essentiis, quidditatibus, sed pro existentiis ; nam hoc indiget tanquam elemento necessario pro argumentatione quae statim incipit. Ibi sine dubio statuuntur relationes inter ipsos actus existentiales [#f21]_.
 
+.. folio:: 0275
+   :page: 275
+
 Ad unum adhuc attendamus, quod momento non caret. :person:`Aristoteles <aristotle>` hic (sicut et alibi et semper implicite) in mente habet casus concretos in quibus illas relationes existentiales legit ; non casus concretos singulares, sed concretos cum datis *quidditativis*, ut motum *localem*, vel *alterationem*, vel (etiam magis concrete) *combustionem*. Idem, quamquam id non explicite dicitur, de subiectis cum suis determinationibus quidditativis. Sed in hac concretione legit intuitive relationem quae duas *actualitates* ad invicem iungit ; est veri nominis intuitio abstractiva sicuti habemus quando in corpore concreto cognoscimus, eius divisibilitatem per figuram unice et necessario profluere ex attributo, quod « extensionem » vocamus, immo ita definire possumus, ut supra iam indicatum est. Simili igitur processu in obiecto specifice, quidditative, concreto, quod movetur motu specifico, detegimus nexum inter duos actus existentiales, cum necessitate huius relationis (eius intelligibilitate), inter actum existentialem obiecti substantialis (mobilis) et actum accidentalem qui est fieri successivum continuum ; ita cognoscimus etiam diversitatem inter hos duos « modos essendi ». Ita (sicut in « :term:`cogito ergo sum <cogito-ergo-sum>` », vel « intelligimus quoniam intelligimus, et ideo intelligimus quoniam sumus ») detegimus notiones substantiae et accidentis, ut sunt diversi modi essendi — in se et in alio — per abstractionem ex concreto quidditativo ; ita iuxta notam deductionem categoriarum :person:`S. Thomae <aquinas>`, detegimus diversitatem inter diversos modos « essendi in alio » ex modis quidditative diversis praedicandi.
 
 Denique, ubi quaestio movetur de cura, quam :person:`Aristoteles <aristotle>` habuerit in investigandis actibus existentiae, statim cogitamus de eius « metaphysica mutabilitatis », quae est responsum ad metaphysicam omnimodae immutabilitatis entis :person:`Parmenidis <parmenides>`. Et non est, sicut mechanicismus, responsum partiale, sed totale et peremptorium. Responsum quaerit ad quaestionem, quomodo aliquid mutari possit, i. e. fieri possit, i. e. ad existentiam, quam non habet, pervenire possit.
 
 Dicendum utique est : in solutione specifica problematis, vel problematum, respiciendum est ad data quidditativa. Haec *tantum* respiciebantur ab antiquis ; post :person:`Parmenidem <parmenides>` inquirendum erat, quomodo constitutio entis, quod fieri potest, ut tale, intelligibilis esse possit. Respicienda sunt igitur data quiditativa, fere ut in problemate de loco (cfr. supra dicta) responsum ad quaestionem :term:`πῶς ἔστιν <pos-estin>` non invenitur nisi post responsum ad :term:`τί ἐστιν <ti-estin>`.
+
+.. folio:: 0276
+   :page: 276
 
 In his quaestionibus solvendis non tantum invenitur notio « potentia entis » sed etiam investiganda est duplex functio (quidditativa et existentialis) « formae materialis » [#f22]_. Et hanc esse difficillimam historice quoque patet. Et ibi maxima difficultas est in altera functione, unde intelligi debet, quomodo formae materiales sint et fiant, quinam sunt earum « modi essendi ». Et haec quaestio ab ipso :person:`Aristotele <aristotle>` respicitur.
 
@@ -280,6 +368,9 @@ Et hic accedimus ad ultimum problema, quod in hac investigatione saltem adumbrar
 
 In supra expositis detegebamus, diversas dari relationes necessarias (habitudines, ut dicit :person:`S. Thomas <aquinas>`) non solum inter quidditates, sed etiam inter actus existentiales, et quidem ut connexiones directas inter eos. Priores saepe vocantur relationes inter *conceptus* (et inter res quas illi repraesentant) de aliis, ut talibus, vix ac ne vix quidem sermo fieri solet. Num hae relationes, prout a nobis cognoscuntur, etiam habitudines inter conceptus vocari possunt ? Similitudines, quae (simul cum dissimilitudine) inter specimina utriusque classis adsunt, hoc innuere videntur.
 
+.. folio:: 0277
+   :page: 277
+
 Sed inde a nonnullis annis oppositio quaedam statuitur inter « metaphysicam existentialisticam » et « metaphysicam essentialisticam » (prior dicitur esse metaphysica :person:`S. Thomae <aquinas>`), et quidem talis, ut in priori neganda sit possibilitas « conceptus » ipsius esse, ipsum « esse » non esset « conceptualizabile ». Originem habet haec positio ex duobus libris clmi. :person:`E. Gilson <gilson>` [#f23]_ qui acutissime, in expositione tum historica tum systematica, hanc oppositionem inter duas metaphysicas describit. Et multa sane in illa expositione laudanda sunt ; sed periculum est, ne relationes inter « esse » et « quidditatem » nimium solvantur. Praesertim quia ibi adest obscuritas quaedam, quam ipse :person:`Gilson <gilson>` describit ut « un centre d'obscurité qu'il nous faut traverser pour atteindre l'existence » (:cite:`*L'être et l'essence* pag. 248 <gilson:1948:248>`). Inde maior lux ad magis illuminandum hoc centrum obscuritatis desideratur. Supra exposita ad hoc contribuere possunt.
 
 Incipiamus a quaestione utrum « ipsum esse » sit « conceptualizabile » ; et quidem praesertim in doctrina :person:`S. Thomae <aquinas>`, de qua primarie agitur.
@@ -287,6 +378,9 @@ Incipiamus a quaestione utrum « ipsum esse » sit « conceptualizabile » ; et 
 Terminus « conceptus » hodie ad primam operationem mentis nostrae, et eius « verbum », saepe restringitur ; ipsi nos hoc fecimus. Apud :person:`S. Thomam <aquinas>` autem termini « conceptus », « conceptum », « conceptio », occurrunt (ultimus forte frequentius) ad indicandam quoque secundam operationem mentis et eius « verbum interius » [#f24]_.
 
 In :cite:`*de Pot.* q. 8 a. 1 <aquinas:de-potentia:8.1>`, statuit distinctionem « conceptionis intellectus » *a*) a « re intellecta », *b*) « a specie intelligibili, qua fit intellectus in actu », *c*) « ab actione intellectus », cuius est « terminus » et « quasi quoddam ab ipsa constitutum ». Et haec conceptio non tantum invenitur in prima operatione intellectus, sed etiam in secunda : « intellectus enim sua actione format rei definitionem, vel etiam propositionem affirmativam vel negativam. Haec autem conceptio intellectus in nobis proprie verbum dicitur ». Cfr. :cite:`ibid. q. 9 <aquinas:de-potentia:9.5>` :cite:`a. 5 <aquinas:de-potentia:9.5>`, ubi, in utroque casu, hoc verbum dicitur hoc « conceptum » vel « conceptus » ; cfr. quoque :cite:`*de Ver.* q. 4 a. 2 <aquinas:de-veritate:4.2>`.
+
+.. folio:: 0278
+   :page: 278
 
 Conceptionem etiam de iudicio dici patet etiam ex termino « conceptiones animi communes » quem a :person:`Boethio <boethius>` mutuat, et qui tum notiones primitivas tum iudicia primitiva complectitur, qui saepe adhibetur. Et hae animi conceptiones communes possunt esse « notae per se », sive omnibus sive solis doctis. Est notissima doctrina :person:`S. Thomae <aquinas>`.
 
@@ -298,11 +392,17 @@ Sed est et alia differentia inter sensum, quem :person:`S. Thomas <aquinas>` tri
 
 Sed iuxta :person:`S. Thomam <aquinas>` etiam cognitio eorum, quae sunt in anima (sive antecedenter sive consequenter ad affirmationem) et quae cognoscuntur, non per « speciem » sed per « praesentiam » sive per « essentiam », producit verbum, conceptionem mentis. Ita in locis supra citatis (:cite:`*Pot.* 8, 1 <aquinas:de-potentia:8.1>` ; :cite:`9, 5 <aquinas:de-potentia:9.5>` ; :cite:`*Ver.* 4, 2 <aquinas:de-veritate:4.2>`). Sufficiat hic unus textus (:cite:`*Pot.* 9, 5 <aquinas:de-potentia:9.5>`) : « et quantum ad hoc non differt utrum intellectus intelligat se vel aliud a se ». Et notissima est doctrina S. Thomae, iuxta quam intellectus, sicut aliae potentiae, cognoscitur *ex* suis actibus, et quidem ita, ut et *natura* actuum et potentiarum cognoscatur ; id valet de actu, qui « esse » tribuit, de iudicio, ex cuius praesentia intelligimus eius naturam, conceptu apprehensivo, verbo primae operationis mentis. Et haec altera doctrina est quoque notissima, quae docet : alia cognitio intellectiva naturalis in mente humana non datur, nisi quae exprimitur per verbum interius. Ita igitur intelligimus conceptualiter ipsum « esse », saltem ut constitutivum conceptionis apprehensivae naturae iudicii.
 
+.. folio:: 0279
+   :page: 279
+
 Sed quaeri potest, utrum « ipsum esse » per se solum, absolutum a dispositione quidditativa, cui in affirmatione attribuitur, utrum dico hoc « esse » a mente concipi possit.
 
 Multae propositiones de hoc « ipso esse » enuntiantur ; ut supra videbamus etiam principia enuntiantur, quae asserunt relationes inter diversa « esse ». In his propositionibus conceptio « ipsius esse » praesupponi videtur, vel saltem detegi. Sumamus exemplum ex :cite:`*de Pot.* q. 7, a. 2, ad 9 <aquinas:de-potentia:7.2.ad9>` (de hoc loco statim plura). Ibi terminus « esse » describitur : « hoc quod dico (i. e. voco) esse » ; et tales « dictiones », ut saepius dicitur (id sumitur ex :cite:`« principio Perihermeneias » <aristotle:periherm:1>`) « significant » *conceptiones* intellectus. Legimus igitur :cite:`loc. cit. <aquinas:de-potentia:7.2.ad9>` « hoc quod dico *esse* est inter omnia perfectissimum »... « hoc quod dico esse est actualitas omnium actuum et propter hoc est perfectio perfectionum » etc.
 
 In talibus propositionibus terminus « esse » (« hoc quod dico esse ») est subiectum et ita tanquam « nomen » adhibetur. De tali subiecto in genere dicitur (:cite:`*Peri Herm.* I l. 5, n. 5 <aquinas:periherm:1.5.5>`) : « verba infinitivi modi, quando in subiecto ponuntur, habent vim nominis » ; et conceptio, quae per talem terminum significatur, pertinet ad *primam operationem* mentis, simplicem apprehensionem. Ille qui dicit nomen, vel verbum secundum se, « constituit intellectum quantum ad primam operationem, quae est simplex conceptio alicuius (:cite:`ibid. n. 17 <aquinas:periherm:1.5.17>`). Revera admittitur *conceptio* ipsius esse, absoluti a quidditate, ut notio quaedam. Haec utique notio tantum apprehendi potest, postquam intellectus in quadam praecedente affirmatione dispositionem rei determinatam affirmavit.
+
+.. folio:: 0280
+   :page: 280
 
 Haec conceptio vocatur quoque « ratio essendi », cuius cognitio sensibus denegatur, quamquam hi sensibilia quae *sunt* percipiunt (:cite:`Sent. I D. 19 q. 5 a. 1 ad 6 <aquinas:sent:1.19.5.1.ad6>`). Et oritur per veri nominis abstractionem. Ita in :cite:`*S. Th.* I q. 12 a. 4 ad 3 <aquinas:st:I.12.4.ad3>`, ubi principium exponitur « intellectus noster potest in abstractione considerare id quod in concretione cognoscit », dilucidatur id ita : intellectus noster id facere solet pro forma quae est in materia, et intellectus angelicus pro esse suae essentiae. Dein universaliter affirmatur quod « intellectus creatus per suam naturam natus sit apprehendere formam concretam et esse concretum in abstractione per modum resolutionis cuiusdam ». Ideo in :cite:`*S. Th.* I q. 75 a. 6 <aquinas:st:I.75.6>` de intellectu humano dicitur : « intellectus (in oppositione ad sensus) *apprehendit* esse *absolutum*, et secundum omne tempus ». Voces a nobis sublineatae describunt conceptionem apprehensivam notionis ipsius esse abstracti.
 
@@ -312,6 +412,9 @@ Tales *conceptiones* diversorum modorum essendi, *abstractae* a contento quiddit
 
 Conceptus « ipsius esse », etiam non concreti, plene agnosci videtur. Sed non ideo dicendum est, illum conceptum aliquid quidditativi, nec ut elementum constitutivum, in se continere ; manet in ordine qui diversus est ab ordine quidditativo. Et metaphysica, qui huic conceptui contentum quidditativum tribuit, merito carpitur ob « essentialismum ». Cum Brentano dicendum est : affirmare, quod est « tribuere esse », manet fundamentaliter diversum a repraesentatione (« Vorstellung ») ; pertinent ad « classes fundamentales » diversas [#f26]_.
 
+.. folio:: 0281
+   :page: 281
+
 Potestne « definitio » dari huius conceptus « ipsius esse » ? Si quis interrogat « quid est esse », haec dictio « quid » potest respicere « quidditatem » et tunc interrogatio a limine excludi potest, sensum non habet, nullum elementum quidditativum ibi includitur. Sed non opus est ut ita intelligatur ; haec potest esse intentio interrogantis : quis est sensus huius termini et huius conceptus ; vel : quis est modus perveniendi ad hunc conceptum apprehensivum, ad intelligendum ipsum hoc « esse » abstractum ; et tunc legitime ponitur.
 
 De eis qui semper « definitionem » exigunt ut aliquid intelligatur, dicitur (:cite:`Gilson, *L'être et l'essence*, pag. 284 <gilson:1948:284>`) quod ducuntur per « la raison raisonnante toujours en quête de définitions » ; et merito carpuntur. Id nec exigi potest ubi de quidditatibus agitur. Ait :person:`S. Thomas <aquinas>` (:cite:`*Sent.* I D. 2 q. 1 a. 3 <aquinas:sent:1.2.1.3>`) agens de « rationibus » attributorum Dei : « ratio prout hic sumitur, nihil aliud est quam id quod apprehendit intellectus de significatione alicuius nominis, et hoc in his quae habent definitionem est ipsa definitio, secundum quod :person:`Philosophus <aristotle>` dicit « ratio quam significat nomen est eius definitio ». Sed quaedam dicuntur habere rationem sic dictam, quae non definiuntur, sicut quantitas et qualitas et huiusmodi, quae non definiuntur, quia sunt genera generalissima ». Sed haec « rationem » habent (quae aequivalet definitioni in definibilibus) et haec est « id quod apprehendit intellectus ». Sic autem etiam apprehendit « esse absolutum », sive abstractum, sive « rationem essendi », cuius cognitio sensibus denegatur. In tali casu responsio ad quaestionem « quid est illud » excitari debet in casibus determinatis, per operationes mentis in quibus haec ratio apprehenditur.
@@ -320,9 +423,15 @@ Quomodo igitur ad intellectum ipsius « esse » pervenimus ? Nos hoc « esse » 
 
 Hoc « esse » iam detegimus, et eius « rationem » dein concipimus, in primis principiis per se notis, quae de quidditatibus et earum relationibus necessariis agunt. Et hoc « esse » est « esse » realismi, quod tali modo « definiri » potest [#f27]_, « esse quod non dependet ab activitate sensus vel intellectus nostri, quod manet, si de ea re non cogitamus, id quod :person:`S. Thomas <aquinas>` exprimit dicendo « ita est in re ». Hic est sensus vocis « esse », et si eum magis dilucidare volumus (:person:`Gilson <gilson>` plures conatus historicos examinat) ex eo quod huic sensui opponitur, dicendum est : oppositum *non* est « nihil », nec est « id quod non est extra causas » sed est : « id quod nobis *tantum* ita repraesentamus », vel « quod *tantum* ita est in apprehensione ». Et in eodem opere notavimus agnitionem huius « esse » a :person:`S. Thoma <aquinas>` *exigi ante* (saltem natura) omne iudicium de materia contingente (:cite:`Op. cit. pagg. 148, 267-268, resp. 145, 264-265, resp. 132, 224-225 <hoenen:1953:148>`). Ubi de relationibus quidditativis agitur, ex reflexione quae detegit hoc « esse » realismi, tantum scimus huic dispositioni « competere » esse actuale, non eam id etiam exercere. Ad hoc iustificandum requiritur ulterior reflexio, vel series reflexionum ordinatarum, de quibus per longum et latum agimus in opere citato (:cite:`cap. IX-XI <hoenen:1953:ch9>`). Unius generis « esse actualia » etiam in exercitio facile detegimus, hoc respicit « ea quae sunt in anima » ; ut est id quod exprimitur per « :term:`cogito ergo sum <cogito-ergo-sum>` » etiam thomisticum (:cite:`ibid. c. XII <hoenen:1953:ch12>`).
 
+.. folio:: 0282
+   :page: 282
+
 Et iterum animadvertendum est : haec omnia non deteguntur in his formulis universalibus, quibus ea describimus, sed tantum in casibus concretis, determinatis, per quandam :term:`abstractionem intuitivam <abstractio-intuitiva>`. Et haec non ita perficitur, ut prius notiones abstrahamus et ea deinde comparemus, sed in apprehenso complexo (determinato) nexum inter duas intelligamus, quarum « rationes » ita abstrahimus [#f28]_.
 
 Si haec in diversis casibus consideramus, invenimus iudicia et consequenter « esse » diversorum valorum, quae hoc tantum commune habent, quod oriuntur in reflexione quadam mentis nostrae in sua « accepta », « repraesentata », « apprehensa ». Ut iam dictum est, inter has reflexiones datur quidam ordo necessarius, unde una tantum post aliam evolvi possit. Et haec diversitas in reflexionibus et in iudiciis, ad quae conducunt, implicat diversitatem in *modis* essendi [#f29]_.
+
+.. folio:: 0283
+   :page: 283
 
 Dantur enim diversi modi essendi, et ut diversi a nobis intelliguntur. Commune habent hoc, quod hi modi essendi in se nihil quidditativi continent ; affirmatio et « esse », quod haec tribuit apprehenso complexo, manent in ordine fundamentaliter diverso ab ordine quidditativo. Quidditativa dicuntur « esse », sed per « esse » distinctum ab eis, et ipsa « esse » non sunt, sed eis quidditativum est.
 
@@ -334,6 +443,9 @@ Quomodo igitur modi essendi diversi sunt ; et unde oritur diversitas ? Sunt dive
 
 Sed dein quaestio ponenda est : undenam haec diversitas provenit ? Et respondendum est : ex quidditatibus, vel relationibus quidditativis, quarum « esse » in iudicio affirmatur. Recolamus passum supra citatum (:cite:`*De Pot.* q. 7 a. 2 ad 9 <aquinas:de-potentia:7.2.ad9>`) ubi dicitur : « Hoc quod dico *esse* est actualitas omnium actuum ». Inde non potest ulterius determinari per alium actum additum ; inde « non sic determinatur *esse* per aliud sicut potentia per actum, sed magis sicut actus per potentiam ». Ideo diversitas inter modos essendi non (sicut in differentibus quidditative) oritur ex actu addito, sed ex potentia, cui ipsum esse additur i. e. ex quidditate vel relationibus quidditativis, quae per esse actuantur [#f30]_.
 
+.. folio:: 0284
+   :page: 284
+
 Et dein :person:`S. Thomas <aquinas>` hunc modum determinandi actum per potentiam, cuius est actus, invenit etiam in *formis* i. e. in actibus quidditativis, quae definiuntur per « propriam materiam » loco differentiae. Et concludit : « per hunc modum hoc *esse* ab illo *esse* distinguitur in quantum est talis vel talis naturae ». (In ultima voce « natura » non est constitutivum ipsius esse, sed est natura, quae per esse actuatur) [#f31]_.
 
 Diversitas « modorum essendi » provenit igitur a quidditatibus. Et ideo iterum urgendum est : « esse » non est separandum ab essentialibus ; dantur connexiones inter utrumque ordinem, essentiae et existentiae, in re et in cognitione nostra, quae primo intelligit quidditates, et in eis et ex eis ipsum esse, secundum suos diversos modos. Non est igitur « essentialismus », a :person:`S. Thoma <aquinas>` reprobatus, in doctrina, quae admittit modos essendi, actus existentiales, ita determinari per quidditates, sicut actus per potentiam.
@@ -344,6 +456,9 @@ In hac constructione etiam, ut clarum est, detegitur divisio in substantiam et a
 
 Sed alia quoque in hac constructione a :person:`S. Thoma <aquinas>` describuntur ; haec respiciunt illa praedicamenta, quae sunt denominationes, i. e. « praedicationes concretivae », desumptae ex quadam realitate existente extrinseca ei de quo praedicatur. Et in his inveniuntur praedicamenta *realia*, quae in *suo* proprio genere nullam quidditatem requirunt, et consequenter, in mutatione secundum haec praedicamenta, nullam talem realitatem quidditativam amittunt vel novam acquirunt, sed quae unice consistunt in diversis modis essendi, realibus utique. In his praedicamentis ipsis, diversi modi essendi, magis determinati, inveniuntur et intelliguntur. Ita in « ubi » corpus, per contactum cum alio et alio loco, acquirit diversos modos essendi ; nunc haec diversitas est pure numerica, et ut talis perfecte intelligitur. (De his abunde agimus in :cite:`*Cosmologia* nostra, in tractatu de « ubi » et de « motu », et in notis correspondentibus ad calcem operis <hoenen:cosmologia>` ; haec videntur habere momentum metaphysicum). In his casibus multi thomistae, praeter diversos modos essendi reales, exigunt insuper aliquid quidditativi, intrinseci rebus, quae his modis essendi actuantur. Haec autem quidditas abundat, nec inveniri potest. Id videtur esse sequela « metaphysicae essentialisticae ». Et expositiones cl. :person:`Gilson <gilson>` adiuvant ut haec eliminetur. Sed quidem dicendum est : haec exigunt agnitionem modi essendi accidentium, quae sunt utique actus subiecti substantialis, sed distincti ab ipso esse substantiali.
 
+.. folio:: 0285
+   :page: 285
+
 In his divisionibus entis invenimus illas connexiones inter actus existentiales, de quibus haec elucubratio agit ; has divisiones in eis plene intelligimus. Spectant enim relationes inter « esse per se » et « esse in alio », inter locum et locandum, inter existentiam effectus et existentiam causae efficientis, quae respiciunt praedicamenta actionis et passionis. De relationibus temporalibus supra non erat expresse sermo, sed hae in singulis praesupponebantur. Termini quorum « esse » connexa agnoscuntur in his relationibus existentialibus, intelliguntur debere *simul* existere, in singulis casibus ; hae relationes temporales videntur esse maxime fundamentales.
 
 .. _appendix-la-s7-additions:
@@ -353,6 +468,9 @@ Additiones
 
 Ad has breves animadversiones restringere debebamus expositionem nostram relate ad metaphysicas « essentialisticam » et « existentialisticam ». Quaedam alia puncta, etiam breviore sermone hic addimus.
 
+.. folio:: 0286
+   :page: 286
+
 1. Inter modos essendi sunt quidam, qui propria habent, quae analoga sunt propriis quibusdam essentiarum. Motus stricte dictus, sive sit motus localis sive alterationis, est actus existentialis, et quidem esse fluens. Hoc esse extensionem stricte dictam, continuam sed fluentem, habet. Haec extensio duratio successiva, consequitur (aiunt :person:`Aristoteles <aristotle>` :cite:`*Phys.* IV 11 219 a 11 <aristotle:phys:219a11>`, et :cite:`S. Thomas l. 17 <aquinas:phys:4.17>`) magnitudinem, extensionem permanentem corporis quidditativam, sed independenter ab ea variari potest. Est extensio ipsius actus existentialis. Id clarius etiam patet in motu alterationis, cuius extensio fluens non praesupponit extensionem in corpore, sed tantum intensitates, qualitativi quid. Sed duratio eius est extensio stricte dicta i. e. habet omnes proprietates quantitatis, partes possunt addi et subtrahi, multiplicari et dividi » [#f32]_.
 
 Actus ille existentialis habet igitur, in suo ordine, propria similia propriis extensionis quidditativae. Sed adsunt quoque discrepantiae. Et clarum est, quod constructio moderna, extensionis quatuor dimensionum, cuius una homogenea esset cum aliis tribus, sensum realem non habet ; propter diversitatem ordinis. In calculis utique haec constructio adhiberi potest.
@@ -360,6 +478,9 @@ Actus ille existentialis habet igitur, in suo ordine, propria similia propriis e
 2. Est et aliud quid in motu, quod est analogum proprio quidditativo, sicut duratio est analoga extensioni permanenti. Et est eius velocitas, quae et ipsa ad prima intelligibilia pertinet. Haec enim est in motu, quod intensitas est in qualitate. Inde provenit, quod mechanicismus tantum suam explicationem qualitatum per solum motum localem pro vera habere potuerit ; in velocitate motus illud analogum intensitatis habetur, quod apparenter salvare poterat phaenomena, quae finaliter tantum in intensitate qualitatum explicationem habent.
 
 Inde et aliud proprium in motu, etiam in motu alterationis, sequitur. Haec velocitas variari potest, in eodem motu ; in una parte eius durationis potest esse alia ac in alia parte. Et inter has variationes maximi momenti sunt eae, quae habent structuram periodicam, oscillatoriam. Est variatio in ipso esse fluente quae correspondet (iuxta :cite:`*Pot.* 7, 2 ad 9 <aquinas:de-potentia:7.2.ad9>`) ad illud quidditativum, cuius est esse fluens. Eius principium iam in medio aevo considerabatur, a Nicolao Oresme [#f33]_, qui agnoscit analogiam inter intensitatem qualitatis permanentis et velocitatem motus, sive localis sive alterationis ; et construit « configurationes secundum temporalem durationem » i. e. in ipso esse fluente, et ita admittit qualitates sui generis, structurales, in hoc esse fluente, quae analogae sunt extensis heterogeneis permanentibus.
+
+.. folio:: 0287
+   :page: 287
 
 Tales structurae periodicae, oscillatoriae, inveniuntur in sonis. :person:`S. Thomas <aquinas>` (:cite:`*De Anim.* II l. 16 <aquinas:de-anima:2.16>`) cum :person:`Aristotele <aristotle>` tenet sonum, in oppositione ad alia sensibilia propria, non habere « esse fixum et quiescens in subiecto ». Inde sonus in actu habet esse fluens et secundum variationem in hoc esse, i. e. secundum velocitatem aliam et aliam, oriuntur diversae qualitates in sono.
 
@@ -372,6 +493,9 @@ Sed praeter hos modos essendi, actus plus minusve perfectos *stabiles*, qualitat
 4. Ex actibus existentialibus possunt quoque profluere structurae in rebus, quae essentias *imitantur*. Sic per contactum existentialem inter duo continua *existentia* (est contactus ex quo « ubi » profluit«) oritur aggregatum, unum per accidens, quod est intelligibilis imitatio continui i. e. eius quod habet unitatem intrinsecam, per se, essentialem, in quo partes sunt tantum entia in potentia, cuius extensio tota (continua) non resultat ex modo essendi (contactu) sed ex forma quidditativa intrinseca, quantitate. Haec imitatio potest esse tam perfecta, ut difficillimum sit decidere, quid in tali casu realizetur. Immo etiam theoretice est tanta, ut in historia philosophiae, ex hac similitudine, famosae antinomiae continui ortae sint. :person:`Cartesius <descartes>` (in :cite:`colloquio cum Burman *Oeuvres* ed. Adam et Tannery V pag. 164 <descartes:at:5.164>`) *omnem* differentiam inter utrumque casum negat.
 
 Addimus : similes imitationes oriuntur, ubi ad unitatem accidentalem, in ordine existentiali, etiam vires cooperantur, et difficultas decidendi inter utrumque casum poterit esse maxima, ut ex cosmologia patet.
+
+.. folio:: 0288
+   :page: 288
 
 In omnibus his materiis adesse videtur occasio abundans, ex casibus concretis (iuxta methodum constantem :person:`S. Thomae <aquinas>`) inquirendi in relationes inter essentias et modos essendi, ita ut suum cuique ordini tribuatur.
 

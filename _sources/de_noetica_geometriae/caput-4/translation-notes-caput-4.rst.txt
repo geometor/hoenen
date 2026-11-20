@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0095
+:page: 95
+
 .. _caput-4-notes:
 
 TRANSLATION NOTES — Chapter 4: On the Problem of Exactitude (Part II: On Exact Figures and Relations)
@@ -7,6 +12,9 @@ TRANSLATION NOTES — Chapter 4: On the Problem of Exactitude (Part II: On Exact
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0095
+   :page: 95
 
 1. Philological & Conceptual Analyses
 -------------------------------------

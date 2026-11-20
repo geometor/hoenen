@@ -4,6 +4,8 @@
 :death_label: 1932
 :lifespan: 1858 – 1932
 :excerpt: Role: Italian Mathematician & Logician*
+:folio: 0036
+:page: 36
 
 .. _person-peano:
 

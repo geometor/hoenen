@@ -4,6 +4,8 @@
 :death_label: 1963
 :lifespan: 1865 – 1963
 :excerpt: Role: French Mathematician*
+:folio: 0113
+:page: 113
 
 .. _person-hadamard:
 

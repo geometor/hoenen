@@ -4,6 +4,8 @@
 :death_label: 1946
 :lifespan: 1871 – 1946
 :excerpt: Role: Italian Geometer & Philosopher of Science*
+:folio: 0127
+:page: 127
 
 .. _person-enriques:
 

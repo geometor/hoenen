@@ -4,6 +4,8 @@
 :death_label: 355 BC
 :lifespan: c. 408 – c. 355 BC
 :excerpt: Role: Ancient Greek Mathematician & Astronomer*
+:folio: 0011
+:page: 11
 
 .. _person-eudoxus:
 

@@ -4,6 +4,8 @@
 :death_label: 1907
 :lifespan: 1856 – 1907
 :excerpt: Role: French Philosopher & Aristotle Scholar*
+:folio: 0014
+:page: 14
 
 .. _person-hamelin:
 

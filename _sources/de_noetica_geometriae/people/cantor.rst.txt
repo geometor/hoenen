@@ -4,6 +4,8 @@
 :death_label: 1918
 :lifespan: 1845 – 1918
 :excerpt: Role: German Mathematician & Creator of Set Theory*
+:folio: 0088
+:page: 88
 
 .. _person-cantor:
 

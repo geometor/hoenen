@@ -4,6 +4,8 @@
 :death_label: 1956
 :lifespan: 1884 – 1956
 :excerpt: Role: German Logician, Philosopher & Historian of Mathematics*
+:folio: 0017
+:page: 17
 
 .. _person-scholz:
 

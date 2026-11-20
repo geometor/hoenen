@@ -4,6 +4,8 @@
 :death_label: 420 BC
 :lifespan: c. 490 – c. 420 BC
 :excerpt: Role: Greek Sophist*
+:folio: 0066
+:page: 66
 
 .. _person-protagoras:
 

@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/hilbert/
 :github_url: https://github.com/geometor/hilbert
 :excerpt: Role: German Mathematician & Leader of Formalism*
+:folio: 0023
+:page: 23
 
 .. _person-hilbert:
 

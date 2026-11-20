@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0027
+:page: 27
+
 .. _caput-2-summary:
 
 AI SUMMARY & ANALYSIS — Chapter 2: On the Problem of Necessity
@@ -7,6 +12,9 @@ AI SUMMARY & ANALYSIS — Chapter 2: On the Problem of Necessity
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0027
+   :page: 27
 
 Executive Summary
 -----------------

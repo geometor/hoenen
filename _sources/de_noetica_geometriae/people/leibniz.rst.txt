@@ -4,6 +4,8 @@
 :death_label: 1716
 :lifespan: 1646 – 1716
 :excerpt: Role: German Polymath, Philosopher & Mathematician*
+:folio: 0033
+:page: 33
 
 .. _person-leibniz:
 

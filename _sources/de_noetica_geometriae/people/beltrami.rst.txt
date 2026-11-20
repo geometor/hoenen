@@ -4,6 +4,8 @@
 :death_label: 1900
 :lifespan: 1835 – 1900
 :excerpt: Role: Italian Mathematician*
+:folio: 0139
+:page: 139
 
 .. _person-beltrami:
 

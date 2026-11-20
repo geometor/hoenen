@@ -4,6 +4,8 @@
 :death_label: 1993
 :lifespan: 1910 – 1993
 :excerpt: Role: Thomistic Philosopher of Mathematics*
+:folio: 0224
+:page: 224
 
 .. _person-alvarez-laso:
 

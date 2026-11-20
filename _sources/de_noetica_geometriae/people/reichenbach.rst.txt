@@ -4,6 +4,8 @@
 :death_label: 1953
 :lifespan: 1891 – 1953
 :excerpt: Role: German Philosopher of Science & Logical Empiricist*
+:folio: 0137
+:page: 137
 
 .. _person-reichenbach:
 

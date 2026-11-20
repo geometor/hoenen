@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     class="euclid-graphic"
+     data-graphic-id="0172.g1"
+     data-folio="0172"
+     data-graphic="g1"
+     viewBox="0 0 782 92"
+     width="782"
+     height="92"
+     role="img"
+     aria-label="Hilbert Theorem 6: linear order of points A, B, C, D, E, ..., K on a straight line (Hoenen 1954, p. 172)">
+  <style>
+    .euclid-graphic {
+      --geom-fg: #1a1a1a;
+      --geom-bg: #ffffff;
+      --geom-accent: #c0392b;
+      --geom-assert: #1e8449;
+      background: transparent;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0.75rem auto;
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --geom-fg: #e8e6e3;
+        --geom-bg: #121212;
+        --geom-accent: #f39c12;
+        --geom-assert: #2ecc71;
+      }
+    }
+    .geom-line {
+      fill: none;
+      stroke: var(--geom-fg);
+      stroke-width: 4.5;
+      stroke-linecap: butt;
+    }
+    .geom-overlay {
+      fill: none;
+      stroke: transparent;
+      stroke-width: 8;
+      stroke-linecap: round;
+    }
+    .geom-overlay.is-active,
+    .geom-overlay.active {
+      stroke: var(--geom-accent);
+      stroke-width: 5.5;
+    }
+    .geom-overlay.is-assert,
+    .geom-overlay.assert {
+      stroke: var(--geom-assert);
+      stroke-width: 5.5;
+    }
+    .geom-pt,
+    .geom-scan-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-pt.is-active,
+    .geom-pt.active {
+      fill: var(--geom-accent);
+    }
+    .geom-label {
+      fill: var(--geom-fg);
+      font-family: "Cormorant Garamond", "EB Garamond", Georgia, "Times New Roman", serif;
+      font-size: 34px;
+      font-weight: 500;
+      user-select: none;
+      cursor: pointer;
+    }
+    .geom-label.is-active,
+    .geom-label.active {
+      fill: var(--geom-accent);
+      font-weight: 700;
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="10" markerHeight="10" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="var(--geom-assert)" stroke-width="2" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2 -5 L -2 5 M 2 -5 L 2 5" stroke="var(--geom-assert)" stroke-width="2" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="14" markerHeight="14" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -3.5 -5 L -3.5 5 M 0 -5 L 0 5 M 3.5 -5 L 3.5 5" stroke="var(--geom-assert)" stroke-width="2" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-line" data-ref="[ A K ]" data-aliases="[ A B C D E K ]" d="M 25.00 59.17 L 393.00 60.47 L 761.00 61.77" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-scan-dot" data-ref="A" cx="50.56" cy="66.03" r="2.6" />
+    <circle class="geom-scan-dot" data-ref="B" cx="162.83" cy="66.40" r="2.6" />
+    <circle class="geom-scan-dot" data-ref="C" cx="265.94" cy="66.33" r="2.6" />
+    <circle class="geom-scan-dot" data-ref="D" cx="372.59" cy="65.93" r="2.6" />
+    <circle class="geom-scan-dot" data-ref="E" cx="480.61" cy="66.43" r="2.6" />
+    <circle class="geom-scan-dot" data-ref="K" cx="709.86" cy="68.71" r="2.6" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg geom-overlay" data-ref="/ A B /" d="M 50.56 59.26 L 106.70 59.46 L 162.83 59.66" />
+    <path class="geom-seg geom-overlay" data-ref="/ B C /" d="M 162.83 59.66 L 214.39 59.84 L 265.94 60.02" />
+    <path class="geom-seg geom-overlay" data-ref="/ C D /" d="M 265.94 60.02 L 319.26 60.21 L 372.59 60.40" />
+    <path class="geom-seg geom-overlay" data-ref="/ D E /" d="M 372.59 60.40 L 426.60 60.59 L 480.61 60.78" />
+    <path class="geom-seg geom-overlay" data-ref="/ E K /" d="M 480.61 60.78 L 595.23 61.18 L 709.86 61.59" />
+    <path class="geom-seg geom-overlay" data-ref="/ A C /" d="M 50.56 59.26 L 158.25 59.64 L 265.94 60.02" />
+    <path class="geom-seg geom-overlay" data-ref="/ A D /" d="M 50.56 59.26 L 211.57 59.83 L 372.59 60.40" />
+    <path class="geom-seg geom-overlay" data-ref="/ A E /" d="M 50.56 59.26 L 265.58 60.02 L 480.61 60.78" />
+    <path class="geom-seg geom-overlay" data-ref="/ A K /" d="M 50.56 59.26 L 380.21 60.42 L 709.86 61.59" />
+    <path class="geom-seg geom-overlay" data-ref="/ B D /" d="M 162.83 59.66 L 267.71 60.03 L 372.59 60.40" />
+    <path class="geom-seg geom-overlay" data-ref="/ B E /" d="M 162.83 59.66 L 321.72 60.22 L 480.61 60.78" />
+    <path class="geom-seg geom-overlay" data-ref="/ B K /" d="M 162.83 59.66 L 436.35 60.62 L 709.86 61.59" />
+    <path class="geom-seg geom-overlay" data-ref="/ C E /" d="M 265.94 60.02 L 373.27 60.40 L 480.61 60.78" />
+    <path class="geom-seg geom-overlay" data-ref="/ C K /" d="M 265.94 60.02 L 487.90 60.81 L 709.86 61.59" />
+    <path class="geom-seg geom-overlay" data-ref="/ D K /" d="M 372.59 60.40 L 541.22 60.99 L 709.86 61.59" />
+  </g>
+  <g id="points">
+    <circle class="geom-pt" data-ref="A" cx="50.56" cy="59.26" r="3.4" />
+    <circle class="geom-pt" data-ref="B" cx="162.83" cy="59.66" r="3.4" />
+    <circle class="geom-pt" data-ref="C" cx="265.94" cy="60.02" r="3.4" />
+    <circle class="geom-pt" data-ref="D" cx="372.59" cy="60.40" r="3.4" />
+    <circle class="geom-pt" data-ref="E" cx="480.61" cy="60.78" r="3.4" />
+    <circle class="geom-pt" data-ref="K" cx="709.86" cy="61.59" r="3.4" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" data-ref="A" x="54.50" y="44.00" text-anchor="middle">A</text>
+    <text class="geom-label" data-ref="B" x="160.50" y="45.00" text-anchor="middle">B</text>
+    <text class="geom-label" data-ref="C" x="266.50" y="45.00" text-anchor="middle">C</text>
+    <text class="geom-label" data-ref="D" x="372.00" y="44.00" text-anchor="middle">D</text>
+    <text class="geom-label" data-ref="E" x="480.50" y="44.00" text-anchor="middle">E</text>
+    <text class="geom-label" data-ref="K" x="709.00" y="48.00" text-anchor="middle">K</text>
+  </g>
+</svg>

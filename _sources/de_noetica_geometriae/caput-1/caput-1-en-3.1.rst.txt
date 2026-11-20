@@ -1,3 +1,9 @@
+:orphan:
+:layout: book
+:lang: en
+:folio: 0009
+:page: 9
+
 .. _caput-1-en-3-1:
 
 CHAPTER I
@@ -9,6 +15,9 @@ CHAPTER I
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0009
+   :page: 9
 
 We begin from a very concise exposition of the historical evolution of the problems which concern geometric knowledge, from Plato and Aristotle onwards. In what follows we will not presuppose the doctrine of Aristotle (and of the scholastics), we will only ask whether there are found in it data which contain the solution of noetic problems, even of modern problems. We do not even wish to exclude an interpretation of certain texts of Aristotle which differs from our own. But we are persuaded that we have found in Aristotle lights for the study of modern problems, and vice versa, in the latter, means for interpreting Aristotle.
 

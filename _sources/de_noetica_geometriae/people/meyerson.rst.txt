@@ -4,6 +4,8 @@
 :death_label: 1933
 :lifespan: 1859 – 1933
 :excerpt: Role: Polish-born French Philosopher of Science & Epistemologist*
+:folio: 0039
+:page: 39
 
 .. _person-meyerson:
 

@@ -2,6 +2,8 @@
 :layout: book
 :lifespan: fl. early 5th century BC
 :excerpt: Role: Pre-Socratic Eleatic Philosopher*
+:folio: 0275
+:page: 275
 
 .. _person-parmenides:
 

@@ -4,6 +4,8 @@
 :death_label: 1940
 :lifespan: 1861 – 1940
 :excerpt: Role: British Historian of Ancient Greek Mathematics*
+:folio: 0158
+:page: 158
 
 .. _person-heath:
 

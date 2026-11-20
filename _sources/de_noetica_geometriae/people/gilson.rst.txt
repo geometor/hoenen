@@ -4,6 +4,8 @@
 :death_label: 1978
 :lifespan: 1884 – 1978
 :excerpt: Role: French Thomistic Philosopher & Historian of Medieval Philosophy*
+:folio: 0277
+:page: 277
 
 .. _person-gilson:
 

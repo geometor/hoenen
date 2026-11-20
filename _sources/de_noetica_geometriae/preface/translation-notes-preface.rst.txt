@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0005
+:page: 5
+
 .. _preface-notes:
 
 TRANSLATION NOTES — Preface
@@ -7,6 +12,9 @@ TRANSLATION NOTES — Preface
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0005
+   :page: 5
 
 1. Translation Criteria and Apparatus Standards
 -----------------------------------------------

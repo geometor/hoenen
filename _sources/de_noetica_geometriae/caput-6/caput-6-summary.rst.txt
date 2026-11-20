@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0195
+:page: 195
+
 .. _caput-6-summary:
 
 AI SUMMARY & ANALYSIS — Chapter 6: On the Fundamental Subject of Geometry
@@ -7,6 +12,9 @@ AI SUMMARY & ANALYSIS — Chapter 6: On the Fundamental Subject of Geometry
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0195
+   :page: 195
 
 Executive Summary
 -----------------

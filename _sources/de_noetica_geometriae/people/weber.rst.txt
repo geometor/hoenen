@@ -4,6 +4,8 @@
 :death_label: 1913
 :lifespan: 1842 – 1913
 :excerpt: Role: German Mathematician*
+:folio: 0070
+:page: 70
 
 .. _person-weber:
 

@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/hoenen/
 :github_url: https://github.com/geometor/hoenen
 :excerpt: Role: Jesuit Philosopher of Science & Mathematics*
+:folio: 0005
+:page: 5
 
 .. _person-hoenen:
 

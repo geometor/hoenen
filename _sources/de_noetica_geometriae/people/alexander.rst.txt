@@ -4,6 +4,8 @@
 :death_label: 200
 :lifespan: fl. c. 200 AD
 :excerpt: Role: Peripatetic Commentator*
+:folio: 0253
+:page: 253
 
 .. _person-alexander:
 

@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/plato/
 :github_url: https://github.com/geometor/plato
 :excerpt: Role: Ancient Greek Philosopher*
+:folio: 0007
+:page: 7
 
 .. _person-plato:
 

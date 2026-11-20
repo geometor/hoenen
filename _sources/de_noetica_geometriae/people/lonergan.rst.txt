@@ -4,6 +4,8 @@
 :death_label: 1984
 :lifespan: 1904 – 1984
 :excerpt: Role: Jesuit Philosopher & Theologian*
+:folio: 0277
+:page: 277
 
 .. _person-lonergan:
 

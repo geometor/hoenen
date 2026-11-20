@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/bertrand-russell/
 :github_url: https://github.com/geometor/bertrand-russell
 :excerpt: Role: British Philosopher, Logician & Mathematician*
+:folio: 0088
+:page: 88
 
 .. _person-russell:
 

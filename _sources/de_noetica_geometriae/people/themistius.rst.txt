@@ -4,6 +4,8 @@
 :death_label: 388
 :lifespan: c. 317 – c. 388 AD
 :excerpt: Role: Late Antique Rhetorician & Aristotelian Commentator*
+:folio: 0261
+:page: 261
 
 .. _person-themistius:
 

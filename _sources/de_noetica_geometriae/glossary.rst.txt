@@ -1496,5 +1496,3 @@ Zusammenhang — Connection / nexus / structural coherence
 * **English Translation**: *Connection / nexus / structural coherence*
 * **Noetic & Mathematical Definition**: In German philosophy of mathematics (Hilbert, Klein, Stammler), the necessary structural interconnection linking axioms, concepts, and geometric configurations.
 * **Occurrences in De Noetica Geometriae (2)**: **Caput III**: 4. (`LA <caput-3/caput-3.html#occ-term-zusammenhang-1>`__ · `EN <caput-3/caput-3-en.html#occ-term-zusammenhang-1>`__), 4. (`LA <caput-3/caput-3.html#occ-term-zusammenhang-2>`__ · `EN <caput-3/caput-3-en.html#occ-term-zusammenhang-2>`__)
-
-----

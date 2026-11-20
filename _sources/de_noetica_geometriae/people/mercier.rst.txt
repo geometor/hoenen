@@ -4,6 +4,8 @@
 :death_label: 1926
 :lifespan: 1851 – 1926
 :excerpt: Role: Belgian Neo-Scholastic Philosopher & Founder of the Louvain Institute*
+:folio: 0035
+:page: 35
 
 .. _person-mercier:
 

@@ -1,5 +1,8 @@
 :title: Index Analyticus
 :layout: book
+:lang: la
+:folio: 0289
+:page: 289
 
 .. _end-index-la:
 
@@ -12,6 +15,9 @@ INDEX ANALYTICUS
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0289
+   :page: 289
 
 Praefatio
 ---------
@@ -70,6 +76,9 @@ Caput II. - De problemate necessitatis
   * :ref:`1. - De ipso nexu materiali et formali <caput-2-la-s4-1>`
   * :ref:`2. - Leges physicae et principia mathematica <caput-2-la-s4-2>`
   * :ref:`3. - De abstractione formali quae dicitur <caput-2-la-s4-3>`
+
+.. folio:: 0290
+   :page: 290
 
 Caput III. - De problemate exactitudinis. Pars I. - De existentia indivisibilium
 --------------------------------------------------------------------------------
@@ -139,6 +148,9 @@ Caput IV. - De problemate exactitudinis. Pars II. - De figuris et relationibus e
 * :ref:`§ 6. De geometria non-euclidica relate ad cognitionem <caput-4-la-s6>`
 * :ref:`§ 7. De geometria classica relate ad philosophiam cognitionis <caput-4-la-s7>`
 
+.. folio:: 0291
+   :page: 291
+
 Caput V. - De Axiomatica
 ------------------------
 
@@ -182,6 +194,9 @@ Caput V. - De Axiomatica
   * :ref:`A. De applicatione geometriae classicae <caput-5-la-s5-a>`
   * :ref:`B. De applicabilitate geometriae axiomatice constructae <caput-5-la-s5-b>`
 
+.. folio:: 0292
+   :page: 292
+
 Caput VI. - De subjecto fundamentali geometriae
 -----------------------------------------------
 
@@ -224,6 +239,9 @@ Caput VII. - De extensione ut est materia intelligibilis
   * :ref:`1. - Conspectus generalis <caput-7-la-s3-1>`
   * :ref:`2. - De casibus mathematicis <caput-7-la-s3-2>`
   * :ref:`3. - De casibus physicis <caput-7-la-s3-3>`
+
+.. folio:: 0293
+   :page: 293
 
 APPENDIX: De connexionibus necessariis inter actus existentiales
 ----------------------------------------------------------------

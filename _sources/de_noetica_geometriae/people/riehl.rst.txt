@@ -4,6 +4,8 @@
 :death_label: 1924
 :lifespan: 1844 – 1924
 :excerpt: Role: Austrian-German Neo-Kantian Philosopher*
+:folio: 0167
+:page: 167
 
 .. _person-riehl:
 

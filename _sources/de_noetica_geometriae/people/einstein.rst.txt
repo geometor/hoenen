@@ -4,6 +4,8 @@
 :death_label: 1955
 :lifespan: 1879 – 1955
 :excerpt: Role: Theoretical Physicist*
+:folio: 0016
+:page: 16
 
 .. _person-einstein:
 

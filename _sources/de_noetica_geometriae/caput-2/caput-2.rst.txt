@@ -1,4 +1,8 @@
 :layout: book
+:title: Caput II: De Problemate Necessitatis
+:lang: la
+:folio: 0027
+:page: 27
 
 .. _caput-2-la:
 
@@ -12,6 +16,9 @@ CAPUT II
    :depth: 3
    :backlinks: none
 
+.. folio:: 0027
+   :page: 27
+
 .. _caput-2-la-prelim:
 
 *Animadversiones praeviae.*
@@ -24,6 +31,9 @@ Problema ab empirismo (:person:`Stuart Mill <mill>`) tandem aliquando tanquam in
 :person:`Plato <plato>` data sensitiva ut occasionem et praeparationem ad eliciendam reminiscentiam in mente nostra considerat. :person:`Kant <kant>`, qui problema exactitudinis negligit, fingit formam subiectivam sensibilitatis nostrae.
 
 :person:`Aristoteles <aristotle>` per theoriam abstractionis formalis, quae experientia utitur, problema solvit ; sed solutio haec, quae erat solutio :person:`S. Thomae <aquinas>` quoque et quorundam scholasticorum antiquorum iam videtur esse oblivioni tradita [#f1]_.
+
+.. folio:: 0028
+   :page: 28
 
 In critica mathematica moderna problemati necessitatis vix ulla (nisi in uno forte casu) attentio tribuitur, sed maior problemati exactitudinis ; id quod suo modo etiam redit in theoria generali numeri realis. De problemate exactitudinis in capitibus sequentibus agemus, nunc examinandum est problema necessitatis, quod etiam invenitur in initiis arithmeticae, et in eius evolutione ulteriori. Et recolamus : problema nostrum principale *non* est « quomodo plene fundatur et iustificatur mathesis ? » sed volumus praesertim examinare activitatem et valorem mentis humanae in constructione scientiae, non tanquam problema psychologicum, sed ut problema noeticum. Initium sumimus ex quibusdam « constatationibus » simplicibus factorum mentalium elementarium.
 
@@ -49,6 +59,9 @@ Animadvertenti 5040 = 7! (i. e. 2 × 3 × 4 × 5 × 6 × 7) id quod :person:`Pla
 
    « Dicamus autem, eum numerum aptiorem esse, qui plurimas, et praesertim deinceps ordine dispositas, in se ipso distributiones recipit. Neque enim omnis numerus omnes in omnia sectiones habet. Sed quinquies millium et quadraginta numerus, et ad bellum, et ad pacem, ad conventa omnia, societates, tributa, distributiones, non in plures quam unum de sexaginta partes incidi potest ab una autem ad decem usque continuas ». (Iuxta interpretationem Marsilii Ficini).
 
+.. folio:: 0029
+   :page: 29
+
 Veniamus ad constatationes nostras. Quomodo determinari potest hic numerus 59 omnium partitionum (in partes aequales) possibilium ? Res pro nobis est simplex. Ecce : 5040 = 2 × 2520 = 3 × 1680 et ita porro usque ad ultimam divisionem quae quid novi affert : scil. = 70 × 72. Si enim pergimus redeunt ea quae iam habuimus. Si integram tabulam harum divisionum conficimus et eam aspicimus, *computando* invenimus earum numerum esse 29, quae continent 2 × 29 = 58 divisiones possibiles in partes aequales, quibus una addi debet : divisio in 5040 unitates. Ita igitur pervenimus ad hanc cognitionem Platonicam, numerum 5040 admittere 59 divisiones in partes aequales ; *haec cognitio est utique iudicium necessarium.*
 
 Attendamus primo ad hanc ultimam partem processus : post factas divisiones debemus *computare* earum numerum ; haec autem computatio est *operatio experimentalis*, omnino eodem modo quo computatio multitudinis hominum, qui in hac aula adsunt, est operatio experimentalis. Altera haec ducit quidem ad iudicium verum, non tamen ad veritatem necessariam ; numerus praesentium variari potest. Diversitas ex eo provenit, quod in casu :person:`Platonis <plato>` haec operatio experimentalis applicatur in *materia necessaria*, in altero casu in *materia contingenti* ; sed nos intuemur quoque nostram operationem de se ad exitum necessarium ducere in utroque casu. Unde haec proveniat, postea inquirendum est ; nunc sufficiat ut de ipso facto constet.
@@ -56,6 +69,9 @@ Attendamus primo ad hanc ultimam partem processus : post factas divisiones debem
 Animadvertamus adhuc : iam ante computationem scimus hunc exitum fore necessarium et quidem ita ut iam sciamus numerum divisionum esse necessario aliquem numerum determinatum ; computatio tantum specificationem huius numeri nos docet.
 
 Possumus ulterius progredi. Nos divisiones possibiles inveniebamus, applicando regulas elementares, sed tamen derivatas, arithmeticae modernae. Quomodo :person:`Plato <plato>` id fecerit parum refert ; sed quidem magni momenti est detegere, id fieri posse etiam mediis *experimentalibus*, quae quidem longum tempus exigunt, possibilia tamen sunt. Ecce : Sumimus 5040 symbola numerorum, vel etiam corpuscula quaecumque v. g. calculos, unde nomen « calculi » derivatum est. Et conamur decidere quomodo haec multitudo in partes inter se aequales dividi possit. Primo utrum in binarios, et ad hoc decidendum ita calculos disponimus :
+
+.. folio:: 0030
+   :page: 30
 
 | 1  3  5 ..... et in fine invenimus 5039
 | 2  4  6 .....                     5040
@@ -76,6 +92,9 @@ Ut hoc magis pateat, comparemus hunc processum cum alio, partim simili partim di
 
 Undenam proveniat differentia inter hos casus (et alios quoque, in quibus de necessitate vel contingentia non habemus intuitionem), postea indagabimus ; nunc praesertim attendamus ad id quod invenimus : non omnis experientia ducit ad iudicium contingens ; datur experientia, ex qua habemus cognitionem necessariam ; et : ex tali experientia non tantum *notiones* haurimus, sed ipsa *iudicia* necessaria, ipsum *nexum* inter terminos iudicii eiusque necessitatem.
 
+.. folio:: 0031
+   :page: 31
+
 Nunc tantum per transennam ad unum attendimus : locuti sumus de calculis, quibus operationes perficimus ; scimus id non esse necessarium ; idem obtinetur, si consideramus quaecumque elementa bene distincta, v. g. litteras *a*, vel cruces, vel apices quae scribimus. Intuitive scimus, resultatum sequi ex sola *multitudine* individuorum et revera necessario *profluere* ex natura *multitudinis* ; et hoc sensu in singulis iudiciis subiectum est *causa* praedicati, quod ideo nexu necessario cum subiecto cohaeret. Et iam coepimus intelligere theoriam *abstractionis* :person:`Aristotelis <aristotle>` hic verificari.
 
 .. _caput-2-la-s1-2:
@@ -94,6 +113,9 @@ Simile exemplum habemus in elementis artis combinatoriae. Uti notum est, numerus
 
 Initia deductionis huius theorematis necessarii sunt haec. Si habemus duo elementa , *a* et *b*, *duae* sunt permutationes i. e. series ex his elementis compositae, quae solo ordine differunt, scil. *ab* et *ba*. Si additur tertium elementum *c*, id evidenter addi potest singulis his seriebus sive ante primum elementum, sive inter duo, sive post secundum, et ex prima permutatione resultant : *cab*, *acb*, *abc* ; ex altera : *cba*, *bca*, *bac* ; nec plus nec minus. Ex tribus elementis habemus sex permutationes. Sed haec duplex tripartitio nobis illucescit tantum ex inspectione sive in phantasmate sive in delineatione reali (in utroque casu intrat quoque elementum spatiale). Habemus iterum operationes sensitivas experimentales in re concreta, quae est materia intuitus intellectivi necessarii. Et iterum patet, ex experientia posse prodire iudicia, quae cognitionem extendunt, et quae simul sunt necessaria.
 
+.. folio:: 0032
+   :page: 32
+
 Numerus harum permutationum erit 2 × 3 ; quomodo v. g. ope « principii inductionis arithmeticae completae » ad theorema generale, supra enuntiatum, perveniatur, hic non interest.
 
 .. _caput-2-la-s1-4:
@@ -104,6 +126,9 @@ Numerus harum permutationum erit 2 × 3 ; quomodo v. g. ope « principii inducti
 In origine talis iudicii, utique necessarii, eiusdem generis experimentum adhiberi poterit, immo debebit. Id facile monstrari potest.
 
 Poterit adesse. Fac enim nos adhuc nescire, quis sit numerus specificus qui ex additione multitudinis 5 unitatum ad multitudinem, quae 7 unitates continet, resultabit. Erat certe tempus in quo hoc nesciebamus. Ecce : operatione actuali additionem exsequimur. Habemus iam 7 individua ; aliam multitudinem ei *successive* addimus usque ad huius exhaustionem, computando simul v. g. ope digitorum unius manus. Post additum primum resultat 8, dein 9 ... quando exhausta erit multitudo horum digitorum, invenimus 12. Et tunc iudicium necessarium elicimus : multitudo quae resultat ex additione 5 ad 7 est numerus 12. Quod ita *possumus* invenire responsum ad quaestionem « quid resultat ex ista determinata additione ? », sive quod possumus invenire praedicatum (antea ignotum) propositionis necessariae « ex additione 5 ad 7 resultat numerus 12 », luce clarius est. Sed, si id possibile est, habemus iterum verificatam propositionem : datur experientia, quae ducit ad iudicium necessarium.
+
+.. folio:: 0033
+   :page: 33
 
 Immo talis experientia videtur esse necessaria in iudiciis de additione numerorum ad invicem ; neque alia methodus videtur homini praesto esse ad inveniendum prima vice numerum qui ex additione determinata resultat. Hoc confirmari potest ex consideratione trium methodorum quae adhibitae sunt ad *deducendum* illud iudicium ex definitionibus ope aliorum principiorum.
 
@@ -121,6 +146,9 @@ Ita igitur statuta methodo definitionis specificae singulorum numerorum, :person
 |       2 et 1 et 1 est 3 et 1 (déf. 2)
 |       3 et 1 est 4           (déf. 3)
 
+.. folio:: 0034
+   :page: 34
+
 Donc (par l'axiome) 2 et 2 est 4 » [#f3]_.
 
 Unde tale iudicium, exprimens id quod resultat ex additione numerorum, consideratur ut iudicium analyticum hoc sensu : in eius originem experientia tantum influit in quantum ex ea hauriuntur *notiones*, sed *nexus* inter notiones, qui in iudiciis necessariis affirmantur, non ex experientia hauriuntur, sed tantum ex illis notionibus (definitionibus) et syllogismis, pure analytice. Duplex tamen animadversio facienda est ; et utraque vindicabit influxum experientiae in cognitionem etiam ipsius nexus.
@@ -128,6 +156,9 @@ Unde tale iudicium, exprimens id quod resultat ex additione numerorum, considera
 Prior haec est. Ut series illa syllogismorum *tanta* sit quanta requiritur ut precise ultima conclusio sit v. g. 5 + 7 = 12, omni cura singula membra huius seriei *computanda*, *enumeranda* sunt, secus enim errabimus. Id forte primo intuitu non est evidens, si series est brevissima, ut in exemplo :person:`Leibnizii <leibniz>` ; tunc adest quidem computatio, sed attentionem nostram fugit. Si autem series est longior, clarum fit, nos computare debere. Et tandem aliquando idem elementum experimentale, quod supra inveniebamus, etiam apud :person:`Leibniz <leibniz>` adest ; nos computabamus calculos, :person:`Leibniz <leibniz>` syllogismos, vel numeros in syllogismis ; experientia quae utitur phantasmate in hac deductione quasi-analytica non deest ; sed est iterum experientia, quae secum fert intuitionem necessitatis.
 
 Altera animadversio haec erit. Optime :person:`Leibniz <leibniz>` exponit definitionem specificam numerorum ; sequens semper definitur per eius ortum ex praecedenti per additionem unitatis. Animadvertamus iterum, hic agi de definitione *essentiarum* ; unde, ut statim patebit, quaedam cognitio praesupponitur. En exemplum : fac nos habere urnam plenam globulis et per ictum quosdam ex eis projici ; computando invenimus tres. Possumusne nunc hanc definitionem statuere : tres est numerus globulorum, qui unico ictu ex hac urna projiciuntur ? Evidenter non ; sequens ictus poterit projicere 4 vel 5 globulos ; deest necessitas effectus, est contingens. Sed in definitione essentiae necessitas requiritur. Ideo modus definiendi numeros successivos, quam :person:`Leibniz <leibniz>` in argumento adhibet, admitti potest, quia haec necessitas adest et *a nobis praecognoscitur*. Sciebamus, ex additione unitatis ad numerum quemvis determinatum, *necessario*, ideoque semper, eundem alium numerum determinatum, « sequentem », oriri, et non ex 3 nunc 4, alia vice 5. Unde hoc sciebamus ? Non aliter ac per inspectionem phantasmatis multitudinis, cui unitatem addimus, novimus *necessitatem* huius *iudicii*, quod ita oritur numerus in essentia sua determinatus. Non agitur ergo in illis definitionibus de *notionibus* tantum, sed etiam de *iudicio*, ad cuius evidentiam indigemus simili medio experimentali. Et hoc iudicium est elementum essentiale — sed non enuntiatum — in serie syllogismorum :person:`Leibnizii <leibniz>`; est « definitio operativa ». Statim plura de hac et de alia praecognitione.
+
+.. folio:: 0035
+   :page: 35
 
 .. _caput-2-la-s1-4-b:
 
@@ -137,6 +168,9 @@ B) *Methodus Mercier.*
 :person:`Mercier <mercier>` alia — simili tamen — methodo utitur ad probandum characterem pure analyticum nostri iudicii : 7 + 5 = 12. (:cite:`*Critériologie* n. 118 in ed. 8 pagg. 282-283 <mercier:criteriologie:118>`). Optime animadvertit, conceptum subiecti, « 7 + 5 », esse conceptum summae (d'une somme), i. e. eius quod ex additione resultat, sed non conceptum cuiusvis summae, sed summae praecise determinatae, quia est duorum numerorum determinatorum. Et ratiocinatur ex principio « partes componentes totum, et totum sunt identica ». Unde ex puro principio contradictionis concludit ad identitatem subiecti et praedicati propositionis nostrae, quae sunt « 7 + 5 » resp. 12 ; et ita habetur iudicium nostrum.
 
 Attamen ita nondum habemus cognitionem *speciei* huius summae ; scimus eam esse numerum specifice in se determinatum, sed eum esse numerum 12, post hoc ratiocinium nondum novimus. Requiritur plus ut ad hanc cognitionem perveniamus. Unde « des représentations symboliques » non tantum (ut ait :person:`Mercier <mercier>`) *possunt* sed *debent* omnino adhiberi, ut cognoscamus identitatem inter subiectum et hoc praedicatum, quod est : 12. Id ita efficit : numerus 7 scribitur 1 + 1 + 1 + 1 + 1 + 1 + 1, dein numerus 5 scribitur 1 + 1 + 1 + 1 + 1 ; et haec symbola exprimunt bene, ut vidimus, eorum definitionem. Eodem modo additio bene exprimitur symbolo : (1 + 1 + 1 + 1 + 1 + 1 + 1) + (1 + 1 + 1 + 1 + 1) ; hoc erit subiectum nostri iudicii. Ex altera parte praedicatum erit : 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1. Sufficit, ait :person:`Mercier <mercier>`, supprimere uncinas ut identitas inter subiectum et praedicatum manifesta sit, modo sensibili.
+
+.. folio:: 0036
+   :page: 36
 
 Sed id non videtur sufficere ; requiritur enim, idque omnino necessario, ut inspiciamus, utrum « correspondentia », quae dicitur, bi-univoca inter elementa subiecti (deletis uncinis) et praedicati revera adsit ; si haec adest, constat de identitate. Sed hoc est idem elementum experimentale quod supra inveniebamus. Unica differentia haec est : nos inquirebamus in numerum (nobis adhuc ignotum) qui resultat ex additione, et ad hunc inveniendum addebamus successive 5 unitates. :person:`Mercier <mercier>` supponit eum numerum esse 12 et comparando hunc cum effectu additionis, unico actu absolutae, verificat suppositionem suam ; sed similis computatio vel comparatio *singulorum* elementorum praedicati cum elementis subiecti hic intrat. Et hic, ut supra, haec operatio est experimentalis, sed est experimentum quod in materia nostra secum fert intuitionem nexus. Argumentum pure analyticum non sufficit. Adde quod nobis notum debet esse, omissionem uncinarum (i. e. ipsam operationem additionis) ducere ad effectum *necessarium* ; et hoc iterum supponit experimentum quod intuitionem generat.
 
@@ -156,6 +190,9 @@ In hisce igitur diversis casibus operationum arithmeticarum, divisione in partes
 
 Postea videbimus, tales « appellationes ad experientiam sensitivam » quibus associatur intuitus intellectivus necessitatis, frequentissimas esse etiam in elaboratione deductiva scientiae, *omnis* scientiae (infra cap. V).
 
+.. folio:: 0037
+   :page: 37
+
 .. _caput-2-la-s1-5:
 
 5. *Comparatio horum factorum cum theoriis.*
@@ -169,6 +206,9 @@ Dein, supponens non omnes hoc admittere, suam thesim ad « mathematicam puram »
 
 Independenter ab omni distinctione inter iudicia « analytica » et « synthetica », resultatum ex nostris constatationibus ita exprimere debemus : iudicia, quae examinabamus, quamquam oriuntur ex experientia et eam praesupponere debent, nobis *nota* sunt ut *necessaria* et pertinent ad arithmeticam *puram*. Principium « experientia non potest producere iudicia necessaria » sine ullo dubio admittit exceptiones. Casus supra expositi stabiliunt : dantur iudicia arithmetica, quorum origo est empirica, sed quae profluunt ex experientia, cui *associata* est intuitio intellectiva eorum necessitatis. Inquirendum erit in conditiones sub quibus talis intuitio intellectiva nostrae experientiae associatur. :person:`Kant <kant>` simpliciter *supponit* iudicium empiricum non posse comportare (bei sich führen) necessitatem, nullum conatum adhibet id demonstrandi. Et videtur fuisse communis opinio eo tempore [#f5]_.
 
+.. folio:: 0038
+   :page: 38
+
 Theoriae :person:`Platonis <plato>` et :person:`Stuart Mill <mill>`, quae oppositae sunt theoriae kantianae et inter se, ex eodem principio proficiscuntur. Propter hoc enim :person:`Plato <plato>` admittit doctrinam reminiscentiae, quia admittit necessitatem thesium mathematicarum, propter hoc :person:`Stuart Mill <mill>` negat veram necessitatem mathematicarum.
 
 Theoria :person:`Aristotelis <aristotle>` negat universalitatem huius principii, admittit originem empiricam iudiciorum necessariorum. Sicut iam audivimus, relationes mathematicae « videntur », sed per intellectum, :term:`νοῦν <nous>`. Et in genere de principiis scientiarum particularium dicit :cite:`(*Anal. Pri.* I, 30, 46 a 17) <aristotle:anal-prior:46a17>`, ea tradi debere ab experientia. In articulo supra citato (:cite:`*De origine primorum principiorum*, « Gregor. » 1933 <hoenen:1933:153-184>`) stabilivimus, ni fallimur, eandem esse thesin :person:`S. Thomae <aquinas>`. Ipse hanc suam doctrinam resumit his verbis :cite:`(*Q. D. de Ver.* q. 10 a. 6 sed contra 2) <aquinas:de-veritate:10.6.sc2>` :
@@ -176,6 +216,9 @@ Theoria :person:`Aristotelis <aristotle>` negat universalitatem huius principii,
 « Omnis nostra cognitio originaliter consistit in notitia primorum principiorum indemonstrabilium. Horum autem cognitio in nobis a sensu oritur ». Et eius doctrina generalis de iudicio non videtur esse nisi elaboratio sed elaboratio amplissima, huius thesis aristotelicae, vel thesis aequivalentis, quae statuit nos non videre abstracta nisi in concretis [#f6]_.
 
 Haec doctrina, clare a :person:`Caietano <cajetan>` exposita, per certum tempus a thomistis admissa, postea oblivioni tradita est. Saeculo decimo octavo etiam scholastici admittere videntur, sicut :person:`Kant <kant>`, et sine discussione, etiam sicut :person:`Kant <kant>`, nullum iudicium empiricum posse nobis innotesci ut necessarium. Specimina supra exposita (et permulta similia quae postea videbimus) quae huic « principio » contradicunt, negliguntur.
+
+.. folio:: 0039
+   :page: 39
 
 Utique non omnis experientia est talis naturae, ut ei intuitus intellectivus necessitatis associetur, sed illi casus, in quibus haec associatio invenitur, sane dignissimi sunt, qui sub respectu noetico examinentur. Si quis, propter hunc influxum experientiae, talia iudicia vult nominare « synthetica », habebit iudicia synthetica necessaria, sed non utique synthetica a priori sensu kantiano ; immo :person:`Kant <kant>`, quia supponit talia iudicia non posse provenire *ex* experientia, ideo suam theoriam formae subiectivae excogitavit ; sed haec eius suppositio erat gratuita, et est insuper erronea, ut est expositis patet. Unde *haec* iudicia empirica necessaria (vel synthetica necessaria) ipsum fundamentum eius doctrinae destruunt.
 
@@ -191,6 +234,9 @@ Supra erat sermo de subiecto et praedicato huius propositionis 7 + 5 = 12. Saepi
 Id bene expositum audiebamus a :person:`Mercier <mercier>`, qui subiectum huius propositionis ita describit : est summa (la somme) duorum numerorum (multitudinum determinatarum) 7 et 5, i. e. numerus qui resultat ex additione illorum numerorum (cuius species ante iudicium nobis ignota est) ; et de hac multitudine resultante enuntiatur, eam esse multitudinem determinatam 12. Iudicium igitur ita enuntiari potest : numerus qui resultat ex additione 5 ad 7 est numerus 12.
 
 Clarum est, ibi duplicem cognitionem necessariam, intuitivam, *praesupponi*. Una est haec : praesupponitur additionem numeri ad numerum (vel potius universalius : multitudinis ad multitudinem) generare numerum (multitudinem) — et quidem maiorem — ; idque ita, ut *necessario* (ergo semper) ex additione multitudinis specifice determinatae ad determinatam, iterum determinata (specifice una et quidem maior) oriatur. Id melius etiam patet in enuntiatione graeca, in qua pro « numerus » qui resultat dicendum est ὁ ἀριθμός, vel in lingua italica quae dicit « *il* numero ».
+
+.. folio:: 0040
+   :page: 40
 
 Et haec cognitio praevia iterum non habetur nisi ex intuitione experimenti, sed tam facili modo ut non enuntietur. Similia inveniebamus in analysi eorum quae a :person:`Leibniz <leibniz>` et :person:`Mercier <mercier>` proponebantur.
 
@@ -212,6 +258,9 @@ Iudicium nostrum « 7 + 5 = 12 » cum suis praesuppositis haec igitur complectit
 
 Sicut in § 1 inveniebamus iudicia quaedam arithmetica immediata (quia hausta ex quadam experientia) et necessaria, eodem modo invenire est talia iudicia in geometricis.
 
+.. folio:: 0041
+   :page: 41
+
 Sed est etiam ingens discrimen inter utramque scientiam. Nam data sensitiva, ex quibus abstrahimus illa, quae in iudicio affirmantur — utrumque terminum et eorum nexum — in arithmeticis sunt *exacta* ; ibi illae multitudines, de quibus agitur, sunt etiam in cognitione sensitiva bene determinatae, constant etiam ibi ex elementis, individuis, bene distinctis et separatis. Unde in illis iudiciis arithmeticis elementaribus non datur problema exactitudinis ; exactitudo, quae in iudiciis mentis adest, iam aderat in datis sensitivis ; huic cognitioni, sensitivae, tantum necessitas deerat. In geometria autem duplex est quaestio ; praeter problema necessitatis datur problema exactitudinis. Nam in *cognitione* sensitiva — non utique dicimus in rerum natura — non adsunt puncta sine ulla extensione, haec enim sensu percipi non possunt ; nec sunt lineae sine latitudine ; ibi non potest cerni, quodnam sit praecise punctum, quod lineam in partes perfecte aequales dividit, non exacte cerni potest utrum linea quaedam sit vere recta, utrum lineae sint exacte, in uno puncto, concurrentes.
 
 Nunc agimus de solo primo problemate, alterum considerabimus in capitibus sequentibus ; et ex ipsa nostra expositione resultabit, duo haec problemata non tantum distingui sed et separari posse. Si ergo in hoc capite sermo est de punctis, haec intelligenda sunt, prout adsunt in datis sensitivis, i. e. ut parva corpuscula, nec opus est ut sint minima visibilia ; ita « linea » erit superficies, cuius latitudo est valde parva ; « recta » erit linea sensibiliter recta ; et ita porro. De his obiectis iam detegi possunt iudicia immediata, ope experientiae etiam quoad nexum inter subiectum et praedicatum orta, quae tamen sunt necessaria.
@@ -222,6 +271,9 @@ Nunc agimus de solo primo problemate, alterum considerabimus in capitibus sequen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Obiectum geometriae est ens extensum ut extensum. Saepe dicitur « spatium » esse obiectum geometriae ; si haec vox sumitur ut synonyma cum expressione « ens extensum ut extensum », nullus adest error. Sed vox « spatii » etiam adhibetur pro spatio « absoluto » sive « imaginario » i. e. pro receptaculo, quod omnia corpora extensa in se continet et eis praecedit, quod destructis corporibus omnibus remanet, quod tandem aliquando est ens rationis tantum. Si adhibemus vocem spatii, periculum est ne ex uno sensu in alium labamur, et in errorem ducamur. Ceterum notio « extensi » antecedit notionem « spatii » ; hoc enim concipitur ut receptaculum *extensum* ; et ideo tantum quia et in quantum est extensum, est obiectum geometriae. Notio spatii tantum introducitur *post* considerationem mutuarum relationum *localium* corporum i. e. entium realium extensorum. Si quis quatuor ex quinque argumentis quibus :person:`Kant <kant>` in Aesthetica conatur probare « spatium » esse formam sensibilitatis subiecti, ita considerat, ut loco spatii, *in* quo extensa adesse dicuntur, ipsam notionem « extensi » substituat, statim videbit argumenta non subsistere. Ipsa extensio non poterit tribui subiecto tantum ut forma subiectiva.
+
+.. folio:: 0042
+   :page: 42
 
 Insuper in considerationibus pure geometricis sermo est de motu figurarum, idque postea vindicabimus. Sed hae figurae non possunt esse partes spatii, quippe quae moveri non possint ; illae figurae sunt entia extensa realia, quorum motus optime considerari potest.
 
@@ -238,9 +290,15 @@ Statim intelligimus, dari posse lineam maiorem et minorem, affirmamus hoc iudici
 
 Quomodo intelligimus hanc veritatem ? Ecce in delineatione reali sive in imaginatione dividendo construimus « punctum » A in segmento ; et « in hoc phantasmate » inspicimus dari lineas minores, partes huius lineae datae, in quas illa dividi potest. Comparemus hanc experientiam cum experimento physico de eadem linea. Linea sit alba vel nigra et, si volumus, punctum A sit rubrum. Simili modo vidimus punctum A dividere lineam in partes. Est tamen ingens diversitas inter hanc experientiam et priorem. Priorem reddere possumus dicendo : hoc extensum dividitur per punctum A ; alteram : hoc album (vel nigrum) dividitur per hoc rubrum. Estne necessarium ut sit extensum ? Utique. Ecce *intuemur* in datis sensitivis, in phantasmate, *possibilitatem* divisionis *necessario profluere* ex eo quod linea est extensa, *contingenter simul esse* cum albedine vel nigredine. Ideo id quod experimur debemus accuratius reddere. In priori casu id fieri debet per propositionem causalem (sive rationalem) : hoc, *quia* est extensum, est divisibile (sive: hoc est extensum, ergo est divisibile). Notemus tamen hic non haberi (nonobstantibus vocibus « quia » et « ergo ») ratiocinium truncatum ; in mente habemus triplicem experientiam : hoc est extensum, et hoc est divisibile, et tertio : experimur (in mente nostra) necessitatem nexus inter primum et secundum. In altero casu id quod experimur reddi debet per propositionem pure copulativam : hoc est album et est divisibile (in A). Est iudicium pure per accidens, contingens.
 
+.. folio:: 0043
+   :page: 43
+
 Id quod in casu mathematico experimur, reddendum est per propositionem causalem : hoc (concretum) est extensum et ideo est divisibile. In casu concreto iam intelligimus necessitatem, intelligimus divisibilitatem *profluere* ex esse extensum. Redeundo in hanc propositionem singularem causalem habemus : hoc *quia* extensum est divisibile ; ergo omne extensum est divisibile. Neque hoc fit per ratiocinium, hoc quoque habetur per intuitionem et ita detegimus « proprium quanti » iuxta :person:`Aristotelem <aristotle>`. Ita in casu iudicii « 7 + 5 = 12 » cognitio praevia prima erat cognitio de « proprio » multitudinum.
 
 Hisce intellectis possumus dare descriptionem, quae perfecte determinat notionem « extensionis », quae stricte « definiri » non potest, quia est notio primitiva. Videmus corpus quodcumque praesens ; in eo delineare possumus, realiter vel in imaginatione nostra, figuram (quaecumque sit, poterit esse segmentum lineae) ; « constatamus » hoc corpus esse « figurabile » [#f7]_, simul *intelligimus* hanc proprietatem « figurabilitatis » (divisibilitatis secundum figuram) *necessario* connexam esse cum corpore (in oppositione v. g. ad eius « electrizibilitatem » per frictionem). In vita ordinaria hoc non explicite animadvertere solemus ; et tamen semper adest haec « constatatio » huius ligaminis necessarii ; id sese manifestat si quis diceret, hanc figurabilitatem esse quid contingens in hoc corpore, sicut v. g. eius temperatura actualis. Sed etiam plus constatamus ; scilicet quodnam sit attributum corporis ex quo profluit figurabilitas. Intelligimus semper, id non esse eius naturam physicam specialem (poterit esse lignum, sive ferrum etc.) nec eius mollitiem vel duritiem, nec eius colorem et ita porro nullum ex eius attributis nisi hoc unicum, id quod dein vocamus eius « extensionem » ; « corpus est figurabile *quia* extensum ». Et id non invenimus ex comparatione diversorum casuum (sicut fit in experimentis pure physicis), sed per intuitionem intellectivam quae associatur nostrae observationi (hoc iterum est simplex « constatatio ») per quam intelligimus : figurabilitas corporis profluit ex eius extensione, ex illa sola, ex illa necessario ; et ideo est simul intuitio et abstractio. Quid igitur est extensio ? Est illud attributum corporis ex quo solo et ex quo necessario profluit eius figurabilitas, divisibilitas. Et haec extensio est obiectum proprium geometriae. Si dein hanc notionem primitivam, primam ex eis quae de corpore novimus, sacrificamus, id non fiet sine ingenti damno noetico [#f8]_.
+
+.. folio:: 0044
+   :page: 44
 
 Lector animadvertat has determinationes exactas notionum esse « definitiones operativas » legitimas.
 
@@ -253,6 +311,9 @@ Simili modo examinari potest propositio altera : linea recta prolongari potest ;
 
 Sumamus exemplum in quo est sermo de iudicio quod respicit ordinem inter puncta. Apud :person:`Hilbert <hilbert>` « axiomata ordinis » integram seriem constituunt. In « linea recta » sita sint tria « puncta », hoc ordine : A, B, C. Determinamus quartum punctum ita ut *definiatur* : punctum in linea inter A et B. Quaeritur : estne etiam inter A et C ? *Post inspectam figuram* statim respondetur : ita est, et quidem necessario.
 
+.. folio:: 0045
+   :page: 45
+
 Dein quaeritur : estne etiam inter B et C ? Post inspectam figuram respondetur : hoc est impossibile. Comparemus id iterum cum casu, in quo D definitur per notam physicam : D est punctum in linea, quod est rubrum. Possumus aspiciendo figuram respondere iisdem quaestionibus ; et responsum erit : una vice : est inter A et C, alia vice : non ; vel est inter B et C, alia vice : non. Iudicamus post idem experimentum : inspicimus figuram. Sed in casu « mathematico » praeter inspectionem nexus inter subiectum et praedicatum iudicii, habemus intuitionem necessitatis huius nexus ; in casu « physico » contingentiae nexus. Quod praedicatum tribuitur subiecto (vel in negativis denegatur ei) habemus ex experientia, quod in priori casu nexus est necessarius, etiam in concreto quidem intuemur, sed per intuitionem intellectus in phantasmate, quae ibi ad essentias penetrat. Iuxta verba :person:`Aristotelis <aristotle>` :cite:`(*De Anim.* III 7, 431 b 2) <aristotle:de-anima:431b2>` : τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φαντάσμασι νοεῖ.
 
 *Nota.* — Unum ex his iudiciis erat de impossibilitate : impossibile est, D esse inter B et C. Attendamus uno momento ad hunc casum. Non tantum *negative* iudicamus i. e. non videmus possibilitatem huius situs puncti D (definiti : « inter A et B ») ; sed *positive* iudicamus : videmus impossibilitatem huius situs. Haec animadversio momentum habet ; comparemus hoc exemplum cum alio, cum quaestione : utrum extensum quatuor dimensionum possibile sit. Si eodem modo imaginationem consulimus, hoc resultabit : primo intelligimus possibilitatem extensi trium dimensionum ; dein si interrogamus de quarta, id quod in phantasma legimus, non est nisi hoc : non videmus eius possibilitatem, sed ex hoc nondum habemus : possibilitas quartae dimensionis ex hoc positive excluditur. Operae pretium est utrumque casum et eorum differentiam in experientia nostra interna bene perpendere ; in uno casu (puncti D) impossibilitas clare intelligitur *profluere* ex datis, in altero casu haec resultantia ex datis certo non adest. Vide :cite:`*Cosmologiam* ed. 4, pagg. 471-474 <hoenen:cosmologia:471-474>`.
@@ -264,6 +325,9 @@ Dein quaeritur : estne etiam inter B et C ? Post inspectam figuram respondetur :
 
 Consideremus figuram « superficialem », triangulum. Sumimus veritatem quandam, quae est similis axiomati geometrico, quod a cl. :person:`Pasch <pasch>` (anno 1882 !) [#f9]_ primo enuntiatum est. Delineamus « triangulum » i. e. figuram constantem ex tribus « lineis rectis » quae in tribus « punctis » intersecant. Ducimus aliam « rectam » per verticem clare intra angulum verticalem. Ecce iudicium : Si haec linea sufficienter prolongatur, necessario secabit latus oppositum, basin trianguli ipsam. Et iterum in datis sensitivis intellectualiter intuemur necessitatem huius eventus, quem ab experientia discimus. Instituamus iterum comparationem cum casu physico. Si linea, quae per verticem ducitur, dein definitur non « quae ducitur intra angulum verticalem » sed « quae est rubra », non inde sequitur eam secaturam esse basin. Si per accidens de facto intra illum angulum sita est, utique secabit, si non, non. Et in his casibus id fit, non quia est rubra, sed quia habet talem situm, ut supra in casibus punctorum iam expositum est.
 
+.. folio:: 0046
+   :page: 46
+
 Etiam propositio inversa valet in casu « mathematico ». Linea quae iungit punctum basis cum vertice, sita est intra angulum verticalem. In prima propositione subiectum erat ita definitum : « linea recta intra angulum » et ex illa determinatione necessario profluit praedicatum ; « est secans basin ». In secunda propositione res inverso modo se habet sed etiam ibi nexus cognoscitur ut necessarius. In utroque casu unum ex altero profluit. Et in utroque casu indigemus dato sensitivo ut sciamus, *quodnam sit praedicatum*, quod *ut iam in antecesso intuemur* necessario cum subiecto nexum erit. Hoc ultimum etiam magis clarum erit in exemplis sequentibus, quae ideo addimus. Haec non iam constituunt « axioma » (quod enuntiatur) sed quidem iudicium « immediatum ».
 
 .. _caput-2-la-s2-6:
@@ -273,15 +337,24 @@ Etiam propositio inversa valet in casu « mathematico ». Linea quae iungit punc
 
 Haec sunt alia exempla ex « topologia » (quae in nostro casu « inexactitudinis » etiam morphologia vocari potest). Imaginemur, vel sumamus realiter, folia quaedam, ex quacumque materia confecta, quae habent fere formas cylindricas. Possumus ea, etiam physice, scindere duplici modo ; sive (fere) secundum « lineam describentem » sive (fere) perpendiculariter ad eas vel ad axin cylindri. Quid resultat in primo casu ? Ut ex inspectione phantasmatis vel ex executione physica divisionis patet : resultat una superficies, quae est adhuc cohaerens (quae in planum explicari potest). Quid in secundo casu ? Resultant, ut eodem modo patet : duae superficies cylindricae iam non cohaerentes. Ecce elementum experimentale. Attamen non est purum experimentum physicum ; nam iterum sumus in casu, in quo intuemur necessitatem nexus inter subiectum (superficies cylindrica, quae tali vel tali modo dividitur) et praedicatum (dividitur in unam resp. duas superficies). Intuemur praedicatum necessario profluere ex tali operatione, quae in obiectum exercetur. (Statim casum magis etiam examinabimus). Qui habet satis vividam imaginationem, id in phantasmate inspicere potest : qui non, indigebit executione physica operationis, sed hic etiam, antequam inspicit id quod resultat, intuetur effectum futurum necessario profluere ex operatione ; ut sciat *quis* sit effectus, indiget experimento physico (sed unum sufficit) ; id etiam magis clarum erit in exemplo sequenti.
 
+.. folio:: 0047
+   :page: 47
+
 *De* « *folio Moebii* ». Agitur de superficie, quae hoc nomine vocatur, quia cl. :person:`Moebius <moebius>`, mathematicus saeculi praecedentis, eam invenit. Possumus eam ita construere, physice. Sumamus folium (v. g. papyraceum) quod habet figuram rectanguli oblongi, cuius latitudo sit sat parva ; eius extremitates (latera parva), post torsionem, per angulum 180 graduum i. e. per dimidiam revolutionem, glutine ad invicem iungimus. Ita oritur superficies, quae est similis cylindro (parvae altitudinis), sed in ea adest unus flexus ; operatio facile executioni mandatur Haec superficies est « folium :person:`Moebii <moebius>` ». Postea eam in alia quaestione considerabimus.
 
 Vocari solet superficies « unilateralis » propter hanc rationem. Ducamus lineam in ea in medio superficiei. A quovis puncto incipientes, post completum circuitum, ad idem punctum redimus. Sed tunc observamus hanc lineam in utraque facie superficiei delineatam esse : sine penetratione per eam, sine transitu per limitem eius ; videtur habere unum tantum latus.
 
 Scindamus nunc hoc folium secundum lineam quae in medio folio, parallela ad eius limites, ducta est ; habemus divisionem folii quae correspondet secundae scissioni, quam supra folio cylindrico applicabamus et ex qua duo folia cylindrica resultabant. Quid ex hac scissione orietur ? Plurimorum hominum imaginatio non erit ita vivax, ut in phantasmate legere possint quid resultet. Sed executio realis divisionis docet, non oriri *duas* superficies, sed *unam* tantum, quae est similis priori, sed duos habet flexus. (Si hoc folium iterum eidem operationi subjicitur, oriuntur duae superficies, sed quae inter se copulantur sicut duo annuli catenae) [#f10]_. Id certo non potest inspici nisi post operationem realiter executioni mandatam.
 
+.. folio:: 0048
+   :page: 48
+
 Ecce, ut hunc effectum iudicio affirmemus, indigemus experientia sensitiva, immo manipulationibus physicis. Sed haec experientia associatur intuitioni, quam habemus, necessitatis eius, quod ita ab experientia docemur. In hoc differt ab ordinaria experientia physica ; sed convenit in eo, quod ante experimentum non habemus notionem praedicati, quod subiecto tribuendum sit. Quidem sciebamus : ex illa scissione figurae superficialis, orietur aliquid superficiale ; genus notum erat, sed ut secundum essentiam specificam in cognitione nostra determinetur effectus, indigemus experientia et quidem reali sed unum experimentum sufficit.
 
 Quod hic adest intuitio necessitatis, tum quoad genus tum quoad differentiam specificam, mirandum non est. Ante experimentum sciebamus effectum operationis non dependere a materia superficiei ; non importat utrum sit metallum, vel lignum, vel charta, vel corpus elasticum. Proprietates materiae quidem influere possunt in vim quam adhibere debemus, ut scindamus, sed non in structuram topologicam. Unicum quod pro hac importat est figura obiecti ut est extensum. Hanc independentiam a natura materiae non haurimus ex hac ultima experientia, eam intuemur per abstractionem (de qua statim) et *ideo* hoc experimentum fit experientia vere intellectualis.
+
+.. folio:: 0049
+   :page: 49
 
 In origine huius iudicii necessarii vere igitur influit, ut motivum, ipsa experientia ; haec determinat *quid* affirmandum sit, determinat specificationem praedicati, non determinat necessitatem.
 
@@ -305,6 +378,9 @@ Hoc elementum experimentale, in casibus simplicioribus, potest esse id quod hodi
 
 Comparemus hoc iterum cum iudicio physico, etiam certo, quod lege physica exprimitur. « Si virga vitrea teritur panno serico, attrahit corpuscula levia v. g. frustula papyracea ». Hoc iudicium utique non statim tanquam generale et certum enuntiamus, sed tantum post multa experimenta, per inductionem (sensu moderno) physicam. Aliud exemplum potest esse : « corpus grave quod hic sibi permittitur, cadit in terram ». De utroque iudicio sane nemo dubitabit. Num exprimunt necessitatem naturae ? De hac re, propter constantiam factorum, nobis persuasum esse poterit. Sed num *intuemur* necessitatem, num *natura* nexus inter subiectum et praedicatum (« vitrum tritum est attrahens », « corpus grave cadit ») nobis perspicua est ? Comparemus has leges physicas cum singulis exemplis supra expositis et videmus maximam differentiam. In singulis casibus mathematicis *intelligimus* praedicatum necessario connexum esse cum subiecto, ex eo profluere ; etiam in casibus in quibus post experimentum, post operationem tantum, scimus quid sit praecise praedicatum. Etiam intellectio differentiae huius inter casus mathematicos et physicos est « constatatio » quaedam internae experientiae intellectualis ; in casibus mathematicis non tantum habemus intuitum subiecti et praedicati sed insuper naturae necessariae nexus, hic intuitus in casibus physicis deest. Ideo inquirunt in « explicationem » facti constantis, i. e. in elementum intellectivum, quod non(dum) apparet. Et ita in iudiciis physicis intellectus tantum repetit (modo generali si casus id fert) ea quae sensus percipit, in aliis intellectus transcendit sensus. Valde prodest ad illam diversitatem diutius attendere ; ad ea exempla physica statim redibimus.
 
+.. folio:: 0050
+   :page: 50
+
 .. _caput-2-la-s3-2:
 
 2. *Iterum de theoriis cognitionis geometricae relate ad experientiam.*
@@ -314,6 +390,9 @@ Si quis hanc diversitatem bene perspectam habet statim intelliget falsitatem pos
 
 Breviter dici potest : empirismus negligit *diversitatem* inter casus physicos et mathematicos, quae consistit in eo, quod in physica deest intuitio naturae necessariae nexus, quae in geometria est manifesta.
 
+.. folio:: 0051
+   :page: 51
+
 Sed etiam omnis theoria, quae tanquam fundamentum assumit : « ex experientia non potest hauriri iudicium necessarium », omnis igitur theoria rationalistica valore caret inde a suis initiis. Ita theoria :person:`Platonis <plato>`, quam ceteroquin nemo iam defendet. Ita theoria :person:`Kant <kant>`, qui hanc propositionem revera tanquam principium et fundamentum suae doctrinae erigit. Sine ulla iustificatione id asserit ; unde non potest esse sermo de examinandis eius argumentis in hac re ; id simpliciter affirmat, negligens elementum experimentale in geometria. Id non potest explicari nisi ex hoc, quod in proferenda hac propositione unice ad leges physicas attenderit, vel quod id ex auctoritate :person:`Humii <hume>` admiserit. Hoc principium Kantianum falsum esse, sequitur ex tota expositione nostra, vel potius ex singulis exemplis, quae vidimus.
 
 Admittenda est igitur doctrina :person:`Aristotelis <aristotle>` : nihil est in intellectu, quod non prius fuerit in sensu [#f11]_ ; et quidem haec doctrina non tantum intelligenda est de ipsis notionibus separatim consideratis sed, cum :person:`Aristotele <aristotle>`, etiam de existentia nexus inter subiectum et praedicatum, qui in iudicio affirmatur ; non sufficit consideratio notionum subiecti et praedicati ; ad affirmandum nexum iterum (vel simul) indigemus experientia. Haec est doctrina :person:`Aristotelis <aristotle>` in ultimo capite :cite:`*Analyticorum Posteriorum* <aristotle:anal-post:II.19>`, ubi de origine primorum principiorum scientiae agit ; hanc iam audiebamus in duobus textibus, quos hic repetere iuvat : :cite:`*Anal. Prior.* I 30, 46 a 17 <aristotle:anal-prior:46a17>` : διὸ τὰς μὲν ἀρχὰς τὰς περὶ ἕκαστον ἐμπειρίας ἐστὶ παραδοῦναι et :cite:`*De An.* III 7, 431 b 2 <aristotle:de-anima:431b2>` : τὰ μὲν οὖν εἴδη τὸ νοητικὸν ἐν τοῖς φαντάσμασι νοεῖ.
@@ -322,11 +401,17 @@ Haec est doctrina quam :person:`S. Thomas <aquinas>` profitetur, ubi originem pr
 
    « Ea quae per se nobis nota sunt efficiuntur nota statim per sensum ; sicut visis toto et parte statim cognoscimus quod omne totum est maius sua parte sine aliqua inquisitione ».
 
+.. folio:: 0052
+   :page: 52
+
 Comparemus hoc exemplum cum simili physico. Videmus duas superficies ; maiorem A, quae est rubra, minorem B, quae caerulea ; et triplici iudicio exprimimus id quod videmus : A est rubra et B est caerulea et A est maior quam B. Est iudicium pure copulativum. Dein inspicimus duas superficies, quarum A est totum, cuius B est pars, et iudicamus : A est totum et B est eius pars ; *ideo* A est maior quam B. Habemus propositionem causalem ; propter hanc intuitionem, quae in priori casu deest : relatio magnitudinis profluit necessario ex relatione totius et partis [#f12]_.
 
 Haec doctrina videtur esse derelicta ab eis scholasticis modernis qui putant sufficere considerationem notionum sine experientia nexus (cfr. :cite:`art. cit. in *Gregorianum* 1933 <hoenen:1933:153-184>`) ; sed clare adhuc a :person:`Caietano <cajetan>` exponitur et defenditur. Recolamus verba supra in fine paragraphi praecedentis indicata.
 
 Ut melius intelligamus quomodo data sensitiva iuxta verba :person:`Caietani <cajetan>` sint « proprium *motivum* seu *determinativum* intellectus » in affirmando principio, recolamus etiam aliud exemplum supra propositum de relatione « inter », ubi tribus punctis A, B, C, hoc ordine in linea sitis quartum, D, inter A et B addebamus. Ex situ puncti D (inter A et B) intelligimus necessario profluere relationem situs, tum relate ad A et C tum relate ad B et C ; et hunc situm dein, tribuendo praedicatum, affirmamus. Hoc, teste conscientia, fieri nequid nisi inspiciendo figuram sive in imaginatione sive in realitate delineatam. Unde habemus nos de facto affirmare : « ita necessario est » ? Utique ex operatione intellectus abstrahentis et intuentis. Unde habemus *id quod* affirmatur (nempe talem situm relate ad A et C sive relate ad B et C) ? Ex intuitione sensitiva. Sub hoc respectu et sub hoc tantum verum est id quod :person:`Caietanus <cajetan>` dicit : Datum sensitivum est « motivum seu determinativum » [#f13]_.
+
+.. folio:: 0053
+   :page: 53
 
 .. _caput-2-la-s3-3:
 
@@ -341,6 +426,9 @@ In primo casu inquirebamus, quot sint divisiones numeri 5040. Ultima operatio er
 
 Simili modo res sese habet, ubi sermo est de multitudine numerorum primorum, de combinatoria, de additione 5 ad 7. Etiam in casibus geometricis idem invenitur. In extenso primum proprium est : dividi potest ; alterum est : per divisionem iterum extensa oriuntur eiusdem generis, ex linea linea et ita porro. Et vice versa duo extensa eiusdem generis addi possunt et oritur extensum maius eiusdem generis. Dividi potest superficies cylindrica vel folium :person:`Moebii <moebius>` ; oriuntur per divisionem iterum superficies. Quot et cuius speciei sint, revelat experimentum sive mentale sive etiam reale. Etiam in his casibus iudicia de primis illis propriis, quae tamen necessario praesupponuntur, non explicite enuntiantur ab eo, qui ultimum iudicium (de eo quod resultat) profert. Motus mentis (le mouvement de la pensée) implicat talia iudicia, sed huius motus singulae phases non enuntiantur.
 
+.. folio:: 0054
+   :page: 54
+
 A fortiori hic motus non est explicite syllogisticus ; immo nec implicite. Sumamus iterum additionem 5 + 7 = 12. Ut hoc iudicium sensum habeat — ut supra expositum est — praesupponendae sunt veritates : multitudo addi potest multitudini ; dein : additio generat multitudinem (maiorem) ; dein tantum haec specifice determinari potest computationem faciendo. Hic motus non fit modo syllogistico ; si res ita sese haberet, hoc vel simili processu absolveretur :
 
 1) Omnis multitudo addi potest multitudini. Atqui 7 et 5 sunt multitudines. Ergo 7 et 5 ad invicem addi possunt.
@@ -350,6 +438,9 @@ A fortiori hic motus non est explicite syllogisticus ; immo nec implicite. Sumam
 3) Omnis multitudo resultans ex additione computando specificari potest. Atqui (ut experimento patet) in specificanda multitudine, quae resultat ex additione 5 ad 7, computando pervenimus ad 12. Ergo 7 + 5 = 12.
 
 Clarum est, processum mentis nostrae alium esse. Non opus est ut tres illas maiores *universales* iam sciamus ante hunc processum. Considerantes *has* multitudines (7 et 5) statim detegimus eas necessario ad invicem addi posse ; in casu *particulari* intelligimus, « inspiciendo in phantasmate », necessitatem huius proprii ; atque id sufficit. Iterum eodem modo statim in hoc casu particulari intelligimus, ex eorum additione necessario oriri multitudinem (maiorem). Unde non est hic processus : novimus veritatem *universalem* (maiores) et detegimus (in minoribus) eas hic applicari posse ; sed potius est hic : detegimus *statim* veritatem necessariam duarum conclusionum illorum syllogismorum, unam immediate post aliam. (Et, si nolumus pergere ad computationem numeri resultantis, possumus reflecti supra has veritates et dicere : haec multitudo et illa altera, *quia multitudines* — id enim intuemur — possunt ad invicem addi. Ergo omnis multitudo potest addi multitudini. Sed sic habemus motum *oppositum* illi motui syllogistico) [#f14]_. Dein applicando (iterum sine syllogismo) computationem, invenimus numerum 12. Processus ille nullo modo est syllogisticus, ne implicite quidem ; syllogismi non tantum non enuntiantur sed, ut ex analysi nostra patet, nec in mente adsunt. Tamen in mente nostra est processus progressivus ex uno in aliud.
+
+.. folio:: 0055
+   :page: 55
 
 .. _caput-2-la-s3-4:
 
@@ -364,12 +455,18 @@ Age iam, in casu iudicii quod consideramus (7 + 5 = 12) totus processus ita expl
 
 Ita, ni fallimur, processus, qui ducit ad iudicium 7 + 5 = 12, explicandus est ; sed ut patet multo celerius exercetur quam hic describitur. Si autem res ita se habet, non tantum non constat in serie syllogismorum, sed nec ex iudiciis implicitis i. e. quae affirmantur quidem sed non enuntiantur, quae sunt *affirmationes* mentales ; tantum haec iudicia *virtualiter* adsunt et singulis momentis in actualia transire possunt. Ex hac theoria facile explicatur factum, quod saepius redit in « analyticis » i. e. in resolutione ad prima principia. Saepe difficile est omnia principia prima explicite enuntiare. Interdum etiam post longam et laboriosam analysin, remanent principia, quae semper applicata sunt, nunquam enuntiata, etiam ab eis qui volebant omnia enuntiare. Ita in geometria, axiomata ordinis, e quibus quaedam supra vidimus, semper applicata, ante cl. :cite:`Pasch (1882) <pasch:1882>` [#f16]_ nunquam enuntiata ; manent latentia et non deteguntur praecise quia tam clara, tam « ieiuna » sunt. Et in theoria nostra id est eo magis explicabile, quia in mente ipsa tantum adsunt ut elementa primae operationis mentis quae statim, antequam affirmantur, cum novis in ideam magis complexam coniunguntur ; non adsunt hae affirmationes nisi virtualiter in iudicio, quod subsequitur. Et duae veritates, quae praesupponuntur ante iudicium 7 + 5 = 12, videntur esse tales ; nos enim fatemur nos nescire ubi enuntiatae sint. Et forte propter eandem rationem multa de eis quae in hoc capite dicta sunt, non de principiis mathematicis, sed de modo operandi mentis nostrae, non solent describi. Sed has considerationes esse necessarias in philosophia generali cognitionis humanae, videtur esse clarum.
 
+.. folio:: 0056
+   :page: 56
+
 .. _caput-2-la-s4:
 
 § 4. DE NEXU MATERIALI ET FORMALI [#f17]_
 -----------------------------------------
 
 Theoria igitur :person:`Aristotelis <aristotle>` videtur esse unica, quae rationem tenet eorum, quae reflexio supra originem horum iudiciorum mathematicorum docet ; unica est quae experientiae suum influxum, quem de facto habet, non denegat. Sed quomodo explicatur, si ex altera parte clarum est, in iudiciis physicis, quae eandem originem habent, hunc intuitum necessitatis nexus, quae tamen adesse potest, deesse. Plenam explicationem alibi dabimus ; hic quaedam, sufficientia ut speramus, addimus.
+
+.. folio:: 0057
+   :page: 57
 
 .. _caput-2-la-s4-1:
 
@@ -386,6 +483,9 @@ Adsunt casus in quibus ex ipsa forma subiecti forma praedicati *profluat* ; v. g
 
 Alii sunt casus in quibus forma subiecti necessario *praesupponit* formam praedicati v. g. : « quod agit est », « ego qui cogito, sum ».
 
+.. folio:: 0058
+   :page: 58
+
 In omnibus hisce casibus non habetur nexus materialis tantum (pure materialis) sed nexus, qui vocari potest *formalis.* Praedicatum affirmandum est de subiecto « ratione formae importatae per subiectum » ; ita :person:`S. Thomas <aquinas>` (:cite:`III *Sent.* Dist. 11 q. 1 a. 4 ad 6 <aquinas:sent:III.11.1.4.ad6>`) : « ad veritatem propositionis sufficit, quod praedicatum conveniat subiecto quocumque modo ; sed ad hoc quod propositio sit per se, oportet quod conveniat sibi ratione formae importatae per subiectum ».
 
 .. _caput-2-la-s4-2:
@@ -399,6 +499,9 @@ Casus secundus quem descripsimus, saepissime occurrit in scientiis physicis, qua
 
 Inde differentiam, quam supra de facto inveniebamus inter casus physicos et mathematicos, iam magis explicare possumus. Maxima differentia non est haec : quod in physicis tantum post diuturna et repetita experimenta de lege generali constare potest (in experimentis in quibus agitur de determinandis « constantibus » specificis, unicum experimentum sufficere potest) dum in mathematicis unicum experimentum, immo saepe « experimentum mentale », quod in imaginatione absolvitur, sufficit. Ut tamen experimentum unicum sufficiat, praerequiritur etiam in mathematicis diuturna experientia et praeparatio in facultatibus sensitivis, quae iam in ipsa infantia exercetur, ut notiones nobis satis perspectae sint et abstrahi possint. Ea etiam est doctrina :person:`Aristotelis <aristotle>` et :person:`S. Thomae <aquinas>` in fine :cite:`*Analyticorum Posteriorum* <aristotle:anal-post:II.19>`, :person:`Caietani <cajetan>` quoque, qui optime hunc processum sensitivum praeparativum describit (vide eius verba resumpta in articulo supra citato :cite:`*De origine principiorum* pag. 159 <hoenen:1933:159>`). Sed differentia maxime est in hoc : in casibus mathematicis necessitatem *intuemur*, in legibus physicis eam adesse *concludimus.* Et inde provenit quod in physicis, etiam post diuturnam experientiam, tantum nexum materialem (constantem utique) videmus, nexum formalem (qui adesse debet) non ; in mathematicis autem tum nexum materialem observamus (utraque forma est in eodem supposito) tum simul nexum formalem, intellectu utique, intuemur.
 
+.. folio:: 0059
+   :page: 59
+
 Statim gressum ulteriorem in explicatione faciemus. Prius per transennam unum notare volumus. Iudicia illa physica generalia supponunt, ut dictum est, necessitatem nexus ; unde supponunt nexum formalem inter subiectum et praedicatum ; unde *in se* debebunt esse *intelligibilia.* Sed haec intelligibilitas *nobis* in pura lege physica non patet. Quia tamen debet adesse, munus scientiae ulterius est, eam detegere. Et ad hoc praecise inserviunt *theoriae* physicae, quae hanc intelligibilitatem, nexum ipsum formalem, legibus tribuere conantur. Sed examen modi, quo scientia et philosophia naturalis hunc scopum attingunt, non pertinet ad hoc opus. Multa hac de quaestione inveniuntur in :cite:`*Cosmologia* <hoenen:cosmologia>` nostra.
 
 .. _caput-2-la-s4-3:
@@ -410,7 +513,13 @@ Ex experientia nostra interna habemus : adsunt iudicia (casus mathematici) in qu
 
 Quomodo pervenire possumus ad legem physicam, bene determinatam, enuntiandam ita, ut persuasio de illo nexu formali, nobis tamen non perspicuo, oriatur ? Ope inductionis physicae, quae dicitur, in qua multoties circumstantiae experimentorum mutantur, ita ut eae proprietates corporum, quae in exitum experimenti (i. e. in praedicatum determinandum) non influunt, ex enuntiatione eliminentur ceterae retineantur. Id fit secundum methodos, quae a :person:`Stuart Mill <mill>`, plus minusve feliciter, descriptae sunt. Sic habetur adiumentum ad iudicandum, quaenam proprietates in corpore requirantur, ut aliud sequatur. Hae proprietates constituent formam, quae in iudicio quod legem exprimit, subiectum determinat, aliud illud erit praedicatum. Haec methodus vocari posset « abstractio physica » sive « experimentalis » ; nam eligendo diversas circumstantias, nunc unam dein aliam proprietatem, quae in effectum influere potest, omittimus ; ab eis ergo « physice abstrahimus ». Obiectum huic methodo subiicientes, tandem aliquando pervenire possumus ad iudicium, quod nexum formalem exprimit, qui tamen nobis in natura sua non est manifestus. Unde remanet, ut supra dictum est, munus necessarium theoriae physicae, quae in hanc naturam inquirere debet ; intelligibilitatem adesse scimus ; quaenam sit, adhuc nescimus.
 
+.. folio:: 0060
+   :page: 60
+
 Longe aliter res sese habet in casibus mathematicis. Recolamus exemplum divisionis foliorum cylindricorum ; per sectionem transversalem oriuntur duo folia, iterum cylindrica, per sectionem longitudinalem una superficies tantum, quae in planum evolvi potest. Num hi effectus dependent a colore, duritie, aliis qualitatibus innumeris, materiae cylindrorum ? Certo non. Num id innotescit, sicut supra in lege physica, per multiplicem experientiam, quae materias diversarum qualitatum eligit et examinat ? Certo non ita. Singuli nos, id quod resultat, statim intelligebamus, sive in executione unica, physica, sive — nam nemo nostrum forte ita folium cylindricum unquam divisioni subiecit — in imaginatione sola. Ecce : ipsa mens nostra aptitudinem habet in tali casu *abstrahendi formam quae importat*, a materia cum formis, quae non important. Forma quae hic importat, est extensio cum sua figura et statim intelligimus, ex hac sola dependere quid in sectione determinata resultaturum sit (quid hoc sit, experimentum dein revelat) ; statim intelligimus id non dependere a coloribus, ab aliis qualitatibus, ab essentia physica corporis, quod dividitur. In hac enim intellectione positiva consistit abstractio, non tantum in *non considerandis* qualitatibus sensibilibus : intuitive intelligimus, has qualitates non habere momentum.
+
+.. folio:: 0061
+   :page: 61
 
 Sed ita habemus id quod a scholasticis optime vocari solet *abstractio formalis* i. e. abstractio formae (nobis perspicuae) a materia (nobis, saltem non ita perspicua).
 
@@ -423,6 +532,9 @@ Etiam in physicis ad hanc perfectionem appropinquare possumus, ut ex unico exper
 Et nunc est optimum exercitium epistemologicum, si lector iterum singula exempla, supra enarrata, sub hac luce nova nunc acquisita examinet. Clarum ei erit theoriam Aristotelicam abstractionis formalis continere integram explicationem problematis *necessitatis* iudiciorum immediatorum mathematicorum ; iudicia sunt necessaria, quamquam ut ea affirmemus, indigemus experientia, quamquam has veritates ex datis sensitivis abstrahimus. Unde mathematica ab :person:`Aristotele <aristotle>` simpliciter dicebantur : :term:`τὰ ἐξ ἀφαιρέσεως <ta-ex-aphaireseos>`.
 
 In singulis exemplis invenimus in mente nostra intuitionem sensuum externorum, intuitionem imaginationis, sed insuper intuitionem intellectivam, quae considerat id quod phantasma repraesentat, ut in eo nexum necessarium intueatur : ταῦτα ἐστὶν οἷον ὁρᾶν τῇ νοήσει. Quia in phantasmate inspicit, erit *intuitio coniuncta cum abstractione* ; adest abstractio, sed quia haec est formalis, ideo ei associatur intuitio intellectiva.
+
+.. folio:: 0062
+   :page: 62
 
 *Nota* 1. — In abstractione formali forma quaedam a materia quadam abstrahitur. Notemus bene, hic non semper esse sermonem de forma physica relate ad materiam physicam. Hic « forma » est elementum in obiecto, quod nobis est perspicuum ; materia est elementum in eodem obiecto quod nobis plus minusve obscurum est, ut tota expositione patet. Et ita haec materia, a qua abstrahitur, physice poterit esse forma. Sic in omnibus exemplis nostris abstrahendum est a coloribus, ab aliis qualitatibus (praeter figuram) a natura specifica corporum, quae omnes physice sunt formae vel supponunt formas. Sed hae formae physicae menti humanae minus perspicuae sunt, quam ipsa quantitas, sive discreta sive continua ; ideo pro ea sunt sicut materia, minus cognoscibiles.
 
@@ -438,6 +550,9 @@ Materia igitur, a qua abstrahitur, non est semper materia physica, sicut forma, 
 
 :person:`S. Thomas <aquinas>`, ultimis verbis, substantiam quantam vocat « materiam intelligibilem » ; id quod confirmat dicta a nobis : in abstractione formali, forma est id quod nobis est perspicuum ; nam haec materia intelligibilis est id, quod per abstractionem formalem in mente nostra remanet. :person:`Aristoteles <aristotle>` eadem locutione :term:`ὕλη νοητή <hyle-noete>` utitur ad describendum ens extensum. Vocatur « materia » quia ex ea fiunt figurae mathematicae ; et « intelligibilis » quia menti humanae ex integro est perspicua.
 
+.. folio:: 0063
+   :page: 63
+
 Materia vocatur quia est *potentia* ad illas figuras tanquam ad actus suos. Haec notio potentiae Aristotelica, ni fallimur, inservire poterit et debebit ad dilucidandas multas quaestiones, quae in moderna philosophia mathematica moventur.
 
 *Nota* 2. — Haec de problemate necessitatis dicta sufficiant. Iterum animadvertimus in his nunquam considerata fuisse puncta, lineas, rectas, superficies, stricte dicta, sed ea tantum quae a sensibus percipi possunt et quae sunt fere talia.
@@ -445,6 +560,9 @@ Materia vocatur quia est *potentia* ad illas figuras tanquam ad actus suos. Haec
 Pro his iam valent omnia quae diximus. Sed ideo nondum habemus principia generalissima ; sed potius specifica, sed quidem necessaria. Semper aspiciebamus casum determinatum in phantasmate (numerice igitur determinatum) sed de hoc casu (in intellectu utique iam non numerico, particulari, sed specifice specie specialissima determinato) iam valebat iudicium necessarium. Quidam etiam statim universalitatem maiorem habebant sed nondum perfectam ; ut haec habeatur, etiam considerari debet problema exactitudinis. Nam : ubi de divisibilitate lineae sermo erat, nondum locuti sumus de divisibilitate in infinitum, nam ut de hac constet, etiam puncta stricte dicta consideranda sunt. Ita in axiomate :person:`Pasch <pasch>`, linea per verticem trianguli non nimium debet appropinquare ad unum ex lateribus, quia tunc considerari debet axioma, quod dicit, duas rectas non posse duo puncta communia habere, id quod iterum supponit problema exactitudinis. Sed haec omnia non habent influxum in problema necessitatis, quod igitur independenter ab hac universalitate solutum est.
 
 Unum adhuc notare volumus relate ad dictum :person:`Einstein <einstein>` de quo in primo capite dicebamus. Ex dictis clare sequitur, omnino errare eos modernos qui geometriam (applicatam ad corpora naturalia) omnino aequiparare volunt scientiis physicis. Id faciunt propter difficultates problematis exactitudinis. Iam vero, etiamsi hoc problema insolubile esset, hoc maneret verum : veritates geometriae approximativae, de quibus nunc agebamus, toto caelo differunt a legibus physicis ; propter intuitionem necessitatis, quae prioribus associatur, aliis deest. Hoc quoque est factum experimentale, « constatatio », sed intellectiva. Et tribuenda est haec intuitio abstractioni formali, cuius mens humana relate ad mathematica capax est.
+
+.. folio:: 0064
+   :page: 64
 
 Et ita in his considerationibus iam finis noster principalis optime attingi videtur : cognoscimus modum agendi, activitatem, intellectus nostri in his activitatibus specifice determinatis. Iuxta :person:`S. Thomam <aquinas>` ex obiecto cognoscitur actus, ex actu potentia, quoad eorum naturam noeticam.
 

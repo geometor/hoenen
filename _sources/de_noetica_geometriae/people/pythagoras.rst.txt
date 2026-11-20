@@ -4,6 +4,8 @@
 :death_label: 495 BC
 :lifespan: c. 570 – c. 495 BC
 :excerpt: Role: Ancient Greek Philosopher & Geometer*
+:folio: 0107
+:page: 107
 
 .. _person-pythagoras:
 

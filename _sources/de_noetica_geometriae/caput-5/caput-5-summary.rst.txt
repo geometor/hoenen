@@ -1,3 +1,8 @@
+:layout: book
+:lang: en
+:folio: 0157
+:page: 157
+
 .. _caput-5-summary:
 
 AI SUMMARY & ANALYSIS — Chapter 5: On Axiomatics
@@ -7,6 +12,9 @@ AI SUMMARY & ANALYSIS — Chapter 5: On Axiomatics
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0157
+   :page: 157
 
 Executive Summary
 -----------------

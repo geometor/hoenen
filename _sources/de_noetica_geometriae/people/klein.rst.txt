@@ -6,6 +6,8 @@
 :site_url: https://geometor.github.io/klein/
 :github_url: https://github.com/geometor/klein
 :excerpt: Role: German Mathematician*
+:folio: 0018
+:page: 18
 
 .. _person-klein:
 

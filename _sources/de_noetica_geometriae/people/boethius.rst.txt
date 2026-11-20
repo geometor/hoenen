@@ -4,6 +4,8 @@
 :death_label: 524
 :lifespan: c. 477 – 524 AD
 :excerpt: Role: Roman Christian Philosopher & Translator*
+:folio: 0278
+:page: 278
 
 .. _person-boethius:
 

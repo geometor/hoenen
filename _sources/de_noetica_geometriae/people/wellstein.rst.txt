@@ -4,6 +4,8 @@
 :death_label: 1919
 :lifespan: 1869 – 1919
 :excerpt: Role: German Mathematician*
+:folio: 0070
+:page: 70
 
 .. _person-wellstein:
 

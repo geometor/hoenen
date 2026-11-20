@@ -4,6 +4,8 @@
 :death_label: 1864
 :lifespan: 1821 – 1864
 :excerpt: Role: German Philosopher, Psychologist & Philologist*
+:folio: 0145
+:page: 145
 
 .. _person-waitz:
 

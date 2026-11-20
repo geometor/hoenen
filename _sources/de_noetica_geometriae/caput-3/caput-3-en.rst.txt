@@ -1,9 +1,13 @@
 :layout: book
+:title: Chapter III: On the Problem of Exactitude (Part I: Indivisibles)
+:lang: en
+:folio: 0065
+:page: 65
 
 .. _caput-3-en:
 
-CHAPTER III
-===========
+Chapter III: On the Problem of Exactitude (Part I: Indivisibles)
+================================================================
 
 .. rubric:: ON THE PROBLEM OF EXACTITUDE — PART I — ON THE EXISTENCE OF INDIVISIBLES
 
@@ -11,6 +15,9 @@ CHAPTER III
    :local:
    :depth: 3
    :backlinks: none
+
+.. folio:: 0065
+   :page: 65
 
 Now we must treat of the second problem that we found needing solution, namely of the problem of exactitude, through which geometry differs from the beginnings of arithmetic, in which exactitude constitutes no enigma. Not all things that are involved in this problem demand the same means of solution, as will be clear from our exposition itself. For there are certain things whose solution demands the consideration of the extended as a ":term:`principle of individuation <principium-individuationis>`," while certain things do not depend upon this means. Concerning these latter there will be discussion in this chapter; other questions, those that depend upon the consideration of the :term:`principle of individuation <principium-individuationis>`, we shall set forth in the following chapter.
 
@@ -25,6 +32,9 @@ Now we must treat of the second problem that we found needing solution, namely o
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Let us recall from preceding considerations that the problem of exactitude consists in this: Those things that geometry contends concerning its objects: points, lines, surfaces, concerning their mutual relations, concerning the forms of figures, for example, concerning the straightness of a line, concerning the equality or proportions of figures: all these are considered as absolutely exact. But sensitive data, from which classical geometry deduces its origin, do not possess this exactitude. Neither sense nor imagination can perceive points and lines, but only bodies extended according to three (at least according to two) dimensions. They cannot distinguish lines, subtly curved, from straight lines; consequently they can never decide that a given line is straight. Equality between two lines or surfaces they will be able to perceive *roughly*, but *not exactly*; the same must be said of proportions. Those things that are very distant cannot be perceived, and yet geometry treats of extended entities that extend to infinity.
+
+.. folio:: 0066
+   :page: 66
 
 If therefore geometry in its origin depends upon sensitive data, how can this transition to perfect exactitude be explained; or is it perhaps only an illusion?
 
@@ -48,6 +58,9 @@ A) *The Philosophers.*
 
 The principal point to which we must now attend is not the consequent of this conditional, namely that for *science* (on account of the necessity and universality of this proposition concerning the triangle) demonstration would be required; but rather let us attend to this: :person:`Aristotle <aristotle>` indicates very well the diversity that exists between sensitive data, which never indicate exactly the sum of the angles, and geometric truth, manifest to the intellect. And :person:`St. Thomas <aquinas>` in his commentary (:cite:`lect. 42, n. 7 <aquinas:anal-post:I.42.7>`) also sets this forth very well where he adds: that this is "an example of those things that cannot be perceived by sense." For the perfect equality between the sum of the angles of a triangle and two right angles can be perceived by no sense, attained by no experimental method.
 
+.. folio:: 0067
+   :page: 67
+
 Whence this proposition concerning the sum of the angles of a triangle can never be a *first* intuitive principle; in this case a *direct* transition from sensitive data to the exact affirmation of the intellect can never be justified (not only because we do not here directly intuit the necessary nexus for all triangles, but also) because the exactitude of the judgment here would not be justified. If the transition to exactitude is possible, it must be discovered from other data; and the problem is: whether such are given.
 
 In antiquity :person:`Proclus <proclus>` frequently urges the inexactitude of sensitive data; indeed for him it is the reason why in this matter he rejects :person:`Aristotle's <aristotle>` theory of abstraction and rather adheres to :person:`Plato's <plato>` position. For he thinks, first indeed that in :person:`Aristotle's <aristotle>` theory no account can be rendered of apodictic geometric certitude (:cite:`*In Euclid. Elem.*, ed. Friedlein, 12, 14; 49, 17 sqq.; 140, 4 <proclus:in-euclid:12.14>`), in which he errs, as we saw in the first chapter; but especially he thinks that the problem of exactitude cannot be solved in that way (:cite:`*ibid.*, 12, 14-22; 49, 12-17; 139, 26-140, 7, etc. <proclus:in-euclid:12.14-22>`); whence although he admits the theory of intelligible matter, he explains it in a Platonic manner [#f2]_.
@@ -64,6 +77,9 @@ According to whatever criterion of possibility that we have, they are not even p
 
    "The points, lines, circles, and squares, which any one has in his mind, are (I apprehend) simply copies of the points, lines, circles, and squares, which he has known in his experience. Our idea of a point, I apprehend to be simply our idea of the :term:`*minimum visibile* <minimum-visibile>`, the smallest portion of surface which we can see. A line, as defined by geometers, is wholly inconceivable" [#f3]_.
 
+.. folio:: 0068
+   :page: 68
+
 And his conclusion is:
 
    "The peculiar accuracy, supposed to be characteristic of the first principles of geometry, thus appears to be fictitious" [#f4]_.
@@ -77,6 +93,9 @@ B) *The Mathematicians.*
 
 In modern mathematical critique, mathematicians are not accustomed to dwell much upon the problem of necessity; but they expend all their attention upon examining the question of exactitude, and in their examination seem to arrive at this conclusion: that the transition from inexact geometric sensitive data to exact classical geometry is illegitimate. Therefore they attempt to construct analysis in a purely arithmetical manner. Whether, this analysis having been constructed, its *application* to extended entities equivalent to classical geometry is subsequently possible, will be a new problem.
 
+.. folio:: 0069
+   :page: 69
+
 They are not accustomed to consider the problem of necessity. In arithmetic matters they admit necessity without analysis, following the natural intuition of the human mind, which without doubt is so clear that it can be admitted without hesitation. Whence: to discover the problem latent there and then to solve it is something purely philosophical; mathematicians by their own right omit it; already above we heard :person:`Poincaré <poincare>` exclaiming: "who will doubt Arithmetic?" And that the same is not affirmed concerning geometry arises uniquely from the problem of exactitude, not from the problem of necessity: "intuition cannot give exactitude (la :term:`rigueur <rigueur>`)," the same :person:`Poincaré <poincare>` was saying concerning geometric intuition.
 
 In a single case nevertheless, namely where it is a question of the critique of :person:`Euclid's <euclid>` Fifth Postulate, from which non-Euclidean geometries arose, certain thinkers seem to say that necessity is lacking in geometry, from the fact that Euclidean geometry is no longer said to be uniquely possible, and therefore necessary; but if the matter is well examined, they mean only that classical geometry had not foreseen all cases; but in individual cases necessity is present. Those who then completely equate geometry applied to bodies in nature with physical science certainly *deny* in words the enormous difference that, according to what was set forth in the first chapter, exists between both sciences with respect to necessity, but in reality they rather *neglect* it.
@@ -85,11 +104,17 @@ Mathematicians therefore are not accustomed to consider the problem of necessity
 
 Accurately, but briefly, we heard this already described in the first chapter by :person:`Klein <klein>` and :person:`Poincaré <poincare>`; there too discussion was had concerning the view of the distinguished :person:`Study <study>`, who called the reconstruction of classical geometry independent of modern analysis "a dream" (eine Utopie). The same author, in the same book [#f5]_, clearly proposes the problem, but cannot solve it except by considering geometry as a complex of hypotheses whose applicability to the real world must be examined, in entirely the same manner as physicists do in relation to their hypotheses. Eventually, doing so, he declares the problem to be insoluble.
 
+.. folio:: 0070
+   :page: 70
+
 No one perhaps has set forth the problem more copiously and more in detail than the distinguished :person:`J. Wellstein <wellstein>` in the work :cite:`Weber-Wellstein *Enzyklopädie der Elementar-Mathematik* II (3rd ed., 1925) <weber-wellstein:enzyklopaedie:II>`. His difficulties in special points we shall also set forth; for now let us hear the general objection well stated. After recounting that the modern critique of the foundations of geometry in the eighteenth and nineteenth centuries took its origin from the consideration of :person:`Euclid's <euclid>` Fifth Postulate, he continues thus:
 
    "The development of modern function theory has demonstrated that the critique of foundations should have begun, not at the fifth postulate, but immediately at the first definition [of :person:`Euclid <euclid>`]: a point is that which has no part (:term:`σημεῖόν <semeion>` ἐστιν οὗ μέρος οὐθέν)" [#f6]_.
 
 By these words the problem of exactitude is clearly posed; for this modern theory of functions at precisely this point is opposed to the preceding theory. For earlier analysis, as already stated in the introduction, deduced the "continuum of real numbers," which analysis needs, from the consideration of the geometric continuum; in this theory to individual geometric points of a line (concerning whose existence there was geometric certainty) individual real numbers corresponded; numbers were defined through the "coordinates" of points, that is, through their distances (that is, proportions of distances to a unit of length) from the origin of the line. Modern analysis wished to constitute this continuum of real numbers independently of the (sensitive) intuition of the geometric continuum, on account of the inexactitude of sensitive intuition; and therefore begins from the series of integers, which is sensitive and exact; and from these purely arithmetically, as it thinks, constructs real numbers. This inexactitude of sensitive intuition therefore seems already to undermine the very first notion described by :person:`Euclid <euclid>`, the notion of the point; already the question is concerning the very mathematical existence of the point, concerning the reality of the notion that denies all parts to the point and attributes position to it. Then the same inexactitude is said to infect all other geometric notions.
+
+.. folio:: 0071
+   :page: 71
 
 .. _caput-3-en-s1-3:
 
@@ -105,6 +130,9 @@ Into this therefore the first question resolves: can objects such as point, line
 It is clear that the problem involves questions concerning the existence both of notions and of nexuses that are affirmed in judgments. Moreover, complex notions especially already presuppose judgments concerning the existence of nexuses between simple notions.
 
 This question, therefore, purely mathematical and philosophical, is certainly connected with another question, yet distinct from it, namely with the question whether in this world, in this nature of things, those exact objects exist, whether there are in fact given straight lines, perfect spheres, congruent figures; and so on. Concerning this other question we shall also treat frequently.
+
+.. folio:: 0072
+   :page: 72
 
 .. _caput-3-en-s2:
 
@@ -122,6 +150,9 @@ He himself (:cite:`op. cit., pp. 9-11 <weber-wellstein:enzyklopaedie:II.p9-11>`)
 
 With respect to the notion of the point :person:`Wellstein <wellstein>` proceeds thus. He says that that notion arises through a limiting process (:term:`*Grenzprozess* <grenzprozess>`), that is, through an act of the mind that sets a term to an in itself unlimited series of phantasms ("through an act of the mind that sets a goal to an in itself unbordered series of representations," :cite:`p. 9 <weber-wellstein:enzyklopaedie:II.p9>`). We begin, for example, from the (sensitive) intuition of a grain of sand that we imagine to ourselves as ever smaller. Thence arises, and indeed in an ever more determinate manner, the imagination of a place ("Ort") in space that has no dimension any longer. But, he says, this process in the imagination quickly has an end, namely when the minimum imaginable is present; from this term onward the matter remains obscure to us; by seeing or imagining we can no longer pursue the process of diminution ("from then on we are completely in the dark, and the progress of diminution we can neither see nor imagine to ourselves"). This is very well said. But he continues: that this process reaches an end cannot be thought ("that this procedure reaches an end is unthinkable"); here he already appeals, and very well does so (although not logically in his position), to the intellect and indeed to an exact intellect. For we understand that the process of diminution has no end if it takes place *by dividing* the extended; but it must be added: if the diminution takes place through continuous *motion* (:person:`Aristotle's <aristotle>` motion of diminution), it will certainly have an end. Nevertheless in both cases those things must be admitted that in :person:`Wellstein <wellstein>` follow, namely: that there exists in this process a goal beyond which it cannot go, without ever reaching it (this on the supposition of a process of division), we must believe or postulate ("that on the contrary a goal exists, beyond which it cannot go without ever reaching it, we must believe or postulate"). We approve these words, even the words: "this goal, this boundary to exist we must believe or postulate," but we add: if we had nothing other than the method that :person:`Wellstein <wellstein>` describes, if we did not understand from elsewhere the existence of the indivisible boundary. But from elsewhere we have an intellective intuition of this boundary, as we shall immediately see.
 
+.. folio:: 0073
+   :page: 73
+
 If, however, :person:`Wellstein <wellstein>` continues after certain clarifications, we must in such a manner postulate the existence of the point, that is a pure act of the will, not of the intellect ("so one must remain conscious that that is a pure act of the will, not of the understanding").
 
 And from his analysis he concludes: to the first definition of :person:`Euclid <euclid>` there must be added a postulate, by which it is asked: *Points exist* ("to the first definition therefore in any case belonged a postulate, that there are points at all," :cite:`*ibid.* <weber-wellstein:enzyklopaedie:II.p9>`). If we attend to the nature of a postulate, as described here, the very first notion of :person:`Euclid's <euclid>` geometry would be the offspring of an act of the will, not of the intellect, which would bring with it the ruin of geometry classically interpreted. The intellective transition from inaccurate sensitive data to exact geometric notions is declared impossible from the very first step; our problem of exactitude has no solution.
@@ -129,6 +160,9 @@ And from his analysis he concludes: to the first definition of :person:`Euclid <
 In a manner similar to that in which the notion of the point in :person:`Wellstein <wellstein>` is derived from a small corpuscle, a grain of sand, the notions of the line and the surface are deduced. The line is considered as a slender thread, the surface as a thin sheet, which become thinner indefinitely; and the limit of this process will be the geometric line and geometric surface respectively. And in these cases the same difficulties are found.
 
 In truth, if only in this way exact geometric notions could arise, the matter would be decided; but if from elsewhere the existence of indivisible boundaries is understood, these processes to the limit are entirely legitimate; the existence of those boundaries no longer needs to be *postulated*; the objects of these exact notions we *understand* to exist in extended being. This understanding, however, we in fact possess, as will be clearly evident from what follows.
+
+.. folio:: 0074
+   :page: 74
 
 .. _caput-3-en-s2-2:
 
@@ -150,6 +184,9 @@ A) *The Surface.*
 
 This boundary therefore is a surface, and can be described: "that through which the transition from one part into the other takes place"; and then precisely under the respect under which through it the transition takes place, it is indivisible. And thus the first indivisible, exactly indivisible (the first exact geometric notion), we discover intellectively in the phantasm, in which this exactitude is lacking and is now known to be lacking; this we discover with the same certitude with which in the same phantasm of an extended being we read the *necessity* of its divisibility. In the same act, if we attend, both the necessity and the exactitude of this first geometric judgment we attain, although neither necessity nor exactitude is present in sensitive cognition; *under both respects* the intellect transcends sense. Both can serve to demonstrate the difference between the *phantasm*, which contains neither necessity (but only fact) nor exactitude in itself, on the one hand, and the *idea* on the other hand; and the difference with respect to exactitude for beginners is perhaps clearer than with respect to necessity.
 
+.. folio:: 0075
+   :page: 75
+
 There exists therefore an indivisible boundary (indivisible under the precise respect under which it is "between" parts: that through which transition takes place) in extended being, the first datum, and it arises in act through its division.
 
 This boundary, however, is a surface; it is that upon which ("against which") we look when looking upon a bounded body [#f7]_. It is certainly not always a plane surface, nor even a polished one, but as a boundary it is everywhere indivisible. Yet under other respects (according to width and length) it clearly manifests itself to us as extended, divisible; according to these respects it is "alongside" the parts.
@@ -161,6 +198,9 @@ B) *The Line and the Point.*
 
 In relation to this divisibility of the surface a consideration similar to that set forth above can be repeated here. The boundary between parts of the surface is again "that through which transition from one part of the surface into another takes place"; this transition takes place again in an indivisible; this boundary, indivisible as it is "between" parts, is a line, whether curved or otherwise. The line under another respect (insofar as it is "alongside" parts) is again extended, divisible. And from its division arises the point, which is the boundary of the line, through which transition from one part of the line into another takes place, again in an indivisible. But now at length—this is again clear by the pure intuition of the intellect in the phantasm—this process of division has an end; we arrive at that which is indivisible in every respect: the geometric point, at that which was described by :person:`Euclid <euclid>`: :term:`"that of which there is no part" (οὗ μέρος οὐθέν) <ou-meros-outhen>`. That is not nothing: it is the boundary of the line, which is the boundary of the surface, which is the boundary of the original extended being given to us immediately from external experience. Because the point is such a boundary, therefore it is not only something indivisible (in every respect) but is an "indivisible having position," which is the solemn definition in :person:`Aristotle <aristotle>` and :person:`St. Thomas <aquinas>`.
 
+.. folio:: 0076
+   :page: 76
+
 Concerning the mathematical existence of these boundaries, therefore, it is established: they exist in potency within the undivided extended being; they exist in act through the division of the extended being; and indeed first the surface arises, then the line, then the point. These follow necessarily from the nature of extended being as it is extended.
 
 If anyone, in order to conceive the idea of the line or the point, wishes to follow the process described by :person:`Wellstein <wellstein>`, that is, if anyone wishes to begin from the imagination of a grain of sand (or of a slender thread) and pursue the process of diminution of this object, he can now do so without inconvenience; for he now knows that a boundary *exists* to which by this process we approach. And now the process that :person:`Wellstein <wellstein>` describes will be legitimate; no longer is the existence of the boundary *postulated*; and thus in reality we arrive at the notion of the point and the line respectively.
@@ -171,6 +211,9 @@ C) *On Indivisibles in the Nature of Things.*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Do these indivisibles exist in the nature of things? Let us speak first of the surface; there the matter is immediately clear. Bounded bodies exist, and the boundary of these is a surface. It is not necessary, certainly, that it be a geometrically simple surface: a plane, a perfect spherical surface, and so on. Perhaps those that are found in the nature of things are such that they have no geometric name; perhaps they have very complicated shapes, perhaps they are violently wrinkled in so microscopic a manner that it cannot be discovered by experience. But they are surfaces in the true sense of the name, which bound bodies; the transition through these boundaries, from non-this-body into this body, takes place in an indivisible. Can those geometrically simple surfaces exist in the nature of things, which are accustomed to be considered by geometers? The answer depends primarily upon the question whether these exist mathematically, whether they are possible in extended being as it is extended; this question will later have an affirmative answer, from which without difficulty it will follow that these surfaces will also be possible in nature.
+
+.. folio:: 0077
+   :page: 77
 
 Do lines in fact exist in the nature of things? The hypothetical answer is very easy: if bounded surfaces exist, their boundaries necessarily exist, that is, lines. But is the condition fulfilled? That is not *a priori* necessary; all bodies can be bounded by surfaces that are like the boundary of a perfect globe. Behold: this surface is finite indeed, but it is not bounded. It *is* itself a boundary, namely the boundary of the body (the globe), but in itself it does not have a boundary that divides it. There a line does not exist in act. If all bodies were bounded in this way, a line would not in fact exist in the nature of things. But mathematically, that is, as they are extended, those surfaces admit division, and if it is present, lines will certainly be present in fact.
 
@@ -185,6 +228,9 @@ We were speaking of the "respect under which a surface is indivisible," of the "
 
 What dimension is cannot be defined by a technical definition consisting of genus and specific difference. Nevertheless this notion is perfectly clear; what it is, is perfectly understood from the process outlined above. An extended being that has three dimensions is an extended entity that sustains that threefold division; and in this extended being boundaries can be given that have two dimensions, or one, or none respectively. We have a legitimate "operative definition."
 
+.. folio:: 0078
+   :page: 78
+
 Behold the criterion of clarity of this notion: we ask, can extended beings be given that, for example, have two and a half dimensions? The question does not even have meaning; and that we see this immediately arises from the fact that the notion of dimension is most clear.
 
 We were saying above: these boundaries exist mathematically in extended being (either in act or in potency), which are surface, line, point; and consequently they can exist in the nature of things. That signifies: these entities of zero, or one, or two dimensions exist *as boundaries*; thence it does not follow that they can exist separately. An entity of three dimensions is given: a body, an extended substance. *Can* substantial entities of two dimensions be given, or of one, or of zero (which nevertheless would pertain to the extended world as "having position")? That certainly does not follow from what has been set forth above, from which we know that those extended entities exist as boundaries. To the question whether such entities, at least of two dimensions or of one, can exist separately, the author cannot answer otherwise than by confessing his complete ignorance.
@@ -198,6 +244,9 @@ Can an entity of four dimensions exist, whose boundary would be an entity of thr
 
 Our method of investigating the notions of surface, then of line, then of point, seems to be natural to the human mind; and very frequently expressions are found that define these objects as boundaries. But against this method by certain authors an objection is moved that they think decisive; whence it must be considered by us. It is taken from that surface that in the second chapter (§ 2, n. 6, p. 46) we were already considering, which is called the ":term:`Möbius strip <folium-moebii>`."
 
+.. folio:: 0079
+   :page: 79
+
 This surface has a certain marvelous property: it is said to be *unilateral* (one-sided). What this signifies will be clear to him who visually looks upon that physical model whose construction we described in that chapter. Let us draw a line on that paper, roughly in the middle of the strip and indeed parallel to its edge; by drawing this line at the end we reach again the point whence we began, and behold: the line is found on both sides (faces) of our strip, without our having crossed the edge. On the same side therefore we remained; the strip seems to have only one side. If we do the same on a cylindrical strip, on one side only is the line drawn; the other remained white. Whence the :term:`Möbius strip <folium-moebii>` is said to be unilateral; it is only apparently bilateral like the cylindrical strip. That these things may be understood, they must absolutely be seen in actual execution; which nevertheless, as we saw in the first chapter, can manifest to the intellect the intuition of the necessity of this proper attribute. It is certainly a curious property.
 
 Behold how from this property of surfaces that are called unilateral an objection is made against our method of defining surfaces, which considers the surface as a boundary between parts of a three-dimensional solid extended entity.
@@ -209,6 +258,9 @@ The distinguished :person:`Couturat <couturat>` says:
 In a similar manner :person:`Wellstein <wellstein>` writes:
 
    "In forming the concept of surface to take one's start only from the outer surface or from that which is common to two bodies is not sufficient, because surfaces exist that cannot, as a whole,
+
+.. folio:: 0080
+   :page: 80
 
 bound bodies, which cannot be the separating surfaces of two bodies" (:cite:`Op. cit., p. 10 <weber-wellstein:enzyklopaedie:II.p10>`) [#f9]_.
 
@@ -226,9 +278,15 @@ Here we transcribe the description of the method of construction of the example 
 
    "Let us take a strip (for example, of paper) that has the figure of an oblong rectangle whose width is quite small; its ends (the short sides), after a twist through an angle of 180 degrees, that is, through a half revolution, we join to each other with glue. Thus arises a surface that is similar to a cylinder (of small height), but in it one twist is present; the operation is easily executed. This surface is the ':term:`Möbius strip <folium-moebii>`'."
 
+.. folio:: 0081
+   :page: 81
+
 Let us attend now to what results from our operation. Is it truly a surface? Certainly it is constructed to exemplify a surface; but in fact (just like the "plane" sheet from which it is constructed) it does not lack the third dimension, depth; this is small, and in our consideration is neglected, but it is present. Therefore that which we hold in our hand is a *solid body*, and indeed a body of which one boundary is a :person:`Möbius <moebius>` surface, and indeed with *its entire connection*, :term:`*Zusammenhang* <zusammenhang>`, is the boundary of this body. Not this surface alone bounds this body, but it does so together with another. What is the nature and connection of this other? In ordinary consideration, which neglects depth, it is a line, the boundary of this :term:`Möbius strip <folium-moebii>`. But in reality it is a surface whose one dimension, width, is very small (this is the "depth" of the body). And this other surface reveals itself as a second :term:`Möbius strip <folium-moebii>`. We have therefore a real body, bounded totally by two :term:`Möbius strips <folium-moebii>`, each with its total connection; and through them it is totally separated from the ambient "space." Those therefore err who contend that this is impossible; and we can answer more than what the most distinguished :person:`Voss <voss>` answered to them.
 
 Because we make mention of such a *body*, let it be permitted to notice another point that perhaps can teach mathematicians themselves something new and unexpected; let this be said with modesty. Let us consider this body bounded by two :term:`Möbius strips <folium-moebii>`. Let us construct it (actually or mentally) not from a thin sheet (of paper, whose depth is almost spontaneously neglected), but from elastic material that has the shape of an oblong parallelepiped, whose depth is and remains well observable. The body that results is that which is bounded by two well-observable :term:`Möbius strips <folium-moebii>`. And let us attend to one of these strips. Is it true that this surface is *unilateral*? They are accustomed to contend this, and this was the foundation of the difficulty that was moved. But this very assertion is now evident to be erroneous. This surface intuitively has *two* sides, *two* faces: one toward ambient "space," the other toward the interior of the body that it bounds. I do not remember having read this in any mathematician; if I am not mistaken, certain further conclusions can be derived from this, but it is not our business to do so.
+
+.. folio:: 0082
+   :page: 82
 
 .. _caput-3-en-s2-5:
 
@@ -250,9 +308,15 @@ From sensitive data therefore is drawn the intellective judgment concerning the 
 
    "That similitude that the :person:`Philosopher <aristotle>` posits is not attended to in all respects. For it is manifest that the end of the visual power is to know colors; the end of the intellective power, however, is not to know phantasms, but to know intelligible species [#f11]_ which it apprehends from phantasms and in phantasms according to the state of the present life. The similitude therefore is with respect to what each power looks upon, but not with respect to that in which the condition of each power terminates."
 
+.. folio:: 0083
+   :page: 83
+
 According to this theory universally that which is affirmed in judgment is said not of the phantasm, but of the thing that is represented in the phantasm; our cases (concerning geometric boundaries) have this peculiarity (which does not hold universally): if that which is affirmed in judgment were said of the phantasm itself, it would be *false*. For the mind can indeed, through reflection upon its operations, return and consider the phantasm itself as the object of cognition; this we precisely did in our analysis. And from such reflection results what we were saying: in the phantasm itself, and in sensibility in general, that exactitude is not present which is affirmed in the judgment of the intellect concerning the boundary of an extended entity; therefore of extended being as it has "being" in the phantasm, it cannot be affirmed with truth. But that which we affirm holds indeed of the extended *in itself*; of this we assert that which is present in the (composite) *idea* with exactitude.
 
 Another observation also, which regards what was set forth above in general, can be added here. In all these matters we were finding a certain necessity in the phantasm, in sensitive data. And indeed a necessity *in the object itself*. Someone might think that this necessity is only a necessity in the senses themselves, in subjective fantasy itself. That does not agree with what consciousness testifies. This can become clearer from what we have now seen. For here in the phantasm we were finding a certain necessity which we intuit not to pertain to the object, but only to sense, to fantasy. Namely: fantasy (like external sense) *cannot* propose to itself indivisible boundaries; a line there always necessarily has width. But in this case we understand that this necessity is *not* present in the object itself; we separate the subjective necessity of the faculty, of sense, from necessity in the object itself. In this case the intellect, just as in the case of necessity, so in the cognition of exactitude, overcomes sense and its data.
+
+.. folio:: 0084
+   :page: 84
 
 .. _caput-3-en-s2-5-b:
 
@@ -275,6 +339,9 @@ D) *The Theory of Empiricism.*
 
 From what we have seen, certain sayings of :person:`Stuart Mill <mill>` have also now been refuted. Let us recall his pronouncements: "there exist no points without magnitude; no lines without breadth, nor perfectly straight... no circles with all their radii perfectly equal... they are not even possible." These are now evident to be false with respect to the (at least possible) existence of indivisibles: of the point, of the line without breadth. Whether the same must be said of qualitative elements and of equality (lines perfectly straight and radii of a circle perfectly equal), which are denied by him, is not yet established now. That pertains to the other part of the problem of exactitude, whose solution depends upon another means of critical inquiry; for that reason we said above that this author confuses diverse aspects of exactitude.
 
+.. folio:: 0085
+   :page: 85
+
 False also is that which we heard from the same author: "our idea of a point, I apprehend to be simply our idea of the :term:`*minimum visibile* <minimum-visibile>`"; for in our analysis we discovered the notion of the exact boundary, which leads to the notion of the exact point, and simultaneously by judging we discovered the mathematical existence of these exact notions.
 
 *Note.* — We *began* our analysis *at that point* at which we first discover *intellective* intuition into extended being: in its figurability, exact bounded character, threefold divisibility, corresponding to three dimensions. In our analysis we discover the *intelligibility* of this extended entity, for those things that we affirm, we know as proper attributes flowing *necessarily*, therefore intelligibly, from the fact that it is extended. Whence—since every intelligible is being, and being belongs to it—from that and in that moment we know: this extended entity is being, being belongs to it. Therefore there is no need that we should inquire into the origin of the sensible datum.
@@ -282,6 +349,9 @@ False also is that which we heard from the same author: "our idea of a point, I 
 How sensitive cognition itself, in which we find this intelligible, arises, specifically how we arrive at sensible cognition of the extended, which then reveals itself as three-dimensional, is rather a psychological question. The theory of intellective knowledge of that cognition (which is geometric science) begins from that intellectual intuition.
 
 Above in passing we attended to the opinion that in sensitive cognition wishes already to find a surface without depth, an entity extended according to two dimensions. This seems to us not to be true; we think that in the first sensible aspect of a "surface" there is already present the aspect of a certain depth. But because this question pertains to those things that precede that first intellective intuition, concerning it we shall not treat. Moreover, if this opinion were true, our analysis with respect to the line and the point would nevertheless remain intact; nor would it be false with respect to the existence of the exact surface.
+
+.. folio:: 0086
+   :page: 86
 
 .. _caput-3-en-s2-6:
 
@@ -301,6 +371,9 @@ Whence we have: from that one phantasm from which we began, by looking or "obser
 
 This principle of divisibility to infinity by means of exact elements (points) can be tightened further. By dichotomy (and also by trichotomy, and so on) an extended entity certainly cannot be divided in such a way that indivisibles alone result. It can be asked: could this not be accomplished through a single division, not successive, which at one stroke would exhaust divisibility, leaving nothing but indivisibles? That from preceding considerations is not decided, but a negative answer is established from elsewhere.
 
+.. folio:: 0087
+   :page: 87
+
 Behold: the parts into which an extended entity is divided, if added to each other, again constitute an extended entity that is equal to the primitive whole. Whence: an extended entity can be composed of those things into which it can be divided. Indivisibles, however, points, lack all extension, are "nothing of extension"; and from the addition of nothing to nothing, something cannot result; from added points an extended entity cannot result. Indeed it must be said: *geometric* addition, which in the case of lines added to each other has perfect meaning, in the case of points lacks *meaning*; nothing cannot be added to nothing, but only quantity to quantity (*arithmetical* addition of points certainly has meaning: we can consider one, two, three, etc. points).
 
 If, however, an extended entity cannot be composed of points, neither into them, as into parts, can it be divided. Whence it follows that *in whatever manner* an extended entity be divided (not through dichotomy only), it is *always* divided into extended entities, which again can be divided; and so it must be universally established: it is divisible to infinity. (Concerning the importance of this divisibility in the philosophical history of the continuum, indeed in the history of the whole of philosophy, see :cite:`our *Cosmologia*, 4th ed., pp. 27-40 <hoenen:cosmologia:p27-40>`; see also :cite:`*Filosofia della natura inorganica*, pp. 57-72 <hoenen:filosofia-natura:p57-72>`).
@@ -314,9 +387,15 @@ From what has been said certain things follow that can be worthy of note. It was
 
 Already in ancient geometry there is mention of a line as a "locus of points" that have a certain property; thus the bisector of an angle is the locus of points equally distant from its sides. This expression does not intend to describe that line as a collection of points in the common sense; but the sense is: every point equally distant from the sides of the angle is situated on that line, and conversely, every point of that line is equally distant from the sides of the angle. The bisector is not considered except as the "matrix" of those points; it is the potency (matter) from which and in which equidistant points can be actuated.
 
+.. folio:: 0088
+   :page: 88
+
 Otherwise does the matter stand in the modern theory of collections (sets) that was constructed by :person:`Cantor <cantor>`, at least if it is conceived in that manner in which originally it was intended by that author. There in reality, if mention was made of a line as a "collection of points," they understood it as a pure series of contiguous points. In a similar manner other collections whose individuals (elements) were determined through the mere definition of *genus* or *species*, were already considered as constituted of a multitude (in general actually infinite) of given *individuals*, determined in themselves. That certainly, according to what was set forth above, cannot be admitted. But this native theory led to contradictions ("paradoxes"); whence by most mathematicians it is applied only in a corrected form, in which, given a generic or specific definition (given the law of formation of the collection), the individual elements are not yet considered as determined in themselves. Such a collection verifies :person:`Aristotle's <aristotle>` notion of potency, which (toward individuals) is to be actuated through further determination. In such a theory a line is no longer a collection, that is, a series of points, but is a potency in which points can be actuated; it is, as :person:`Brouwer <brouwer>` says (in the work :cite:`*Over de grondslagen der wiskunde*, 1907, p. 8 <brouwer:1907:p8>`): "a matrix of points to be thought together." And it would be well worth the effort if a mathematician who understands Aristotle's theory of potency would develop the theory of sets, which has great importance, under the light of this Aristotelian theory.
 
 Most thinkers, as said, no longer admit the native theory of sets, but in place of it, a theory that has been more or less corrected. :person:`B. Russell <russell>` still seems fully to admit it, who thought that from it he could solve the classical antinomies of the real continuum (cf. :cite:`*Revue de Métaphysique et de Morale*, 1911, p. 183 <russell:1911:p183>`; cf. :cite:`*Cosmologia*, p. 451 <hoenen:cosmologia:p451>`); mistakenly certainly, as is clear from the premises. Mathematicians who correct the native theory of sets, at least most of them as it seems to us, think that its contradictions arise from the fact that it admits an actual infinite. Thus :person:`Poincaré <poincare>` (:cite:`*Science et Méthode*, p. 212 <poincare:science-methode:p212>`) says: "*There is no actual infinite*; the Cantorians forgot it, and they fell into contradiction" (the emphasis is :person:`Poincaré's <poincare>` own; cf. certain further remarks in :cite:`*Cosmologia*, 4th ed., pp. 451-455 <hoenen:cosmologia:p451-455>`).
+
+.. folio:: 0089
+   :page: 89
 
 Whatever the case may be, an extended entity cannot be considered as a collection of points, from whose addition or position it has its origin; it can be considered as matter, potency, from which and in which to infinity points can be generated. Frequently in mathematical expositions extended entities or figures are described as collections of points; it must always be observed whether this takes place in the first or the second sense; if in the first, danger of error is present; and, even if errors are avoided, nevertheless such an exposition cannot be justified philosophically. This also obtains (not only) in the equations of analytical geometry, concerning which we add a note.
 
@@ -329,6 +408,9 @@ Such a formula indicates the relation that exists between coordinates that deter
 
 Therefore another interpretation must be sought; behold one that is often applied by mathematicians. Namely: to the abscissa (:math:`x`) *continuous* variation is attributed, which cannot be had except through motion, not through the successive choice of determinate values; let a line perpendicular to the axis of abscissas therefore be moved with continuous motion according to a determinate law, and depend solely upon time as an independent variable: :math:`x = f(t)`. On that very line let a point be moved, again with continuous motion, which is determined by its own law and depends solely upon the same time; the distance of the point from the line of abscissas always indicates the ordinate: :math:`y = F(t)`. From the composition of these motions results a continuous motion that generates the line, whose equation can be found through the elimination of the variable :math:`t` from the two equations: :math:`x = f(t)` and :math:`y = F(t)`. In our case the two motions can simply be expressed by the equations :math:`x = t` and :math:`y = \sin t`. And the geometric meaning now is: the line (of ordinates) is moved always perpendicularly to the axis of abscissas (:math:`x`) with uniform motion (:math:`x = t`); simultaneously the point on that line is moved so that the distance from the axis of abscissas is expressed by the law :math:`y = \sin t`; it is moved therefore on a straight line, according to periodic motion ascending and descending. And from these two motions results the composite motion of the point that describes the line corresponding to the equation: :math:`y = \sin x`. The line thus resulting is no longer a collection, that is, a series of points, but is continuous, on account of the continuity of motion (cf. below, IV, § 2).
 
+.. folio:: 0090
+   :page: 90
+
 *Application.* These things can be applied to solve the argument that is moved by many modern mathematicians *against* the value of intuition, from which geometry classically takes its origin. The argument is taken from functions that are analytically continuous indeed, but do not have a "derivative" (differential quotient) either for one value of the independent variable, or even for all values. To continuous functions geometrically correspond continuous curves; to the "derivative" at one point corresponds the tangent at that point to the curve. To these functions therefore would correspond curves that would be everywhere continuous indeed, but would lack a tangent at one point, indeed at every point. But intuitive imagination, which classically is the root of intellective intuition, cannot represent to itself a continuous curve that does not have a tangent everywhere; and if the intellect from this imagination must pass to exact lines, it must affirm: a continuous line is not given that does not have a tangent everywhere. But, they say, exact analysis demonstrates that such lines exist; intuition therefore leads into error, and credibility must now be denied to it.
 
 It is well worth the effort to hear this argument set forth by an eminent man, :person:`H. Poincaré <poincare>` (:cite:`*La valeur de la science*, pp. 17 sq. <poincare:valeur-science:p17>`). He says:
@@ -336,6 +418,9 @@ It is well worth the effort to hear this argument set forth by an eminent man, :
    "Intuition cannot give us rigor nor even certitude; this has been noticed more and more.
 
    Let us cite some examples. We know that continuous functions without derivatives exist. Nothing is more shocking to intuition than this proposition, which is imposed upon us by logic. Our fathers would not have failed to say: 'It is evident that every continuous function has a derivative, since every curve has a tangent.'
+
+.. folio:: 0091
+   :page: 91
 
 How can intuition deceive us to this point? It is because when we seek to imagine a curve, we cannot represent it to ourselves without thickness; similarly, when we represent to ourselves a straight line, we see it under the form of a rectilinear band of a certain width. We know well that these lines have no thickness; we strive to imagine them more and more slender and thus to approach the limit; we succeed in a certain measure, but we will never reach this limit.
 
@@ -349,11 +434,17 @@ Let us take the simplest, classical example of such a function that is everywher
 
 The function thus defined is everywhere continuous: and yet at the origin itself it has no derivative. Whence they conclude: therefore the geometric curve that is defined through those equations has no tangent at the origin, although there too it is continuous.
 
+.. folio:: 0092
+   :page: 92
+
 We ask, however: does this curve truly "exist" geometrically? Let us attempt to construct it through the composite motion of a point described above. Let us posit therefore :math:`x = a - t`; then we have: :math:`y = (a - t) \sin[1 / (a - t)]`. At that moment when :math:`t = 0`, the mobile line is on the right side of the origin at distance :math:`a`; at the moment when :math:`t = a` it will be at the origin, and the point of the curve will be :math:`x = 0` and :math:`y = 0`. Can this point be attained *in such a way that the motion of the point on the mobile line of ordinates* is truly realized according to the law :math:`y = (a - t) \sin[1 / (a - t)]`? Behold: that the point of the origin might be attained, the value of this function would have to reach (periodically) its maximum and minimum actually an infinity of times; the mobile point on the mobile line would have to ascend and descend on it actually an infinity of times. But—even if someone maintains that an actual infinite does not involve contradiction—nevertheless the infinite by definition *cannot be traversed*. Whence: the motion of the point on the mobile line of ordinates, if this line must reach the origin, is impossible; therefore that this curve "exists" geometrically, according to this method is not established. If our line proceeds only up to a distance, even minimal, from the origin of coordinates, nothing impossible is present; whence: any part of the curve exists, provided it is not thought of as carried through to the origin; but in such parts it has a tangent everywhere.
 
 Whether this function has analytical meaning is not examined here; but to that equation no total geometric curve corresponds, arisen from motion. And another method of constructing the curve they do not indicate. Therefore that which follows from intuition: every curve at whatever point in which it is continuous has a tangent, is not refuted through this example; indeed hitherto it is rather confirmed.
 
 Afterwards, first by Weierstrass, functions were constructed that are even more marvelous: these are everywhere continuous and nowhere have a derivative; to them curves are said to correspond that are everywhere continuous and yet nowhere have a tangent. In the same manner as above the difficulty will have to be solved: those curves (:term:`*kritzelige Kurven* <kritzelige-kurven>`) are everywhere "infinitely sinuous," so that on the same ground they do not exist geometrically. "Approximate" curves are constructed, but these are normal, that is, they have tangents.
+
+.. folio:: 0093
+   :page: 93
 
 Concerning these curves see the ingenious exposition in :person:`F. Klein <klein>`, :cite:`*Anwendung der Differential- und Integralrechnung* (new reprint, 1907), pp. 39 sq., 51 sq., 78 sq., 83-102 <klein:1907:p39>`. Concerning them also treats :person:`O. Becker <becker>` in the book :cite:`*Beiträge zur phänomenologischen Begründung der Geometrie und ihrer physikalischen Anwendungen* (in *Jahrbuch für Philosophie und phänomenologische Forschung* VI, 1923), pp. 90-93 <becker:1923:p90>`. His solution of the difficulty is not in every respect clear; *perhaps* with respect to the thing it is the same as ours. The curve constructed by Weierstrass is described by Brunschvicg, :cite:`*Les étapes de la philosophie mathématique*, p. 338 <brunschvicg:etapes:p338>`.
 
@@ -367,6 +458,9 @@ In the preceding considerations we saw the simplest examples of geometric "const
 This notion of "construction" is described by :person:`Kant <kant>` as mathematical *par excellence*; through the possibility of construction of its objects, mathematical discipline differs from the rest, for example, from metaphysics. Among many others this property of mathematical science is strongly urged, indeed not rarely exaggerated, so that it leads into error. For too much is attributed to the *activity* of the human mind; sometimes everything is ascribed to it in this matter, and mention is made of the "creation" of these objects by the human mind; and that in such a way that this notion of creation (certainly for ideal objects) is to be taken strictly; indeed they speak of free creation. It is evident that in such a view the problem concerning the value and applicability of such creation arises, and that question thus becomes insoluble.
 
 This mode of interpreting the construction of objects in mathematical science is without doubt erroneous; which is clear from the preceding. For in the simple cases that we have examined hitherto, that is already manifest. We construct certainly by our mind; but we construct from a pre-existing matter, from extended being as it is extended. What is of greater importance: we *discover* that extended being is fit matter from which we may construct; we discover "proper attributes" strictly so called of the matter, which can undergo such construction; we discover first, if it is permissible so to speak, "constructibility" as a proper attribute of this subject; we discover that which can *take place* in and from this matter or potency. Thence it is evident how aptly the extended is called by :person:`Aristotle <aristotle>` and the Scholastics: :term:`intelligible matter <materia-intelligibilis>`.
+
+.. folio:: 0094
+   :page: 94
 
 And in discovering this, simultaneously we understand our *dependence* upon this matter and upon sensitive data; all these things we do not decide, we do not cause; these things we discover. *That* diverse figures can be constructed there, we find because we understand this aptitude in extended being; *what* things can be constructed: multitude through divisibility, exact boundaries of parts, points situated on lines and indeed to infinity: all these things we discover by the intuition of the intellect looking into experimental data, in the phantasm. In each part we do not *impose*, but *receive*; we do not act except by simultaneously abstracting and intuiting after construction in sensibly given matter. Our constructive activity is bound by the matter from which construction takes place, by that which the intuition of the intellect *discovers* in looking upon the phantasm. This is found in these simple cases, this must be attended to elsewhere also, and it is well worth the effort that we attentively consider it. For our activity that is verified which we heard above from :person:`St. Thomas <aquinas>`: sensitive data are not the total cause, but the matter of the cause. And thus the nexus with real extension is not dissolved even for a moment. Concerning these things more will be said below in VII, § 1.
 

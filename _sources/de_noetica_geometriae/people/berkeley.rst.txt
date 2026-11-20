@@ -4,6 +4,8 @@
 :death_label: 1753
 :lifespan: 1685 – 1753
 :excerpt: Role: Anglo-Irish Empiricist Philosopher*
+:folio: 0067
+:page: 67
 
 .. _person-berkeley:
 
