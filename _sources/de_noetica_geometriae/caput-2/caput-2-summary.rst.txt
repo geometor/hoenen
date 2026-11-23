@@ -47,7 +47,7 @@ Preliminary Remarks (Animadversiones praeviae)
 - **1. Divisibility of a Multitude**: Plato’s choice of 5040 in *Laws* V; counting 59 aliquot divisors; physical pebble counting (*calculi*); distinction between contingent and necessary experimental tallies.
 - **2. Prime Numbers**: Enumeration of primes below 100; the Sieve of Eratosthenes as an experimental generator of necessary truth.
 - **3. Beginnings of Combinatorics**: Spatial arrangement of elements; permutations of :math:`n` items (:math:`n!`); induction on concrete phantasms.
-- **4. The Judgment :math:`7 + 5 = 12`**: Eliciting the judgment via finger-counting; critique of Leibniz's analytic deduction (smuggling of counting and operative definitions); critique of Mercier's identity deduction (smuggling of bi-unique correspondence); modern logistic deduction (Peano).
+- **4. The Judgment** :math:`7 + 5 = 12`: Eliciting the judgment via finger-counting; critique of Leibniz's analytic deduction (smuggling of counting and operative definitions); critique of Mercier's identity deduction (smuggling of bi-unique correspondence); modern logistic deduction (Peano).
 - **5. Comparison with Theories**: Refutation of Kant's claim that experience cannot yield necessity; refutation of Mill's denial of mathematical necessity; vindication of Aristotle (*Anal. Post.*) and St. Thomas (*De Veritate* q. 10 a. 6).
 - **6. Preliminary Judgments (*Iudicia Praevia*)**: The implicit prior grasp of the proper attributes of multitude (addibility, closure); why first principles are omitted in explicit deduction.
 

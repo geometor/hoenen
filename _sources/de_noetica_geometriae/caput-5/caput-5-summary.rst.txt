@@ -93,12 +93,12 @@ Detailed Section-by-Section Outline
 
     - Carrying out a complete formal deduction of geometry exceeds human mental power.
     - Hilbert's proof of Theorem 5 (linear order of four points on a line) occupies two full pages of intricate syntax.
-    - Cites G. H. Hardy: *"I believe the prime Number Theorem because of de la Vallée-Poussin's proof of it, but I do not believe that :math:`2 + 2 = 4` because of the proof in Principia Mathematica."*
+    - Cites G. H. Hardy: “*I believe the prime Number Theorem because of de la Vallée-Poussin's proof of it, but I do not believe that* :math:`2 + 2 = 4` *because of the proof in Principia Mathematica.*”
 
   - **B) Theoretical Difficulty:**
 
     - Deductions in geometry involve relational and topological propositions that cannot proceed without constant appeal to the phantasm.
-    - *Textual Analysis of Hilbert's Theorem 6 (Order of :math:`n` points):* Hilbert's formulation relies upon the terms "on the one hand" (*einerseits*), "on the other hand" (*andererseits*), and "inverse" (*umgekehrt*). These terms are not formal logical operators; their meaning is derived entirely from the visual inspection of a linear row of letters on a page!
+    - *Textual Analysis of Hilbert's Theorem 6 (Order of* :math:`n` *points):* Hilbert's formulation relies upon the terms "on the one hand" (*einerseits*), "on the other hand" (*andererseits*), and "inverse" (*umgekehrt*). These terms are not formal logical operators; their meaning is derived entirely from the visual inspection of a linear row of letters on a page!
     - **Crucial Finding:** Hilbert does not reduce geometry to logic; **he smuggles geometric intuition into logic itself**. The linear sequence of written symbols on paper is an extended physical entity possessing spatial direction and betweenness.
     - Rebuttal of the claim of completeness: It is impossible to establish a system of axioms that renders all subsequent appeal to geometric intuition superfluous.
 

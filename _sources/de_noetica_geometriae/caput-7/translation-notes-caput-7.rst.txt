@@ -70,7 +70,7 @@ TRANSLATION NOTES — Chapter 7: On Extension as Intelligible Matter
 - **Latin:** *Species sunt sicut numeri* ("Species are like numbers").
 - **Source:** Aristotle, *Metaphysics* VIII (H), c. 3 (1043b33); St. Thomas, *In VIII Metaph.*, lect. 3, no. 1722.
 - **Philosophical Principle:** Adding or subtracting a unit changes the species of a number; similarly, adding or subtracting a specific difference changes the essence of a being.
-- **Scientific Realization:** In § 3, no. 4, Hoenen identifies the dramatic physical realization of this adage: **Mendeleev's periodic table and Henry Moseley's atomic numbers (:math:`Z = 1, 2, 3, \dots, 92`)**, where chemical species are ordered strictly by the series of natural numbers.
+- **Scientific Realization:** In § 3, no. 4, Hoenen identifies the dramatic physical realization of this adage: **Mendeleev's periodic table and Henry Moseley's atomic numbers** (:math:`Z = 1, 2, 3, \dots, 92`), where chemical species are ordered strictly by the series of natural numbers.
 
 1.7. *Nisi Ipse Intellectus*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -135,7 +135,7 @@ All of these were smoothly unified into continuous prose in the final edition.
 
        ``Cogitamus tria diversa systemata rerum...``
      - *We think of three different systems of things: the things of the f i r s t system we call points...*
-     - *We think of three different systems of things: the things of the first system we call points and designate them by letters :math:`A, B, C, \dots`...*
+     - *We think of three different systems of things: the things of the first system we call points and designate them by letters* :math:`A, B, C, \dots`…
      - Formats mathematical variables with clean KaTeX notation (:math:`A, B, C, \dots`; :math:`a, b, c, \dots`; :math:`\alpha, \beta, \gamma, \dots`) instead of raw typewriter spacing.
 
 ----
