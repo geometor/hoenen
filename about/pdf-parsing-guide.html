@@ -31,7 +31,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=6f74f1da" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=0b57331d" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
   <link rel="icon" href="../_static/favicon.ico" />
@@ -109,13 +109,13 @@
         <section class="level-3" id="standard-2-page-spread">
         <h3>Standard 2-Page Spread<a class="headerlink" href="#standard-2-page-spread" title="Link to this heading">¶</a></h3>
         <ul class="simple">
-        <li><p><strong>Physical Size:</strong> $11 \times 8.5\text{ inches}$ (Standard US Letter in Landscape orientation).</p></li>
-        <li><p><strong>Resolution:</strong> 300 DPI $\rightarrow 3300 \times 2550\text{ pixels}$.</p></li>
+        <li><p><strong>Physical Size:</strong> <span class="math notranslate nohighlight">\(11 \times 8.5\text{ inches}\)</span> (Standard US Letter in Landscape orientation).</p></li>
+        <li><p><strong>Resolution:</strong> 300 DPI <span class="math notranslate nohighlight">\(\rightarrow 3300 \times 2550\text{ pixels}\)</span>.</p></li>
         <li><p><strong>Page Layout:</strong> Two book pages per scan:</p>
         <ul>
         <li><p><strong>Left page:</strong> Even printed page number (verso).</p></li>
         <li><p><strong>Right page:</strong> Odd printed page number (recto).</p></li>
-        <li><p><strong>Spine gutter:</strong> Vertical shadow crease near the horizontal center ($x \approx 1600\text{--}1650\text{ px}$).</p></li>
+        <li><p><strong>Spine gutter:</strong> Vertical shadow crease near the horizontal center (<span class="math notranslate nohighlight">\(x \approx 1600\text{--}1650\text{ px}\)</span>).</p></li>
         </ul>
         </li>
         </ul>
@@ -125,15 +125,15 @@
         <ol class="arabic simple">
         <li><p><strong>Portrait Orientation Misscans:</strong></p>
         <ul class="simple">
-        <li><p><strong>Dimensions:</strong> $2550 \times 3300\text{ pixels}$ ($8.5 \times 11\text{ inches}$ portrait).</p></li>
+        <li><p><strong>Dimensions:</strong> <span class="math notranslate nohighlight">\(2550 \times 3300\text{ pixels}\)</span> (<span class="math notranslate nohighlight">\(8.5 \times 11\text{ inches}\)</span> portrait).</p></li>
         <li><p><strong>Effect:</strong> The scanner bed width was restricted to 8.5 inches instead of 11 inches. The right-hand page was fully captured, but the left-hand page was vertically truncated (~50% width lost).</p></li>
         <li><p><strong>Occurrences:</strong> Chapter 5 (p. 176), Chapter 6 (pp. 212, 216, 222), Chapter 7 (pp. 224, 226, 230, 232, 234, 238, 240, 242, 244, 246), Appendix (p. 268).</p></li>
         </ul>
         </li>
         <li><p><strong>Legal Paper Size Scans:</strong></p>
         <ul class="simple">
-        <li><p><strong>Dimensions:</strong> $4200 \times 2550\text{ pixels}$ ($14 \times 8.5\text{ inches}$ landscape).</p></li>
-        <li><p><strong>Effect:</strong> Extra white margins on the sides. Spine gutter shifted to $x \approx 2250\text{ px}$.</p></li>
+        <li><p><strong>Dimensions:</strong> <span class="math notranslate nohighlight">\(4200 \times 2550\text{ pixels}\)</span> (<span class="math notranslate nohighlight">\(14 \times 8.5\text{ inches}\)</span> landscape).</p></li>
+        <li><p><strong>Effect:</strong> Extra white margins on the sides. Spine gutter shifted to <span class="math notranslate nohighlight">\(x \approx 2250\text{ px}\)</span>.</p></li>
         <li><p><strong>Occurrences:</strong> <code class="docutils literal notranslate"><span class="pre">appendix-end-and-index.pdf</span></code> (Spread 4).</p></li>
         </ul>
         </li>
@@ -175,9 +175,9 @@
         <h4>B. Dynamic Spine Gutter Detection<a class="headerlink" href="#b-dynamic-spine-gutter-detection" title="Link to this heading">¶</a></h4>
         <p>Rather than splitting at a fixed 50% coordinate (which risks clipping text when scans are slightly off-center), the script inspects the vertical center 50% strip of the spread, compresses it vertically to a 1-pixel high intensity map, and identifies the spine shadow minimum:</p>
         <ul class="simple">
-        <li><p><strong>Portrait Spreads ($w &lt; h$):</strong> Search window is $x \in [0.25w, 0.42w]$.</p></li>
-        <li><p><strong>Normal Landscape ($w \approx 3300$):</strong> Search window is $x \in [0.44w, 0.56w]$.</p></li>
-        <li><p><strong>Legal Landscape ($w \approx 4200$):</strong> Search window is $x \in [0.50w, 0.60w]$.</p></li>
+        <li><p><strong>Portrait Spreads (<span class="math notranslate nohighlight">\(w &lt; h\)</span>):</strong> Search window is <span class="math notranslate nohighlight">\(x \in [0.25w, 0.42w]\)</span>.</p></li>
+        <li><p><strong>Normal Landscape (<span class="math notranslate nohighlight">\(w \approx 3300\)</span>):</strong> Search window is <span class="math notranslate nohighlight">\(x \in [0.44w, 0.56w]\)</span>.</p></li>
+        <li><p><strong>Legal Landscape (<span class="math notranslate nohighlight">\(w \approx 4200\)</span>):</strong> Search window is <span class="math notranslate nohighlight">\(x \in [0.50w, 0.60w]\)</span>.</p></li>
         </ul>
         </section>
         <section class="level-4" id="c-grayscale-contrast-enhancement">
@@ -251,7 +251,7 @@
         <section class="level-3" id="scanning-guidelines-for-replacements">
         <h3>Scanning Guidelines for Replacements<a class="headerlink" href="#scanning-guidelines-for-replacements" title="Link to this heading">¶</a></h3>
         <ol class="arabic simple">
-        <li><p><strong>Orientation:</strong> Set scanner to <strong>Landscape</strong> (11 in wide $\times$ 8.5 in tall) or ensure the scan width covers both pages (or at least full 5.5 in width for single page).</p></li>
+        <li><p><strong>Orientation:</strong> Set scanner to <strong>Landscape</strong> (11 in wide <span class="math notranslate nohighlight">\(\times\)</span> 8.5 in tall) or ensure the scan width covers both pages (or at least full 5.5 in width for single page).</p></li>
         <li><p><strong>Resolution:</strong> 300 DPI.</p></li>
         <li><p><strong>Format:</strong> Single-page or two-page spread PDF/PNG.</p></li>
         </ol>
@@ -352,9 +352,12 @@
       <ul>
         <li><a href="../types/book.html">book</a></li>
         <li><a href="../types/book_title.html">book_title</a></li>
+        <li><a href="../types/la.html">la</a></li>
         <li><a href="../types/log.html">log</a></li>
+        <li><a href="../types/notes.html">notes</a></li>
         <li><a href="../types/person.html">person</a></li>
         <li><a href="../types/source_record.html">source_record</a></li>
+        <li><a href="../types/summary.html">summary</a></li>
       </ul>
     </aside>
   </div>
@@ -385,6 +388,9 @@
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
   <script src="../_static/js/collection_directory.js?v=0928c9d3"></script>
   <script src="../_static/js/geometor_interactive.js?v=219c1955"></script>
+  <script src="../_static/js/book_outline.js?v=aca1ae7c"></script>
+  <script>window.MathJax = {"options": {"ignoreHtmlClass": ".*|etc-lazy-math", "processHtmlClass": "math|arithmatex", "enableComplexity": true, "makeCollapsible": true, "menuOptions": {"settings": {"zoom": "Click", "zscale": "200%", "collapsible": true, "enrich": true, "speech": false, "braille": false, "assistiveMml": false}}}, "output": {"displayOverflow": "linebreak", "linebreaks": {"inline": true}}}</script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
   <script src="../_static/js/search_highlight.js"></script>
 
 </body>
