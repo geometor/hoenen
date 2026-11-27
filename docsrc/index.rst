@@ -30,9 +30,9 @@ Books in This Collection
       .. container:: home-actions
 
          * :doc:`Open De Noetica Geometriae → <de_noetica_geometriae/index>`
-         * :doc:`Read the Preface → <de_noetica_geometriae/preface/preface-en>`
-         * :doc:`Chapter I: Origin & Problematics → <de_noetica_geometriae/caput-1/caput-1-en>`
-         * :doc:`Chapter V: On Axiomatics → <de_noetica_geometriae/caput-5/caput-5-en>`
+         * :doc:`Read the Preface → <de_noetica_geometriae/preface/index>`
+         * :doc:`Chapter I: Origin & Problematics → <de_noetica_geometriae/caput-1/index>`
+         * :doc:`Chapter V: On Axiomatics → <de_noetica_geometriae/caput-5/index>`
 
 Key Features
 ------------
